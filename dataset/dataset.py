@@ -8,13 +8,15 @@ class DataConfig:
     start_year = 1990
     end_year = 2022
     num_years = end_year - start_year + 1
+    unit = 1000000
+    base_year = 1990
+    exclude_non_us50 = True
 
     def __init__(self, root, cache_path=None, cache_save=False, save_path=None):
         self.root = root
         self.cache_path = osp.join(root, cache_path) if cache_path is not None else None
-        self.cash_save = cache_save
+        self.cache_save = cache_save
         self.save_path = osp.join(root, save_path) if save_path is not None else None
-
 
 
 class Dataset:
@@ -28,15 +30,12 @@ class Dataset:
             "Puerto Rico",
         ]
 
-        if config.cache_path is not None:
-            if osp.exists(config.cache_path):
-                self._data = np.load(config.cache_path)
-            else:
-                self._data = self._load_data()
-                if config.cache_save:
-                    np.save(config.save_path, self._data)
+        if config.cache_path is not None and osp.exists(config.cache_path):
+            self._data = np.load(config.cache_path, allow_pickle=True).item()
         else:
             self._data = self._load_data()
+            if config.cache_save:
+                np.save(config.save_path, self._data)
 
     def _load_data(self):
         data = []
@@ -48,12 +47,19 @@ class Dataset:
                 print(f"File {path} not found")
                 continue
             da = pd.read_csv(path)
+            if self.dataconfig.exclude_non_us50 and da["State"][0] in self._non_us50_area:
+                continue
             data.append(da)
             states_list.append(da["State"][0])
             is_state.append(False if da["State"][0] in self._non_us50_area else True)
 
+        data = pd.concat(data)
+        data["Passengers"] /= self.dataconfig.unit
+        data["Freight tons"] /= self.dataconfig.unit
+        data["Mail tons"] /= self.dataconfig.unit
+
         return {
-            "data": pd.concat(data),
+            "data": data,
             "states_list": states_list,
             "is_state": is_state,
         }
