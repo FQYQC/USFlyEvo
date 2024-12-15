@@ -1,0 +1,316 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Wyoming,Casper,Casper/Natrona County International,CPR,1990,185972,3314,25436,42.90861111,-106.4625
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,1990,0,0,0,41.15583333,-104.8122222
+Wyoming,Gillette,Gillette Campbell County,GCC,1990,6243,512,4836,44.35138889,-105.525
+Wyoming,Jackson,Jackson Hole,JAC,1990,73444,3496,112029,43.60666667,-110.7369444
+Wyoming,Kemmerer,Kemmerer Municipal,EMM,1990,8067,0,0,41.825,-110.5583333
+Wyoming,Sheridan,Sheridan County,SHR,1990,4323,434,3512,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,1991,180,0,1114,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,1991,118,2,126261,43.60666667,-110.7369444
+Wyoming,Cheyenne,Francis E. Warren AFB Heliport,FEW,1991,0,0,0,41.13333333,-104.8672222
+Wyoming,Cody,Yellowstone Regional,COD,1991,14,0,0,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,1991,115,0,88,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,1991,115,0,44,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,1991,69,0,0,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,1991,215,5,23578,42.90861111,-106.4625
+Wyoming,Fort Bridger,Fort Bridger Airport,FBR,1991,0,0,0,41.39305556,-110.4055556
+Wyoming,Rawlins,Rawlins Municipal/Harvey Field,RWL,1991,1,0,0,41.80444444,-107.2013889
+Wyoming,Buffalo,Johnson County,BYG,1991,1,0,0,44.38138889,-106.7211111
+Wyoming,Laramie,General Brees Field,LAR,1991,1,0,0,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,1991,20,0,102,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,1992,253,0,2378,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,1992,131,3,144110,43.60666667,-110.7369444
+Wyoming,Cheyenne,Francis E. Warren AFB Heliport,FEW,1992,1,0,0,41.13333333,-104.8672222
+Wyoming,Cody,Yellowstone Regional,COD,1992,25,0,1286,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,1992,136,0,0,44.35138889,-105.525
+Wyoming,Douglas,Converse County,DGW,1992,1,0,0,42.79722222,-105.3861111
+Wyoming,Riverton/Lander,Riverton Regional,RIW,1992,174,0,98,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,1992,70,0,0,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,1992,225,4,25223,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,1992,0,0,0,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,1992,25,0,0,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,1993,259,0,2203,41.15583333,-104.8122222
+Wyoming,Thermopolis,Hot Springs County Thermopolis Municipal,THP,1993,0,0,0,43.65833333,-108.2133333
+Wyoming,Jackson,Jackson Hole,JAC,1993,152,0,143598,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,1993,30,0,3825,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,1993,143,0,87,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,1993,168,0,156,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,1993,76,0,0,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,1993,3410,2,22636,42.90861111,-106.4625
+Wyoming,Lander,Hunt Field,LND,1993,4,0,0,42.81527778,-108.7294444
+Wyoming,Laramie,General Brees Field,LAR,1993,1,0,0,41.31361111,-105.6730556
+Wyoming,Evanston,Evanston-Uinta County Burns Field,EVW,1993,0,0,0,41.275,-111.0322222
+Wyoming,Sheridan,Sheridan County,SHR,1993,22,0,0,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,1994,266,0,3009,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,1994,168,1,123514,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,1994,33,0,4007,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,1994,136,0,244,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,1994,170,0,480,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,1994,81,0,123,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,1994,8633,0,5698,42.90861111,-106.4625
+Wyoming,Lander,Hunt Field,LND,1994,1,0,0,42.81527778,-108.7294444
+Wyoming,Laramie,General Brees Field,LAR,1994,0,0,30,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,1994,32,0,151,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,1995,218,7,14171,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,1995,202,2,121643,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,1995,36,0,7549,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,1995,89,0,7795,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,1995,130,0,7608,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,1995,91,0,4480,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,1995,7102,0,16938,42.90861111,-106.4625
+Wyoming,Lander,Hunt Field,LND,1995,1,0,0,42.81527778,-108.7294444
+Wyoming,Laramie,General Brees Field,LAR,1995,1,0,5229,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,1995,32,0,7731,44.77416667,-106.9772222
+Wyoming,Worland,Worland Municipal,WRL,1995,0,0,1428,43.9675,-107.9530556
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,1996,190,0,21798,41.15583333,-104.8122222
+Wyoming,Thermopolis,Hot Springs County Thermopolis Municipal,THP,1996,0,0,0,43.65833333,-108.2133333
+Wyoming,Jackson,Jackson Hole,JAC,1996,248,0,145649,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,1996,43,0,13111,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,1996,98,0,13489,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,1996,108,0,13309,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,1996,91,0,9075,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,1996,4334,0,28733,42.90861111,-106.4625
+Wyoming,Rawlins,Rawlins Municipal/Harvey Field,RWL,1996,1,0,0,41.80444444,-107.2013889
+Wyoming,Laramie,General Brees Field,LAR,1996,0,0,9685,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,1996,34,0,13485,44.77416667,-106.9772222
+Wyoming,Worland,Worland Municipal,WRL,1996,1,0,2792,43.9675,-107.9530556
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,1997,200,0,9345,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,1997,303,2,140009,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,1997,47,0,4775,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,1997,87,0,5963,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,1997,108,0,4774,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,1997,113,0,4224,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,1997,6855,0,13111,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,1997,0,0,4087,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,1997,38,0,5216,44.77416667,-106.9772222
+Wyoming,Worland,Worland Municipal,WRL,1997,0,0,1174,43.9675,-107.9530556
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,1998,168,0,7917,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,1998,293,2,150652,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,1998,49,0,8389,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,1998,66,0,3697,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,1998,111,0,0,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,1998,100,0,0,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,1998,8647,11,20759,42.90861111,-106.4625
+Wyoming,Buffalo,Johnson County,BYG,1998,1,0,0,44.38138889,-106.7211111
+Wyoming,Laramie,General Brees Field,LAR,1998,0,0,1576,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,1998,47,0,5486,44.77416667,-106.9772222
+Wyoming,Worland,Worland Municipal,WRL,1998,2,0,0,43.9675,-107.9530556
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,1999,0,0,1522,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,1999,246,0,108205,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,1999,51,0,15982,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,1999,91,0,30,44.35138889,-105.525
+Wyoming,Torrington,Torrington Municipal,TOR,1999,1,0,0,42.06444444,-104.1527778
+Wyoming,Riverton/Lander,Riverton Regional,RIW,1999,110,0,0,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,1999,118,0,661,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,1999,8538,4,35360,42.90861111,-106.4625
+Wyoming,Buffalo,Johnson County,BYG,1999,1,0,0,44.38138889,-106.7211111
+Wyoming,Sheridan,Sheridan County,SHR,1999,50,0,20,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2000,13,0,1856,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2000,244,0,116542,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2000,59,0,16952,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2000,135,0,0,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2000,120,0,0,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2000,119,0,865,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2000,6048,4,32012,42.90861111,-106.4625
+Wyoming,Greybull,South Big Horn County,GEY,2000,1,0,0,44.51333333,-108.0777778
+Wyoming,Lander,Hunt Field,LND,2000,0,0,0,42.81527778,-108.7294444
+Wyoming,Buffalo,Johnson County,BYG,2000,1,0,0,44.38138889,-106.7211111
+Wyoming,Laramie,General Brees Field,LAR,2000,0,0,226,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2000,57,0,0,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2001,17,0,1147,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2001,241,1,114201,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2001,61,0,2861,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2001,136,0,0,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2001,124,0,0,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2001,125,0,177,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2001,6045,1,8667,42.90861111,-106.4625
+Wyoming,Greybull,South Big Horn County,GEY,2001,2,0,0,44.51333333,-108.0777778
+Wyoming,Rawlins,Rawlins Municipal/Harvey Field,RWL,2001,2,0,0,41.80444444,-107.2013889
+Wyoming,Laramie,General Brees Field,LAR,2001,0,0,331,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2001,59,0,69,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2002,0,0,1235,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2002,251,0,122004,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2002,70,0,0,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2002,122,0,69,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2002,121,0,40,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2002,124,0,119,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2002,5895,0,928,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2002,0,0,681,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2002,64,0,0,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2003,0,0,959,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2003,272,0,204947,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2003,87,0,16410,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2003,66,0,0,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2003,75,0,116,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2003,139,0,554,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2003,2889,0,42559,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2003,0,0,711,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2003,63,0,0,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2004,0,0,91,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2004,290,0,212163,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2004,74,0,26891,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2004,72,0,0,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2004,83,0,430,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2004,144,0,147,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2004,2917,0,66801,42.90861111,-106.4625
+Wyoming,Rawlins,Rawlins Municipal/Harvey Field,RWL,2004,2,0,0,41.80444444,-107.2013889
+Wyoming,Laramie,General Brees Field,LAR,2004,0,0,1447,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2004,64,0,52,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2005,0,0,711,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2005,305,0,246333,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2005,70,0,28473,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2005,73,0,29,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2005,68,0,82,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2005,141,0,501,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2005,2967,0,88686,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2005,0,0,1359,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2005,61,0,183,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2006,0,0,867,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2006,288,0,270576,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2006,69,0,28470,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2006,74,0,973,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2006,70,0,0,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2006,146,0,870,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2006,3175,107,78636,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2006,0,0,1190,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2006,56,0,0,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2007,0,0,1368,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2007,277,0,277054,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2007,62,0,26818,44.51583333,-109.0275
+Wyoming,Saratoga,Shively Field,SAA,2007,4,0,0,41.445,-106.81
+Wyoming,Gillette,Gillette Campbell County,GCC,2007,83,0,769,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2007,84,0,0,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2007,160,0,899,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2007,3189,0,76106,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2007,0,0,865,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2007,54,0,7,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2008,0,0,1535,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2008,235,0,304502,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2008,63,0,25838,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2008,77,0,14072,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2008,57,0,0,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2008,153,0,13393,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2008,2801,0,74123,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2008,0,0,888,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2008,53,0,0,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2009,18,0,1732,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2009,193,0,284126,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2009,64,0,26605,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2009,121,0,18157,44.35138889,-105.525
+Wyoming,Torrington,Torrington Municipal,TOR,2009,1,0,0,42.06444444,-104.1527778
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2009,153,0,17093,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2009,5196,0,73921,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2009,0,0,892,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2009,53,0,0,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2010,0,0,9480,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2010,171,0,287973,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2010,57,0,28437,44.51583333,-109.0275
+Wyoming,Saratoga,Shively Field,SAA,2010,0,0,5,41.445,-106.81
+Wyoming,Gillette,Gillette Campbell County,GCC,2010,4,0,20403,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2010,2,0,0,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2010,152,0,18929,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2010,6796,0,83317,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2010,0,0,1489,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2010,0,0,7,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2011,7,0,13302,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2011,158,0,278995,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2011,62,0,28018,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2011,0,0,25274,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2011,2,0,0,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2011,150,0,25739,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2011,7003,0,77751,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2011,1,0,962,41.31361111,-105.6730556
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2012,1,0,3267,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2012,161,0,274072,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2012,52,0,28532,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2012,0,0,30468,44.35138889,-105.525
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2012,129,0,28256,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2012,6992,0,87988,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2012,0,0,2735,41.31361111,-105.6730556
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2013,0,0,1343,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2013,166,0,293317,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2013,59,0,31009,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2013,0,0,29102,44.35138889,-105.525
+Wyoming,Torrington,Torrington Municipal,TOR,2013,1,0,0,42.06444444,-104.1527778
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2013,122,0,24217,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2013,7263,0,98461,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2013,0,0,13682,41.31361111,-105.6730556
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2014,0,0,1254,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2014,170,0,308280,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2014,54,0,32301,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2014,0,0,27173,44.35138889,-105.525
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2014,110,0,20239,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2014,7758,0,103374,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2014,0,0,13353,41.31361111,-105.6730556
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2015,0,0,1322,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2015,175,0,313051,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2015,57,0,26948,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2015,0,0,30498,44.35138889,-105.525
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2015,89,0,17637,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2015,7377,0,83558,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2015,0,0,14741,41.31361111,-105.6730556
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2016,5,0,1633,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2016,155,0,341962,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2016,55,0,30894,44.51583333,-109.0275
+Wyoming,Saratoga,Shively Field,SAA,2016,0,0,7,41.445,-106.81
+Wyoming,Gillette,Gillette Campbell County,GCC,2016,0,0,28395,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2016,1,0,0,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2016,83,0,16107,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2016,6461,0,70816,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2016,0,0,15951,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2016,0,0,4,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2017,0,0,1034,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2017,142,0,341587,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2017,52,0,32980,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2017,0,0,29271,44.35138889,-105.525
+Wyoming,Newcastle,Mondell Field,ECS,2017,0,0,3,43.88333333,-104.3125
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2017,84,0,18109,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2017,5274,0,72419,42.90861111,-106.4625
+Wyoming,Greybull,South Big Horn County,GEY,2017,0,0,0,44.51333333,-108.0777778
+Wyoming,Laramie,General Brees Field,LAR,2017,0,0,16072,41.31361111,-105.6730556
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2018,8,0,3284,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2018,137,0,380312,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2018,61,0,29315,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2018,0,0,27068,44.35138889,-105.525
+Wyoming,Torrington,Torrington Municipal,TOR,2018,1,0,0,42.06444444,-104.1527778
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2018,78,0,22992,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2018,5584,0,53940,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2018,0,0,17259,41.31361111,-105.6730556
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2019,30,0,16682,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2019,132,0,443546,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2019,34,0,16322,44.51583333,-109.0275
+Wyoming,Saratoga,Shively Field,SAA,2019,0,0,17,41.445,-106.81
+Wyoming,Gillette,Gillette Campbell County,GCC,2019,0,0,29480,44.35138889,-105.525
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2019,72,0,24056,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2019,5631,0,66682,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2019,0,0,18965,41.31361111,-105.6730556
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2020,0,0,3439,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2020,140,0,276222,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2020,0,0,15446,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2020,0,0,14472,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2020,0,0,7215,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2020,62,0,9926,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2020,5930,0,38975,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2020,0,0,9177,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2020,0,0,9919,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2021,0,0,4395,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2021,135,0,497459,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2021,0,0,37346,44.51583333,-109.0275
+Wyoming,Saratoga,Shively Field,SAA,2021,0,0,16,41.445,-106.81
+Wyoming,Gillette,Gillette Campbell County,GCC,2021,0,0,23819,44.35138889,-105.525
+Wyoming,Afton,Afton Municipal Airport,AFO,2021,0,0,0,42.7087706,-110.9421711
+Wyoming,Douglas,Converse County,DGW,2021,1,0,0,42.79722222,-105.3861111
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2021,0,0,15420,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2021,73,0,16679,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2021,5592,0,66619,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2021,0,0,16704,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2021,0,0,23661,44.77416667,-106.9772222
+Wyoming,Cheyenne,Cheyenne Regional/Jerry Olson Field,CYS,2022,0,0,13423,41.15583333,-104.8122222
+Wyoming,Jackson,Jackson Hole,JAC,2022,34,0,325639,43.60666667,-110.7369444
+Wyoming,Cody,Yellowstone Regional,COD,2022,0,0,29771,44.51583333,-109.0275
+Wyoming,Gillette,Gillette Campbell County,GCC,2022,0,0,17915,44.35138889,-105.525
+Wyoming,Riverton/Lander,Riverton Regional,RIW,2022,0,0,9931,43.06444444,-108.4569444
+Wyoming,Rock Springs,Rock Springs Sweetwater County,RKS,2022,48,0,11346,41.59638889,-109.0658333
+Wyoming,Casper,Casper/Natrona County International,CPR,2022,3990,0,51195,42.90861111,-106.4625
+Wyoming,Laramie,General Brees Field,LAR,2022,0,0,12470,41.31361111,-105.6730556
+Wyoming,Sheridan,Sheridan County,SHR,2022,0,0,18873,44.77416667,-106.9772222

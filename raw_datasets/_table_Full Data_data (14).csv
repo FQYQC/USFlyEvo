@@ -1,0 +1,441 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Indiana,Evansville,Evansville Regional,EVV,1990,160229,850581,92731,38.03666667,-87.5325
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,1990,1623262,1324062,242344,40.97833333,-85.18805556
+Indiana,Terre Haute,Hulman Field,HUF,1990,0,0,116,39.45444444,-87.3075
+Indiana,Indianapolis,Indianapolis International,IND,1990,9706562,18434190,2570617,39.72555556,-86.28388889
+Indiana,South Bend,Michiana Regional,SBN,1990,247774,425629,224410,41.70444444,-86.3125
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,1991,48428,1279,206086,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,1991,0,0,107,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,1991,109603,8773,2613015,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,1991,0,0,207,40.64805556,-86.15222222
+Indiana,South Bend,Michiana Regional,SBN,1991,1648,724,246447,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,1991,0,1,4751,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,1991,10,0,0,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,1991,0,0,333,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,1991,87,396,102471,38.03666667,-87.5325
+Indiana,Terre Haute,Hulman Field,HUF,1991,0,0,2214,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,1992,0,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,1992,1369,1359,246663,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,1992,0,0,280,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,1992,152413,10584,2835446,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,1992,0,0,85,40.64805556,-86.15222222
+Indiana,South Bend,Michiana Regional,SBN,1992,1958,1271,359880,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,1992,0,1,9675,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,1992,10,0,283,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,1992,0,0,354,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,1992,80,543,118711,38.03666667,-87.5325
+Indiana,Elkhart,Elkhart Municipal,EKI,1992,0,0,0,41.72222222,-85.99222222
+Indiana,Terre Haute,Hulman Field,HUF,1992,0,0,5367,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,1993,6,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,1993,1779,1268,210797,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,1993,0,0,236,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,1993,205006,12967,2712888,39.72555556,-86.28388889
+Indiana,Marion,Marion Municipal,MZZ,1993,2,0,0,40.49083333,-85.67944444
+Indiana,South Bend,Michiana Regional,SBN,1993,2538,973,283160,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,1993,0,2,8026,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,1993,79,0,1409,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,1993,0,0,179,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,1993,120,536,133608,38.03666667,-87.5325
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,1993,11,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,1993,655,1,653,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,1994,48,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,1994,1891,835,261901,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,1994,2,0,538,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,1994,210151,16973,2864415,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,1994,0,0,132,40.64805556,-86.15222222
+Indiana,South Bend,Michiana Regional,SBN,1994,6011,906,378231,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,1994,0,2,6257,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,1994,62,0,1225,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,1994,0,0,0,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,1994,138,514,130724,38.03666667,-87.5325
+Indiana,Terre Haute,Hulman Field,HUF,1994,14307,0,1522,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,1995,24,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,1995,1275,1035,263075,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,1995,0,0,1597,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,1995,193768,95261,2969141,39.72555556,-86.28388889
+Indiana,South Bend,Michiana Regional,SBN,1995,6427,1334,369125,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,1995,0,0,1659,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,1995,18,0,1495,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,1995,0,0,294,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,1995,100,377,105106,38.03666667,-87.5325
+Indiana,Columbus,Columbus Municipal,CLU,1995,0,0,85,39.26194444,-85.89638889
+Indiana,Terre Haute,Hulman Field,HUF,1995,30326,0,487,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,1996,9,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,1996,986,425,244143,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,1996,0,0,1073,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,1996,243376,113907,3328005,39.72555556,-86.28388889
+Indiana,Connersville,Mettel Field,CEV,1996,2,0,0,39.69861111,-85.13166667
+Indiana,South Bend,Michiana Regional,SBN,1996,4993,1404,398455,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,1996,0,0,1457,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,1996,32,0,1675,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,1996,0,0,448,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,1996,43,2,73524,38.03666667,-87.5325
+Indiana,Terre Haute,Hulman Field,HUF,1996,39913,2640,513,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,1997,12,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,1997,7520,436,247851,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,1997,1,0,575,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,1997,402081,117090,3396856,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,1997,40,0,0,40.64805556,-86.15222222
+Indiana,South Bend,Michiana Regional,SBN,1997,3943,884,455947,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,1997,40,0,8302,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,1997,38,0,2332,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,1997,0,0,0,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,1997,45,3,125092,38.03666667,-87.5325
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,1997,0,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,1997,64315,15040,531,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,1998,6,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,1998,9661,206,270239,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,1998,3,0,707,39.14,-86.61472222
+Indiana,Goshen,Goshen Municipal,GSH,1998,1,0,0,41.52722222,-85.79222222
+Indiana,Indianapolis,Indianapolis International,IND,1998,282739,163640,3499207,39.72555556,-86.28388889
+Indiana,South Bend,Michiana Regional,SBN,1998,7207,692,473225,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,1998,0,0,10746,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,1998,22,0,1863,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,1998,1,0,609,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,1998,39,1,158974,38.03666667,-87.5325
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,1998,4,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,1998,45198,971,422,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,1999,49,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,1999,28180,821,231611,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,1999,2,0,865,39.14,-86.61472222
+Indiana,Bedford,Virgil I Grissom Municipal,BFR,1999,0,0,0,38.84,-86.44527778
+Indiana,Indianapolis,Indianapolis International,IND,1999,593613,195352,3539523,39.72555556,-86.28388889
+Indiana,Connersville,Mettel Field,CEV,1999,0,0,0,39.69861111,-85.13166667
+Indiana,South Bend,Michiana Regional,SBN,1999,7659,624,439938,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,1999,1,0,10389,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,1999,33,0,1987,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,1999,7,0,166,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,1999,33,3,152907,38.03666667,-87.5325
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,1999,161,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,1999,19849,739,2448,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,2000,5,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2000,85206,17,273945,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2000,11,0,592,39.14,-86.61472222
+Indiana,Goshen,Goshen Municipal,GSH,2000,1,0,0,41.52722222,-85.79222222
+Indiana,Indianapolis,Indianapolis International,IND,2000,404499,159276,3627228,39.72555556,-86.28388889
+Indiana,Marion,Marion Municipal,MZZ,2000,6,0,0,40.49083333,-85.67944444
+Indiana,Connersville,Mettel Field,CEV,2000,2,0,0,39.69861111,-85.13166667
+Indiana,South Bend,Michiana Regional,SBN,2000,7429,222,409935,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2000,8,0,10692,40.41194444,-86.93361111
+Indiana,Seymour,Freeman Municipal,SER,2000,1,0,0,38.92361111,-85.9075
+Indiana,Gary,Gary/Chicago International,GYY,2000,472,0,23954,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2000,4,0,612,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2000,677,0,185074,38.03666667,-87.5325
+Indiana,Columbus,Columbus Municipal,CLU,2000,4,0,0,39.26194444,-85.89638889
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2000,123,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2000,160,0,473,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,2001,0,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2001,147723,12855,236426,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2001,4,0,872,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,2001,891818,100036,3340934,39.72555556,-86.28388889
+Indiana,Marion,Marion Municipal,MZZ,2001,2,0,0,40.49083333,-85.67944444
+Indiana,Connersville,Mettel Field,CEV,2001,3,0,0,39.69861111,-85.13166667
+Indiana,South Bend,Michiana Regional,SBN,2001,7396,256,325993,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2001,0,0,10336,40.41194444,-86.93361111
+Indiana,Clinton,Frankfort Municipal,FXR,2001,1,0,0,40.27333333,-86.56222222
+Indiana,Shelbyville,Shelbyville Municipal,GEZ,2001,1,0,0,39.58305556,-85.80472222
+Indiana,Seymour,Freeman Municipal,SER,2001,0,0,0,38.92361111,-85.9075
+Indiana,Gary,Gary/Chicago International,GYY,2001,199,0,20999,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2001,0,0,466,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2001,491,0,158967,38.03666667,-87.5325
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2001,35,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2001,20,10,382,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,2002,2,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2002,66917,0,210897,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2002,14,0,710,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,2002,483828,10544,3122332,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,2002,0,0,90,40.64805556,-86.15222222
+Indiana,Connersville,Mettel Field,CEV,2002,1,0,0,39.69861111,-85.13166667
+Indiana,South Bend,Michiana Regional,SBN,2002,6168,0,295715,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2002,15,0,10439,40.41194444,-86.93361111
+Indiana,Seymour,Freeman Municipal,SER,2002,1,0,0,38.92361111,-85.9075
+Indiana,Richmond,Richmond Municipal,RID,2002,0,0,0,39.75722222,-84.84277778
+Indiana,Gary,Gary/Chicago International,GYY,2002,190,0,8265,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2002,0,0,440,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2002,443,0,178439,38.03666667,-87.5325
+Indiana,Elkhart,Elkhart Municipal,EKI,2002,1,0,0,41.72222222,-85.99222222
+Indiana,Columbus,Columbus Municipal,CLU,2002,4,0,0,39.26194444,-85.89638889
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2002,66,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2002,54,0,174,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,2003,2,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2003,68840,0,221521,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2003,1,0,1037,39.14,-86.61472222
+Indiana,Bedford,Virgil I Grissom Municipal,BFR,2003,7,0,0,38.84,-86.44527778
+Indiana,Indianapolis,Indianapolis International,IND,2003,490849,6086,3318386,39.72555556,-86.28388889
+Indiana,Connersville,Mettel Field,CEV,2003,2,0,0,39.69861111,-85.13166667
+Indiana,South Bend,Michiana Regional,SBN,2003,6631,0,306776,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2003,1,0,2194,40.41194444,-86.93361111
+Indiana,Clinton,Frankfort Municipal,FXR,2003,0,0,0,40.27333333,-86.56222222
+Indiana,Seymour,Freeman Municipal,SER,2003,2,0,0,38.92361111,-85.9075
+Indiana,Gary,Gary/Chicago International,GYY,2003,181,0,812,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2003,2,0,305,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2003,417,0,180712,38.03666667,-87.5325
+Indiana,Elkhart,Elkhart Municipal,EKI,2003,2,0,0,41.72222222,-85.99222222
+Indiana,Columbus,Columbus Municipal,CLU,2003,11,0,0,39.26194444,-85.89638889
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2003,2,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2003,3,0,1103,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,2004,4,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2004,79904,0,279021,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2004,4,0,758,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,2004,517516,5731,3558674,39.72555556,-86.28388889
+Indiana,Marion,Marion Municipal,MZZ,2004,0,0,0,40.49083333,-85.67944444
+Indiana,Connersville,Mettel Field,CEV,2004,6,0,0,39.69861111,-85.13166667
+Indiana,South Bend,Michiana Regional,SBN,2004,7373,0,347138,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2004,7,0,1804,40.41194444,-86.93361111
+Indiana,Clinton,Frankfort Municipal,FXR,2004,1,0,0,40.27333333,-86.56222222
+Indiana,Seymour,Freeman Municipal,SER,2004,6,0,0,38.92361111,-85.9075
+Indiana,Richmond,Richmond Municipal,RID,2004,0,0,0,39.75722222,-84.84277778
+Indiana,Gary,Gary/Chicago International,GYY,2004,160,0,27328,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2004,2,0,291,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2004,789,0,217261,38.03666667,-87.5325
+Indiana,Elkhart,Elkhart Municipal,EKI,2004,0,0,0,41.72222222,-85.99222222
+Indiana,Auburn,De Kalb County,IN1,2004,2,0,0,41.30694444,-85.06416667
+Indiana,Columbus,Columbus Municipal,CLU,2004,74,0,0,39.26194444,-85.89638889
+Indiana,Valparaiso,Porter County Municipal,VPZ,2004,1,0,0,41.4525,-87.00527778
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2004,14,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2004,7,0,1619,39.45444444,-87.3075
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2005,68530,0,291659,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2005,1,0,1296,39.14,-86.61472222
+Indiana,Goshen,Goshen Municipal,GSH,2005,1,0,0,41.52722222,-85.79222222
+Indiana,Indianapolis,Indianapolis International,IND,2005,563172,4329,3828162,39.72555556,-86.28388889
+Indiana,Connersville,Mettel Field,CEV,2005,12,0,0,39.69861111,-85.13166667
+Indiana,South Bend,Michiana Regional,SBN,2005,8512,0,298956,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2005,0,0,886,40.41194444,-86.93361111
+Indiana,Seymour,Freeman Municipal,SER,2005,100,0,0,38.92361111,-85.9075
+Indiana,Gary,Gary/Chicago International,GYY,2005,129,0,17341,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2005,18,0,427,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2005,196,0,236672,38.03666667,-87.5325
+Indiana,Auburn,De Kalb County,IN1,2005,7,0,0,41.30694444,-85.06416667
+Indiana,Columbus,Columbus Municipal,CLU,2005,2476,0,0,39.26194444,-85.89638889
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2005,10,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2005,6,0,336,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,2006,4,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2006,74245,1413,214151,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2006,7,0,1059,39.14,-86.61472222
+Indiana,Goshen,Goshen Municipal,GSH,2006,6,0,0,41.52722222,-85.79222222
+Indiana,Indianapolis,Indianapolis International,IND,2006,578998,2553,3690395,39.72555556,-86.28388889
+Indiana,Marion,Marion Municipal,MZZ,2006,0,0,0,40.49083333,-85.67944444
+Indiana,Connersville,Mettel Field,CEV,2006,8,0,0,39.69861111,-85.13166667
+Indiana,South Bend,Michiana Regional,SBN,2006,8529,7,232076,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2006,0,0,1596,40.41194444,-86.93361111
+Indiana,Seymour,Freeman Municipal,SER,2006,11,0,0,38.92361111,-85.9075
+Indiana,Indianapolis,Indianapolis Executive,IN2,2006,3,0,0,40.03055556,-86.25138889
+Indiana,Gary,Gary/Chicago International,GYY,2006,67,0,2495,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2006,4,0,133,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2006,120,0,192987,38.03666667,-87.5325
+Indiana,Elkhart,Elkhart Municipal,EKI,2006,9,0,3,41.72222222,-85.99222222
+Indiana,Auburn,De Kalb County,IN1,2006,3,0,0,41.30694444,-85.06416667
+Indiana,Columbus,Columbus Municipal,CLU,2006,36,0,127,39.26194444,-85.89638889
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2006,0,0,169,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2006,19,0,204,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,2007,5,0,0,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2007,44491,0,238697,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2007,0,0,1357,39.14,-86.61472222
+Indiana,Goshen,Goshen Municipal,GSH,2007,26,0,0,41.52722222,-85.79222222
+Indiana,Indianapolis,Indianapolis International,IND,2007,586426,2062,3846455,39.72555556,-86.28388889
+Indiana,Connersville,Mettel Field,CEV,2007,1,0,0,39.69861111,-85.13166667
+Indiana,South Bend,Michiana Regional,SBN,2007,9187,1,290288,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2007,2,0,1783,40.41194444,-86.93361111
+Indiana,Seymour,Freeman Municipal,SER,2007,1,0,0,38.92361111,-85.9075
+Indiana,Gary,Gary/Chicago International,GYY,2007,71,0,15814,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2007,14,0,499,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2007,126,0,184396,38.03666667,-87.5325
+Indiana,Elkhart,Elkhart Municipal,EKI,2007,5,0,0,41.72222222,-85.99222222
+Indiana,Columbus,Columbus Municipal,CLU,2007,37,0,278,39.26194444,-85.89638889
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2007,0,0,1061,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2007,21,0,999,39.45444444,-87.3075
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2008,8275,0,231481,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2008,0,0,995,39.14,-86.61472222
+Indiana,Goshen,Goshen Municipal,GSH,2008,19,0,0,41.52722222,-85.79222222
+Indiana,Indianapolis,Indianapolis International,IND,2008,525601,3038,3805909,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,2008,0,0,188,40.64805556,-86.15222222
+Indiana,South Bend,Michiana Regional,SBN,2008,7275,0,250553,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2008,0,0,1914,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,2008,48,0,2220,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2008,11,0,175,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2008,31,0,166414,38.03666667,-87.5325
+Indiana,Columbus,Columbus Municipal,CLU,2008,21,0,0,39.26194444,-85.89638889
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2008,3,0,782,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2008,2,0,622,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,2009,0,0,2,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2009,10224,0,219932,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2009,0,0,1297,39.14,-86.61472222
+Indiana,Indianapolis,Mount Comfort,MQJ,2009,0,0,4,39.84361111,-85.89694444
+Indiana,Indianapolis,Indianapolis International,IND,2009,497479,1841,3531471,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,2009,0,0,85,40.64805556,-86.15222222
+Indiana,South Bend,Michiana Regional,SBN,2009,5390,0,246674,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2009,3,0,1477,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,2009,60,0,1618,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2009,0,0,678,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2009,31,0,128781,38.03666667,-87.5325
+Indiana,Columbus,Columbus Municipal,CLU,2009,11,0,2,39.26194444,-85.89638889
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2009,0,0,2,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2009,9,0,543,39.45444444,-87.3075
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2010,12291,0,244870,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2010,3,0,1273,39.14,-86.61472222
+Indiana,Indianapolis,Mount Comfort,MQJ,2010,0,0,0,39.84361111,-85.89694444
+Indiana,Indianapolis,Indianapolis International,IND,2010,527083,848,3516977,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,2010,0,0,94,40.64805556,-86.15222222
+Indiana,South Bend,Michiana Regional,SBN,2010,5714,0,275707,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2010,2,0,1345,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,2010,16,0,1104,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2010,2,0,447,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2010,35,1,153891,38.03666667,-87.5325
+Indiana,Elkhart,Elkhart Municipal,EKI,2010,0,0,5,41.72222222,-85.99222222
+Indiana,Columbus,Columbus Municipal,CLU,2010,16,0,0,39.26194444,-85.89638889
+Indiana,Terre Haute,Hulman Field,HUF,2010,6,0,486,39.45444444,-87.3075
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2011,11654,0,270243,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2011,0,0,1452,39.14,-86.61472222
+Indiana,Goshen,Goshen Municipal,GSH,2011,26,0,0,41.52722222,-85.79222222
+Indiana,Indianapolis,Indianapolis International,IND,2011,509809,902,3531072,39.72555556,-86.28388889
+Indiana,South Bend,Michiana Regional,SBN,2011,5813,0,291630,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2011,7,0,1500,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,2011,46,0,1399,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2011,0,0,419,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2011,34,0,152911,38.03666667,-87.5325
+Indiana,Auburn,De Kalb County,IN1,2011,0,0,0,41.30694444,-85.06416667
+Indiana,Columbus,Columbus Municipal,CLU,2011,126,0,0,39.26194444,-85.89638889
+Indiana,Terre Haute,Hulman Field,HUF,2011,4,0,373,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,2012,0,0,5,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2012,11640,0,280660,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2012,0,0,1451,39.14,-86.61472222
+Indiana,Goshen,Goshen Municipal,GSH,2012,11,0,0,41.52722222,-85.79222222
+Indiana,Indianapolis,Indianapolis International,IND,2012,510058,1326,3498040,39.72555556,-86.28388889
+Indiana,South Bend,Michiana Regional,SBN,2012,5708,0,294429,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2012,5,0,2463,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,2012,52,0,11432,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2012,0,0,470,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2012,16,0,164503,38.03666667,-87.5325
+Indiana,Elkhart,Elkhart Municipal,EKI,2012,1,0,0,41.72222222,-85.99222222
+Indiana,Columbus,Columbus Municipal,CLU,2012,742,0,0,39.26194444,-85.89638889
+Indiana,Terre Haute,Hulman Field,HUF,2012,2,0,336,39.45444444,-87.3075
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2013,12213,0,294611,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2013,0,0,708,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,2013,537515,2091,3507513,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,2013,0,0,94,40.64805556,-86.15222222
+Indiana,South Bend,Michiana Regional,SBN,2013,5677,0,328393,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2013,0,0,1907,40.41194444,-86.93361111
+Indiana,Indianapolis,Indianapolis Executive,IN2,2013,0,0,2,40.03055556,-86.25138889
+Indiana,Gary,Gary/Chicago International,GYY,2013,204,0,9640,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2013,0,0,453,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2013,15,0,161113,38.03666667,-87.5325
+Indiana,Columbus,Columbus Municipal,CLU,2013,15,0,0,39.26194444,-85.89638889
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2013,0,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2013,45,0,337,39.45444444,-87.3075
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2014,13453,1,323232,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2014,5,0,1298,39.14,-86.61472222
+Indiana,Goshen,Goshen Municipal,GSH,2014,42,0,0,41.52722222,-85.79222222
+Indiana,Indianapolis,Indianapolis International,IND,2014,529707,2512,3581010,39.72555556,-86.28388889
+Indiana,South Bend,Michiana Regional,SBN,2014,5807,0,310862,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2014,20,0,2065,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,2014,157,0,5553,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2014,0,0,554,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2014,55,1,171083,38.03666667,-87.5325
+Indiana,Auburn,De Kalb County,IN1,2014,0,0,0,41.30694444,-85.06416667
+Indiana,Columbus,Columbus Municipal,CLU,2014,41,0,0,39.26194444,-85.89638889
+Indiana,Terre Haute,Hulman Field,HUF,2014,24,0,543,39.45444444,-87.3075
+Indiana,Anderson,Anderson Municipal-Darlington Field,AID,2015,0,0,2,40.10861111,-85.61305556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2015,13049,0,353838,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2015,12,0,1636,39.14,-86.61472222
+Indiana,Goshen,Goshen Municipal,GSH,2015,29,0,0,41.52722222,-85.79222222
+Indiana,Indianapolis,Indianapolis International,IND,2015,520873,2789,3841652,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,2015,0,0,0,40.64805556,-86.15222222
+Indiana,South Bend,Michiana Regional,SBN,2015,6093,0,314967,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2015,1,0,1984,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,2015,111,0,2525,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2015,5,0,308,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2015,43,1,203146,38.03666667,-87.5325
+Indiana,Columbus,Columbus Municipal,CLU,2015,2,0,119,39.26194444,-85.89638889
+Indiana,Valparaiso,Porter County Municipal,VPZ,2015,0,0,0,41.4525,-87.00527778
+Indiana,Terre Haute,Hulman Field,HUF,2015,4,0,250,39.45444444,-87.3075
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2016,12991,1,355752,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2016,7,0,1657,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,2016,523095,2966,4163456,39.72555556,-86.28388889
+Indiana,South Bend,Michiana Regional,SBN,2016,5873,0,329339,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2016,2,0,2233,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,2016,17,0,862,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2016,0,0,482,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2016,19,1,204219,38.03666667,-87.5325
+Indiana,Columbus,Columbus Municipal,CLU,2016,15,0,0,39.26194444,-85.89638889
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2016,0,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2016,0,0,443,39.45444444,-87.3075
+Indiana,La Porte,La Porte Municipal,LPO,2016,0,0,0,41.57277778,-86.73416667
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2017,13366,0,359572,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2017,14,0,2002,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,2017,510926,3595,4286661,39.72555556,-86.28388889
+Indiana,South Bend,Michiana Regional,SBN,2017,5572,0,306992,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2017,15,0,3025,40.41194444,-86.93361111
+Indiana,Richmond,Richmond Municipal,RID,2017,0,0,0,39.75722222,-84.84277778
+Indiana,Indianapolis,Indianapolis Executive,IN2,2017,0,0,7,40.03055556,-86.25138889
+Indiana,Gary,Gary/Chicago International,GYY,2017,16,0,653,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2017,0,0,160,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2017,11,0,213061,38.03666667,-87.5325
+Indiana,Columbus,Columbus Municipal,CLU,2017,20,0,0,39.26194444,-85.89638889
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2017,0,0,0,40.52972222,-86.05805556
+Indiana,Terre Haute,Hulman Field,HUF,2017,11,0,377,39.45444444,-87.3075
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2018,13320,0,361028,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2018,10,0,1734,39.14,-86.61472222
+Indiana,Goshen,Goshen Municipal,GSH,2018,1,0,0,41.52722222,-85.79222222
+Indiana,Indianapolis,Indianapolis International,IND,2018,521902,3258,4585362,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,2018,0,0,0,40.64805556,-86.15222222
+Indiana,Warsaw,Warsaw Municipal,WAR,2018,1,0,0,41.28194444,-85.84638889
+Indiana,South Bend,Michiana Regional,SBN,2018,5021,0,362808,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2018,9,0,3418,40.41194444,-86.93361111
+Indiana,Seymour,Freeman Municipal,SER,2018,1,0,0,38.92361111,-85.9075
+Indiana,Indianapolis,Indianapolis Executive,IN2,2018,0,0,2,40.03055556,-86.25138889
+Indiana,Gary,Gary/Chicago International,GYY,2018,19,0,226,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2018,0,0,107,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2018,65,0,228652,38.03666667,-87.5325
+Indiana,Elkhart,Elkhart Municipal,EKI,2018,0,0,213,41.72222222,-85.99222222
+Indiana,Columbus,Columbus Municipal,CLU,2018,13,0,0,39.26194444,-85.89638889
+Indiana,Terre Haute,Hulman Field,HUF,2018,4,0,359,39.45444444,-87.3075
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2019,12712,0,381848,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2019,17,0,1900,39.14,-86.61472222
+Indiana,Indianapolis,Mount Comfort,MQJ,2019,0,0,2,39.84361111,-85.89694444
+Indiana,Indianapolis,Indianapolis International,IND,2019,504881,2093,4645676,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,2019,78,0,55,40.64805556,-86.15222222
+Indiana,Warsaw,Warsaw Municipal,WAR,2019,0,0,8,41.28194444,-85.84638889
+Indiana,Jeffersonville,Clark Regional,IN6,2019,0,0,2,38.36555556,-85.73805556
+Indiana,South Bend,Michiana Regional,SBN,2019,4971,0,406722,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2019,30,0,2271,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,2019,10,0,363,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2019,4,0,446,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2019,9,0,207531,38.03666667,-87.5325
+Indiana,Columbus,Columbus Municipal,CLU,2019,52,0,2,39.26194444,-85.89638889
+Indiana,Terre Haute,Hulman Field,HUF,2019,0,0,400,39.45444444,-87.3075
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2020,11901,0,206419,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2020,4,0,948,39.14,-86.61472222
+Indiana,Indianapolis,Indianapolis International,IND,2020,554963,1395,1982947,39.72555556,-86.28388889
+Indiana,South Bend,Michiana Regional,SBN,2020,4339,0,208186,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2020,8,0,1144,40.41194444,-86.93361111
+Indiana,Gary,Gary/Chicago International,GYY,2020,1535,0,2647,41.61805556,-87.41555556
+Indiana,Evansville,Evansville Regional,EVV,2020,38,0,87182,38.03666667,-87.5325
+Indiana,Columbus,Columbus Municipal,CLU,2020,16,0,0,39.26194444,-85.89638889
+Indiana,Kokomo/Logansport/Peru,Kokomo Municipal,OKK,2020,0,0,0,40.52972222,-86.05805556
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2021,13336,0,335804,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2021,10,0,1686,39.14,-86.61472222
+Indiana,Indianapolis,Mount Comfort,MQJ,2021,0,0,4,39.84361111,-85.89694444
+Indiana,Indianapolis,Indianapolis International,IND,2021,660903,1067,3484993,39.72555556,-86.28388889
+Indiana,Peru,Grissom ARB,GUS,2021,0,0,0,40.64805556,-86.15222222
+Indiana,Jeffersonville,Clark Regional,IN6,2021,0,0,1,38.36555556,-85.73805556
+Indiana,South Bend,Michiana Regional,SBN,2021,4684,0,341170,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2021,13,0,1764,40.41194444,-86.93361111
+Indiana,Shelbyville,Shelbyville Municipal,GEZ,2021,0,0,2,39.58305556,-85.80472222
+Indiana,Indianapolis,Indianapolis Executive,IN2,2021,0,0,10,40.03055556,-86.25138889
+Indiana,Gary,Gary/Chicago International,GYY,2021,7727,1,3372,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2021,0,0,477,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2021,101,0,164744,38.03666667,-87.5325
+Indiana,Columbus,Columbus Municipal,CLU,2021,19,0,8,39.26194444,-85.89638889
+Indiana,Terre Haute,Hulman Field,HUF,2021,21,0,747,39.45444444,-87.3075
+Indiana,Fort Wayne,Fort Wayne Municipal,FWA,2022,9485,1,266646,40.97833333,-85.18805556
+Indiana,Bloomington,Monroe County,BMG,2022,2,0,422,39.14,-86.61472222
+Indiana,Indianapolis,Mount Comfort,MQJ,2022,0,0,12,39.84361111,-85.89694444
+Indiana,Indianapolis,Indianapolis International,IND,2022,456253,710,3101583,39.72555556,-86.28388889
+Indiana,South Bend,Michiana Regional,SBN,2022,3114,0,258953,41.70444444,-86.3125
+Indiana,Lafayette,Purdue University,LAF,2022,4,0,1524,40.41194444,-86.93361111
+Indiana,Indianapolis,Indianapolis Executive,IN2,2022,0,0,7,40.03055556,-86.25138889
+Indiana,Gary,Gary/Chicago International,GYY,2022,5141,0,2012,41.61805556,-87.41555556
+Indiana,Muncie/Anderson/Newcastle,Delaware Co/Johnson Field,MIE,2022,0,0,314,40.23972222,-85.39444444
+Indiana,Evansville,Evansville Regional,EVV,2022,10,0,116990,38.03666667,-87.5325
+Indiana,Columbus,Columbus Municipal,CLU,2022,5,0,147,39.26194444,-85.89638889
+Indiana,Terre Haute,Hulman Field,HUF,2022,2,0,151,39.45444444,-87.3075

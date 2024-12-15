@@ -1,0 +1,324 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Arkansas,Little Rock,Adams Field,LIT,1990,1804521,7227498,950330,34.72916667,-92.23444444
+Arkansas,Fort Smith,Fort Smith Regional,FSM,1990,94511,0,0,35.33666667,-94.3675
+Arkansas,El Dorado,Goodwin Field,ELD,1990,15000,0,0,33.22055556,-92.81472222
+Arkansas,Jacksonville,Little Rock AFB,LRF,1990,0,0,143,34.91638889,-92.14611111
+Arkansas,Blytheville,Blytheville AFB,BYH,1991,0,0,0,35.96416667,-89.94583333
+Arkansas,Hot Springs,Memorial Field,HOT,1991,1,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,1991,3085,3637,933607,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,1991,25,0,530,34.91638889,-92.14611111
+Arkansas,Fayetteville,Drake Field,FYV,1991,2,0,18778,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,1991,0,0,0,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,1991,5,0,17197,35.33666667,-94.3675
+Arkansas,Harrison,Boone County,HRO,1991,1,0,0,36.26166667,-93.15555556
+Arkansas,Blytheville,Blytheville AFB,BYH,1992,656,619,0,35.96416667,-89.94583333
+Arkansas,Hot Springs,Memorial Field,HOT,1992,2,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,1992,1160,4241,999855,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,1992,13,0,73,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,1992,1,0,0,34.54888889,-94.20722222
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,1992,0,0,0,36.37222222,-94.10694444
+Arkansas,Fayetteville,Drake Field,FYV,1992,0,0,29197,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,1992,0,0,958,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,1992,0,0,23621,35.33666667,-94.3675
+Arkansas,Jonesboro,Jonesboro Municipal,JBR,1993,0,0,88,35.83,-90.64833333
+Arkansas,Blytheville,Blytheville AFB,BYH,1993,480,1348,30,35.96416667,-89.94583333
+Arkansas,Hot Springs,Memorial Field,HOT,1993,1,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,1993,1366,4495,1057956,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,1993,37,0,101,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,1993,0,0,0,34.54888889,-94.20722222
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,1993,0,0,0,36.37222222,-94.10694444
+Arkansas,Fayetteville,Drake Field,FYV,1993,21,3,120681,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,1993,3,0,24638,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,1993,12,5,57493,35.33666667,-94.3675
+Arkansas,Harrison,Boone County,HRO,1993,0,0,0,36.26166667,-93.15555556
+Arkansas,Stuttgart,Stuttgart Municipal,SGT,1993,0,0,0,34.60055556,-91.57444444
+Arkansas,Blytheville,Blytheville AFB,BYH,1994,906,845,0,35.96416667,-89.94583333
+Arkansas,Hot Springs,Memorial Field,HOT,1994,6,0,61,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,1994,1595,4743,1142417,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,1994,0,0,0,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,1994,92,0,0,34.54888889,-94.20722222
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,1994,0,0,0,36.37222222,-94.10694444
+Arkansas,Fayetteville,Drake Field,FYV,1994,41,5,112862,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,1994,5,3,17620,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,1994,19,8,42473,35.33666667,-94.3675
+Arkansas,Blytheville,Blytheville AFB,BYH,1995,3148,5482,90,35.96416667,-89.94583333
+Arkansas,Hot Springs,Memorial Field,HOT,1995,31,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,1995,2224,5259,1210086,34.72916667,-92.23444444
+Arkansas,Mena,Intermountain Regional,XXX,1995,2,0,0,34.54888889,-94.20722222
+Arkansas,Fayetteville,Drake Field,FYV,1995,45,7,144386,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,1995,8,5,15815,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,1995,15,1,24407,35.33666667,-94.3675
+Arkansas,Blytheville,Blytheville AFB,BYH,1996,0,0,0,35.96416667,-89.94583333
+Arkansas,Hot Springs,Memorial Field,HOT,1996,80,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,1996,1885,5566,1252536,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,1996,0,0,318,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,1996,33,0,0,34.54888889,-94.20722222
+Arkansas,Fayetteville,Drake Field,FYV,1996,32,8,140244,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,1996,4,4,11386,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,1996,15,0,18116,35.33666667,-94.3675
+Arkansas,Blytheville,Blytheville AFB,BYH,1997,3030,2186,75,35.96416667,-89.94583333
+Arkansas,Hot Springs,Memorial Field,HOT,1997,65,0,346,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,1997,6416,4445,1184111,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,1997,0,0,0,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,1997,3036,0,0,34.54888889,-94.20722222
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,1997,0,0,0,36.37222222,-94.10694444
+Arkansas,Fayetteville,Drake Field,FYV,1997,102,17,166500,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,1997,4,0,10832,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,1997,7,0,20681,35.33666667,-94.3675
+Arkansas,Jonesboro,Jonesboro Municipal,JBR,1998,0,0,0,35.83,-90.64833333
+Arkansas,Blytheville,Blytheville AFB,BYH,1998,4964,3690,0,35.96416667,-89.94583333
+Arkansas,El Dorado,Goodwin Field,ELD,1998,1,0,0,33.22055556,-92.81472222
+Arkansas,Batesville,Batesville Regional,BVX,1998,0,0,0,35.72611111,-91.6475
+Arkansas,Little Rock,Adams Field,LIT,1998,6520,4220,1218028,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,1998,0,0,0,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,1998,5448,0,0,34.54888889,-94.20722222
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,1998,1,0,0,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,1998,0,1,39794,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,1998,123,15,210823,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,1998,3,1,36440,33.45638889,-93.98916667
+Arkansas,Pine Bluff,Grider Field,PBF,1998,2,0,0,34.17555556,-91.93555556
+Arkansas,Fort Smith,Fort Smith Regional,FSM,1998,23,31,90731,35.33666667,-94.3675
+Arkansas,Blytheville,Blytheville AFB,BYH,1999,3620,4519,0,35.96416667,-89.94583333
+Arkansas,El Dorado,Goodwin Field,ELD,1999,1,0,0,33.22055556,-92.81472222
+Arkansas,Hot Springs,Memorial Field,HOT,1999,51,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,1999,7130,4344,1214910,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,1999,0,0,304,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,1999,3,0,0,34.54888889,-94.20722222
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,1999,0,0,0,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,1999,173,13,310517,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,1999,64,1,6119,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,1999,4,3,41956,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,1999,18,23,80997,35.33666667,-94.3675
+Arkansas,Harrison,Boone County,HRO,1999,17,0,0,36.26166667,-93.15555556
+Arkansas,Jonesboro,Jonesboro Municipal,JBR,2000,4,0,0,35.83,-90.64833333
+Arkansas,Blytheville,Blytheville AFB,BYH,2000,6722,4497,0,35.96416667,-89.94583333
+Arkansas,El Dorado,Goodwin Field,ELD,2000,2,0,15,33.22055556,-92.81472222
+Arkansas,Batesville,Batesville Regional,BVX,2000,1,0,0,35.72611111,-91.6475
+Arkansas,Hot Springs,Memorial Field,HOT,2000,2,0,33,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2000,7471,4951,1214180,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2000,0,0,187,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,2000,0,0,0,34.54888889,-94.20722222
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2000,0,0,0,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2000,199,10,347956,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2000,36,0,0,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2000,8,6,38784,33.45638889,-93.98916667
+Arkansas,Pine Bluff,Grider Field,PBF,2000,0,0,0,34.17555556,-91.93555556
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2000,22,25,75357,35.33666667,-94.3675
+Arkansas,Springdale,Springdale Municipal,SPZ,2000,0,0,0,36.175,-94.11916667
+Arkansas,Jonesboro,Jonesboro Municipal,JBR,2001,0,0,0,35.83,-90.64833333
+Arkansas,Blytheville,Blytheville AFB,BYH,2001,35309,575,0,35.96416667,-89.94583333
+Arkansas,El Dorado,Goodwin Field,ELD,2001,1,0,0,33.22055556,-92.81472222
+Arkansas,Batesville,Batesville Regional,BVX,2001,1,0,0,35.72611111,-91.6475
+Arkansas,Hot Springs,Memorial Field,HOT,2001,5,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2001,11501,2991,1156663,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2001,0,0,665,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,2001,221,0,0,34.54888889,-94.20722222
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2001,193,5,335964,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2001,12,0,0,36.00361111,-94.17
+Arkansas,Searcy,Searcy Municipal,SRC,2001,0,0,0,35.22083333,-91.7375
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2001,5,14,33109,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2001,16,7,63913,35.33666667,-94.3675
+Arkansas,Harrison,Boone County,HRO,2001,1,0,0,36.26166667,-93.15555556
+Arkansas,Blytheville,Blytheville AFB,BYH,2002,0,0,0,35.96416667,-89.94583333
+Arkansas,Batesville,Batesville Regional,BVX,2002,3,0,0,35.72611111,-91.6475
+Arkansas,Hot Springs,Memorial Field,HOT,2002,1,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2002,7603,1154,1035382,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2002,194,0,0,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,2002,0,0,0,34.54888889,-94.20722222
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2002,100,4,364307,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2002,0,0,0,36.00361111,-94.17
+Arkansas,Searcy,Searcy Municipal,SRC,2002,0,0,0,35.22083333,-91.7375
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2002,11,0,30192,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2002,41,1,69157,35.33666667,-94.3675
+Arkansas,Walnut Ridge,Walnut Ridge Regional,ARG,2002,0,0,0,36.125,-90.92638889
+Arkansas,Jonesboro,Jonesboro Municipal,JBR,2003,1,0,0,35.83,-90.64833333
+Arkansas,El Dorado,Goodwin Field,ELD,2003,2,0,0,33.22055556,-92.81472222
+Arkansas,Batesville,Batesville Regional,BVX,2003,1,0,0,35.72611111,-91.6475
+Arkansas,Hot Springs,Memorial Field,HOT,2003,64,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2003,8178,800,988281,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2003,0,0,65,34.91638889,-92.14611111
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2003,0,0,0,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2003,381,0,394728,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2003,22,0,179,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2003,3,0,27793,33.45638889,-93.98916667
+Arkansas,Pine Bluff,Grider Field,PBF,2003,0,0,0,34.17555556,-91.93555556
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2003,14,0,75459,35.33666667,-94.3675
+Arkansas,Blytheville,Blytheville AFB,BYH,2004,1,0,0,35.96416667,-89.94583333
+Arkansas,El Dorado,Goodwin Field,ELD,2004,0,0,42,33.22055556,-92.81472222
+Arkansas,Batesville,Batesville Regional,BVX,2004,0,0,0,35.72611111,-91.6475
+Arkansas,Hot Springs,Memorial Field,HOT,2004,171,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2004,9562,339,1095932,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2004,0,0,97,34.91638889,-92.14611111
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2004,0,0,0,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2004,783,0,489044,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2004,0,0,730,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2004,0,0,32230,33.45638889,-93.98916667
+Arkansas,Pine Bluff,Grider Field,PBF,2004,0,0,0,34.17555556,-91.93555556
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2004,20,0,90581,35.33666667,-94.3675
+Arkansas,Blytheville,Blytheville AFB,BYH,2005,0,0,0,35.96416667,-89.94583333
+Arkansas,Batesville,Batesville Regional,BVX,2005,1,0,0,35.72611111,-91.6475
+Arkansas,Hot Springs,Memorial Field,HOT,2005,136,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2005,10080,134,1244923,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2005,37,0,226,34.91638889,-92.14611111
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2005,1,0,0,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2005,68,0,558971,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2005,0,0,334,36.00361111,-94.17
+Arkansas,Searcy,Searcy Municipal,SRC,2005,1,0,0,35.22083333,-91.7375
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2005,0,0,27624,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2005,72,0,100226,35.33666667,-94.3675
+Arkansas,West Memphis,West Memphis Municipal,AWM,2005,3,0,0,35.135,-90.23444444
+Arkansas,Walnut Ridge,Walnut Ridge Regional,ARG,2005,1,0,0,36.125,-90.92638889
+Arkansas,Jonesboro,Jonesboro Municipal,JBR,2006,1,0,0,35.83,-90.64833333
+Arkansas,Blytheville,Blytheville AFB,BYH,2006,1,0,0,35.96416667,-89.94583333
+Arkansas,Batesville,Batesville Regional,BVX,2006,3,0,0,35.72611111,-91.6475
+Arkansas,Hot Springs,Memorial Field,HOT,2006,118,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2006,12191,75,1184230,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2006,0,0,525,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,2006,75,0,0,34.54888889,-94.20722222
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2006,21,0,540767,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2006,6,0,741,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2006,0,0,25584,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2006,9,0,93777,35.33666667,-94.3675
+Arkansas,Walnut Ridge,Walnut Ridge Regional,ARG,2006,1,0,0,36.125,-90.92638889
+Arkansas,Blytheville,Blytheville AFB,BYH,2007,0,0,0,35.96416667,-89.94583333
+Arkansas,Hot Springs,Memorial Field,HOT,2007,178,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2007,10990,66,1158971,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2007,0,0,922,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,2007,0,0,0,34.54888889,-94.20722222
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2007,18,0,545654,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2007,6,0,1322,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2007,4,0,25368,33.45638889,-93.98916667
+Arkansas,Russellville,Russellville Regional,AR1,2007,0,0,0,35.26472222,-93.09388889
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2007,2,1,97303,35.33666667,-94.3675
+Arkansas,West Memphis,West Memphis Municipal,AWM,2007,2,0,0,35.135,-90.23444444
+Arkansas,Hot Springs,Memorial Field,HOT,2008,23,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2008,9323,106,1056879,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2008,0,0,622,34.91638889,-92.14611111
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2008,788,0,508882,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2008,0,0,1365,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2008,0,0,27662,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2008,31,0,84981,35.33666667,-94.3675
+Arkansas,Hot Springs,Memorial Field,HOT,2009,7,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2009,9639,122,1054750,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2009,0,0,468,34.91638889,-92.14611111
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2009,0,0,5,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2009,15,1,503390,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2009,0,0,913,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2009,0,0,26665,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2009,49,0,76261,35.33666667,-94.3675
+Arkansas,Blytheville,Blytheville AFB,BYH,2010,0,0,0,35.96416667,-89.94583333
+Arkansas,Hot Springs,Memorial Field,HOT,2010,20,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2010,10485,52,1085239,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2010,0,0,789,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,2010,1,0,0,34.54888889,-94.20722222
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2010,18,1,532786,36.28194444,-94.30694444
+Arkansas,Paragould,Kirk Field,PGR,2010,0,0,4,36.06388889,-90.50916667
+Arkansas,Fayetteville,Drake Field,FYV,2010,0,0,1050,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2010,0,0,26677,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2010,19,0,83889,35.33666667,-94.3675
+Arkansas,Jonesboro,Jonesboro Municipal,JBR,2011,0,0,27,35.83,-90.64833333
+Arkansas,Blytheville,Blytheville AFB,BYH,2011,0,0,0,35.96416667,-89.94583333
+Arkansas,Hot Springs,Memorial Field,HOT,2011,8,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2011,10204,44,1062085,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2011,0,0,964,34.91638889,-92.14611111
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2011,0,0,5,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2011,43,2,538259,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2011,5,0,277,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2011,0,0,28681,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2011,20,0,84113,35.33666667,-94.3675
+Arkansas,Harrison,Boone County,HRO,2011,0,0,2,36.26166667,-93.15555556
+Arkansas,Blytheville,Blytheville AFB,BYH,2012,0,0,0,35.96416667,-89.94583333
+Arkansas,El Dorado,Goodwin Field,ELD,2012,1,0,0,33.22055556,-92.81472222
+Arkansas,Hot Springs,Memorial Field,HOT,2012,22,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2012,9296,137,1111217,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2012,0,0,1322,34.91638889,-92.14611111
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2012,0,0,22,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2012,26,3,546785,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2012,0,0,831,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2012,0,0,28051,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2012,614,0,84741,35.33666667,-94.3675
+Arkansas,Jonesboro,Jonesboro Municipal,JBR,2013,1,0,4,35.83,-90.64833333
+Arkansas,Little Rock,Adams Field,LIT,2013,9228,167,1054813,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2013,0,0,799,34.91638889,-92.14611111
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2013,0,0,14,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2013,13,1,557886,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2013,0,0,1050,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2013,0,0,32817,33.45638889,-93.98916667
+Arkansas,Pine Bluff,Grider Field,PBF,2013,0,0,0,34.17555556,-91.93555556
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2013,11,0,82679,35.33666667,-94.3675
+Arkansas,Little Rock,Adams Field,LIT,2014,9440,149,1005146,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2014,31,0,308,34.91638889,-92.14611111
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2014,0,0,13,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2014,25,8,619137,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2014,0,0,1260,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2014,9,0,37201,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2014,53,0,90194,35.33666667,-94.3675
+Arkansas,Jonesboro,Jonesboro Municipal,JBR,2015,0,0,2,35.83,-90.64833333
+Arkansas,Little Rock,Adams Field,LIT,2015,9836,137,955508,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2015,6,0,417,34.91638889,-92.14611111
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2015,0,0,15,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2015,19,0,627692,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2015,0,0,820,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2015,0,0,34881,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2015,9,0,84136,35.33666667,-94.3675
+Arkansas,Blytheville,Blytheville AFB,BYH,2016,0,0,0,35.96416667,-89.94583333
+Arkansas,Hot Springs,Memorial Field,HOT,2016,0,0,7,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2016,9317,67,939769,34.72916667,-92.23444444
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2016,0,0,8,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2016,36,5,667140,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2016,0,0,949,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2016,1,0,33564,33.45638889,-93.98916667
+Arkansas,Pine Bluff,Grider Field,PBF,2016,0,0,0,34.17555556,-91.93555556
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2016,5,0,83920,35.33666667,-94.3675
+Arkansas,Jonesboro,Jonesboro Municipal,JBR,2017,0,0,15,35.83,-90.64833333
+Arkansas,Blytheville,Blytheville AFB,BYH,2017,0,0,0,35.96416667,-89.94583333
+Arkansas,El Dorado,Goodwin Field,ELD,2017,0,0,4,33.22055556,-92.81472222
+Arkansas,Hot Springs,Memorial Field,HOT,2017,0,0,0,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2017,9892,136,953555,34.72916667,-92.23444444
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2017,0,0,12,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2017,16,0,684879,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2017,0,0,303,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2017,0,0,34099,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2017,7,0,85722,35.33666667,-94.3675
+Arkansas,Blytheville,Blytheville AFB,BYH,2018,0,0,2,35.96416667,-89.94583333
+Arkansas,Little Rock,Adams Field,LIT,2018,6798,0,1010019,34.72916667,-92.23444444
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2018,0,0,18,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2018,19,0,739043,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2018,0,0,202,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2018,0,0,37535,33.45638889,-93.98916667
+Arkansas,Russellville,Russellville Regional,AR1,2018,0,0,2,35.26472222,-93.09388889
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2018,18,0,86757,35.33666667,-94.3675
+Arkansas,Jonesboro,Jonesboro Municipal,JBR,2019,0,0,10,35.83,-90.64833333
+Arkansas,Blytheville,Blytheville AFB,BYH,2019,15,0,0,35.96416667,-89.94583333
+Arkansas,Little Rock,Adams Field,LIT,2019,6530,0,1068063,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2019,0,0,42,34.91638889,-92.14611111
+Arkansas,Mena,Intermountain Regional,XXX,2019,37,0,0,34.54888889,-94.20722222
+Arkansas,Rogers,Rogers Municipal Carter Field,ROG,2019,0,0,12,36.37222222,-94.10694444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2019,5,0,870162,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2019,0,0,86,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2019,5,0,37469,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2019,20,0,91943,35.33666667,-94.3675
+Arkansas,Blytheville,Blytheville AFB,BYH,2020,0,0,0,35.96416667,-89.94583333
+Arkansas,Little Rock,Adams Field,LIT,2020,7450,0,464045,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2020,0,0,141,34.91638889,-92.14611111
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2020,9,0,340832,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2020,13,0,761,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2020,0,0,17335,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2020,26,0,36864,35.33666667,-94.3675
+Arkansas,Blytheville,Blytheville AFB,BYH,2021,3,0,0,35.96416667,-89.94583333
+Arkansas,Hot Springs,Memorial Field,HOT,2021,0,0,18,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2021,8078,1,827889,34.72916667,-92.23444444
+Arkansas,Jacksonville,Little Rock AFB,LRF,2021,22,0,205,34.91638889,-92.14611111
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2021,21,0,598700,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2021,0,0,1146,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2021,0,0,26870,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2021,0,0,45320,35.33666667,-94.3675
+Arkansas,West Memphis,West Memphis Municipal,AWM,2021,0,0,0,35.135,-90.23444444
+Arkansas,Jonesboro,Jonesboro Municipal,JBR,2022,1,0,0,35.83,-90.64833333
+Arkansas,Hot Springs,Memorial Field,HOT,2022,0,0,2,34.47888889,-93.09611111
+Arkansas,Little Rock,Adams Field,LIT,2022,5544,0,719622,34.72916667,-92.23444444
+Arkansas,Fayetteville,Northwest Arkansas Regional,XNA,2022,5,0,599352,36.28194444,-94.30694444
+Arkansas,Fayetteville,Drake Field,FYV,2022,0,0,333,36.00361111,-94.17
+Arkansas,Texarkana,Texarkana Muni/Webb Field,TXK,2022,0,0,27270,33.45638889,-93.98916667
+Arkansas,Fort Smith,Fort Smith Regional,FSM,2022,0,0,44548,35.33666667,-94.3675
+Arkansas,Camden,Harrell Field Airport,CDH,2022,0,0,15,33.6228056,-92.7633889

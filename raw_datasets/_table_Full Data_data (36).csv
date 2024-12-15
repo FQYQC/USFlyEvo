@@ -1,0 +1,255 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Oklahoma,Ardmore,Ardmore Municipal,ADM,1990,9988,0,0,34.30305556,-97.01972222
+Oklahoma,Oklahoma City,Tinker AFB,TIK,1990,0,0,172,35.41833333,-97.38888889
+Oklahoma,Tulsa,Tulsa International,TUL,1990,6997190,11163251,1482145,36.19777778,-95.88972222
+Oklahoma,Oklahoma City,Will Rogers World,OKC,1990,3774434,9843232,1517999,35.39305556,-97.60055556
+Oklahoma,Muskogee,Davis Field,MKO,1991,0,0,57,35.66055556,-95.36666667
+Oklahoma,Stillwater,Searcy Field,SWO,1991,0,0,488,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,1991,11348,4799,1482418,35.39305556,-97.60055556
+Oklahoma,Tulsa,Tulsa International,TUL,1991,13175,5307,1420221,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,1991,0,0,287,34.56972222,-98.41611111
+Oklahoma,Enid,Vance AFB,END,1991,0,0,153,36.33972222,-97.91583333
+Oklahoma,Oklahoma City,Tinker AFB,TIK,1991,16106,61,618,35.41833333,-97.38888889
+Oklahoma,Altus,Altus AFB,LTS,1991,0,0,3544,34.66388889,-99.27361111
+Oklahoma,Stillwater,Searcy Field,SWO,1992,0,0,857,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,1992,12733,5032,1544742,35.39305556,-97.60055556
+Oklahoma,Tulsa,Tulsa International,TUL,1992,9413,5408,1434523,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,1992,1,0,1338,34.56972222,-98.41611111
+Oklahoma,Ponca City,Ponca City Regional,PNC,1992,1,0,0,36.72805556,-97.09944444
+Oklahoma,Enid,Vance AFB,END,1992,0,0,625,36.33972222,-97.91583333
+Oklahoma,Oklahoma City,Tinker AFB,TIK,1992,4588,0,573,35.41833333,-97.38888889
+Oklahoma,Altus,Altus AFB,LTS,1992,102,0,0,34.66388889,-99.27361111
+Oklahoma,Stillwater,Searcy Field,SWO,1993,0,0,1080,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,1993,13269,5123,1527590,35.39305556,-97.60055556
+Oklahoma,Tulsa,Tulsa International,TUL,1993,9765,5231,1444058,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,1993,5,24,51949,34.56972222,-98.41611111
+Oklahoma,Oklahoma City,Tinker AFB,TIK,1993,885,0,449,35.41833333,-97.38888889
+Oklahoma,Altus,Altus AFB,LTS,1993,195,0,233,34.66388889,-99.27361111
+Oklahoma,Muskogee,Davis Field,MKO,1994,0,0,0,35.66055556,-95.36666667
+Oklahoma,McAlester,McAlester Regional,MLC,1994,0,0,0,34.88027778,-95.785
+Oklahoma,Oklahoma City,Will Rogers World,OKC,1994,11493,5549,1657180,35.39305556,-97.60055556
+Oklahoma,Tulsa,Tulsa International,TUL,1994,13096,5309,1530120,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,1994,3,45,63791,34.56972222,-98.41611111
+Oklahoma,Enid,Vance AFB,END,1994,0,0,307,36.33972222,-97.91583333
+Oklahoma,Oklahoma City,Tinker AFB,TIK,1994,215,0,244,35.41833333,-97.38888889
+Oklahoma,Altus,Altus AFB,LTS,1994,67,0,105,34.66388889,-99.27361111
+Oklahoma,Muskogee,Davis Field,MKO,1995,0,0,0,35.66055556,-95.36666667
+Oklahoma,Stillwater,Searcy Field,SWO,1995,0,0,1045,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,1995,13862,5547,1649169,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,1995,9,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,1995,13800,5287,1521987,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,1995,4,17,55478,34.56972222,-98.41611111
+Oklahoma,Enid,Vance AFB,END,1995,0,0,267,36.33972222,-97.91583333
+Oklahoma,Oklahoma City,Tinker AFB,TIK,1995,0,0,197,35.41833333,-97.38888889
+Oklahoma,Altus,Altus AFB,LTS,1995,6,0,1375,34.66388889,-99.27361111
+Oklahoma,Stillwater,Searcy Field,SWO,1996,0,0,834,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,1996,15084,5596,1744438,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,1996,0,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,1996,14669,6443,1638422,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,1996,5,17,64903,34.56972222,-98.41611111
+Oklahoma,Ponca City,Ponca City Regional,PNC,1996,2,0,0,36.72805556,-97.09944444
+Oklahoma,Enid,Vance AFB,END,1996,0,0,574,36.33972222,-97.91583333
+Oklahoma,Oklahoma City,Tinker AFB,TIK,1996,0,0,393,35.41833333,-97.38888889
+Oklahoma,Altus,Altus AFB,LTS,1996,15,0,0,34.66388889,-99.27361111
+Oklahoma,Stillwater,Searcy Field,SWO,1997,0,0,1374,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,1997,17977,5506,1671617,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,1997,0,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,1997,24183,6002,1621429,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,1997,7,6,65445,34.56972222,-98.41611111
+Oklahoma,Enid,Enid Woodring Regional,WDG,1997,0,0,0,36.37916667,-97.79083333
+Oklahoma,Oklahoma City,Tinker AFB,TIK,1997,0,0,343,35.41833333,-97.38888889
+Oklahoma,Altus,Altus AFB,LTS,1997,0,0,150,34.66388889,-99.27361111
+Oklahoma,Clinton,Clinton Municipal,CLK,1998,0,0,64,35.53777778,-98.93166667
+Oklahoma,Woodward,West Woodward,WWR,1998,0,0,160,36.43666667,-99.52111111
+Oklahoma,Stillwater,Searcy Field,SWO,1998,0,0,487,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,1998,15857,5017,1756419,35.39305556,-97.60055556
+Oklahoma,Tulsa,Tulsa International,TUL,1998,23320,5241,1710757,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,1998,0,9,72567,34.56972222,-98.41611111
+Oklahoma,Enid,Enid Woodring Regional,WDG,1998,0,0,0,36.37916667,-97.79083333
+Oklahoma,Oklahoma City,Tinker AFB,TIK,1998,0,0,233,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,1999,0,0,1281,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,1999,18743,5002,1742541,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,1999,0,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,1999,23202,3656,1635909,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,1999,2,8,62320,34.56972222,-98.41611111
+Oklahoma,Duncan,Halliburton Field,DUC,1999,6,0,0,34.47222222,-97.95972222
+Oklahoma,Clinton,Clinton/Sherman,CSM,1999,0,0,0,35.33972222,-99.20027778
+Oklahoma,Oklahoma City,Tinker AFB,TIK,1999,173,0,52,35.41833333,-97.38888889
+Oklahoma,Muskogee,Davis Field,MKO,2000,0,0,0,35.66055556,-95.36666667
+Oklahoma,Clinton,Clinton Municipal,CLK,2000,0,0,0,35.53777778,-98.93166667
+Oklahoma,Stillwater,Searcy Field,SWO,2000,0,0,983,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2000,17746,5455,1737898,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2000,10,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,2000,24897,3569,1668052,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2000,0,2,60446,34.56972222,-98.41611111
+Oklahoma,Enid,Vance AFB,END,2000,0,0,204,36.33972222,-97.91583333
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2000,0,0,0,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2001,0,0,508,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2001,19438,4080,1642093,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2001,6,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,2001,27741,2400,1498996,36.19777778,-95.88972222
+Oklahoma,Frederick,Frederick Municipal,FDR,2001,1,0,0,34.35222222,-98.98472222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2001,5,2,50308,34.56972222,-98.41611111
+Oklahoma,Enid,Vance AFB,END,2001,0,0,173,36.33972222,-97.91583333
+Oklahoma,Oklahoma City,Wiley Post,PWA,2001,4,0,0,35.53277778,-97.64916667
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2001,322,0,73,35.41833333,-97.38888889
+Oklahoma,Altus,Altus AFB,LTS,2001,0,0,76,34.66388889,-99.27361111
+Oklahoma,Clinton,Clinton Municipal,CLK,2002,0,0,0,35.53777778,-98.93166667
+Oklahoma,Stillwater,Searcy Field,SWO,2002,0,0,923,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2002,15512,1651,1442930,35.39305556,-97.60055556
+Oklahoma,Miami,Miami Municipal,MIO,2002,0,0,0,36.90722222,-94.8875
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2002,2,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,2002,19691,1079,1303674,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2002,0,1,43232,34.56972222,-98.41611111
+Oklahoma,Enid,Vance AFB,END,2002,0,0,259,36.33972222,-97.91583333
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2002,82,0,407,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2003,0,0,994,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2003,12589,1356,1545916,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2003,94,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,2003,20626,834,1261579,36.19777778,-95.88972222
+Oklahoma,Frederick,Frederick Municipal,FDR,2003,2,0,0,34.35222222,-98.98472222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2003,109,1,44800,34.56972222,-98.41611111
+Oklahoma,Ponca City,Ponca City Regional,PNC,2003,0,0,0,36.72805556,-97.09944444
+Oklahoma,Duncan,Halliburton Field,DUC,2003,0,0,0,34.47222222,-97.95972222
+Oklahoma,Enid,Vance AFB,END,2003,0,0,444,36.33972222,-97.91583333
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2003,0,0,59,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2004,0,0,339,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2004,12642,1243,1659969,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2004,8,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,2004,22610,769,1438225,36.19777778,-95.88972222
+Oklahoma,Frederick,Frederick Municipal,FDR,2004,2,0,0,34.35222222,-98.98472222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2004,47,2,46200,34.56972222,-98.41611111
+Oklahoma,Enid,Vance AFB,END,2004,0,1,470,36.33972222,-97.91583333
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2004,375,0,0,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2005,0,0,1471,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2005,14076,709,1773499,35.39305556,-97.60055556
+Oklahoma,Miami,Miami Municipal,MIO,2005,59,0,0,36.90722222,-94.8875
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2005,0,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,2005,24400,397,1563452,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2005,288,0,50966,34.56972222,-98.41611111
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2005,77,0,305,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2006,0,0,1133,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2006,13934,817,1799003,35.39305556,-97.60055556
+Oklahoma,Tulsa,Tulsa International,TUL,2006,24650,317,1599392,36.19777778,-95.88972222
+Oklahoma,Guymon,Guymon Municipal,GUY,2006,0,0,2,36.68027778,-101.5077778
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2006,265,0,49731,34.56972222,-98.41611111
+Oklahoma,Clinton,Clinton/Sherman,CSM,2006,0,0,18,35.33972222,-99.20027778
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2006,115,0,843,35.41833333,-97.38888889
+Oklahoma,Altus,Altus AFB,LTS,2006,0,0,67,34.66388889,-99.27361111
+Oklahoma,Stillwater,Searcy Field,SWO,2007,2,0,2220,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2007,14231,79,1812985,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2007,0,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,2007,26743,95,1585911,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2007,0,0,54723,34.56972222,-98.41611111
+Oklahoma,Clinton,Clinton/Sherman,CSM,2007,0,0,10,35.33972222,-99.20027778
+Oklahoma,Oklahoma City,Wiley Post,PWA,2007,0,0,26,35.53277778,-97.64916667
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2007,35,0,1090,35.41833333,-97.38888889
+Oklahoma,Altus,Altus AFB,LTS,2007,0,0,54,34.66388889,-99.27361111
+Oklahoma,Stillwater,Searcy Field,SWO,2008,0,0,2267,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2008,11404,1,1757496,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2008,4,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,2008,26194,78,1510350,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2008,4,0,77527,34.56972222,-98.41611111
+Oklahoma,Clinton,Clinton/Sherman,CSM,2008,0,0,882,35.33972222,-99.20027778
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2008,85,0,1241,35.41833333,-97.38888889
+Oklahoma,Altus,Altus AFB,LTS,2008,0,0,78,34.66388889,-99.27361111
+Oklahoma,Stillwater,Searcy Field,SWO,2009,1,0,2016,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2009,15127,0,1602796,35.39305556,-97.60055556
+Oklahoma,Tulsa,Tulsa International,TUL,2009,29837,42,1347706,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2009,15,0,71290,34.56972222,-98.41611111
+Oklahoma,Clinton,Clinton/Sherman,CSM,2009,0,0,91,35.33972222,-99.20027778
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2009,0,0,1426,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2010,0,0,1958,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2010,15221,0,1675021,35.39305556,-97.60055556
+Oklahoma,Bartlesville,Frank Phillips,BVO,2010,0,0,4,36.7625,-96.01083333
+Oklahoma,Tulsa,Tulsa International,TUL,2010,29374,0,1339559,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2010,14,0,68054,34.56972222,-98.41611111
+Oklahoma,Clinton,Clinton/Sherman,CSM,2010,0,0,67,35.33972222,-99.20027778
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2010,46,0,1406,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2011,16,0,1717,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2011,14631,1,1726033,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2011,6,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,2011,29005,1,1342726,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2011,11,0,63909,34.56972222,-98.41611111
+Oklahoma,Clinton,Clinton/Sherman,CSM,2011,0,0,236,35.33972222,-99.20027778
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2011,0,0,1242,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2012,10,0,1808,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2012,14773,0,1751724,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2012,0,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,2012,28465,0,1323951,36.19777778,-95.88972222
+Oklahoma,Frederick,Frederick Municipal,FDR,2012,0,0,0,34.35222222,-98.98472222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2012,15,0,55678,34.56972222,-98.41611111
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2012,81,0,1153,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2013,3,0,1869,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2013,13790,0,1729941,35.39305556,-97.60055556
+Oklahoma,Tulsa,Tulsa International,TUL,2013,29172,0,1322948,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2013,29,0,55511,34.56972222,-98.41611111
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2013,0,0,917,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2014,8,0,1651,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2014,14199,15,1818962,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2014,2,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,2014,29145,2,1346015,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2014,40,0,54147,34.56972222,-98.41611111
+Oklahoma,Clinton,Clinton/Sherman,CSM,2014,0,0,124,35.33972222,-99.20027778
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2014,107,0,1043,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2015,17,0,1631,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2015,13755,16,1800132,35.39305556,-97.60055556
+Oklahoma,Tulsa,Tulsa International,TUL,2015,27889,3,1335609,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2015,35,0,51859,34.56972222,-98.41611111
+Oklahoma,Durant,Eaker Field,DUA,2015,0,0,0,33.93333333,-96.4
+Oklahoma,Fort Sill,Henry Post AAF,FSI,2015,0,0,0,34.65,-98.40166667
+Oklahoma,Clinton,Clinton/Sherman,CSM,2015,0,0,614,35.33972222,-99.20027778
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2015,344,0,1160,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2016,16,0,10250,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2016,12650,14,1783856,35.39305556,-97.60055556
+Oklahoma,Tulsa,Tulsa International,TUL,2016,26385,0,1337095,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2016,74,0,51088,34.56972222,-98.41611111
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2016,99,0,825,35.41833333,-97.38888889
+Oklahoma,Muskogee,Davis Field,MKO,2017,0,0,3,35.66055556,-95.36666667
+Oklahoma,Stillwater,Searcy Field,SWO,2017,19,0,27370,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2017,14868,3,1893060,35.39305556,-97.60055556
+Oklahoma,Tulsa,Tulsa International,TUL,2017,26912,17,1366561,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2017,32,0,50939,34.56972222,-98.41611111
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2017,89,0,880,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2018,16,0,27129,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2018,15038,0,2074845,35.39305556,-97.60055556
+Oklahoma,Bartlesville,Frank Phillips,BVO,2018,0,0,0,36.7625,-96.01083333
+Oklahoma,Tulsa,Tulsa International,TUL,2018,31032,25,1476616,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2018,46,0,48128,34.56972222,-98.41611111
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2018,155,0,1069,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2019,16,0,29562,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2019,13719,1,2125434,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2019,0,0,0,34.30305556,-97.01972222
+Oklahoma,Bartlesville,Frank Phillips,BVO,2019,0,0,0,36.7625,-96.01083333
+Oklahoma,Tulsa,Tulsa International,TUL,2019,31460,95,1476681,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2019,104,0,52410,34.56972222,-98.41611111
+Oklahoma,Tulsa,Tulsa Riverside,RVS,2019,0,0,5,36.04055556,-95.98527778
+Oklahoma,Oklahoma City,Wiley Post,PWA,2019,0,0,6,35.53277778,-97.64916667
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2019,34,0,935,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2020,19,0,12283,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2020,16676,0,926949,35.39305556,-97.60055556
+Oklahoma,Miami,Miami Municipal,MIO,2020,3,0,0,36.90722222,-94.8875
+Oklahoma,Bartlesville,Frank Phillips,BVO,2020,0,0,8,36.7625,-96.01083333
+Oklahoma,Tulsa,Tulsa International,TUL,2020,29904,471,662185,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2020,126,0,25318,34.56972222,-98.41611111
+Oklahoma,Enid,Enid Woodring Regional,WDG,2020,0,0,7,36.37916667,-97.79083333
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2020,43,0,711,35.41833333,-97.38888889
+Oklahoma,Altus,Altus AFB,LTS,2020,0,0,120,34.66388889,-99.27361111
+Oklahoma,Stillwater,Searcy Field,SWO,2021,16,0,20273,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2021,16532,3,1632119,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2021,0,0,0,34.30305556,-97.01972222
+Oklahoma,Bartlesville,Frank Phillips,BVO,2021,0,0,5,36.7625,-96.01083333
+Oklahoma,Tulsa,Tulsa International,TUL,2021,29667,921,1154440,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2021,112,0,39336,34.56972222,-98.41611111
+Oklahoma,Norman,University of Oklahoma Westheimer Airport,OUN,2021,0,0,3,35.2455556,-97.4721389
+Oklahoma,Tulsa,Tulsa Riverside,RVS,2021,0,0,11,36.04055556,-95.98527778
+Oklahoma,Oklahoma City,Wiley Post,PWA,2021,0,0,22,35.53277778,-97.64916667
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2021,83,0,1009,35.41833333,-97.38888889
+Oklahoma,Stillwater,Searcy Field,SWO,2022,14,0,19554,36.15888889,-97.08555556
+Oklahoma,Oklahoma City,Will Rogers World,OKC,2022,10972,29,1411387,35.39305556,-97.60055556
+Oklahoma,Ardmore,Ardmore Municipal,ADM,2022,0,0,0,34.30305556,-97.01972222
+Oklahoma,Tulsa,Tulsa International,TUL,2022,21829,0,1062429,36.19777778,-95.88972222
+Oklahoma,Lawton/Fort Sill,Lawton-Fort Sill Regional,LAW,2022,69,0,31052,34.56972222,-98.41611111
+Oklahoma,Norman,University of Oklahoma Westheimer Airport,OUN,2022,0,0,4,35.2455556,-97.4721389
+Oklahoma,Oklahoma City,Wiley Post,PWA,2022,0,0,20,35.53277778,-97.64916667
+Oklahoma,Oklahoma City,Tinker AFB,TIK,2022,459,0,198,35.41833333,-97.38888889

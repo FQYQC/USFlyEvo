@@ -1,0 +1,729 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Washington,Bellingham,Bellingham International,BLI,1990,1704137,10689,86944,48.79444444,-122.5347222
+Washington,Moses Lake,Grant County International,MWH,1990,26564,675,5030,47.205,-119.3155556
+Washington,Seattle,King County Airport-Boeing Field,BFI,1990,550,1224,1939,47.52888889,-122.2994444
+Washington,Wenatchee,Pangborn Memorial,EAT,1990,21701,12949,17866,47.39972222,-120.2077778
+Washington,Pullman,Pullman Moscow Regional,PUW,1990,22363,2136,28289,46.74472222,-117.105
+Washington,Seattle,Seattle/Tacoma International,SEA,1990,202364042,65627053,7570415,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,1990,0,0,0,47.90833333,-122.2813889
+Washington,Spokane,Spokane International,GEG,1990,2745995,4566607,758865,47.62,-117.5327778
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,1990,270450,880618,125066,46.26388889,-119.1147222
+Washington,Walla Walla,Walla Walla Regional,ALW,1990,12503,2073,18350,46.09472222,-118.2911111
+Washington,Port Angeles,William R. Fairchild International,CLM,1990,45271,4082,18747,48.11888889,-123.4936111
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,1990,52696,27345,38988,46.56694444,-120.5377778
+Washington,Connell,Connell City,WQI,1991,0,0,0,46.6625,-118.8322222
+Washington,Copalis,Copalis State,XWE,1991,0,0,0,47.1275,-124.1791667
+Washington,Spokane,Spokane International,GEG,1991,8551,2291,797833,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,1991,282,0,9636,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,1991,88,7,30455,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,1991,22,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,1991,575,393,164340,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,1991,11,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,1991,126851,33495,7722699,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,1991,6,0,218,47.90833333,-122.2813889
+Washington,Lopez Island,Lopez Island Airport,LPS,1991,0,0,0,48.48277778,-122.9355556
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,1991,2,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,1991,7,0,0,48.46666667,-119.5208333
+Washington,Bremerton,Kitsap County,PWT,1991,154,0,0,47.485,-122.7633333
+Washington,Tacoma,Gray AAF,GRF,1991,8,0,0,47.08333333,-122.5791667
+Washington,Seattle,King County Airport-Boeing Field,BFI,1991,8180,2,5913,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,1991,906,2,93518,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,1991,57,0,21576,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,1991,0,0,133,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,1991,134,0,5039,47.205,-119.3155556
+Washington,Kennewick,Vista Field,ZXX,1991,0,0,0,46.21833333,-119.2094444
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,1991,5,0,0,48.25333333,-122.6725
+Washington,Port Orchard,Port Orchard Airport,XWK,1991,0,0,0,47.43333333,-122.6647222
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,1991,197,7,65167,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,1991,4,0,299,47.615,-117.6569444
+Washington,Anacortes,Anacortes Airport,OTS,1991,1,0,0,48.49916667,-122.6611111
+Washington,Walla Walla,Walla Walla Regional,ALW,1991,14,0,18147,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,1991,8,1,30632,46.74472222,-117.105
+Washington,Sequim,Sequim Valley,SQV,1991,2,0,0,48.09777778,-123.1852778
+Washington,Spokane,Spokane International,GEG,1992,9497,2686,917446,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,1992,934,0,2626,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,1992,111,8,30940,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,1992,36,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,1992,581,441,169914,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,1992,12,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,1992,135575,34870,8571972,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,1992,1,0,0,47.90833333,-122.2813889
+Washington,Lopez Island,Lopez Island Airport,LPS,1992,0,0,0,48.48277778,-122.9355556
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,1992,107,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,1992,10,0,0,48.46666667,-119.5208333
+Washington,Bremerton,Kitsap County,PWT,1992,201,0,0,47.485,-122.7633333
+Washington,Seattle,King County Airport-Boeing Field,BFI,1992,267,3,2161,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,1992,552,40,85939,48.79444444,-122.5347222
+Washington,Port Townsend,Jefferson County International,TWD,1992,0,0,0,48.05,-122.8
+Washington,Port Angeles,William R. Fairchild International,CLM,1992,68,0,23549,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,1992,0,0,106,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,1992,158,1,5133,47.205,-119.3155556
+Washington,Blaine,Blaine Municipal,BWS,1992,2,0,0,48.98972222,-122.7305556
+Washington,Kennewick,Vista Field,ZXX,1992,0,0,0,46.21833333,-119.2094444
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,1992,1,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,1992,199,10,65166,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,1992,11,0,270,47.615,-117.6569444
+Washington,Anacortes,Anacortes Airport,OTS,1992,0,0,0,48.49916667,-122.6611111
+Washington,Spokane,Felts Field,SFF,1992,54,0,0,47.68222222,-117.3161111
+Washington,Walla Walla,Walla Walla Regional,ALW,1992,15,0,20245,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,1992,10,3,32915,46.74472222,-117.105
+Washington,Sequim,Sequim Valley,SQV,1992,5,0,0,48.09777778,-123.1852778
+Washington,Spokane,Spokane International,GEG,1993,27997,2996,1139489,47.62,-117.5327778
+Washington,Olympia,Olympia Regional,OLM,1993,0,0,7210,46.97361111,-122.9033333
+Washington,Tacoma,McChord AFB,TCM,1993,3486,0,6406,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,1993,1390,6,33407,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,1993,385,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,1993,5905,457,168971,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,1993,95,0,0,48.52638889,-123.0238889
+Washington,Hoquiam,Bowerman,HQM,1993,0,0,217,46.97111111,-123.9366667
+Washington,Seattle,Seattle/Tacoma International,SEA,1993,144561,37974,9010385,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,1993,7,0,155,47.90833333,-122.2813889
+Washington,Lopez Island,Lopez Island Airport,LPS,1993,202,0,0,48.48277778,-122.9355556
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,1993,859,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,1993,142,0,0,48.46666667,-119.5208333
+Washington,Bremerton,Kitsap County,PWT,1993,2730,0,0,47.485,-122.7633333
+Washington,Seattle,King County Airport-Boeing Field,BFI,1993,1255,2,1885,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,1993,2912,3,104275,48.79444444,-122.5347222
+Washington,Port Townsend,Jefferson County International,TWD,1993,0,0,0,48.05,-122.8
+Washington,Port Angeles,William R. Fairchild International,CLM,1993,624,0,25089,48.11888889,-123.4936111
+Washington,Richland,Richland Airport,RLD,1993,28,0,0,46.30833333,-119.3055556
+Washington,Moses Lake,Grant County International,MWH,1993,2152,0,5609,47.205,-119.3155556
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,1993,1,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,1993,2324,23,57080,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,1993,22,0,371,47.615,-117.6569444
+Washington,Spokane,Felts Field,SFF,1993,87,0,0,47.68222222,-117.3161111
+Washington,Walla Walla,Walla Walla Regional,ALW,1993,14,0,20282,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,1993,26,11,32855,46.74472222,-117.105
+Washington,Arlington,Arlington Municipal,VWO,1993,1,0,0,48.16083333,-122.1588889
+Washington,Spokane,Spokane International,GEG,1994,11942,3598,1322986,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,1994,2213,0,8234,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,1994,200,4,41346,47.39972222,-120.2077778
+Washington,Ellensburg,Bowers Field,ELN,1994,2,0,0,47.03388889,-120.5302778
+Washington,Eastsound,Orcas Island,ESD,1994,98,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,1994,945,551,170622,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,1994,32,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,1994,147345,37887,9963072,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,1994,13,0,0,47.90833333,-122.2813889
+Washington,Lopez Island,Lopez Island Airport,LPS,1994,68,0,0,48.48277778,-122.9355556
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,1994,236,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,1994,24,0,0,48.46666667,-119.5208333
+Washington,Bremerton,Kitsap County,PWT,1994,359,0,314,47.485,-122.7633333
+Washington,Tacoma,Gray AAF,GRF,1994,0,0,40,47.08333333,-122.5791667
+Washington,Seattle,King County Airport-Boeing Field,BFI,1994,2003,21,2091,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,1994,610,3,98270,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,1994,96,1,27654,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,1994,0,0,286,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,1994,221,2,8242,47.205,-119.3155556
+Washington,Blaine,Blaine Municipal,BWS,1994,14,0,0,48.98972222,-122.7305556
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,1994,0,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,1994,308,26,61390,46.56694444,-120.5377778
+Washington,Roche Harbor,Roche Harbor Airport,RCE,1994,0,0,0,48.61222222,-123.1386111
+Washington,Spokane,Fairchild AFB,SKA,1994,10,0,0,47.615,-117.6569444
+Washington,Spokane,Felts Field,SFF,1994,120,0,0,47.68222222,-117.3161111
+Washington,Walla Walla,Walla Walla Regional,ALW,1994,11,0,23068,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,1994,24,4,37231,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,1995,11358,3891,1490700,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,1995,0,0,8313,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,1995,207,6,49136,47.39972222,-120.2077778
+Washington,Ellensburg,Bowers Field,ELN,1995,1,0,0,47.03388889,-120.5302778
+Washington,Eastsound,Orcas Island,ESD,1995,80,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,1995,864,558,150372,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,1995,16,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,1995,150010,43300,10731233,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,1995,4,0,0,47.90833333,-122.2813889
+Washington,Tacoma,Tacoma Narrows,TIW,1995,0,0,19,47.26805556,-122.5769444
+Washington,Lopez Island,Lopez Island Airport,LPS,1995,64,0,0,48.48277778,-122.9355556
+Washington,Ephrata/Moses Lake,Ephrata,EPH,1995,1,0,0,47.30416667,-119.5125
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,1995,219,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,1995,18,0,0,48.46666667,-119.5208333
+Washington,Bremerton,Kitsap County,PWT,1995,319,0,0,47.485,-122.7633333
+Washington,Seattle,King County Airport-Boeing Field,BFI,1995,2740,0,2122,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,1995,599,8,116207,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,1995,93,3,28290,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,1995,21,0,438,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,1995,201,0,10831,47.205,-119.3155556
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,1995,0,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,1995,283,13,77361,46.56694444,-120.5377778
+Washington,Spokane,Felts Field,SFF,1995,105,0,0,47.68222222,-117.3161111
+Washington,Walla Walla,Walla Walla Regional,ALW,1995,12,0,22461,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,1995,15,3,36764,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,1996,14292,4203,1621890,47.62,-117.5327778
+Washington,Olympia,Olympia Regional,OLM,1996,0,0,51,46.97361111,-122.9033333
+Washington,Othello,Othello Municipal,FVH,1996,0,0,0,46.795,-119.0802778
+Washington,Tacoma,McChord AFB,TCM,1996,0,0,6377,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,1996,195,5,51650,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,1996,88,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,1996,791,570,152685,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,1996,20,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,1996,158915,50897,11486892,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,1996,1,5,65,47.90833333,-122.2813889
+Washington,Lopez Island,Lopez Island Airport,LPS,1996,67,0,0,48.48277778,-122.9355556
+Washington,Ephrata/Moses Lake,Ephrata,EPH,1996,0,0,0,47.30416667,-119.5125
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,1996,192,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,1996,22,0,0,48.46666667,-119.5208333
+Washington,Bremerton,Kitsap County,PWT,1996,313,0,0,47.485,-122.7633333
+Washington,Seattle,King County Airport-Boeing Field,BFI,1996,11222,3,2862,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,1996,638,9,115362,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,1996,110,0,25956,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,1996,79,0,487,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,1996,161,0,10597,47.205,-119.3155556
+Washington,Waterville,Waterville Airport,ZXZ,1996,1,0,0,47.65416667,-120.0541667
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,1996,305,24,90579,46.56694444,-120.5377778
+Washington,Spokane,Felts Field,SFF,1996,202,0,0,47.68222222,-117.3161111
+Washington,Walla Walla,Walla Walla Regional,ALW,1996,12,0,23251,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,1996,20,0,38739,46.74472222,-117.105
+Washington,Sequim,Sequim Valley,SQV,1996,1,0,0,48.09777778,-123.1852778
+Washington,Spokane,Spokane International,GEG,1997,39751,5156,1478354,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,1997,17,0,10299,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,1997,259,5,51183,47.39972222,-120.2077778
+Washington,Ellensburg,Bowers Field,ELN,1997,2,0,0,47.03388889,-120.5302778
+Washington,Eastsound,Orcas Island,ESD,1997,98,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,1997,842,623,161884,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,1997,21,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,1997,149770,60764,11688347,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,1997,5,0,0,47.90833333,-122.2813889
+Washington,Lopez Island,Lopez Island Airport,LPS,1997,23,0,0,48.48277778,-122.9355556
+Washington,Ephrata/Moses Lake,Ephrata,EPH,1997,1,0,0,47.30416667,-119.5125
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,1997,280,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,1997,26,0,0,48.46666667,-119.5208333
+Washington,Bremerton,Kitsap County,PWT,1997,134,0,0,47.485,-122.7633333
+Washington,Seattle,King County Airport-Boeing Field,BFI,1997,45354,8,4839,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,1997,694,12,97487,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,1997,121,1,21067,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,1997,0,0,559,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,1997,156,5,11245,47.205,-119.3155556
+Washington,Shelton,Sanderson Field,SHN,1997,0,0,168,47.23388889,-123.1388889
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,1997,1,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,1997,394,17,73709,46.56694444,-120.5377778
+Washington,Spokane,Felts Field,SFF,1997,186,0,0,47.68222222,-117.3161111
+Washington,Walla Walla,Walla Walla Regional,ALW,1997,14,0,22802,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,1997,22,0,34524,46.74472222,-117.105
+Washington,Sequim,Sequim Valley,SQV,1997,1,0,0,48.09777778,-123.1852778
+Washington,Spokane,Spokane International,GEG,1998,42981,5667,1458235,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,1998,0,0,6138,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,1998,161,5,50904,47.39972222,-120.2077778
+Washington,Ellensburg,Bowers Field,ELN,1998,1,0,0,47.03388889,-120.5302778
+Washington,Eastsound,Orcas Island,ESD,1998,104,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,1998,845,603,157890,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,1998,22,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,1998,144210,73285,12242768,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,1998,3,1,66,47.90833333,-122.2813889
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,1998,272,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,1998,29,0,0,48.46666667,-119.5208333
+Washington,Seattle,King County Airport-Boeing Field,BFI,1998,46441,10,7304,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,1998,736,17,63095,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,1998,109,0,23123,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,1998,0,0,441,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,1998,270,0,11085,47.205,-119.3155556
+Washington,Waterville,Waterville Airport,ZXZ,1998,1,0,0,47.65416667,-120.0541667
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,1998,1,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,1998,373,15,60932,46.56694444,-120.5377778
+Washington,Spokane,Felts Field,SFF,1998,182,0,0,47.68222222,-117.3161111
+Washington,Walla Walla,Walla Walla Regional,ALW,1998,8,0,23378,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,1998,20,0,28736,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,1999,39680,13029,1479012,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,1999,0,0,9255,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,1999,171,8,51996,47.39972222,-120.2077778
+Washington,Ellensburg,Bowers Field,ELN,1999,1,0,0,47.03388889,-120.5302778
+Washington,Eastsound,Orcas Island,ESD,1999,100,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,1999,906,489,160663,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,1999,18,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,1999,146043,84122,13063780,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,1999,0,0,0,47.90833333,-122.2813889
+Washington,Renton,Renton Municipal,RNT,1999,0,0,0,47.49305556,-122.2158333
+Washington,Ephrata/Moses Lake,Ephrata,EPH,1999,1,0,0,47.30416667,-119.5125
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,1999,262,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,1999,26,0,0,48.46666667,-119.5208333
+Washington,Bremerton,Kitsap County,PWT,1999,1,0,0,47.485,-122.7633333
+Washington,Seattle,King County Airport-Boeing Field,BFI,1999,41125,118,3055,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,1999,753,14,67668,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,1999,120,0,24669,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,1999,44,0,522,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,1999,271,0,11769,47.205,-119.3155556
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,1999,7,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,1999,413,13,62332,46.56694444,-120.5377778
+Washington,Spokane,Felts Field,SFF,1999,228,0,0,47.68222222,-117.3161111
+Washington,Walla Walla,Walla Walla Regional,ALW,1999,9,0,30977,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,1999,74,0,34858,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2000,46442,16602,1473267,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2000,17,0,3793,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2000,188,8,48781,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2000,101,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2000,969,431,164902,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2000,19,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2000,152413,73312,13318897,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2000,0,0,304,47.90833333,-122.2813889
+Washington,Ephrata/Moses Lake,Ephrata,EPH,2000,1,0,0,47.30416667,-119.5125
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2000,262,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,2000,36,0,0,48.46666667,-119.5208333
+Washington,Bremerton,Kitsap County,PWT,2000,1,0,62,47.485,-122.7633333
+Washington,Seattle,King County Airport-Boeing Field,BFI,2000,37036,52,2795,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2000,684,12,84819,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2000,142,0,22212,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2000,48,0,363,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2000,318,0,10482,47.205,-119.3155556
+Washington,Shelton,Sanderson Field,SHN,2000,0,0,588,47.23388889,-123.1388889
+Washington,Waterville,Waterville Airport,ZXZ,2000,0,0,0,47.65416667,-120.0541667
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,2000,3,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2000,433,37,60473,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,2000,0,0,83,47.615,-117.6569444
+Washington,Spokane,Felts Field,SFF,2000,262,0,0,47.68222222,-117.3161111
+Washington,Walla Walla,Walla Walla Regional,ALW,2000,11,0,31478,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2000,17,0,33196,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2001,47408,10731,1355223,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2001,4,0,7712,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2001,197,7,47201,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2001,89,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2001,886,199,148463,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2001,24,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2001,179153,50761,12705320,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2001,1707,0,0,47.90833333,-122.2813889
+Washington,Ephrata/Moses Lake,Ephrata,EPH,2001,1,0,0,47.30416667,-119.5125
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2001,86,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,2001,36,0,0,48.46666667,-119.5208333
+Washington,Tacoma,Gray AAF,GRF,2001,0,0,0,47.08333333,-122.5791667
+Washington,Seattle,King County Airport-Boeing Field,BFI,2001,50668,5,2680,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2001,552,3,70993,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2001,118,0,22497,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2001,18,0,509,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2001,370,0,8986,47.205,-119.3155556
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,2001,117,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2001,392,13,54491,46.56694444,-120.5377778
+Washington,Spokane,Felts Field,SFF,2001,152,0,0,47.68222222,-117.3161111
+Washington,Walla Walla,Walla Walla Regional,ALW,2001,5,0,28486,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2001,11,0,28176,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2002,33320,785,1281330,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2002,1190,0,2608,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2002,189,4,41240,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2002,65,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2002,851,107,156057,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2002,14,0,0,48.52638889,-123.0238889
+Washington,Prosser,Prosser Airport,RQE,2002,0,0,0,46.21222222,-119.7927778
+Washington,Seattle,Seattle/Tacoma International,SEA,2002,150060,20990,12584668,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2002,36,0,95,47.90833333,-122.2813889
+Washington,Renton,Renton Municipal,RNT,2002,0,0,0,47.49305556,-122.2158333
+Washington,Ephrata/Moses Lake,Ephrata,EPH,2002,0,0,0,47.30416667,-119.5125
+Washington,Omak,Omak Airport,OMK,2002,42,0,0,48.46666667,-119.5208333
+Washington,Seattle,King County Airport-Boeing Field,BFI,2002,43819,23,3012,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2002,429,0,69860,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2002,112,0,23326,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2002,88,0,704,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2002,238,0,1301,47.205,-119.3155556
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,2002,169,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2002,379,11,60472,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,2002,36,0,93,47.615,-117.6569444
+Washington,Walla Walla,Walla Walla Regional,ALW,2002,4,0,28070,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2002,6,0,27822,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2003,26679,449,1357321,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2003,227,2,28640,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2003,152,2,39977,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2003,9,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2003,880,89,210888,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2003,16,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2003,141778,15387,12794935,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2003,0,0,122,47.90833333,-122.2813889
+Washington,Lopez Island,Lopez Island Airport,LPS,2003,0,0,0,48.48277778,-122.9355556
+Washington,Ephrata/Moses Lake,Ephrata,EPH,2003,0,0,0,47.30416667,-119.5125
+Washington,Omak,Omak Airport,OMK,2003,40,0,0,48.46666667,-119.5208333
+Washington,Seattle,King County Airport-Boeing Field,BFI,2003,45975,15,4658,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2003,405,0,64595,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2003,126,0,23156,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2003,98,0,942,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2003,184,0,558,47.205,-119.3155556
+Washington,Waterville,Waterville Airport,ZXZ,2003,0,0,0,47.65416667,-120.0541667
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,2003,189,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2003,395,2,55537,46.56694444,-120.5377778
+Washington,Walla Walla,Walla Walla Regional,ALW,2003,3,0,26270,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2003,2,0,24532,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2004,30442,156,1496022,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2004,244,0,16093,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2004,174,0,40702,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2004,13,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2004,874,12,218450,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2004,17,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2004,143958,8993,13744125,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2004,0,0,265,47.90833333,-122.2813889
+Washington,Omak,Omak Airport,OMK,2004,44,0,0,48.46666667,-119.5208333
+Washington,Seattle,King County Airport-Boeing Field,BFI,2004,53500,204,7964,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2004,299,0,79132,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2004,129,0,900,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2004,12,0,545,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2004,184,0,1399,47.205,-119.3155556
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,2004,188,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2004,479,1,54213,46.56694444,-120.5377778
+Washington,Spokane,Felts Field,SFF,2004,2,0,0,47.68222222,-117.3161111
+Washington,Walla Walla,Walla Walla Regional,ALW,2004,0,0,25477,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2004,4,0,20936,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2005,36317,249,1576193,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2005,291,0,12168,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2005,138,0,38367,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2005,9,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2005,924,3,240666,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2005,19,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2005,133711,10958,13964482,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2005,13,0,433,47.90833333,-122.2813889
+Washington,Ephrata/Moses Lake,Ephrata,EPH,2005,1,0,0,47.30416667,-119.5125
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2005,171,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,2005,43,0,0,48.46666667,-119.5208333
+Washington,Seattle,King County Airport-Boeing Field,BFI,2005,61549,137,6498,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2005,390,0,99577,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2005,115,0,582,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2005,92,0,1028,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2005,166,0,825,47.205,-119.3155556
+Washington,Oak Harbor,Wes Lupian Airfield,ODW,2005,13,0,0,48.25333333,-122.6725
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2005,430,0,57608,46.56694444,-120.5377778
+Washington,Walla Walla,Walla Walla Regional,ALW,2005,0,0,24700,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2005,4,0,22837,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2006,32579,262,1602517,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2006,947,0,13505,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2006,135,0,40200,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2006,13,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2006,922,0,226813,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2006,18,0,299,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2006,128550,9221,14291377,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2006,2,0,164,47.90833333,-122.2813889
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2006,194,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,2006,41,0,0,48.46666667,-119.5208333
+Washington,Seattle,King County Airport-Boeing Field,BFI,2006,59504,104,3989,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2006,381,1,133026,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2006,114,0,116,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2006,0,0,1275,48.35222222,-122.6541667
+Washington,Poulsbo,Port of Poulsbo Marina Moorage Seaplane Base,PUL,2006,1,0,0,47.73388889,-122.6472222
+Washington,Moses Lake,Grant County International,MWH,2006,180,0,2389,47.205,-119.3155556
+Washington,Medical Lake,Isaacson,WA4,2006,62,0,0,47.65916667,-117.6816667
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2006,455,0,57116,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,2006,0,0,332,47.615,-117.6569444
+Washington,Walla Walla,Walla Walla Regional,ALW,2006,0,0,27027,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2006,5,0,23788,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2007,33077,291,1710346,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2007,112,0,13310,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2007,155,0,46442,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2007,11,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2007,815,0,242779,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2007,17,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2007,112116,6785,14912280,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2007,379,0,356,47.90833333,-122.2813889
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2007,176,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,2007,48,0,0,48.46666667,-119.5208333
+Washington,Seattle,King County Airport-Boeing Field,BFI,2007,65286,263,6718,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2007,384,0,235612,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2007,112,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2007,141,0,929,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2007,194,0,724,47.205,-119.3155556
+Washington,Medical Lake,Isaacson,WA4,2007,55,0,0,47.65916667,-117.6816667
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2007,451,0,71960,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,2007,0,0,64,47.615,-117.6569444
+Washington,Walla Walla,Walla Walla Regional,ALW,2007,1,0,28389,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2007,2,0,24856,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2008,31332,805,1690922,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2008,466,0,13152,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2008,127,0,47721,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2008,9,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2008,887,0,242272,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2008,14,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2008,93842,9177,15230850,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2008,675,0,257,47.90833333,-122.2813889
+Washington,Ephrata/Moses Lake,Ephrata,EPH,2008,0,0,0,47.30416667,-119.5125
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2008,125,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,2008,41,0,0,48.46666667,-119.5208333
+Washington,Seattle,King County Airport-Boeing Field,BFI,2008,64667,394,6410,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2008,349,0,274723,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2008,112,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2008,37,0,465,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2008,187,0,1304,47.205,-119.3155556
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2008,396,0,69298,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,2008,0,0,495,47.615,-117.6569444
+Washington,Walla Walla,Walla Walla Regional,ALW,2008,0,0,29582,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2008,1,0,32067,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2009,28647,964,1489071,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2009,163,0,36269,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2009,138,0,51248,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2009,46,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2009,954,0,258374,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2009,16,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2009,98905,8724,14713550,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2009,1817,0,149,47.90833333,-122.2813889
+Washington,Renton,Renton Municipal,RNT,2009,0,0,6,47.49305556,-122.2158333
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2009,118,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,2009,15,0,0,48.46666667,-119.5208333
+Washington,Seattle,King County Airport-Boeing Field,BFI,2009,54206,232,6633,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2009,394,0,324999,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2009,118,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2009,57,0,1154,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2009,188,0,2885,47.205,-119.3155556
+Washington,Medical Lake,Isaacson,WA4,2009,123,0,0,47.65916667,-117.6816667
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2009,435,0,59592,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,2009,0,0,176,47.615,-117.6569444
+Washington,Spokane,Felts Field,SFF,2009,1,0,0,47.68222222,-117.3161111
+Washington,Walla Walla,Walla Walla Regional,ALW,2009,0,0,33430,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2009,1,0,32403,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2010,32061,1442,1544874,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2010,42,0,12902,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2010,123,0,46548,47.39972222,-120.2077778
+Washington,Ellensburg,Bowers Field,ELN,2010,1,0,0,47.03388889,-120.5302778
+Washington,Eastsound,Orcas Island,ESD,2010,54,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2010,907,0,312765,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2010,13,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2010,105613,8451,14838615,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2010,2471,0,350,47.90833333,-122.2813889
+Washington,Ephrata/Moses Lake,Ephrata,EPH,2010,0,0,0,47.30416667,-119.5125
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2010,105,0,0,48.47027778,-122.4105556
+Washington,Omak,Omak Airport,OMK,2010,0,0,0,48.46666667,-119.5208333
+Washington,Seattle,King County Airport-Boeing Field,BFI,2010,53626,1187,5867,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2010,420,0,396508,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2010,120,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2010,8,0,686,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2010,175,0,1407,47.205,-119.3155556
+Washington,Medical Lake,Isaacson,WA4,2010,2,0,0,47.65916667,-117.6816667
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2010,462,0,53440,46.56694444,-120.5377778
+Washington,Roche Harbor,Roche Harbor Airport,RCE,2010,0,0,0,48.61222222,-123.1386111
+Washington,Spokane,Fairchild AFB,SKA,2010,0,0,235,47.615,-117.6569444
+Washington,Walla Walla,Walla Walla Regional,ALW,2010,0,0,29050,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2010,1,0,35224,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2011,32301,1208,1487611,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2011,1273,0,21358,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2011,119,0,50646,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2011,62,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2011,922,0,326882,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2011,11,0,0,48.52638889,-123.0238889
+Washington,Hoquiam,Bowerman,HQM,2011,30,0,0,46.97111111,-123.9366667
+Washington,Seattle,Seattle/Tacoma International,SEA,2011,107056,7936,15356747,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2011,679,0,233,47.90833333,-122.2813889
+Washington,Renton,Renton Municipal,RNT,2011,0,0,1,47.49305556,-122.2158333
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2011,119,0,0,48.47027778,-122.4105556
+Washington,Bremerton,Kitsap County,PWT,2011,17,0,0,47.485,-122.7633333
+Washington,Seattle,King County Airport-Boeing Field,BFI,2011,52673,952,10418,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2011,424,0,514021,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2011,119,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2011,0,0,752,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2011,150,0,318,47.205,-119.3155556
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2011,453,0,55773,46.56694444,-120.5377778
+Washington,Walla Walla,Walla Walla Regional,ALW,2011,0,0,32127,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2011,3,0,39122,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2012,32179,1337,1455968,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2012,1862,0,14779,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2012,121,0,49839,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2012,59,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2012,832,0,329755,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2012,10,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2012,109749,7563,15460449,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2012,1411,0,262,47.90833333,-122.2813889
+Washington,Renton,Renton Municipal,RNT,2012,0,0,2,47.49305556,-122.2158333
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2012,128,0,0,48.47027778,-122.4105556
+Washington,Seattle,King County Airport-Boeing Field,BFI,2012,49726,896,9297,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2012,372,0,573282,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2012,124,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2012,147,0,878,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2012,150,0,592,47.205,-119.3155556
+Washington,Medical Lake,Isaacson,WA4,2012,194,0,124,47.65916667,-117.6816667
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2012,491,0,54784,46.56694444,-120.5377778
+Washington,Walla Walla,Walla Walla Regional,ALW,2012,0,0,31825,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2012,0,0,38518,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2013,34268,1601,1417440,47.62,-117.5327778
+Washington,Olympia,Olympia Regional,OLM,2013,0,0,3,46.97361111,-122.9033333
+Washington,Tacoma,McChord AFB,TCM,2013,424,0,5489,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2013,142,0,51915,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2013,74,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2013,770,0,327310,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2013,16,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2013,110327,8264,15979235,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2013,1001,0,0,47.90833333,-122.2813889
+Washington,Ephrata/Moses Lake,Ephrata,EPH,2013,1,0,0,47.30416667,-119.5125
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2013,189,0,0,48.47027778,-122.4105556
+Washington,Seattle,King County Airport-Boeing Field,BFI,2013,48564,1120,7521,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2013,353,0,595157,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2013,119,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2013,64,0,685,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2013,259,0,99,47.205,-119.3155556
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2013,433,0,54209,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,2013,0,0,72,47.615,-117.6569444
+Washington,Walla Walla,Walla Walla Regional,ALW,2013,0,0,33050,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2013,0,0,40742,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2014,34289,1004,1445550,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2014,141,0,3043,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2014,165,0,56572,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2014,87,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2014,754,0,329081,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2014,17,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2014,111372,9659,17119184,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2014,1140,0,3,47.90833333,-122.2813889
+Washington,Tacoma,Tacoma Narrows,TIW,2014,0,0,3,47.26805556,-122.5769444
+Washington,Ephrata/Moses Lake,Ephrata,EPH,2014,1,0,0,47.30416667,-119.5125
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2014,162,0,0,48.47027778,-122.4105556
+Washington,Seattle,King County Airport-Boeing Field,BFI,2014,53069,1233,7032,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2014,374,0,538940,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2014,123,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2014,49,0,432,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2014,180,0,179,47.205,-119.3155556
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2014,458,0,57060,46.56694444,-120.5377778
+Washington,Walla Walla,Walla Walla Regional,ALW,2014,0,0,36359,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2014,0,0,42289,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2015,33506,889,1515334,47.62,-117.5327778
+Washington,Olympia,Olympia Regional,OLM,2015,0,0,0,46.97361111,-122.9033333
+Washington,Tacoma,McChord AFB,TCM,2015,100,0,1958,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2015,147,0,62317,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2015,102,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2015,797,0,348979,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2015,13,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2015,111590,10821,19286267,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2015,733,0,0,47.90833333,-122.2813889
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2015,151,0,0,48.47027778,-122.4105556
+Washington,Bremerton,Kitsap County,PWT,2015,4,0,0,47.485,-122.7633333
+Washington,Tacoma,Gray AAF,GRF,2015,0,0,97,47.08333333,-122.5791667
+Washington,Seattle,King County Airport-Boeing Field,BFI,2015,61715,1353,9603,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2015,380,0,447654,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2015,102,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2015,3,0,500,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2015,232,0,738,47.205,-119.3155556
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2015,442,0,63718,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,2015,5,0,214,47.615,-117.6569444
+Washington,Walla Walla,Walla Walla Regional,ALW,2015,0,0,41259,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2015,1,0,50881,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2016,34352,566,1570689,47.62,-117.5327778
+Washington,Olympia,Olympia Regional,OLM,2016,0,0,2,46.97361111,-122.9033333
+Washington,Tacoma,McChord AFB,TCM,2016,422,0,3818,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2016,120,0,60062,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2016,101,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2016,779,0,374387,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2016,11,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2016,123531,10118,20865888,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2016,3733,0,92,47.90833333,-122.2813889
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2016,165,0,1,48.47027778,-122.4105556
+Washington,Seattle,King County Airport-Boeing Field,BFI,2016,54532,1899,7905,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2016,374,0,415257,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2016,112,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2016,329,0,765,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2016,411,0,98,47.205,-119.3155556
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2016,424,0,70961,46.56694444,-120.5377778
+Washington,Roche Harbor,Roche Harbor Airport,RCE,2016,0,0,0,48.61222222,-123.1386111
+Washington,Walla Walla,Walla Walla Regional,ALW,2016,0,0,47422,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2016,0,0,61831,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2017,35845,820,1698370,47.62,-117.5327778
+Washington,Olympia,Olympia Regional,OLM,2017,0,0,9,46.97361111,-122.9033333
+Washington,Tacoma,McChord AFB,TCM,2017,342,0,4927,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2017,131,0,60319,47.39972222,-120.2077778
+Washington,Ellensburg,Bowers Field,ELN,2017,2,0,0,47.03388889,-120.5302778
+Washington,Eastsound,Orcas Island,ESD,2017,97,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2017,820,0,376042,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2017,13,0,0,48.52638889,-123.0238889
+Washington,Hoquiam,Bowerman,HQM,2017,0,0,2,46.97111111,-123.9366667
+Washington,Seattle,Seattle/Tacoma International,SEA,2017,149142,12461,21457791,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2017,6451,0,447,47.90833333,-122.2813889
+Washington,Renton,Renton Municipal,RNT,2017,0,0,0,47.49305556,-122.2158333
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2017,178,0,0,48.47027778,-122.4105556
+Washington,Seattle,King County Airport-Boeing Field,BFI,2017,53265,1812,6707,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2017,338,0,369960,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2017,94,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2017,225,0,815,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2017,156,0,0,47.205,-119.3155556
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2017,420,0,71528,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,2017,0,0,111,47.615,-117.6569444
+Washington,Walla Walla,Walla Walla Regional,ALW,2017,0,0,49694,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2017,0,0,59246,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2018,34200,1198,1872905,47.62,-117.5327778
+Washington,Olympia,Olympia Regional,OLM,2018,0,0,8,46.97361111,-122.9033333
+Washington,Tacoma,McChord AFB,TCM,2018,477,0,3251,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2018,126,0,64491,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2018,77,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2018,822,0,395311,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2018,8,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2018,145966,10960,22720264,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2018,7494,0,306,47.90833333,-122.2813889
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2018,146,0,0,48.47027778,-122.4105556
+Washington,Seattle,King County Airport-Boeing Field,BFI,2018,57603,1837,4459,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2018,325,0,363221,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2018,89,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2018,635,0,1082,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2018,1330,0,90,47.205,-119.3155556
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2018,418,0,69467,46.56694444,-120.5377778
+Washington,Walla Walla,Walla Walla Regional,ALW,2018,0,0,49485,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2018,0,0,66645,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2019,31199,1150,1944227,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2019,679,0,3987,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2019,124,0,64610,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2019,70,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2019,492,0,438014,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2019,7,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2019,163336,10805,23528959,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2019,13673,0,389407,47.90833333,-122.2813889
+Washington,Tacoma,Tacoma Narrows,TIW,2019,0,0,14,47.26805556,-122.5769444
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2019,136,0,2,48.47027778,-122.4105556
+Washington,Seattle,King County Airport-Boeing Field,BFI,2019,48996,1446,4454,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2019,350,0,330578,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2019,99,0,2,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2019,393,0,723,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2019,1319,0,270,47.205,-119.3155556
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2019,468,0,68844,46.56694444,-120.5377778
+Washington,Roche Harbor,Roche Harbor Airport,RCE,2019,1,0,0,48.61222222,-123.1386111
+Washington,Spokane,Fairchild AFB,SKA,2019,2,0,147,47.615,-117.6569444
+Washington,Walla Walla,Walla Walla Regional,ALW,2019,0,0,49192,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2019,0,0,70560,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2020,27980,206,913221,47.62,-117.5327778
+Washington,Tacoma,McChord AFB,TCM,2020,35,0,305,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2020,153,0,27008,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2020,61,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2020,438,0,190316,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2020,6,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2020,193840,10061,9179521,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2020,11250,0,118121,47.90833333,-122.2813889
+Washington,Renton,Renton Municipal,RNT,2020,0,0,5,47.49305556,-122.2158333
+Washington,Tacoma,Tacoma Narrows,TIW,2020,0,0,7,47.26805556,-122.5769444
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2020,145,0,0,48.47027778,-122.4105556
+Washington,Bremerton,Kitsap County,PWT,2020,0,0,2,47.485,-122.7633333
+Washington,Tacoma,Gray AAF,GRF,2020,0,0,456,47.08333333,-122.5791667
+Washington,Seattle,King County Airport-Boeing Field,BFI,2020,47131,2785,5302,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2020,284,0,94484,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2020,119,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2020,362,0,949,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2020,2043,0,0,47.205,-119.3155556
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2020,482,0,31045,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,2020,0,0,0,47.615,-117.6569444
+Washington,Walla Walla,Walla Walla Regional,ALW,2020,0,0,18580,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2020,0,0,32246,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2021,32219,115,1585894,47.62,-117.5327778
+Washington,Olympia,Olympia Regional,OLM,2021,0,0,0,46.97361111,-122.9033333
+Washington,Tacoma,McChord AFB,TCM,2021,99,0,8113,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2021,158,0,48338,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2021,54,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2021,494,0,347437,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2021,11,0,0,48.52638889,-123.0238889
+Washington,Seattle,Seattle/Tacoma International,SEA,2021,191578,13207,17093751,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2021,1989,0,114892,47.90833333,-122.2813889
+Washington,Tacoma,Tacoma Narrows,TIW,2021,0,0,8,47.26805556,-122.5769444
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2021,147,0,2,48.47027778,-122.4105556
+Washington,Deer Park,,1WA,2021,0,0,5,,
+Washington,Bremerton,Kitsap County,PWT,2021,0,0,2,47.485,-122.7633333
+Washington,Tacoma,Gray AAF,GRF,2021,0,0,181,47.08333333,-122.5791667
+Washington,Seattle,King County Airport-Boeing Field,BFI,2021,44102,4603,6516,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2021,254,0,155133,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2021,109,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2021,295,0,996,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2021,1298,0,180,47.205,-119.3155556
+Washington,Shelton,Sanderson Field,SHN,2021,0,0,12,47.23388889,-123.1388889
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2021,515,0,46656,46.56694444,-120.5377778
+Washington,Walla Walla,Walla Walla Regional,ALW,2021,0,0,39138,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2021,1,0,54460,46.74472222,-117.105
+Washington,Spokane,Spokane International,GEG,2022,23881,0,1417403,47.62,-117.5327778
+Washington,Olympia,Olympia Regional,OLM,2022,0,0,1,46.97361111,-122.9033333
+Washington,Tacoma,McChord AFB,TCM,2022,93,0,8370,47.13833333,-122.475
+Washington,Wenatchee,Pangborn Memorial,EAT,2022,114,0,29962,47.39972222,-120.2077778
+Washington,Eastsound,Orcas Island,ESD,2022,18,0,0,48.70833333,-122.9125
+Washington,Pasco/Kennewick/Richland,Tri Cities,PSC,2022,352,0,288359,46.26388889,-119.1147222
+Washington,Friday Harbor,Friday Harbor Airport,FRD,2022,8,0,0,48.52638889,-123.0238889
+Washington,Prosser,Prosser Airport,RQE,2022,3,0,0,46.21222222,-119.7927778
+Washington,Hoquiam,Bowerman,HQM,2022,0,0,4,46.97111111,-123.9366667
+Washington,Seattle,Seattle/Tacoma International,SEA,2022,125913,10101,15774082,47.44916667,-122.3080556
+Washington,Everett,Snohomish County Paine Field,PAE,2022,1765,0,204287,47.90833333,-122.2813889
+Washington,Tacoma,Tacoma Narrows,TIW,2022,0,0,1,47.26805556,-122.5769444
+Washington,Burlington/Mount Vernon,Skagit Regional (Bayview),MVW,2022,89,0,4,48.47027778,-122.4105556
+Washington,Bremerton,Kitsap County,PWT,2022,13,0,0,47.485,-122.7633333
+Washington,Tacoma,Gray AAF,GRF,2022,0,0,141,47.08333333,-122.5791667
+Washington,Seattle,King County Airport-Boeing Field,BFI,2022,28992,3653,6191,47.52888889,-122.2994444
+Washington,Bellingham,Bellingham International,BLI,2022,204,0,239266,48.79444444,-122.5347222
+Washington,Port Angeles,William R. Fairchild International,CLM,2022,71,0,0,48.11888889,-123.4936111
+Washington,Whidbey Island,Whidbey Island NAS,NUW,2022,101,0,425,48.35222222,-122.6541667
+Washington,Moses Lake,Grant County International,MWH,2022,343,0,466,47.205,-119.3155556
+Washington,Yakima,Yakima Air Terminal/McAllister Field,YKM,2022,318,0,29868,46.56694444,-120.5377778
+Washington,Spokane,Fairchild AFB,SKA,2022,26,0,116,47.615,-117.6569444
+Washington,Walla Walla,Walla Walla Regional,ALW,2022,0,0,27987,46.09472222,-118.2911111
+Washington,Pullman,Pullman Moscow Regional,PUW,2022,2,0,50877,46.74472222,-117.105

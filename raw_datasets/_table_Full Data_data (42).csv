@@ -1,0 +1,230 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+South Dakota,Sioux Falls,Joe Foss Field,FSD,1990,651893,3111105,226292,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,1990,368508,882222,103836,44.04527778,-103.0569444
+South Dakota,Madison,Madison Municipal,XMD,1991,0,0,0,44.01666667,-97.08333333
+South Dakota,Aberdeen,Aberdeen Regional,ABR,1991,229,0,171,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,1991,5,0,0,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,1991,6,0,209,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,1991,44,0,0,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,1991,1288,1562,218303,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,1991,476,434,101706,44.04527778,-103.0569444
+South Dakota,Aberdeen,Aberdeen Regional,ABR,1992,222,0,113,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,1992,65,0,1,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,1992,15,0,219,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,1992,45,0,91,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,1992,1365,1768,260620,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,1992,638,455,114443,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,1992,1,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,1993,155,0,0,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,1993,69,0,0,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,1993,0,0,1924,44.145,-103.1030556
+South Dakota,Mitchell,Mitchell Municipal,MHE,1993,0,0,0,43.77527778,-98.03805556
+South Dakota,Pierre,Pierre Municipal,PIR,1993,43,0,0,44.38361111,-100.2841667
+South Dakota,Brookings,Brookings Regional,BKX,1993,0,0,0,44.30333333,-96.81111111
+South Dakota,Sioux Falls,Joe Foss Field,FSD,1993,3887,2039,241698,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,1993,5152,398,114982,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,1993,2,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,1994,225,0,0,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,1994,3,0,452,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,1994,0,0,196,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,1994,48,0,102,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,1994,7057,2120,245605,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,1994,989,298,76013,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,1994,1,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,1995,291,0,104,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,1995,0,0,190,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,1995,0,0,384,44.145,-103.1030556
+South Dakota,Chamberlain,Chamberlain Municipal,JZG,1995,0,0,0,43.765,-99.32055556
+South Dakota,Faulkton,Faulkton Municipal,UXE,1995,0,0,0,45.03194444,-99.11555556
+South Dakota,Mitchell,Mitchell Municipal,MHE,1995,1,0,0,43.77527778,-98.03805556
+South Dakota,Pierre,Pierre Municipal,PIR,1995,48,0,279,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,1995,7095,2545,240551,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,1995,964,307,111433,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,1995,2,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,1996,378,0,0,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,1996,1,0,56,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,1996,150,57,17568,44.145,-103.1030556
+South Dakota,Faulkton,Faulkton Municipal,UXE,1996,1,0,0,45.03194444,-99.11555556
+South Dakota,Mitchell,Mitchell Municipal,MHE,1996,1,0,0,43.77527778,-98.03805556
+South Dakota,Pierre,Pierre Municipal,PIR,1996,52,0,208,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,1996,5748,2835,299513,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,1996,737,322,120368,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,1996,2,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,1997,445,2,16669,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,1997,5,1,6360,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,1997,0,0,116,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,1997,77,0,8108,44.38361111,-100.2841667
+South Dakota,Brookings,Brookings Regional,BKX,1997,0,0,50,44.30333333,-96.81111111
+South Dakota,Sioux Falls,Joe Foss Field,FSD,1997,15731,2403,323863,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,1997,977,404,98336,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,1997,4,0,0,44.38361111,-98.22638889
+South Dakota,Yankton,Chan Gurney Municipal,YKN,1998,0,0,0,42.91694444,-97.38638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,1998,410,2,22745,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,1998,14,0,9742,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,1998,0,0,200,44.145,-103.1030556
+South Dakota,Chamberlain,Chamberlain Municipal,JZG,1998,1,0,0,43.765,-99.32055556
+South Dakota,Pierre,Pierre Municipal,PIR,1998,86,0,11851,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,1998,17427,1548,309046,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,1998,806,422,119639,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,1998,5,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,1999,317,0,24205,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,1999,7,0,9054,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,1999,0,0,186,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,1999,91,0,10873,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,1999,18921,4571,309044,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,1999,854,637,161241,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,1999,9,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2000,304,0,23917,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2000,2,0,6866,44.90888889,-97.15416667
+South Dakota,Mitchell,Mitchell Municipal,MHE,2000,1,0,0,43.77527778,-98.03805556
+South Dakota,Pierre,Pierre Municipal,PIR,2000,93,0,10038,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2000,18968,5139,311025,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2000,1036,487,168695,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,2000,4,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2001,226,0,22643,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2001,2,0,5322,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2001,0,0,206,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2001,99,0,9484,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2001,22949,3090,288520,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2001,893,335,146747,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,2001,1,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2002,196,0,25430,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2002,1,2,6881,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2002,0,0,282,44.145,-103.1030556
+South Dakota,Pine Ridge,Pine Ridge Airport,PRD,2002,0,0,0,43.02361111,-102.5166667
+South Dakota,Pierre,Pierre Municipal,PIR,2002,92,0,9568,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2002,17714,173,201430,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2002,768,208,127365,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,2002,1,0,151,44.38361111,-98.22638889
+South Dakota,Yankton,Chan Gurney Municipal,YKN,2003,1,0,0,42.91694444,-97.38638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2003,210,0,25938,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2003,2,0,7884,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2003,0,0,1932,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2003,97,0,9701,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2003,22089,138,250846,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2003,809,82,210232,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,2003,0,0,203,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2004,209,0,27301,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2004,0,0,8635,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2004,0,1,1945,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2004,101,0,8926,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2004,21904,18,329015,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2004,801,12,230019,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,2004,0,0,127,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2005,197,0,28609,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2005,3,0,9088,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2005,0,0,512,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2005,98,0,9326,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2005,24026,2,356274,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2005,605,2,243874,44.04527778,-103.0569444
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2006,225,0,25614,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2006,2,0,6187,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2006,38,0,574,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2006,100,0,9558,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2006,22260,0,369592,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2006,576,0,224539,44.04527778,-103.0569444
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2007,201,0,22145,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2007,4,0,5148,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2007,0,0,1088,44.145,-103.1030556
+South Dakota,Mitchell,Mitchell Municipal,MHE,2007,0,0,8,43.77527778,-98.03805556
+South Dakota,Pierre,Pierre Municipal,PIR,2007,93,0,9671,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2007,26783,0,392795,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2007,498,0,237531,44.04527778,-103.0569444
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2008,186,0,23191,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2008,3,0,4953,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2008,0,0,886,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2008,86,0,10150,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2008,24178,3,367688,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2008,419,1,272601,44.04527778,-103.0569444
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2009,159,0,21086,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2009,3,0,5820,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2009,55,0,1214,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2009,79,0,8865,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2009,23068,27,332571,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2009,399,0,266462,44.04527778,-103.0569444
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2010,174,0,20087,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2010,0,0,7803,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2010,0,0,389,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2010,66,0,10450,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2010,24090,180,355787,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2010,412,3,284060,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,2010,1,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2011,153,0,24480,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2011,0,0,8979,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2011,14,0,904,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2011,64,0,10260,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2011,24978,113,418489,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2011,387,0,254287,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,2011,1,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2012,135,0,24763,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2012,0,0,2793,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2012,56,0,288,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2012,66,0,444,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2012,24774,38,452802,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2012,401,1,252564,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,2012,1,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2013,149,0,25549,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2013,0,0,210,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2013,14,0,462,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2013,62,0,292,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2013,26149,28,481415,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2013,411,0,255756,44.04527778,-103.0569444
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2014,191,0,26388,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2014,0,0,44,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2014,11,0,723,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2014,62,0,21,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2014,25768,1,490250,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2014,428,0,266348,44.04527778,-103.0569444
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2015,180,0,27583,45.44972222,-98.42166667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2015,52,0,742,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2015,62,0,0,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2015,23161,1,488223,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2015,518,0,253309,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,2015,2,0,0,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2016,128,0,26529,45.44972222,-98.42166667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2016,67,0,473,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2016,60,0,0,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2016,23094,2,504489,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2016,422,38,267165,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,2016,2,0,165,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2017,107,0,27573,45.44972222,-98.42166667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2017,184,0,616,44.145,-103.1030556
+South Dakota,Mitchell,Mitchell Municipal,MHE,2017,0,0,3,43.77527778,-98.03805556
+South Dakota,Pierre,Pierre Municipal,PIR,2017,76,0,99,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2017,23167,0,515463,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2017,391,14,262570,44.04527778,-103.0569444
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2018,106,0,28399,45.44972222,-98.42166667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2018,282,0,473,44.145,-103.1030556
+South Dakota,Mitchell,Mitchell Municipal,MHE,2018,0,0,6,43.77527778,-98.03805556
+South Dakota,Pierre,Pierre Municipal,PIR,2018,80,0,94,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2018,24074,2,497137,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2018,376,6,259182,44.04527778,-103.0569444
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2019,80,0,29548,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2019,0,0,11681,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2019,59,0,140,44.145,-103.1030556
+South Dakota,Pierre,Pierre Municipal,PIR,2019,65,0,14586,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2019,25140,2,543112,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2019,381,0,310741,44.04527778,-103.0569444
+South Dakota,Huron,W W Howes Municipal,HON,2019,0,0,2,44.38361111,-98.22638889
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2020,120,0,14846,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2020,0,0,7225,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2020,271,0,501,44.145,-103.1030556
+South Dakota,Spearfish,Black Hills Airport,SPF,2020,0,0,1,44.4833333,-103.85
+South Dakota,Pierre,Pierre Municipal,PIR,2020,51,0,8017,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2020,26130,7,291059,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2020,400,0,170848,44.04527778,-103.0569444
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2021,117,0,21850,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2021,1,0,13285,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2021,74,0,415,44.145,-103.1030556
+South Dakota,Spearfish,Black Hills Airport,SPF,2021,0,0,23,44.4833333,-103.85
+South Dakota,Mitchell,Mitchell Municipal,MHE,2021,0,0,8,43.77527778,-98.03805556
+South Dakota,Pierre,Pierre Municipal,PIR,2021,45,0,12891,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2021,29686,2,501253,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2021,329,0,337781,44.04527778,-103.0569444
+South Dakota,Aberdeen,Aberdeen Regional,ABR,2022,81,0,16331,45.44972222,-98.42166667
+South Dakota,Watertown,Watertown Municipal,ATY,2022,0,0,91,44.90888889,-97.15416667
+South Dakota,Rapid City,Ellsworth AFB,RCA,2022,106,0,276,44.145,-103.1030556
+South Dakota,Mitchell,Mitchell Municipal,MHE,2022,1,0,0,43.77527778,-98.03805556
+South Dakota,Pierre,Pierre Municipal,PIR,2022,29,0,77,44.38361111,-100.2841667
+South Dakota,Sioux Falls,Joe Foss Field,FSD,2022,21669,11,452118,43.57888889,-96.74083333
+South Dakota,Rapid City,Rapid City Regional,RAP,2022,243,0,253001,44.04527778,-103.0569444

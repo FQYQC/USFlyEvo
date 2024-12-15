@@ -1,0 +1,391 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Alabama,Birmingham,Birmingham Airport,BHM,1990,2973556,10510616,1001538,33.56305556,-86.75555556
+Alabama,Montgomery,Dannelly Field,MGM,1990,376519,24423,107084,32.3,-86.39111111
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,1990,1602387,914831,381668,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Regional,MOB,1990,3687075,1293175,380760,30.68833333,-88.24083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,1991,0,0,239,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,1991,2861,564,379103,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,1991,0,0,61,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,1991,183,12,123635,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,1991,6202,293,332323,30.68833333,-88.24083333
+Alabama,Dothan,Dothan Regional,DHN,1991,301,0,108,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,1991,7928,5024,935761,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,1991,0,0,225,33.59027778,-85.85583333
+Alabama,Eufaula,Weedon Field,EUF,1991,1,0,0,31.95111111,-85.12888889
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,1991,0,0,1158,33.22111111,-87.61083333
+Alabama,Marion,Perry County,XWU,1991,0,0,0,32.55833333,-87.30972222
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,1992,0,0,345,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,1992,7446,651,408677,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,1992,0,0,30,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,1992,230,12,140547,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,1992,5726,476,321012,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,1992,1,0,0,34.65277778,-86.94527778
+Alabama,Selma,Selfield,SES,1992,0,0,53,32.45,-86.95
+Alabama,Dothan,Dothan Regional,DHN,1992,367,0,109,31.32,-85.44833333
+Alabama,Brundidge,Brundidge Municipal,VZI,1992,0,0,0,31.73333333,-85.80472222
+Alabama,Birmingham,Birmingham Airport,BHM,1992,6172,5755,961627,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,1992,0,0,312,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,1992,0,0,147,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,1992,0,0,855,33.22111111,-87.61083333
+Alabama,Ozark,Cairns AAF,OZR,1993,9,0,0,31.27666667,-85.71
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,1993,1,0,586,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,1993,6687,585,388951,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,1993,3,0,0,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,1993,271,8,150280,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,1993,5332,246,304161,30.68833333,-88.24083333
+Alabama,Dothan,Dothan Regional,DHN,1993,402,0,25162,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,1993,6676,5879,991290,33.56305556,-86.75555556
+Alabama,Montgomery,Maxwell AFB,MXF,1993,0,0,106,32.37916667,-86.3625
+Alabama,Eufaula,Weedon Field,EUF,1993,1,0,0,31.95111111,-85.12888889
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,1993,0,0,1092,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,1994,0,0,816,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,1994,10074,723,373421,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,1994,11,0,49,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,1994,281,7,156769,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,1994,3596,206,317048,30.68833333,-88.24083333
+Alabama,Dothan,Dothan Regional,DHN,1994,475,0,46779,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,1994,9552,6519,1047486,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,1994,0,0,300,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,1994,0,0,124,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,1994,0,0,559,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,1995,0,0,452,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,1995,7150,1079,364062,34.64277778,-86.77555556
+Alabama,Huntsville,Redstone AAF,HUA,1995,0,0,0,34.67861111,-86.68472222
+Alabama,Mobile,Mobile Aerospace,BFM,1995,449,0,0,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,1995,761,10,148398,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,1995,4112,292,266774,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,1995,1,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,1995,474,0,45335,31.32,-85.44833333
+Alabama,Auburn,Auburn-Opelika,AUO,1995,0,0,0,32.61527778,-85.43194444
+Alabama,Birmingham,Birmingham Airport,BHM,1995,10604,6893,1169624,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,1995,0,0,230,33.59027778,-85.85583333
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,1995,0,0,796,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,1996,0,0,480,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,1996,0,0,114,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,1996,5284,1101,375697,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,1996,3824,0,0,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,1996,245,2,161590,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,1996,592,371,344493,30.68833333,-88.24083333
+Alabama,Dothan,Dothan Regional,DHN,1996,275,0,49031,31.32,-85.44833333
+Alabama,Auburn,Auburn-Opelika,AUO,1996,0,0,0,32.61527778,-85.43194444
+Alabama,Birmingham,Birmingham Airport,BHM,1996,11724,6999,1313054,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,1996,0,0,264,33.59027778,-85.85583333
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,1996,0,0,908,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,1997,0,0,1298,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,1997,3985,1013,411418,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,1997,5697,0,44,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,1997,217,4,181290,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,1997,462,598,383455,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,1997,0,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,1997,52,0,51395,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,1997,20242,6161,1272068,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,1997,0,0,519,33.59027778,-85.85583333
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,1997,4,0,925,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,1998,0,0,5948,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,1998,5055,906,404685,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,1998,6550,0,495,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,1998,259,1,193838,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,1998,355,248,390045,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,1998,30,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,1998,38,0,56074,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,1998,18467,5101,1330277,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,1998,0,0,233,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,1998,57,0,0,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,1998,322,0,760,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,1999,0,0,384,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,1999,9553,884,435246,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,1999,6294,0,61,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,1999,206,4,200459,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,1999,299,147,316330,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,1999,46,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,1999,9,0,55598,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,1999,15564,5571,1421573,33.56305556,-86.75555556
+Alabama,Selma,Craig Field,SEM,1999,4,0,0,32.34388889,-86.98777778
+Alabama,Anniston,Anniston/Calhoun County,ANB,1999,0,0,207,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,1999,0,0,2592,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,1999,24,0,1080,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2000,0,0,282,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2000,131719,757,467866,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2000,5789,0,0,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2000,210,0,183542,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2000,493,131,318968,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2000,30,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2000,6,0,58272,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2000,18384,5934,1462113,33.56305556,-86.75555556
+Alabama,Selma,Craig Field,SEM,2000,4,0,0,32.34388889,-86.98777778
+Alabama,Anniston,Anniston/Calhoun County,ANB,2000,0,0,487,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2000,0,0,321,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2000,4,0,583,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2001,3,0,114,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2001,213753,12002,405996,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2001,6730,0,0,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2001,109,0,138899,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2001,396,2500207,278332,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2001,8,0,0,34.65277778,-86.94527778
+Alabama,Bessemer,Bessemer Airport,EKY,2001,0,0,0,33.31277778,-86.92583333
+Alabama,Dothan,Dothan Regional,DHN,2001,6,0,53426,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2001,20320,3788,1463095,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2001,0,0,487,33.59027778,-85.85583333
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2001,36,0,767,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2002,0,0,2010,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2002,0,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2002,40078,130,391704,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2002,5851,0,0,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2002,4,0,149871,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2002,149,124,241756,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2002,12,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2002,6,0,57898,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2002,14428,2201,1322121,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2002,0,0,687,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2002,84,0,150,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2002,0,0,983,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2003,0,0,6061,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2003,35959,66,398174,34.64277778,-86.77555556
+Alabama,Gadsden,Gadsen Municipal,GAD,2003,1,0,0,33.97361111,-86.08722222
+Alabama,Mobile,Mobile Aerospace,BFM,2003,5594,0,0,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2003,3,1,154111,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2003,145,72,232966,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2003,2,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2003,3,0,61107,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2003,14282,1983,1265827,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2003,0,0,698,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2003,0,0,488,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2003,6,0,1447,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2004,0,0,5147,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2004,0,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2004,33503,95,559471,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2004,5766,0,35,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2004,10,2,214837,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2004,185,107,301573,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2004,1,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2004,27,0,69038,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2004,14520,791,1452647,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2004,0,0,344,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2004,0,0,194,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2004,7,0,1231,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2005,0,0,6145,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2005,7,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2005,27657,8,608381,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2005,6586,0,136,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2005,24,0,203084,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2005,240,23,318358,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2005,6,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2005,26,0,68322,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2005,16266,390,1542243,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2005,6,0,437,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2005,13,0,65,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2005,0,0,1407,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2006,0,0,6473,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2006,2,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2006,36516,0,498691,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2006,8498,0,0,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2006,5,1,188228,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2006,154,0,296257,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2006,3,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2006,146,0,57552,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2006,15192,24,1497016,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2006,0,0,252,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2006,19,0,631,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2006,10,0,1181,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2007,0,0,5489,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2007,41473,0,554355,34.64277778,-86.77555556
+Alabama,Gadsden,Gadsen Municipal,GAD,2007,0,0,0,33.97361111,-86.08722222
+Alabama,Mobile,Mobile Aerospace,BFM,2007,9876,0,260,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2007,47,0,175235,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2007,76,0,284829,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2007,3,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2007,240,0,48013,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2007,13973,0,1591543,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2007,0,0,559,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2007,0,0,11,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2007,2,0,1899,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2008,0,0,5043,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2008,1,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2008,37724,0,596347,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2008,9465,0,363,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2008,13,1,163519,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2008,46,0,272011,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2008,5,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2008,235,0,47821,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2008,11221,0,1592096,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2008,6,0,366,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2008,0,0,78,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2008,0,0,1502,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2009,0,0,6894,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2009,33074,1,571082,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2009,9115,0,688,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2009,15,3,163738,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2009,33,0,275686,30.68833333,-88.24083333
+Alabama,Dothan,Dothan Regional,DHN,2009,398,0,42066,31.32,-85.44833333
+Alabama,Auburn,Auburn-Opelika,AUO,2009,3,0,0,32.61527778,-85.43194444
+Alabama,Birmingham,Birmingham Airport,BHM,2009,10119,1,1421071,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2009,0,0,635,33.59027778,-85.85583333
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2009,3,0,2084,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2010,0,0,8674,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2010,36758,0,604972,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2010,10107,0,0,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2010,22,1,194441,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2010,13,1,277229,30.68833333,-88.24083333
+Alabama,Andalusia/Opp,South Alabama Regional at Bill Benton Field,AL4,2010,0,0,114,31.30888889,-86.39388889
+Alabama,Decatur,Pryor Field Regional,DCU,2010,26,0,0,34.65277778,-86.94527778
+Alabama,Bessemer,Bessemer Airport,EKY,2010,1,0,0,33.31277778,-86.92583333
+Alabama,Dothan,Dothan Regional,DHN,2010,366,0,41436,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2010,11211,1,1433060,33.56305556,-86.75555556
+Alabama,Gulf Shores,Jack Edwards,GUF,2010,0,0,63,30.29055556,-87.67166667
+Alabama,Anniston,Anniston/Calhoun County,ANB,2010,0,0,490,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2010,0,0,336,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2010,4,0,3022,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2011,0,0,7811,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2011,1,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2011,46201,0,608718,34.64277778,-86.77555556
+Alabama,Gadsden,Gadsen Municipal,GAD,2011,7,0,0,33.97361111,-86.08722222
+Alabama,Huntsville,Redstone AAF,HUA,2011,43,0,0,34.67861111,-86.68472222
+Alabama,Mobile,Mobile Aerospace,BFM,2011,8697,0,753,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2011,42,2,188153,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2011,16,0,288461,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2011,43,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2011,210,0,46382,31.32,-85.44833333
+Alabama,Auburn,Auburn-Opelika,AUO,2011,2,0,0,32.61527778,-85.43194444
+Alabama,Birmingham,Birmingham Airport,BHM,2011,11198,3,1428972,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2011,0,0,582,33.59027778,-85.85583333
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2011,10,0,2019,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2012,0,0,3733,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2012,37,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2012,43226,0,576907,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2012,7336,0,1016,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2012,16,0,182262,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2012,21,0,277280,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2012,5,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2012,90,0,46452,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2012,11111,1,1412334,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2012,1,0,524,33.59027778,-85.85583333
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2012,10,0,2294,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2013,0,0,219,34.74527778,-87.61027778
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2013,41629,0,505266,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2013,7281,0,1291,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2013,7,0,157838,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2013,24,0,287499,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2013,8,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2013,64,0,48381,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2013,10766,12,1332937,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2013,4,0,702,33.59027778,-85.85583333
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2013,934,0,2113,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2014,0,0,114,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2014,4,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2014,42373,0,523197,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2014,6280,0,1396,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2014,336,9,169762,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2014,59,1,288280,30.68833333,-88.24083333
+Alabama,Dothan,Dothan Regional,DHN,2014,40,0,50309,31.32,-85.44833333
+Alabama,Auburn,Auburn-Opelika,AUO,2014,4,0,0,32.61527778,-85.43194444
+Alabama,Birmingham,Birmingham Airport,BHM,2014,10524,165,1298117,33.56305556,-86.75555556
+Alabama,Monroeville,Monroe County,MVC,2014,0,0,5,31.45805556,-87.35111111
+Alabama,Anniston,Anniston/Calhoun County,ANB,2014,27,0,993,33.59027778,-85.85583333
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2014,20,0,1778,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2015,0,0,71,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2015,4,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2015,42368,0,496229,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2015,6603,0,2409,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2015,60,2,175601,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2015,18,0,278049,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2015,2,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2015,37,0,46792,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2015,9980,567,1325495,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2015,1,0,1598,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2015,0,0,293,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2015,5,0,1640,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2016,0,0,0,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2016,0,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2016,47792,0,490427,34.64277778,-86.77555556
+Alabama,Gadsden,Gadsen Municipal,GAD,2016,0,0,0,33.97361111,-86.08722222
+Alabama,Huntsville,Redstone AAF,HUA,2016,75,0,0,34.67861111,-86.68472222
+Alabama,Mobile,Mobile Aerospace,BFM,2016,7064,0,1139,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2016,49,2,173207,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2016,40,11,288209,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2016,5,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2016,30,0,49406,31.32,-85.44833333
+Alabama,Auburn,Auburn-Opelika,AUO,2016,1,0,0,32.61527778,-85.43194444
+Alabama,Birmingham,Birmingham Airport,BHM,2016,9647,381,1301575,33.56305556,-86.75555556
+Alabama,Monroeville,Monroe County,MVC,2016,333,0,0,31.45805556,-87.35111111
+Alabama,Anniston,Anniston/Calhoun County,ANB,2016,26,0,1694,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2016,0,0,0,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2016,2,0,1955,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2017,0,0,92,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2017,0,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2017,48216,1,477482,34.64277778,-86.77555556
+Alabama,Gadsden,Gadsen Municipal,GAD,2017,0,0,0,33.97361111,-86.08722222
+Alabama,Mobile,Mobile Aerospace,BFM,2017,9021,0,936,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2017,69,11,152724,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2017,21,0,288210,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2017,3,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2017,64,0,47298,31.32,-85.44833333
+Alabama,Auburn,Auburn-Opelika,AUO,2017,0,0,30,32.61527778,-85.43194444
+Alabama,Birmingham,Birmingham Airport,BHM,2017,9122,366,1314981,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2017,1,0,709,33.59027778,-85.85583333
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2017,11,0,2294,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2018,3,0,271,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2018,5,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2018,51442,60,542539,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2018,9480,0,1008,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2018,43,2,159456,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2018,17,0,296023,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2018,6,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2018,44,0,52926,31.32,-85.44833333
+Alabama,Auburn,Auburn-Opelika,AUO,2018,0,0,4,32.61527778,-85.43194444
+Alabama,Birmingham,Birmingham Airport,BHM,2018,10815,97,1436970,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2018,32,0,273,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2018,14,0,75,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2018,50,0,2823,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2019,0,0,371,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2019,0,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2019,50082,0,678142,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2019,10201,0,22824,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2019,17,0,159046,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2019,21,0,273000,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2019,4,0,0,34.65277778,-86.94527778
+Alabama,Bessemer,Bessemer Airport,EKY,2019,6,0,0,33.31277778,-86.92583333
+Alabama,Dothan,Dothan Regional,DHN,2019,54,0,58833,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2019,10272,93,1490369,33.56305556,-86.75555556
+Alabama,Gulf Shores,Jack Edwards,GUF,2019,0,0,6,30.29055556,-87.67166667
+Alabama,Anniston,Anniston/Calhoun County,ANB,2019,19,0,153,33.59027778,-85.85583333
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2019,7,0,1660,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2020,0,0,205,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2020,0,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2020,26730,0,265080,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2020,10763,0,5926,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2020,15,0,70419,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2020,5,0,125996,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2020,0,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2020,78,0,23964,31.32,-85.44833333
+Alabama,Birmingham,Birmingham Airport,BHM,2020,9754,8,623459,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2020,16,0,137,33.59027778,-85.85583333
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2020,3,0,2032,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2021,0,0,571,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2021,0,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2021,17964,0,459738,34.64277778,-86.77555556
+Alabama,Huntsville,Redstone AAF,HUA,2021,25,0,0,34.67861111,-86.68472222
+Alabama,Mobile,Mobile Aerospace,BFM,2021,9879,0,2149,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2021,6,0,129002,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2021,6,0,235951,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2021,3,0,0,34.65277778,-86.94527778
+Alabama,Bessemer,Bessemer Airport,EKY,2021,0,0,0,33.31277778,-86.92583333
+Alabama,Dothan,Dothan Regional,DHN,2021,82,0,37042,31.32,-85.44833333
+Alabama,Auburn,Auburn-Opelika,AUO,2021,0,0,22,32.61527778,-85.43194444
+Alabama,Birmingham,Birmingham Airport,BHM,2021,9914,3,1081221,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2021,0,0,252,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2021,0,0,164,32.37916667,-86.3625
+Alabama,Eufaula,Weedon Field,EUF,2021,0,0,0,31.95111111,-85.12888889
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2021,12,0,3038,33.22111111,-87.61083333
+Alabama,Muscle Shoals,Northwest Alabama Regional,MSL,2022,0,0,106,34.74527778,-87.61027778
+Alabama,Talladega,Talladega Municipal,ASN,2022,0,0,0,33.56972222,-86.05083333
+Alabama,Huntsville,Huntsville International-Carl T Jones Field,HSV,2022,13089,27,432070,34.64277778,-86.77555556
+Alabama,Mobile,Mobile Aerospace,BFM,2022,6419,0,693,30.62638889,-88.06805556
+Alabama,Montgomery,Dannelly Field,MGM,2022,3,0,114005,32.3,-86.39111111
+Alabama,Mobile,Mobile Regional,MOB,2022,1,0,197241,30.68833333,-88.24083333
+Alabama,Decatur,Pryor Field Regional,DCU,2022,4,0,0,34.65277778,-86.94527778
+Alabama,Dothan,Dothan Regional,DHN,2022,47,0,30828,31.32,-85.44833333
+Alabama,Auburn,Auburn-Opelika,AUO,2022,0,0,25,32.61527778,-85.43194444
+Alabama,Birmingham,Birmingham Airport,BHM,2022,6481,0,974007,33.56305556,-86.75555556
+Alabama,Anniston,Anniston/Calhoun County,ANB,2022,2,0,0,33.59027778,-85.85583333
+Alabama,Montgomery,Maxwell AFB,MXF,2022,0,0,299,32.37916667,-86.3625
+Alabama,Tuscaloosa,Tuscaloosa Regional,TCL,2022,1,0,1649,33.22111111,-87.61083333

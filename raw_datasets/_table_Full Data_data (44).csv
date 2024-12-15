@@ -1,0 +1,1441 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Texas,Abilene,Abilene Regional,ABI,1990,0,0,0,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,1990,630841,1562364,434882,35.22722222,-101.7219444
+Texas,Brownsville,Brownsville South Padre Island International,BRO,1990,8105,0,0,25.90638889,-97.42555556
+Texas,Corpus Christi,Corpus Christi International,CRP,1990,596609,1278949,423410,27.77,-97.50083333
+Texas,Corpus Christi,Corpus Christi NAS,NGP,1990,14389,0,0,27.69277778,-97.29111111
+Texas,Dallas,Dallas Love Field,DAL,1990,4430595,485729,2879758,32.84694444,-96.85138889
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,1990,259588049,173292772,23079416,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,1990,4814454,3520163,1671244,31.80666667,-106.3772222
+Texas,Houston,Ellington Field,EFD,1990,1305400,2904,19025,29.60722222,-95.15861111
+Texas,Houston,Houston Intercontinental,IAH,1990,150524352,42120094,7810791,29.98333333,-95.34
+Texas,Laredo,Laredo International,LRD,1990,18307,0,0,27.54472222,-99.46111111
+Texas,Lubbock,Lubbock Regional,LBB,1990,663763,1093466,610986,33.66222222,-101.8227778
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,1990,1570187,648963,213185,26.17694444,-98.23972222
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,1990,602271,601205,580654,31.94083333,-102.2013889
+Texas,Austin,Robert Mueller Municipal,AUS,1990,4417592,7878981,2052435,30.29805556,-97.70138889
+Texas,San Antonio,San Antonio International,SAT,1990,13167129,15169588,2658369,29.53333333,-98.46944444
+Texas,Harlingen/San Benito,Valley International,HRL,1990,2791959,18037,529042,26.22805556,-97.65222222
+Texas,Houston,William P Hobby,HOU,1990,7617672,1580840,3966079,29.645,-95.27861111
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,1991,179673,86223,22834443,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,1991,16476,1692,1670885,31.80666667,-106.3772222
+Texas,Houston,William P Hobby,HOU,1991,4436,502,3766335,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,1991,76235,18929,7850050,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,1991,1418,0,3,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,1991,16,0,0,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,1991,9967,1,5690,29.60722222,-95.15861111
+Texas,Waco,TSTC Waco,CNW,1991,0,0,0,31.63666667,-97.07222222
+Texas,Lubbock,Lubbock Regional,LBB,1991,6887,513,543095,33.66222222,-101.8227778
+Texas,Fort Worth,Carswell AFB,FWH,1991,20,0,0,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,1991,352,0,0,31.79472222,-98.95666667
+Texas,San Antonio,Kelly AFB,SKF,1991,77,0,8056,29.38,-98.58388889
+Texas,San Antonio,San Antonio International,SAT,1991,19090,7184,2542597,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,1991,280,537,413857,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,1991,889,358,248431,26.17694444,-98.23972222
+Texas,Austin,Bergstrom AFB,BSM,1991,0,0,536,30.19472222,-97.67666667
+Texas,Longview,East Texas Regional,GGG,1991,73,0,342,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,1991,0,0,1043,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,1991,609,306,518946,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,1991,0,0,1284,31.61138889,-97.22861111
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,1991,0,0,198,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,1991,0,0,668,30.58944444,-96.36444444
+Texas,Lubbock,Reese AFB,REE,1991,0,0,453,33.59638889,-102.0419444
+Texas,Abilene,Abilene Regional,ABI,1991,143,0,0,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,1991,342,685,393674,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,1991,162,0,94,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,1991,0,0,1103,32.8175,-97.35861111
+Texas,Austin,Robert Mueller Municipal,AUS,1991,9809,3594,2021821,30.29805556,-97.70138889
+Texas,Greenville,Majors,GVT,1991,0,0,79,33.06777778,-96.06527778
+Texas,Galveston,Scholes Field,GLS,1991,0,0,102,29.2675,-94.86027778
+Texas,Paris,Cox Field,PRX,1991,0,0,72,33.63666667,-95.45027778
+Texas,Killeen,Robert Gray AAF,GRK,1991,0,0,10515,31.06472222,-97.8275
+Texas,Conroe,Lone Star Executive,CXO,1991,21,0,0,30.35194444,-95.41444444
+Texas,Corpus Christi,Corpus Christi NAS,NGP,1991,13,0,176,27.69277778,-97.29111111
+Texas,El Paso,Biggs AAF,BIF,1991,0,0,1936,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,1991,536,0,45,27.54472222,-99.46111111
+Texas,Dallas,Dallas Love Field,DAL,1991,2410,441,2794649,32.84694444,-96.85138889
+Texas,Harlingen/San Benito,Valley International,HRL,1991,4785,3,464505,26.22805556,-97.65222222
+Texas,Lufkin,Angelina County,LFK,1991,1,0,0,31.23416667,-94.75027778
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,1992,161591,96734,24671160,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,1992,11220,1925,1702472,31.80666667,-106.3772222
+Texas,Sugar Land,Sugar Land Regional,SGR,1992,2,0,0,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,1992,4960,735,4004722,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,1992,78112,21296,8358305,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,1992,4408,0,155,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,1992,1,0,133,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,1992,2340,0,365,29.60722222,-95.15861111
+Texas,Waco,TSTC Waco,CNW,1992,0,0,0,31.63666667,-97.07222222
+Texas,Lubbock,Lubbock Regional,LBB,1992,8137,583,564514,33.66222222,-101.8227778
+Texas,San Antonio,Randolph AFB,RND,1992,0,0,275,29.52944444,-98.27861111
+Texas,Fort Worth,Carswell AFB,FWH,1992,1,0,302,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,1992,272,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,1992,3,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,1992,774,0,234,29.38,-98.58388889
+Texas,San Antonio,San Antonio International,SAT,1992,19480,8725,2658767,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,1992,320,619,474660,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,1992,807,632,253595,26.17694444,-98.23972222
+Texas,Austin,Bergstrom AFB,BSM,1992,0,0,495,30.19472222,-97.67666667
+Texas,Longview,East Texas Regional,GGG,1992,0,0,1032,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,1992,0,0,1514,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,1992,645,419,506780,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,1992,0,0,2468,31.61138889,-97.22861111
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,1992,0,0,1587,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,1992,0,0,2472,30.58944444,-96.36444444
+Texas,Lubbock,Reese AFB,REE,1992,0,0,302,33.59638889,-102.0419444
+Texas,Abilene,Abilene Regional,ABI,1992,172,0,1598,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,1992,0,0,755,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,1992,311,803,412107,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,1992,266,0,1101,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,1992,0,0,451,32.8175,-97.35861111
+Texas,Austin,Robert Mueller Municipal,AUS,1992,11426,3867,2134157,30.29805556,-97.70138889
+Texas,Tyler,Tyler Pounds Regional,TYR,1992,14,0,1367,32.35472222,-95.39888889
+Texas,Greenville,Majors,GVT,1992,0,0,0,33.06777778,-96.06527778
+Texas,Killeen,Robert Gray AAF,GRK,1992,0,0,12763,31.06472222,-97.8275
+Texas,Mineral Wells,Mineral Wells Airport,MWL,1992,0,0,0,32.78222222,-98.06111111
+Texas,Hondo,Hondo Municipal,VWX,1992,0,0,0,29.35972222,-99.17666667
+Texas,Corpus Christi,Corpus Christi NAS,NGP,1992,1,0,221,27.69277778,-97.29111111
+Texas,El Paso,Biggs AAF,BIF,1992,0,0,1432,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,1992,1046,0,881,27.54472222,-99.46111111
+Texas,Dallas,Dallas Love Field,DAL,1992,4340,644,2946153,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,1992,0,0,128,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,1992,6407,6,501594,26.22805556,-97.65222222
+Texas,Alpine,Alpine Casparis Municipal,ALE,1993,17,0,0,30.38416667,-103.6830556
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,1993,191060,103998,24652896,32.89638889,-97.04111111
+Texas,Sweetwater,Avenger Field,SWW,1993,2,0,0,32.4675,-100.4666667
+Texas,El Paso,El Paso International,ELP,1993,14715,2165,1766325,31.80666667,-106.3772222
+Texas,Houston,William P Hobby,HOU,1993,4841,1209,4061425,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,1993,79300,22390,8696901,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,1993,5351,0,10135,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,1993,113,0,476,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,1993,2909,0,0,29.60722222,-95.15861111
+Texas,Waco,TSTC Waco,CNW,1993,0,0,0,31.63666667,-97.07222222
+Texas,Lubbock,Lubbock Regional,LBB,1993,7703,454,588130,33.66222222,-101.8227778
+Texas,Fort Worth,Carswell AFB,FWH,1993,0,0,131,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,1993,357,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,1993,2,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,1993,2883,0,4266,29.38,-98.58388889
+Texas,San Antonio,San Antonio International,SAT,1993,15559,9718,2753008,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,1993,313,594,454325,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,1993,727,723,249789,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,1993,7,5,30748,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,1993,26,0,38795,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,1993,697,398,533093,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,1993,5,8,42013,31.61138889,-97.22861111
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,1993,24,1,36371,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,1993,1,0,45134,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,1993,222,4,38051,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,1993,2,0,40504,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,1993,263,681,423600,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,1993,345,5,40457,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,1993,0,0,111,32.8175,-97.35861111
+Texas,Austin,Robert Mueller Municipal,AUS,1993,19488,4160,2268486,30.29805556,-97.70138889
+Texas,Tyler,Tyler Pounds Regional,TYR,1993,28,6,56927,32.35472222,-95.39888889
+Texas,Coleman,Coleman Municipal,COM,1993,0,0,0,31.84111111,-99.40361111
+Texas,Killeen,Robert Gray AAF,GRK,1993,0,0,17350,31.06472222,-97.8275
+Texas,Corpus Christi,Corpus Christi NAS,NGP,1993,0,0,94,27.69277778,-97.29111111
+Texas,El Paso,Biggs AAF,BIF,1993,91,0,4722,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,1993,7130,5,18946,27.54472222,-99.46111111
+Texas,Dallas,Dallas Love Field,DAL,1993,5166,1509,3197237,32.84694444,-96.85138889
+Texas,Del Rio,Laughlin AFB,DLF,1993,0,0,124,29.35972222,-100.7772222
+Texas,Del Rio,Del Rio International,DRT,1993,3,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,1993,6138,4,521062,26.22805556,-97.65222222
+Texas,Victoria,Victoria County Foster,VCT,1994,0,0,0,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,1994,178085,97353,25485997,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,1994,16571,2367,1870415,31.80666667,-106.3772222
+Texas,Houston,William P Hobby,HOU,1994,5463,1638,3914587,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,1994,84864,26654,9680708,29.98333333,-95.34
+Texas,Temple,Draughon-Miller Central Texas Regional,TPL,1994,0,0,0,31.15027778,-97.40916667
+Texas,Brownsville,Brownsville South Padre Island International,BRO,1994,4659,3,64263,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,1994,22,0,454,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,1994,3582,0,104,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,1994,8759,38,600318,33.66222222,-101.8227778
+Texas,Brownwood,Brownwood Regional,BWD,1994,400,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,1994,0,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,1994,1227,0,1508,29.38,-98.58388889
+Texas,San Antonio,San Antonio International,SAT,1994,13502,10585,2946868,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,1994,367,563,459457,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,1994,655,695,315623,26.17694444,-98.23972222
+Texas,Austin,Bergstrom AFB,BSM,1994,0,0,554,30.19472222,-97.67666667
+Texas,Longview,East Texas Regional,GGG,1994,5,2,30040,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,1994,11,0,39950,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,1994,710,460,550749,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,1994,9,0,22996,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,1994,0,0,0,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,1994,15,3,59843,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,1994,4,2,56502,30.58944444,-96.36444444
+Texas,Lubbock,Reese AFB,REE,1994,0,0,609,33.59638889,-102.0419444
+Texas,Abilene,Abilene Regional,ABI,1994,325,1,24766,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,1994,4,0,24645,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,1994,226,318,444106,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,1994,395,5,52878,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,1994,0,0,563,32.8175,-97.35861111
+Texas,Austin,Robert Mueller Municipal,AUS,1994,35903,4494,2503058,30.29805556,-97.70138889
+Texas,Tyler,Tyler Pounds Regional,TYR,1994,65,4,64442,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,1994,0,0,20090,31.06472222,-97.8275
+Texas,Conroe,Lone Star Executive,CXO,1994,2,0,0,30.35194444,-95.41444444
+Texas,Corpus Christi,Corpus Christi NAS,NGP,1994,0,0,125,27.69277778,-97.29111111
+Texas,El Paso,Biggs AAF,BIF,1994,0,0,4166,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,1994,2859,2,28835,27.54472222,-99.46111111
+Texas,Dallas,Dallas Love Field,DAL,1994,7317,3285,3417011,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,1994,0,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,1994,3763,0,464455,26.22805556,-97.65222222
+Texas,Victoria,Victoria County Foster,VCT,1995,20,0,18597,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,1995,184227,102152,25992382,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,1995,21468,2301,1821970,31.80666667,-106.3772222
+Texas,Houston,William P Hobby,HOU,1995,5415,1471,3904297,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,1995,75766,35338,10952007,29.98333333,-95.34
+Texas,Temple,Draughon-Miller Central Texas Regional,TPL,1995,0,0,15842,31.15027778,-97.40916667
+Texas,Brownsville,Brownsville South Padre Island International,BRO,1995,5549,4,71297,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,1995,0,0,333,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,1995,2973,0,43821,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,1995,8879,20,566172,33.66222222,-101.8227778
+Texas,Brownwood,Brownwood Regional,BWD,1995,303,0,0,31.79472222,-98.95666667
+Texas,San Antonio,Kelly AFB,SKF,1995,39,0,536,29.38,-98.58388889
+Texas,San Antonio,San Antonio International,SAT,1995,15001,12345,2975609,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,1995,429,506,487767,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,1995,535,811,311062,26.17694444,-98.23972222
+Texas,Austin,Bergstrom AFB,BSM,1995,0,0,224,30.19472222,-97.67666667
+Texas,Longview,East Texas Regional,GGG,1995,4,0,16110,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,1995,8,0,38800,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,1995,786,469,526596,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,1995,10,0,52572,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,1995,0,0,139,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,1995,7,5,83157,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,1995,8,2,75444,30.58944444,-96.36444444
+Texas,Lubbock,Reese AFB,REE,1995,0,0,468,33.59638889,-102.0419444
+Texas,Abilene,Abilene Regional,ABI,1995,362,0,19203,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,1995,3,0,59489,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,1995,236,347,429873,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,1995,367,7,45005,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,1995,11,0,0,32.8175,-97.35861111
+Texas,Austin,Robert Mueller Municipal,AUS,1995,20139,4676,2639609,30.29805556,-97.70138889
+Texas,Tyler,Tyler Pounds Regional,TYR,1995,39,1,26636,32.35472222,-95.39888889
+Texas,Greenville,Majors,GVT,1995,0,0,99,33.06777778,-96.06527778
+Texas,Killeen,Robert Gray AAF,GRK,1995,0,0,11911,31.06472222,-97.8275
+Texas,Hondo,Hondo Municipal,VWX,1995,0,0,0,29.35972222,-99.17666667
+Texas,Corpus Christi,Corpus Christi NAS,NGP,1995,0,0,123,27.69277778,-97.29111111
+Texas,El Paso,Biggs AAF,BIF,1995,0,0,5428,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,1995,6769,1,23547,27.54472222,-99.46111111
+Texas,Dallas,Dallas Love Field,DAL,1995,7658,3654,3415454,32.84694444,-96.85138889
+Texas,Del Rio,Laughlin AFB,DLF,1995,0,0,140,29.35972222,-100.7772222
+Texas,Del Rio,Del Rio International,DRT,1995,3,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,1995,4005,0,488824,26.22805556,-97.65222222
+Texas,Lufkin,Angelina County,LFK,1995,2,0,0,31.23416667,-94.75027778
+Texas,Corsicana,C David Campbell Field-Corsicana Municipal,CRS,1995,0,0,0,32.0275,-96.39805556
+Texas,Victoria,Victoria County Foster,VCT,1996,11,0,18915,28.85111111,-96.91444444
+Texas,Big Spring,Big Spring McMahon-Wrinkle,BGS,1996,0,0,0,32.21444444,-101.525
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,1996,193363,104532,26639351,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,1996,29370,2117,1802684,31.80666667,-106.3772222
+Texas,Houston,William P Hobby,HOU,1996,5370,1534,4026140,29.645,-95.27861111
+Texas,Sonora,Sonora Municipal,FVD,1996,1,0,0,30.58583333,-100.6486111
+Texas,Houston,Houston Intercontinental,IAH,1996,86105,38402,11621912,29.98333333,-95.34
+Texas,Temple,Draughon-Miller Central Texas Regional,TPL,1996,0,0,0,31.15027778,-97.40916667
+Texas,Brownsville,Brownsville South Padre Island International,BRO,1996,6553,0,72953,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,1996,0,0,444,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,1996,3887,1,47322,29.60722222,-95.15861111
+Texas,Waco,TSTC Waco,CNW,1996,0,0,173,31.63666667,-97.07222222
+Texas,Lubbock,Lubbock Regional,LBB,1996,8066,26,606700,33.66222222,-101.8227778
+Texas,Rockport,Aransas County,RKP,1996,0,0,0,28.08666667,-97.04444444
+Texas,Cotulla,Cotulla-La Salle County,COT,1996,1,0,0,28.45694444,-99.21861111
+Texas,Brownwood,Brownwood Regional,BWD,1996,260,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,1996,3,0,104,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,1996,13,0,1180,29.38,-98.58388889
+Texas,San Antonio,San Antonio International,SAT,1996,15710,12657,3319535,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,1996,503,531,469839,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,1996,791,985,301582,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,1996,3,0,893,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,1996,12,0,47416,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,1996,907,494,534518,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,1996,0,1,54654,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,1996,47,0,130,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,1996,5,9,98370,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,1996,6,5,86889,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,1996,438,0,14337,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,1996,6,0,76775,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,1996,230,358,448262,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,1996,369,13,47024,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,1996,8,0,140,32.8175,-97.35861111
+Texas,Austin,Robert Mueller Municipal,AUS,1996,27601,4892,2829581,30.29805556,-97.70138889
+Texas,Tyler,Tyler Pounds Regional,TYR,1996,26,4,58943,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,1996,0,0,18261,31.06472222,-97.8275
+Texas,Hondo,Hondo Municipal,VWX,1996,8,0,0,29.35972222,-99.17666667
+Texas,El Paso,Biggs AAF,BIF,1996,0,0,2512,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,1996,14415,0,21044,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,1996,0,0,126,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,1996,8628,3801,3540539,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,1996,0,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,1996,3951,3,468257,26.22805556,-97.65222222
+Texas,Victoria,Victoria County Foster,VCT,1997,8,1,21656,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,1997,298015,106769,27294258,32.89638889,-97.04111111
+Texas,Sweetwater,Avenger Field,SWW,1997,0,0,0,32.4675,-100.4666667
+Texas,El Paso,El Paso International,ELP,1997,35831,2086,1558522,31.80666667,-106.3772222
+Texas,Houston,William P Hobby,HOU,1997,6143,2598,3666386,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,1997,83045,39697,12694730,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,1997,6519,0,81418,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,1997,0,0,284,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,1997,24845,0,50503,29.60722222,-95.15861111
+Texas,Waco,TSTC Waco,CNW,1997,0,0,106,31.63666667,-97.07222222
+Texas,Lubbock,Lubbock Regional,LBB,1997,6936,24,557398,33.66222222,-101.8227778
+Texas,Brownwood,Brownwood Regional,BWD,1997,317,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,1997,2,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,1997,0,0,3044,29.38,-98.58388889
+Texas,San Antonio,San Antonio International,SAT,1997,42996,12740,3158086,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,1997,354,586,454098,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,1997,555,1043,310053,26.17694444,-98.23972222
+Texas,Austin,Austin - Bergstrom International,BSM,1997,14136,187,9,30.19444444,-97.67
+Texas,Longview,East Texas Regional,GGG,1997,3,0,747,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,1997,6,0,54052,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,1997,979,492,494562,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,1997,0,1,58668,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,1997,12337,0,173,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,1997,4,5,107143,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,1997,3,3,93230,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,1997,520,2,3799,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,1997,4,1,84963,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,1997,219,312,422378,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,1997,249,14,40877,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,1997,10,0,6394,32.8175,-97.35861111
+Texas,Austin,Robert Mueller Municipal,AUS,1997,17550,5118,2861803,30.29805556,-97.70138889
+Texas,Tyler,Tyler Pounds Regional,TYR,1997,28,2,64774,32.35472222,-95.39888889
+Texas,Greenville,Majors,GVT,1997,0,0,379,33.06777778,-96.06527778
+Texas,Alice,Alice International,ALI,1997,0,0,0,27.74083333,-98.02722222
+Texas,Killeen,Robert Gray AAF,GRK,1997,25,0,16323,31.06472222,-97.8275
+Texas,Hondo,Hondo Municipal,VWX,1997,21,0,0,29.35972222,-99.17666667
+Texas,Corpus Christi,Corpus Christi NAS,NGP,1997,0,0,105,27.69277778,-97.29111111
+Texas,El Paso,Biggs AAF,BIF,1997,51,0,605,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,1997,16523,0,25576,27.54472222,-99.46111111
+Texas,Mount Pleasant,Mount Pleasant Municipal,MPS,1997,0,0,0,33.12861111,-94.97583333
+Texas,Dallas,Dallas Love Field,DAL,1997,8928,3075,3138139,32.84694444,-96.85138889
+Texas,Del Rio,Laughlin AFB,DLF,1997,0,0,95,29.35972222,-100.7772222
+Texas,Harlingen/San Benito,Valley International,HRL,1997,4305,0,433776,26.22805556,-97.65222222
+Texas,Lufkin,Angelina County,LFK,1997,33,0,0,31.23416667,-94.75027778
+Texas,Victoria,Victoria County Foster,VCT,1998,15,1,23218,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,1998,283760,109388,28288866,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,1998,27643,2089,1637405,31.80666667,-106.3772222
+Texas,Kerrville,Kerrville Municipal/Louis Schreiner Field,ERV,1998,0,0,0,29.97666667,-99.08555556
+Texas,Houston,William P Hobby,HOU,1998,9285,3561,4223014,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,1998,85387,39827,13784260,29.98333333,-95.34
+Texas,Ft. Stockton,Fort Stockton Pecos County,FST,1998,0,0,0,30.915,-102.9125
+Texas,Brownsville,Brownsville South Padre Island International,BRO,1998,8321,2,76858,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,1998,0,0,642,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,1998,29405,0,49684,29.60722222,-95.15861111
+Texas,Waco,TSTC Waco,CNW,1998,0,0,0,31.63666667,-97.07222222
+Texas,Lubbock,Lubbock Regional,LBB,1998,7333,40,597462,33.66222222,-101.8227778
+Texas,San Antonio,Randolph AFB,RND,1998,0,0,86,29.52944444,-98.27861111
+Texas,Rockport,Aransas County,RKP,1998,0,0,0,28.08666667,-97.04444444
+Texas,Cotulla,Cotulla-La Salle County,COT,1998,0,0,0,28.45694444,-99.21861111
+Texas,Brownwood,Brownwood Regional,BWD,1998,307,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,1998,2,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,1998,0,0,256,29.38,-98.58388889
+Texas,San Antonio,San Antonio International,SAT,1998,83759,11302,3307842,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,1998,302,283,489007,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,1998,784,958,305035,26.17694444,-98.23972222
+Texas,Austin,Austin - Bergstrom International,BSM,1998,41145,251,0,30.19444444,-97.67
+Texas,Longview,East Texas Regional,GGG,1998,0,8,27621,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,1998,4,0,64062,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,1998,1057,523,530224,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,1998,5,1,71245,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,1998,47596,0,0,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,1998,8,3,116082,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,1998,0,1,109755,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,1998,499,5,55152,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,1998,4,0,95701,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,1998,287,420,454136,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,1998,204,34,52305,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,1998,0,0,1714,32.8175,-97.35861111
+Texas,Austin,Robert Mueller Municipal,AUS,1998,5421,5435,3028297,30.29805556,-97.70138889
+Texas,Tyler,Tyler Pounds Regional,TYR,1998,37,0,80395,32.35472222,-95.39888889
+Texas,Greenville,Majors,GVT,1998,0,0,0,33.06777778,-96.06527778
+Texas,Killeen,Robert Gray AAF,GRK,1998,43,0,19463,31.06472222,-97.8275
+Texas,Conroe,Lone Star Executive,CXO,1998,20,0,0,30.35194444,-95.41444444
+Texas,Hondo,Hondo Municipal,VWX,1998,0,0,0,29.35972222,-99.17666667
+Texas,Corpus Christi,Corpus Christi NAS,NGP,1998,0,0,105,27.69277778,-97.29111111
+Texas,El Paso,Biggs AAF,BIF,1998,0,0,952,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,1998,14213,2,73304,27.54472222,-99.46111111
+Texas,Dallas,Dallas Love Field,DAL,1998,8617,2793,3362796,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,1998,5,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,1998,5133,0,481584,26.22805556,-97.65222222
+Texas,Lufkin,Angelina County,LFK,1998,32,0,0,31.23416667,-94.75027778
+Texas,Eagle Pass,Eagle Pass Airport,EGP,1998,0,0,52,28.70222222,-100.4805556
+Texas,Victoria,Victoria County Foster,VCT,1999,17,0,19977,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,1999,274762,118945,27592758,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,1999,39149,2590,1659416,31.80666667,-106.3772222
+Texas,Houston,William P Hobby,HOU,1999,8041,3101,4214715,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,1999,87851,41365,14735065,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,1999,7517,0,71830,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,1999,0,0,96,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,1999,30206,0,46217,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,1999,8375,26,565143,33.66222222,-101.8227778
+Texas,Brownwood,Brownwood Regional,BWD,1999,311,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,1999,6,0,0,32.96833333,-96.83611111
+Texas,Dallas/Fort Worth,Dallas North,DNE,1999,0,0,204,33.07888889,-96.73833333
+Texas,San Antonio,San Antonio International,SAT,1999,43016,12284,3340356,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,1999,231,159,449443,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,1999,1145,901,310792,26.17694444,-98.23972222
+Texas,Austin,Austin - Bergstrom International,BSM,1999,38001,29,170,30.19444444,-97.67
+Texas,Longview,East Texas Regional,GGG,1999,0,8,30425,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,1999,19,1,55891,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,1999,933,510,469932,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,1999,0,2,66904,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,1999,77534,0,0,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,1999,4,6,97111,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,1999,0,1,92645,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,1999,627,7,47927,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,1999,2,0,90383,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,1999,290,447,431161,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,1999,211,19,39338,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,1999,6,0,1139,32.8175,-97.35861111
+Texas,Austin,Robert Mueller Municipal,AUS,1999,2591,1299,735034,30.29805556,-97.70138889
+Texas,Austin,Austin - Bergstrom International,AUS,1999,43360,3863,2557139,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,1999,30,0,70022,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,1999,44,0,20234,31.06472222,-97.8275
+Texas,Conroe,Lone Star Executive,CXO,1999,0,0,0,30.35194444,-95.41444444
+Texas,Hondo,Hondo Municipal,VWX,1999,0,0,0,29.35972222,-99.17666667
+Texas,El Paso,Biggs AAF,BIF,1999,0,0,1635,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,1999,11487,15,79521,27.54472222,-99.46111111
+Texas,Dallas,Dallas Love Field,DAL,1999,32761,2077,3414304,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,1999,17,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,1999,7058,0,469180,26.22805556,-97.65222222
+Texas,Lufkin,Angelina County,LFK,1999,1,0,0,31.23416667,-94.75027778
+Texas,Victoria,Victoria County Foster,VCT,2000,18,0,18669,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2000,457272,113860,27877375,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2000,43135,2629,1645036,31.80666667,-106.3772222
+Texas,Houston,William P Hobby,HOU,2000,7316,3101,4322108,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2000,91271,44288,15816729,29.98333333,-95.34
+Texas,Ft. Stockton,Fort Stockton Pecos County,FST,2000,0,0,0,30.915,-102.9125
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2000,8795,0,68700,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2000,0,0,97,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2000,33111,0,39292,29.60722222,-95.15861111
+Texas,Waco,TSTC Waco,CNW,2000,0,0,0,31.63666667,-97.07222222
+Texas,Lubbock,Lubbock Regional,LBB,2000,7231,14,573588,33.66222222,-101.8227778
+Texas,Brownwood,Brownwood Regional,BWD,2000,335,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2000,46,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2000,0,0,204,29.38,-98.58388889
+Texas,Dallas/Fort Worth,Dallas North,DNE,2000,0,0,108,33.07888889,-96.73833333
+Texas,San Antonio,San Antonio International,SAT,2000,42990,13546,3475444,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2000,253,186,440002,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2000,1046,911,317763,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,2000,1,2,34051,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2000,3,16,54688,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2000,1038,484,459839,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2000,317,22,63103,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2000,109899,0,142,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2000,2,0,89516,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2000,0,0,90354,30.58944444,-96.36444444
+Texas,Lake Jackson,Brazoria County,LJN,2000,0,0,2431,29.03833333,-95.45694444
+Texas,Abilene,Abilene Regional,ABI,2000,524,1,58433,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,2000,0,0,99815,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,2000,273,386,433175,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2000,251,15,47542,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2000,0,0,913,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2000,64163,5367,3637473,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2000,36,0,67111,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,2000,2,0,17242,31.06472222,-97.8275
+Texas,Hondo,Hondo Municipal,VWX,2000,0,0,0,29.35972222,-99.17666667
+Texas,Corpus Christi,Corpus Christi NAS,NGP,2000,0,0,73,27.69277778,-97.29111111
+Texas,El Paso,Biggs AAF,BIF,2000,0,0,826,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2000,11187,0,87082,27.54472222,-99.46111111
+Texas,Dallas,Dallas Love Field,DAL,2000,9646,2060,3594539,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2000,23,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2000,6171,0,466902,26.22805556,-97.65222222
+Texas,Lufkin,Angelina County,LFK,2000,1,0,0,31.23416667,-94.75027778
+Texas,Eagle Pass,Eagle Pass Airport,EGP,2000,0,0,0,28.70222222,-100.4805556
+Texas,Victoria,Victoria County Foster,VCT,2001,8,0,15624,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2001,417087,78177,25198256,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2001,77847,3845,1501879,31.80666667,-106.3772222
+Texas,Houston,William P Hobby,HOU,2001,6224,1689,4120895,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2001,115958,35803,15639781,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2001,23584,0,71638,25.90638889,-97.42555556
+Texas,Houston,Ellington Field,EFD,2001,44837,0,30970,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2001,6560,73,535431,33.66222222,-101.8227778
+Texas,Brownwood,Brownwood Regional,BWD,2001,362,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2001,51,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2001,1612,0,278,29.38,-98.58388889
+Texas,Dallas/Fort Worth,Dallas North,DNE,2001,0,0,0,33.07888889,-96.73833333
+Texas,Denton,Denton Municipal,DTO,2001,0,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2001,75847,8844,3254348,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2001,277,115,403728,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2001,4871,839,287683,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,2001,1,0,29749,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2001,1,0,47718,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2001,1039,307,437020,31.94083333,-102.2013889
+Texas,Bay City,Bay City Municipal,BBC,2001,0,0,0,28.97305556,-95.86333333
+Texas,Waco,Waco Regional,ACT,2001,4,0,62453,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2001,86311,0,420,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2001,1,0,73570,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2001,1,0,82823,30.58944444,-96.36444444
+Texas,Lake Jackson,Brazoria County,LJN,2001,0,0,1751,29.03833333,-95.45694444
+Texas,Abilene,Abilene Regional,ABI,2001,380,1,53591,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,2001,0,0,96632,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,2001,258,238,409123,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2001,230,15,45277,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2001,10,0,323,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2001,308303,30593,3430348,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2001,60,0,61116,32.35472222,-95.39888889
+Texas,Midland/Odessa,Midland Airpark,MDD,2001,0,0,0,32.03583333,-102.1022222
+Texas,Killeen,Robert Gray AAF,GRK,2001,2,0,18341,31.06472222,-97.8275
+Texas,Hondo,Hondo Municipal,VWX,2001,0,0,0,29.35972222,-99.17666667
+Texas,El Paso,Biggs AAF,BIF,2001,0,0,2090,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2001,11853,0,75572,27.54472222,-99.46111111
+Texas,Dallas,Dallas Love Field,DAL,2001,15647,1384,3350775,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2001,30,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2001,7096,0,436247,26.22805556,-97.65222222
+Texas,Victoria,Victoria County Foster,VCT,2002,0,0,13757,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2002,267327,39048,24093310,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2002,54846,387,1388881,31.80666667,-106.3772222
+Texas,Sugar Land,Sugar Land Regional,SGR,2002,3,0,0,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2002,7765,636,3817886,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2002,107962,23769,15223638,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2002,9995,0,68246,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2002,51,0,289,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2002,28489,0,42590,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2002,6777,98,511430,33.66222222,-101.8227778
+Texas,Brownwood,Brownwood Regional,BWD,2002,333,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2002,41,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2002,47,0,109,29.38,-98.58388889
+Texas,San Antonio,San Antonio International,SAT,2002,50305,4866,3111114,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2002,480,37,381153,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2002,830,457,268544,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,2002,0,0,25292,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2002,0,0,43065,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2002,1000,99,406017,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2002,1,0,52125,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2002,77551,1,816,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2002,0,0,54352,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2002,0,0,75628,30.58944444,-96.36444444
+Texas,Lake Jackson,Brazoria County,LJN,2002,0,0,573,29.03833333,-95.45694444
+Texas,Abilene,Abilene Regional,ABI,2002,368,1,46031,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,2002,0,0,102149,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,2002,298,94,379390,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2002,232,16,39910,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2002,104,0,757,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2002,113783,1937,3155727,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2002,0,0,55624,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,2002,3,0,16466,31.06472222,-97.8275
+Texas,El Paso,Biggs AAF,BIF,2002,49,0,1234,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2002,16540,0,72662,27.54472222,-99.46111111
+Texas,Dallas,Dallas Love Field,DAL,2002,7950,278,2817130,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2002,25,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2002,7186,3,390893,26.22805556,-97.65222222
+Texas,Victoria,Victoria County Foster,VCT,2003,0,0,11853,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2003,284197,37217,24545640,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2003,40161,565,1377564,31.80666667,-106.3772222
+Texas,Houston,William P Hobby,HOU,2003,8127,582,3703805,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2003,127065,20193,15576575,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2003,6522,0,60200,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2003,94,0,846,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2003,0,0,46484,29.60722222,-95.15861111
+Texas,Waco,TSTC Waco,CNW,2003,3,0,0,31.63666667,-97.07222222
+Texas,Lubbock,Lubbock Regional,LBB,2003,7585,133,507684,33.66222222,-101.8227778
+Texas,San Antonio,Randolph AFB,RND,2003,0,0,325,29.52944444,-98.27861111
+Texas,Fort Worth,Carswell AFB,FWH,2003,0,0,283,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2003,218,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2003,30,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2003,181,0,654,29.38,-98.58388889
+Texas,Dallas/Fort Worth,Dallas North,DNE,2003,0,0,239,33.07888889,-96.73833333
+Texas,Denton,Denton Municipal,DTO,2003,0,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2003,42980,4444,3045498,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2003,251,95,360796,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2003,724,425,271224,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,2003,0,1,29659,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2003,0,0,39269,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2003,1137,101,394994,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2003,3,0,56491,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2003,74231,0,997,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2003,22,0,42229,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2003,0,0,67043,30.58944444,-96.36444444
+Texas,Lake Jackson,Brazoria County,LJN,2003,0,0,6328,29.03833333,-95.45694444
+Texas,Abilene,Abilene Regional,ABI,2003,324,0,52012,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,2003,0,1,93356,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,2003,239,170,375817,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2003,256,2,48357,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2003,32,0,710,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2003,51710,1677,3131787,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2003,0,7,59951,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,2003,17,2,29941,31.06472222,-97.8275
+Texas,Conroe,Lone Star Executive,CXO,2003,1,0,0,30.35194444,-95.41444444
+Texas,Corpus Christi,Corpus Christi NAS,NGP,2003,0,0,145,27.69277778,-97.29111111
+Texas,El Paso,Biggs AAF,BIF,2003,103,0,9672,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2003,10852,0,67167,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2003,20,0,0,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,2003,9221,263,2796110,32.84694444,-96.85138889
+Texas,Del Rio,Laughlin AFB,DLF,2003,0,0,110,29.35972222,-100.7772222
+Texas,Del Rio,Del Rio International,DRT,2003,101,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2003,7046,1,391556,26.22805556,-97.65222222
+Texas,Eagle Pass,Eagle Pass Airport,EGP,2003,2,0,0,28.70222222,-100.4805556
+Texas,Victoria,Victoria County Foster,VCT,2004,0,0,10761,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2004,292080,35027,27564516,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2004,40277,640,1550828,31.80666667,-106.3772222
+Texas,Houston,William P Hobby,HOU,2004,8815,819,3960205,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2004,133922,19565,16706911,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2004,1750,0,66530,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2004,0,0,1399,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2004,0,0,30311,29.60722222,-95.15861111
+Texas,Waco,TSTC Waco,CNW,2004,0,0,11,31.63666667,-97.07222222
+Texas,Lubbock,Lubbock Regional,LBB,2004,8166,39,534233,33.66222222,-101.8227778
+Texas,San Antonio,Randolph AFB,RND,2004,0,0,703,29.52944444,-98.27861111
+Texas,Cotulla,Cotulla-La Salle County,COT,2004,12,0,0,28.45694444,-99.21861111
+Texas,Brownwood,Brownwood Regional,BWD,2004,169,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2004,49,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2004,57,0,1245,29.38,-98.58388889
+Texas,Dallas/Fort Worth,Dallas North,DNE,2004,0,0,120,33.07888889,-96.73833333
+Texas,Denton,Denton Municipal,DTO,2004,0,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2004,45191,3290,3263379,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2004,114,10,391934,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2004,668,338,301760,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,2004,0,0,23785,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2004,0,0,44379,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2004,1005,80,414883,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2004,0,0,65193,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2004,81804,0,660,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2004,0,0,53965,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2004,0,0,73571,30.58944444,-96.36444444
+Texas,Lake Jackson,Brazoria County,LJN,2004,0,0,7793,29.03833333,-95.45694444
+Texas,Abilene,Abilene Regional,ABI,2004,319,0,67754,32.41111111,-99.68166667
+Texas,Killeen,Killeen Municipal,ILE,2004,0,0,62214,31.08638889,-97.68666667
+Texas,Amarillo,Amarillo International,AMA,2004,220,77,405638,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2004,249,0,59426,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2004,55,0,1556,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2004,49801,1977,3446175,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2004,0,10,70404,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,2004,388,1,72286,31.06472222,-97.8275
+Texas,El Paso,Biggs AAF,BIF,2004,519,0,16755,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2004,11294,0,76305,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2004,2,0,0,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,2004,8743,284,2943873,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2004,34,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2004,13192,1,433383,26.22805556,-97.65222222
+Texas,Lufkin,Angelina County,LFK,2004,2,0,0,31.23416667,-94.75027778
+Texas,Eagle Pass,Eagle Pass Airport,EGP,2004,0,0,0,28.70222222,-100.4805556
+Texas,Sherman-Denison,Sherman-Denison Airport,PNX,2004,2,0,0,33.7,-96.66666667
+Texas,Victoria,Victoria County Foster,VCT,2005,0,0,5583,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2005,298716,22662,27737813,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2005,39279,315,1635162,31.80666667,-106.3772222
+Texas,Houston,William P Hobby,HOU,2005,9789,485,3957655,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2005,136576,15545,18214879,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2005,109,0,76508,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2005,0,0,498,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2005,5,0,3810,29.60722222,-95.15861111
+Texas,Waco,TSTC Waco,CNW,2005,224,0,0,31.63666667,-97.07222222
+Texas,Lubbock,Lubbock Regional,LBB,2005,9080,23,551847,33.66222222,-101.8227778
+Texas,Fort Worth,Carswell AFB,FWH,2005,36,0,174,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2005,124,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2005,21,0,9,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2005,124,0,2875,29.38,-98.58388889
+Texas,Dallas/Fort Worth,Dallas North,DNE,2005,33,0,379,33.07888889,-96.73833333
+Texas,Denton,Denton Municipal,DTO,2005,0,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2005,49555,2272,3501803,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2005,130,1,417021,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2005,616,84,352207,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,2005,0,0,23430,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2005,0,0,48480,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2005,823,58,446118,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2005,1,0,62001,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2005,106843,0,1125,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2005,0,1,25524,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2005,0,0,68313,30.58944444,-96.36444444
+Texas,Lake Jackson,Brazoria County,LJN,2005,0,0,7849,29.03833333,-95.45694444
+Texas,Abilene,Abilene Regional,ABI,2005,328,0,66921,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2005,239,79,435568,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2005,248,0,57138,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2005,5,0,377,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2005,58397,1202,3641147,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2005,0,0,70444,32.35472222,-95.39888889
+Texas,Borger,Hutchinson County,BGD,2005,2,0,0,35.70083333,-101.3930556
+Texas,Killeen,Robert Gray AAF,GRK,2005,948,0,179197,31.06472222,-97.8275
+Texas,Conroe,Lone Star Executive,CXO,2005,1,0,0,30.35194444,-95.41444444
+Texas,Hondo,Hondo Municipal,VWX,2005,3,0,0,29.35972222,-99.17666667
+Texas,El Paso,Biggs AAF,BIF,2005,1106,0,17957,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2005,8679,0,90580,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2005,7,0,0,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,2005,16900,199,2948388,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2005,51,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2005,14554,0,429384,26.22805556,-97.65222222
+Texas,Eagle Pass,Eagle Pass Airport,EGP,2005,2,0,0,28.70222222,-100.4805556
+Texas,Victoria,Victoria County Foster,VCT,2006,0,0,0,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2006,288644,28510,28330241,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2006,37572,152,1657299,31.80666667,-106.3772222
+Texas,Sugar Land,Sugar Land Regional,SGR,2006,0,0,46,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2006,11176,303,4106137,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2006,136259,16677,19614420,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2006,45,0,90518,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2006,0,0,836,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2006,57,0,1706,29.60722222,-95.15861111
+Texas,Waco,TSTC Waco,CNW,2006,0,0,0,31.63666667,-97.07222222
+Texas,Lubbock,Lubbock Regional,LBB,2006,7794,1,564026,33.66222222,-101.8227778
+Texas,San Antonio,Randolph AFB,RND,2006,0,0,41,29.52944444,-98.27861111
+Texas,Port Isabel,Port Isabel - Cameron County,TX3,2006,10,0,0,26.16611111,-97.34583333
+Texas,Fort Worth,Carswell AFB,FWH,2006,0,0,67,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2006,123,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2006,44,0,10,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2006,442,0,1797,29.38,-98.58388889
+Texas,Denver City,Denver City Airport,TX2,2006,0,0,68,32.975,-102.8422222
+Texas,Dallas/Fort Worth,Dallas North,DNE,2006,41,0,0,33.07888889,-96.73833333
+Texas,San Antonio,San Antonio International,SAT,2006,55981,2199,3792182,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2006,117,6,429347,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2006,652,59,395137,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,2006,8,0,25131,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2006,5,0,46497,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2006,907,10,473797,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2006,22,0,54441,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2006,120228,0,1148,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2006,0,0,11921,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2006,1,2,44394,30.58944444,-96.36444444
+Texas,Lake Jackson,Brazoria County,LJN,2006,0,0,10689,29.03833333,-95.45694444
+Texas,Abilene,Abilene Regional,ABI,2006,339,0,75141,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2006,267,10,438804,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2006,264,0,53498,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2006,3,0,814,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2006,57241,1230,3918155,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2006,0,0,42338,32.35472222,-95.39888889
+Texas,Galveston,Scholes Field,GLS,2006,0,0,6,29.2675,-94.86027778
+Texas,Killeen,Robert Gray AAF,GRK,2006,1391,0,182248,31.06472222,-97.8275
+Texas,El Paso,Biggs AAF,BIF,2006,1699,0,20310,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2006,9951,0,97095,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2006,17,0,0,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,2006,17170,87,3439247,32.84694444,-96.85138889
+Texas,Del Rio,Laughlin AFB,DLF,2006,0,0,82,29.35972222,-100.7772222
+Texas,Del Rio,Del Rio International,DRT,2006,217,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2006,15454,0,431340,26.22805556,-97.65222222
+Texas,Victoria,Victoria County Foster,VCT,2007,0,0,228,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2007,257756,24535,28144774,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2007,44291,51,1644538,31.80666667,-106.3772222
+Texas,Sugar Land,Sugar Land Regional,SGR,2007,0,0,13,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2007,8906,1,4236162,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2007,154653,15386,18917937,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2007,224,0,61907,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2007,17,0,1334,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2007,3,0,1893,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2007,7858,0,546231,33.66222222,-101.8227778
+Texas,Port Isabel,Port Isabel - Cameron County,TX3,2007,17,0,0,26.16611111,-97.34583333
+Texas,Brownwood,Brownwood Regional,BWD,2007,129,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2007,22,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2007,0,0,1460,29.38,-98.58388889
+Texas,Dallas/Fort Worth,Dallas North,DNE,2007,0,0,0,33.07888889,-96.73833333
+Texas,Denton,Denton Municipal,DTO,2007,4,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2007,58358,1214,3818406,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2007,61,5,330236,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2007,343,13,394642,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,2007,0,0,26311,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2007,3,0,45938,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2007,868,0,454931,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2007,1,0,54216,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2007,114144,0,1240,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2007,3,0,9153,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2007,34,1,44946,30.58944444,-96.36444444
+Texas,Lake Jackson,Brazoria County,LJN,2007,0,0,10915,29.03833333,-95.45694444
+Texas,Abilene,Abilene Regional,ABI,2007,424,0,76500,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2007,148,0,420934,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2007,271,0,57942,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2007,12,0,136,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2007,55010,810,4163054,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2007,8,0,38373,32.35472222,-95.39888889
+Texas,Galveston,Scholes Field,GLS,2007,0,0,1,29.2675,-94.86027778
+Texas,Killeen,Robert Gray AAF,GRK,2007,307,0,185150,31.06472222,-97.8275
+Texas,Conroe,Lone Star Executive,CXO,2007,0,0,28,30.35194444,-95.41444444
+Texas,Cleburne,Cleburne Municipal,TX5,2007,0,0,10,32.35388889,-97.43388889
+Texas,El Paso,Biggs AAF,BIF,2007,0,0,12382,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2007,9568,0,103308,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2007,14,0,0,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,2007,14901,0,3982972,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2007,676,0,2,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2007,17394,0,411830,26.22805556,-97.65222222
+Texas,Victoria,Victoria County Foster,VCT,2008,0,0,6156,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2008,212211,30296,26784605,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2008,30549,46,1575330,31.80666667,-106.3772222
+Texas,Sugar Land,Sugar Land Regional,SGR,2008,0,0,5,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2008,7565,0,4224493,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2008,125411,20113,18371428,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2008,167,0,52280,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2008,0,0,898,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2008,1,0,1908,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2008,5325,0,532124,33.66222222,-101.8227778
+Texas,Port Isabel,Port Isabel - Cameron County,TX3,2008,3,0,0,26.16611111,-97.34583333
+Texas,Fort Worth,Carswell AFB,FWH,2008,9,0,708,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2008,115,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2008,16,0,10,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2008,197,0,1986,29.38,-98.58388889
+Texas,Dallas/Fort Worth,Dallas North,DNE,2008,0,0,43,33.07888889,-96.73833333
+Texas,Denton,Denton Municipal,DTO,2008,0,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2008,57986,2118,3935923,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2008,54,1,277922,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2008,205,1,365753,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,2008,16,0,24760,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2008,6,0,47153,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2008,866,0,455323,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2008,0,0,63995,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2008,83518,0,617,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2008,0,0,22552,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2008,82,0,70740,30.58944444,-96.36444444
+Texas,Lake Jackson,Brazoria County,LJN,2008,0,0,8943,29.03833333,-95.45694444
+Texas,Abilene,Abilene Regional,ABI,2008,347,0,84519,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2008,135,1,426056,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2008,272,0,61642,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2008,1,0,513,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2008,48924,1069,4238030,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2008,3,0,68038,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,2008,466,0,224207,31.06472222,-97.8275
+Texas,Dalhart,Dalhart Municipal,DHT,2008,0,0,5,36.0225,-102.5472222
+Texas,Corpus Christi,Corpus Christi NAS,NGP,2008,0,0,150,27.69277778,-97.29111111
+Texas,El Paso,Biggs AAF,BIF,2008,2,0,20144,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2008,8387,0,90703,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2008,3,0,0,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,2008,12527,0,4030585,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2008,319,0,12197,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2008,15220,0,367167,26.22805556,-97.65222222
+Texas,Victoria,Victoria County Foster,VCT,2009,0,0,5625,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2009,189444,21919,26274870,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2009,32389,3,1488039,31.80666667,-106.3772222
+Texas,Sugar Land,Sugar Land Regional,SGR,2009,0,0,0,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2009,6549,0,4083898,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2009,117685,20195,18195510,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2009,162,0,69950,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2009,47,0,1112,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2009,16,0,957,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2009,10066,0,514153,33.66222222,-101.8227778
+Texas,Port Isabel,Port Isabel - Cameron County,TX3,2009,6,0,0,26.16611111,-97.34583333
+Texas,Fort Worth,Carswell AFB,FWH,2009,61,0,1132,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2009,118,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2009,16,0,1,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2009,2,0,1386,29.38,-98.58388889
+Texas,Crosbyton,Crosbyton Municipal,8F3,2009,0,0,0,33.62388889,-101.2408333
+Texas,Post,Post Garza County Municipal,TX7,2009,1,0,0,33.20361111,-101.3402778
+Texas,Dallas/Fort Worth,Dallas North,DNE,2009,0,0,51,33.07888889,-96.73833333
+Texas,San Antonio,San Antonio International,SAT,2009,53519,893,3716947,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2009,48,0,312310,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2009,206,0,360297,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,2009,3,0,24909,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2009,6,0,43948,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2009,763,0,414579,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2009,4,0,66089,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2009,55452,0,1197,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2009,0,0,21208,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2009,59,0,73223,30.58944444,-96.36444444
+Texas,Lake Jackson,Brazoria County,LJN,2009,0,0,6913,29.03833333,-95.45694444
+Texas,Abilene,Abilene Regional,ABI,2009,331,0,80953,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2009,97,0,379135,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2009,225,0,60334,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2009,0,0,726,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2009,42435,819,3999657,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2009,2,0,73174,32.35472222,-95.39888889
+Texas,Comanche,Comanche County-City,RQY,2009,1,0,0,31.91694444,-98.60027778
+Texas,Killeen,Robert Gray AAF,GRK,2009,134,0,231500,31.06472222,-97.8275
+Texas,Conroe,Lone Star Executive,CXO,2009,0,0,0,30.35194444,-95.41444444
+Texas,El Paso,Biggs AAF,BIF,2009,61,0,29046,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2009,7633,0,99177,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2009,31,0,0,32.66361111,-97.09416667
+Texas,Midland/Odessa,Odessa Schlemeyer Field,VWH,2009,0,0,6,31.92083333,-102.3872222
+Texas,Dallas,Dallas Love Field,DAL,2009,5535,0,3673023,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2009,364,0,13436,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2009,12918,0,347301,26.22805556,-97.65222222
+Texas,Uvalde,Garner Field,UVA,2009,1,0,0,29.21138889,-99.74361111
+Texas,Victoria,Victoria County Foster,VCT,2010,0,0,5038,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2010,201801,18103,26762658,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2010,44927,3,1509078,31.80666667,-106.3772222
+Texas,Dallas/Fort Worth,Redbird,RBD,2010,0,0,2,32.68027778,-96.86722222
+Texas,Houston,William P Hobby,HOU,2010,6422,0,4357456,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2010,128903,19893,18535145,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2010,159,0,84389,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2010,0,0,978,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2010,22,0,1131,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2010,17611,0,508256,33.66222222,-101.8227778
+Texas,Port Isabel,Port Isabel - Cameron County,TX3,2010,1,0,0,26.16611111,-97.34583333
+Texas,Fort Worth,Carswell AFB,FWH,2010,0,0,829,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2010,131,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2010,5,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2010,79,0,8877,29.38,-98.58388889
+Texas,Crosbyton,Crosbyton Municipal,8F3,2010,0,0,0,33.62388889,-101.2408333
+Texas,Post,Post Garza County Municipal,TX7,2010,1,0,0,33.20361111,-101.3402778
+Texas,Slaton,Slaton Municipal,TX8,2010,1,0,0,33.48472222,-101.6608333
+Texas,San Antonio,San Antonio International,SAT,2010,60835,586,3858237,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2010,38,0,335187,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2010,218,0,344288,26.17694444,-98.23972222
+Texas,San Marcos,San Marcos Municipal,QQY,2010,1,0,0,29.89333333,-97.86444444
+Texas,Longview,East Texas Regional,GGG,2010,0,0,21796,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2010,19,0,44279,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2010,882,0,445027,31.94083333,-102.2013889
+Texas,Rocksprings,Edwards County,ECU,2010,1,0,0,29.94694444,-100.1738889
+Texas,Waco,Waco Regional,ACT,2010,3,0,61398,31.61138889,-97.22861111
+Texas,Snyder,Winston Field,SNK,2010,2,0,0,32.69333333,-100.9505556
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2010,72993,0,1517,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2010,0,0,17491,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2010,43,0,72022,30.58944444,-96.36444444
+Texas,Lake Jackson,Brazoria County,LJN,2010,0,0,4519,29.03833333,-95.45694444
+Texas,Abilene,Abilene Regional,ABI,2010,331,0,73603,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2010,98,0,394479,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2010,229,0,56012,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2010,0,0,733,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2010,42950,1088,4197659,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2010,0,0,74313,32.35472222,-95.39888889
+Texas,Houston,David Wayne Hooks Memorial,DWH,2010,0,0,3,30.06388889,-95.55972222
+Texas,Killeen,Robert Gray AAF,GRK,2010,127,0,243861,31.06472222,-97.8275
+Texas,El Paso,Biggs AAF,BIF,2010,76,0,14932,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2010,11007,0,112414,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2010,5,0,0,32.66361111,-97.09416667
+Texas,Hebbronville,Jim Hogg County,HBV,2010,0,0,1,27.34944444,-98.73694444
+Texas,Georgetown,Georgetown Municipal,GTU,2010,0,0,1,30.67888889,-97.67944444
+Texas,Dallas,Dallas Love Field,DAL,2010,4876,0,3782407,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2010,496,0,13176,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2010,15437,0,374802,26.22805556,-97.65222222
+Texas,Victoria,Victoria County Foster,VCT,2011,0,0,5198,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2011,187493,12888,27169795,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2011,46004,4,1458911,31.80666667,-106.3772222
+Texas,Sugar Land,Sugar Land Regional,SGR,2011,0,0,3,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2011,6396,0,4752516,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2011,138661,19479,18308546,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2011,335,0,82882,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2011,24,0,642,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2011,2,0,1025,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2011,13098,0,502913,33.66222222,-101.8227778
+Texas,Fort Worth,Carswell AFB,FWH,2011,2,0,517,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2011,127,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2011,7,0,1,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2011,152,0,9281,29.38,-98.58388889
+Texas,Denton,Denton Municipal,DTO,2011,5,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2011,62132,380,3906678,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2011,42,0,322905,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2011,134,0,332705,26.17694444,-98.23972222
+Texas,San Marcos,San Marcos Municipal,QQY,2011,18,0,0,29.89333333,-97.86444444
+Texas,Longview,East Texas Regional,GGG,2011,2,0,21112,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2011,16,0,37248,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2011,878,0,474423,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2011,4,0,61135,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2011,91238,0,1309,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2011,0,0,13670,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2011,57,0,71450,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,2011,334,0,80404,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2011,70,0,392813,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2011,202,0,54955,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2011,16,0,402,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2011,42349,621,4427890,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2011,0,0,72596,32.35472222,-95.39888889
+Texas,Comanche,Comanche County-City,RQY,2011,2,0,0,31.91694444,-98.60027778
+Texas,Galveston,Scholes Field,GLS,2011,0,0,14,29.2675,-94.86027778
+Texas,Killeen,Robert Gray AAF,GRK,2011,640,0,219753,31.06472222,-97.8275
+Texas,Conroe,Lone Star Executive,CXO,2011,0,0,0,30.35194444,-95.41444444
+Texas,El Paso,Biggs AAF,BIF,2011,341,0,29923,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2011,11986,0,101785,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2011,23,0,3,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,2011,4525,0,3850012,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2011,528,0,8435,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2011,13502,0,359166,26.22805556,-97.65222222
+Texas,Uvalde,Garner Field,UVA,2011,1,0,0,29.21138889,-99.74361111
+Texas,Victoria,Victoria County Foster,VCT,2012,0,0,2913,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2012,185494,8824,27555822,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2012,47016,2,1442063,31.80666667,-106.3772222
+Texas,Kerrville,Kerrville Municipal/Louis Schreiner Field,ERV,2012,1,0,0,29.97666667,-99.08555556
+Texas,Sugar Land,Sugar Land Regional,SGR,2012,0,0,7,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2012,7084,0,5040691,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2012,131596,19091,18023832,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2012,354,0,81326,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2012,0,1,916,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2012,0,0,966,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2012,13783,0,475588,33.66222222,-101.8227778
+Texas,San Antonio,Randolph AFB,RND,2012,0,0,69,29.52944444,-98.27861111
+Texas,Fort Worth,Carswell AFB,FWH,2012,80,0,249,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2012,115,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2012,30,0,7,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2012,128,0,8147,29.38,-98.58388889
+Texas,Post,Post Garza County Municipal,TX7,2012,1,0,0,33.20361111,-101.3402778
+Texas,Denton,Denton Municipal,DTO,2012,3,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2012,57868,1112,3863661,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2012,37,0,313922,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2012,2803,0,327615,26.17694444,-98.23972222
+Texas,San Marcos,San Marcos Municipal,QQY,2012,2,0,0,29.89333333,-97.86444444
+Texas,Longview,East Texas Regional,GGG,2012,0,0,18786,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2012,2,0,38836,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2012,918,0,497146,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2012,6,0,59659,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2012,63039,0,1313,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2012,2,0,5569,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2012,52,0,70306,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,2012,297,0,74512,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2012,72,0,389198,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2012,192,0,56284,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2012,3,0,579,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2012,41711,504,4602805,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2012,2,0,71819,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,2012,1093,0,183501,31.06472222,-97.8275
+Texas,El Paso,Biggs AAF,BIF,2012,1500,0,24026,31.84944444,-106.3794444
+Texas,Winters,Winters Municipal,TX9,2012,1,0,0,31.94722222,-99.98583333
+Texas,Laredo,Laredo International,LRD,2012,9944,0,102042,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2012,41,0,0,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,2012,5157,0,3898208,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2012,518,0,11632,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2012,12000,0,375465,26.22805556,-97.65222222
+Texas,Uvalde,Garner Field,UVA,2012,0,0,0,29.21138889,-99.74361111
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2013,201649,9559,28490680,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2013,45617,0,1362754,31.80666667,-106.3772222
+Texas,Sugar Land,Sugar Land Regional,SGR,2013,0,0,14,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2013,7365,0,5371817,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2013,130907,16015,17790754,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2013,221,0,98704,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2013,46,0,350,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2013,0,0,1106,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2013,20290,0,454123,33.66222222,-101.8227778
+Texas,Fort Worth,Carswell AFB,FWH,2013,74,0,1070,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2013,112,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2013,17,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2013,212,0,7079,29.38,-98.58388889
+Texas,Dallas/Fort Worth,Dallas North,DNE,2013,0,0,40,33.07888889,-96.73833333
+Texas,Denton,Denton Municipal,DTO,2013,12,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2013,53757,1204,3825514,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2013,32,0,317578,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2013,2979,0,335354,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,2013,0,0,20800,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2013,0,0,45289,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2013,994,23,506054,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2013,6,0,62549,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2013,61781,0,925,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2013,4,0,35598,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2013,63,0,86971,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,2013,300,3,82616,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2013,87,0,370152,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2013,195,0,62107,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2013,0,0,42,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2013,42341,677,4898870,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2013,8,0,85576,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,2013,1577,0,195896,31.06472222,-97.8275
+Texas,El Paso,Biggs AAF,BIF,2013,579,0,20446,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2013,8949,0,105733,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2013,4,0,0,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,2013,4942,0,4016550,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2013,587,0,3281,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2013,14984,0,347752,26.22805556,-97.65222222
+Texas,Fort Worth,Fort Worth Spinks,FWS,2013,0,0,19,32.56527778,-97.30805556
+Texas,Mesquite,Mesquite Metro,TX1,2013,0,0,2,32.74694444,-96.53055556
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2014,220479,9076,30194805,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2014,44558,1,1395250,31.80666667,-106.3772222
+Texas,Sugar Land,Sugar Land Regional,SGR,2014,0,0,0,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2014,7229,0,5796162,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2014,133045,18966,18419147,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2014,318,0,182645,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2014,31,0,344,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2014,3,0,978,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2014,20822,4,451120,33.66222222,-101.8227778
+Texas,Fort Worth,Carswell AFB,FWH,2014,15,0,234,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2014,114,0,0,31.79472222,-98.95666667
+Texas,Midlothian/Waxahachie,Mid Way Regional,JWY,2014,0,0,4,32.45833333,-96.9125
+Texas,Dallas,Addison,ADS,2014,76,0,0,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2014,103,0,2363,29.38,-98.58388889
+Texas,Denton,Denton Municipal,DTO,2014,58,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2014,56614,1077,3877468,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2014,37,0,347894,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2014,3078,0,378165,26.17694444,-98.23972222
+Texas,San Marcos,San Marcos Municipal,QQY,2014,7,0,0,29.89333333,-97.86444444
+Texas,Longview,East Texas Regional,GGG,2014,3,0,21865,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2014,0,0,46889,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2014,1004,0,547322,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2014,6,0,66589,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2014,62876,0,1445,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2014,0,0,38210,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2014,67,0,91055,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,2014,316,0,93756,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2014,79,0,362280,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2014,188,0,65954,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2014,0,0,1026,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2014,38432,816,5170934,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2014,0,0,86615,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,2014,2018,0,189529,31.06472222,-97.8275
+Texas,El Paso,Biggs AAF,BIF,2014,1359,0,20538,31.84944444,-106.3794444
+Texas,Wichita Falls,Kickapoo Downtown,KIP,2014,0,0,15,33.86055556,-98.49027778
+Texas,Laredo,Laredo International,LRD,2014,9280,0,116520,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2014,20,0,0,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,2014,5039,0,4518537,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2014,597,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2014,13578,0,293294,26.22805556,-97.65222222
+Texas,Mesquite,Mesquite Metro,TX1,2014,0,0,1,32.74694444,-96.53055556
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2015,217597,21221,30883488,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2015,47505,2,1371098,31.80666667,-106.3772222
+Texas,Brady,Curtis Field,BBD,2015,2,0,0,31.17916667,-99.32388889
+Texas,Sugar Land,Sugar Land Regional,SGR,2015,0,0,2,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2015,7002,7,5935064,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2015,129344,23399,19134130,29.98333333,-95.34
+Texas,Temple,Draughon-Miller Central Texas Regional,TPL,2015,4,0,3,31.15027778,-97.40916667
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2015,1242,0,140947,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2015,4,0,0,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2015,6,0,470,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2015,20174,3,441494,33.66222222,-101.8227778
+Texas,Fort Worth,Carswell AFB,FWH,2015,0,0,41,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2015,91,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2015,79,0,2,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2015,110,0,1333,29.38,-98.58388889
+Texas,Denton,Denton Municipal,DTO,2015,103,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2015,56483,1260,3912300,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2015,33,1,332018,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2015,2903,0,386871,26.17694444,-98.23972222
+Texas,San Marcos,San Marcos Municipal,QQY,2015,4,0,0,29.89333333,-97.86444444
+Texas,Longview,East Texas Regional,GGG,2015,0,0,20965,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2015,3,0,44234,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2015,832,10,518315,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2015,45,0,62795,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2015,69090,0,1747,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2015,0,0,33747,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2015,62,0,89668,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,2015,251,0,85877,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2015,72,0,336733,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2015,200,0,63804,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2015,3,0,131,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2015,40639,1319,5721206,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2015,1,0,72288,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,2015,1731,0,176895,31.06472222,-97.8275
+Texas,Grand Prairie,Grand Prairie Municipal,GPM,2015,0,0,0,32.69833333,-97.04666667
+Texas,Junction,Kimble County,JCT,2015,1,0,0,30.51111111,-99.76277778
+Texas,Hondo,Hondo Municipal,VWX,2015,0,0,0,29.35972222,-99.17666667
+Texas,El Paso,Biggs AAF,BIF,2015,1693,0,24997,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2015,8300,0,109292,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2015,62,0,0,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,2015,7069,0,7035213,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2015,626,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2015,15281,0,259864,26.22805556,-97.65222222
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2016,255063,27607,30492628,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2016,44593,1,1392017,31.80666667,-106.3772222
+Texas,Brady,Curtis Field,BBD,2016,1,0,0,31.17916667,-99.32388889
+Texas,Sugar Land,Sugar Land Regional,SGR,2016,0,0,0,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2016,5023,1,6280321,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2016,124851,15886,18459163,29.98333333,-95.34
+Texas,Temple,Draughon-Miller Central Texas Regional,TPL,2016,3,0,0,31.15027778,-97.40916667
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2016,562,0,119990,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2016,38,0,0,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2016,6,0,1588,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2016,18289,1,441974,33.66222222,-101.8227778
+Texas,San Antonio,Randolph AFB,RND,2016,0,0,73,29.52944444,-98.27861111
+Texas,Fort Worth,Carswell AFB,FWH,2016,82,0,369,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2016,115,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2016,11,0,8,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2016,90,0,788,29.38,-98.58388889
+Texas,San Antonio,San Antonio International,SAT,2016,57225,1006,4007304,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2016,17,0,320499,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2016,3870,0,350022,26.17694444,-98.23972222
+Texas,San Marcos,San Marcos Municipal,QQY,2016,3,0,0,29.89333333,-97.86444444
+Texas,Longview,East Texas Regional,GGG,2016,0,0,22444,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2016,0,0,40160,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2016,707,0,471454,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2016,16,0,64072,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2016,79741,0,1869,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2016,0,0,26518,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2016,65,0,78627,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,2016,191,0,84041,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2016,31,0,319795,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2016,170,0,60243,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2016,3,0,994,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2016,41705,852,5995315,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2016,1,0,52482,32.35472222,-95.39888889
+Texas,Killeen,Robert Gray AAF,GRK,2016,2167,0,157159,31.06472222,-97.8275
+Texas,El Paso,Biggs AAF,BIF,2016,3103,0,26730,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2016,9508,0,101104,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2016,38,0,2,32.66361111,-97.09416667
+Texas,Marfa,Marfa Municipal,MRF,2016,0,0,0,30.37111111,-104.0175
+Texas,Dallas,Dallas Love Field,DAL,2016,5534,0,7546181,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2016,380,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2016,18740,0,263734,26.22805556,-97.65222222
+Texas,Eagle Pass,Eagle Pass Airport,EGP,2016,1,0,0,28.70222222,-100.4805556
+Texas,Castroville,Castroville Municipal,T5X,2016,1,0,0,29.3425,-98.85111111
+Texas,Uvalde,Garner Field,UVA,2016,3,0,0,29.21138889,-99.74361111
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2017,287041,37818,30917779,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2017,46558,6,1437398,31.80666667,-106.3772222
+Texas,Kerrville,Kerrville Municipal/Louis Schreiner Field,ERV,2017,0,0,36,29.97666667,-99.08555556
+Texas,Ballinger,Bruce Field,TX4,2017,0,0,0,31.67444444,-99.97694444
+Texas,Sugar Land,Sugar Land Regional,SGR,2017,0,0,68,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2017,6408,2,6534456,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2017,123962,17455,18149412,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2017,896,0,116168,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2017,112,0,371,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2017,30,0,600,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2017,20249,1,438694,33.66222222,-101.8227778
+Texas,Fort Worth,Carswell AFB,FWH,2017,0,0,191,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2017,188,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2017,22,0,18,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2017,16852,0,528,29.38,-98.58388889
+Texas,Slaton,Slaton Municipal,TX8,2017,0,0,0,33.48472222,-101.6608333
+Texas,Denton,Denton Municipal,DTO,2017,7,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2017,58413,1272,4208843,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2017,38,3,320250,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2017,5555,0,328790,26.17694444,-98.23972222
+Texas,San Marcos,San Marcos Municipal,QQY,2017,1,0,0,29.89333333,-97.86444444
+Texas,Longview,East Texas Regional,GGG,2017,0,0,19255,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2017,0,0,38768,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2017,801,0,516951,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2017,12,0,58774,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2017,81250,0,2038,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2017,0,0,23767,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2017,78,0,73401,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,2017,212,0,85062,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2017,22,0,312148,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2017,171,0,59198,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2017,4,0,1530,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2017,44259,1170,6687991,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2017,0,0,49647,32.35472222,-95.39888889
+Texas,Van Horn,Culberson County,VHN,2017,0,0,1,31.05777778,-104.7838889
+Texas,Houston,David Wayne Hooks Memorial,DWH,2017,0,0,41,30.06388889,-95.55972222
+Texas,Carrizo Springs,Dimmit County,T9X,2017,1,0,0,28.52222222,-99.82361111
+Texas,Killeen,Robert Gray AAF,GRK,2017,1831,0,154949,31.06472222,-97.8275
+Texas,El Paso,Biggs AAF,BIF,2017,2896,0,33184,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2017,11278,0,91412,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2017,64,0,0,32.66361111,-97.09416667
+Texas,Dallas,Dallas Love Field,DAL,2017,7473,0,7587249,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2017,307,0,0,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2017,21505,0,273070,26.22805556,-97.65222222
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2018,301512,37233,31920506,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2018,51750,0,1579580,31.80666667,-106.3772222
+Texas,Kerrville,Kerrville Municipal/Louis Schreiner Field,ERV,2018,0,0,2,29.97666667,-99.08555556
+Texas,Brady,Curtis Field,BBD,2018,0,0,0,31.17916667,-99.32388889
+Texas,Sugar Land,Sugar Land Regional,SGR,2018,0,0,79,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2018,6507,1,7050559,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2018,146775,18769,19644539,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2018,65,0,116577,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2018,253,0,664,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2018,34,0,52,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2018,20578,0,463923,33.66222222,-101.8227778
+Texas,Fort Worth,Carswell AFB,FWH,2018,0,0,267,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2018,162,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2018,21,0,61,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2018,9346,0,245,29.38,-98.58388889
+Texas,Dallas/Fort Worth,Dallas North,DNE,2018,0,0,0,33.07888889,-96.73833333
+Texas,Houston,Houston Central Business District Heliport,JDX,2018,0,0,13,29.76666667,-95.33333333
+Texas,Denton,Denton Municipal,DTO,2018,10,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2018,59416,1280,4655804,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2018,33,2,332664,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2018,4239,0,342138,26.17694444,-98.23972222
+Texas,San Marcos,San Marcos Municipal,QQY,2018,9,0,0,29.89333333,-97.86444444
+Texas,Longview,East Texas Regional,GGG,2018,0,0,24515,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2018,0,0,37972,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2018,946,2,615755,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2018,18,0,57184,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2018,83864,0,1413,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2018,1,0,27631,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2018,78,0,78825,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,2018,300,0,77175,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2018,39,0,332168,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2018,181,0,55143,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2018,11,0,4008,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2018,41452,1214,7536263,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2018,1,0,48423,32.35472222,-95.39888889
+Texas,Van Horn,Culberson County,VHN,2018,0,0,6,31.05777778,-104.7838889
+Texas,Coleman,Coleman Municipal,COM,2018,1,0,0,31.84111111,-99.40361111
+Texas,Houston,David Wayne Hooks Memorial,DWH,2018,0,0,2,30.06388889,-95.55972222
+Texas,Killeen,Robert Gray AAF,GRK,2018,2238,0,154463,31.06472222,-97.8275
+Texas,El Paso,Biggs AAF,BIF,2018,3152,0,32438,31.84944444,-106.3794444
+Texas,Plainview,Hale County,PVW,2018,1,0,0,34.16833333,-101.7141667
+Texas,Laredo,Laredo International,LRD,2018,12307,0,87086,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2018,33,0,11,32.66361111,-97.09416667
+Texas,Marshall,Harrison County,ASL,2018,0,0,1,32.52166667,-94.30805556
+Texas,Dallas,Dallas Love Field,DAL,2018,6653,0,7815907,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2018,270,0,2659,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2018,25958,0,302280,26.22805556,-97.65222222
+Texas,Uvalde,Garner Field,UVA,2018,0,0,0,29.21138889,-99.74361111
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2019,335807,33332,34864476,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2019,48187,0,1713349,31.80666667,-106.3772222
+Texas,Kerrville,Kerrville Municipal/Louis Schreiner Field,ERV,2019,0,0,6,29.97666667,-99.08555556
+Texas,Dallas/Fort Worth,Redbird,RBD,2019,0,0,5,32.68027778,-96.86722222
+Texas,Brady,Curtis Field,BBD,2019,1,0,0,31.17916667,-99.32388889
+Texas,Sugar Land,Sugar Land Regional,SGR,2019,0,0,21,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2019,6358,0,7068613,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2019,148727,17543,20277821,29.98333333,-95.34
+Texas,Temple,Draughon-Miller Central Texas Regional,TPL,2019,2,0,0,31.15027778,-97.40916667
+Texas,Ft. Stockton,Fort Stockton Pecos County,FST,2019,0,0,6,30.915,-102.9125
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2019,1015,0,129399,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2019,0,0,53,32.42,-99.85666667
+Texas,Dallas,McKinney National,T8X,2019,0,0,1,33.17694444,-96.58888889
+Texas,Houston,Ellington Field,EFD,2019,37,0,614,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2019,24053,0,502539,33.66222222,-101.8227778
+Texas,Fort Worth,Carswell AFB,FWH,2019,3,0,431,32.76888889,-97.44111111
+Texas,Cotulla,Cotulla-La Salle County,COT,2019,1,0,0,28.45694444,-99.21861111
+Texas,Brownwood,Brownwood Regional,BWD,2019,171,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2019,2,0,43,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2019,8883,0,932,29.38,-98.58388889
+Texas,Dallas/Fort Worth,Dallas North,DNE,2019,0,0,98,33.07888889,-96.73833333
+Texas,Gainesville,Gainesville Municipal,GLE,2019,0,0,5,33.65222222,-97.19722222
+Texas,Denton,Denton Municipal,DTO,2019,10,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2019,59356,1669,4823350,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2019,35,1,328098,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2019,4681,0,414862,26.17694444,-98.23972222
+Texas,San Marcos,San Marcos Municipal,QQY,2019,0,0,0,29.89333333,-97.86444444
+Texas,Longview,East Texas Regional,GGG,2019,0,0,27147,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2019,0,0,40313,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2019,934,19,660442,31.94083333,-102.2013889
+Texas,Rocksprings,Edwards County,ECU,2019,0,0,0,29.94694444,-100.1738889
+Texas,Waco,Waco Regional,ACT,2019,13,0,62691,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2019,88317,0,1255,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2019,0,0,29056,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2019,79,0,83696,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,2019,296,0,81726,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2019,19,0,328749,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2019,180,0,66295,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2019,2,0,527,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2019,41656,1316,8282379,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2019,0,0,59746,32.35472222,-95.39888889
+Texas,Coleman,Coleman Municipal,COM,2019,0,0,0,31.84111111,-99.40361111
+Texas,Houston,David Wayne Hooks Memorial,DWH,2019,0,0,30,30.06388889,-95.55972222
+Texas,Borger,Hutchinson County,BGD,2019,0,0,4,35.70083333,-101.3930556
+Texas,Midland/Odessa,Midland Airpark,MDD,2019,0,0,19,32.03583333,-102.1022222
+Texas,Killeen,Robert Gray AAF,GRK,2019,2858,0,177091,31.06472222,-97.8275
+Texas,San Antonio,Stinson Municipal,SSF,2019,1,0,0,29.33694444,-98.47111111
+Texas,Conroe,Lone Star Executive,CXO,2019,0,0,2,30.35194444,-95.41444444
+Texas,El Paso,Biggs AAF,BIF,2019,4382,0,31359,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2019,9024,0,90985,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2019,30,0,12,32.66361111,-97.09416667
+Texas,Marfa,Marfa Municipal,MRF,2019,0,0,3,30.37111111,-104.0175
+Texas,Dallas,Dallas Love Field,DAL,2019,7948,0,8078304,32.84694444,-96.85138889
+Texas,Del Rio,Laughlin AFB,DLF,2019,0,0,0,29.35972222,-100.7772222
+Texas,Del Rio,Del Rio International,DRT,2019,311,0,22439,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2019,25542,0,335294,26.22805556,-97.65222222
+Texas,Victoria,Victoria County Foster,VCT,2020,0,0,449,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2020,313692,35390,18362544,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2020,51820,15,755994,31.80666667,-106.3772222
+Texas,Ballinger,Bruce Field,TX4,2020,3,0,0,31.67444444,-99.97694444
+Texas,Dallas/Fort Worth,Redbird,RBD,2020,0,0,8,32.68027778,-96.86722222
+Texas,Sugar Land,Sugar Land Regional,SGR,2020,0,0,21,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2020,6358,2,3126555,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2020,159819,15059,8243601,29.98333333,-95.34
+Texas,Temple,Draughon-Miller Central Texas Regional,TPL,2020,0,0,0,31.15027778,-97.40916667
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2020,288,0,92767,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2020,141,0,254,32.42,-99.85666667
+Texas,Houston,Ellington Field,EFD,2020,36,0,600,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2020,24610,0,252943,33.66222222,-101.8227778
+Texas,Brownwood,Brownwood Regional,BWD,2020,179,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2020,34,0,53,32.96833333,-96.83611111
+Texas,Llano,,T4X,2020,0,0,12,,
+Texas,San Antonio,Kelly AFB,SKF,2020,6093,0,18608,29.38,-98.58388889
+Texas,Denton,Denton Municipal,DTO,2020,0,0,2,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2020,58450,1965,1843593,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2020,17,0,162161,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2020,3678,0,185428,26.17694444,-98.23972222
+Texas,San Marcos,San Marcos Municipal,QQY,2020,12,0,0,29.89333333,-97.86444444
+Texas,Longview,East Texas Regional,GGG,2020,0,0,14629,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2020,9,0,21272,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2020,701,0,316836,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2020,6,0,27698,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2020,145074,0,2793,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2020,0,0,15792,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2020,83,0,41763,30.58944444,-96.36444444
+Texas,Ozona,Ozona Municipal,OZA,2020,1,0,0,30.735,-101.2025
+Texas,Abilene,Abilene Regional,ABI,2020,288,1,44192,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2020,25,0,169200,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2020,208,0,35696,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2020,5,0,1810,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2020,44693,1095,3107129,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2020,0,0,29130,32.35472222,-95.39888889
+Texas,Houston,David Wayne Hooks Memorial,DWH,2020,0,0,6,30.06388889,-95.55972222
+Texas,Borger,Hutchinson County,BGD,2020,0,0,15,35.70083333,-101.3930556
+Texas,Killeen,Robert Gray AAF,GRK,2020,2062,0,102282,31.06472222,-97.8275
+Texas,El Paso,Biggs AAF,BIF,2020,457,0,6745,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2020,6497,0,52599,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2020,16,0,27,32.66361111,-97.09416667
+Texas,Houston,,T6X,2020,0,0,9,,
+Texas,Dallas,Dallas Love Field,DAL,2020,7086,4,3668015,32.84694444,-96.85138889
+Texas,Del Rio,Del Rio International,DRT,2020,248,0,8295,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2020,22626,0,172878,26.22805556,-97.65222222
+Texas,Farmersville,Twisted JS Airport,TX6,2020,0,0,6,33.0929444,-96.3900278
+Texas,Victoria,Victoria County Foster,VCT,2021,0,0,6610,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2021,338248,33587,29603228,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2021,52172,2,1438079,31.80666667,-106.3772222
+Texas,Kerrville,Kerrville Municipal/Louis Schreiner Field,ERV,2021,0,0,3,29.97666667,-99.08555556
+Texas,Dallas/Fort Worth,Redbird,RBD,2021,0,0,26,32.68027778,-96.86722222
+Texas,Sugar Land,Sugar Land Regional,SGR,2021,0,0,44,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2021,7292,101,5550706,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2021,161905,19235,15426692,29.98333333,-95.34
+Texas,Temple,Draughon-Miller Central Texas Regional,TPL,2021,1,0,18,31.15027778,-97.40916667
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2021,74,0,167787,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2021,86,0,300,32.42,-99.85666667
+Texas,Dallas,McKinney National,T8X,2021,2,0,5,33.17694444,-96.58888889
+Texas,Houston,Ellington Field,EFD,2021,30,0,143,29.60722222,-95.15861111
+Texas,Waco,TSTC Waco,CNW,2021,0,0,0,31.63666667,-97.07222222
+Texas,Lubbock,Lubbock Regional,LBB,2021,22923,2,405094,33.66222222,-101.8227778
+Texas,Fort Worth,Carswell AFB,FWH,2021,0,0,934,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2021,198,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2021,4,0,71,32.96833333,-96.83611111
+Texas,Llano,,T4X,2021,0,0,24,,
+Texas,San Antonio,Kelly AFB,SKF,2021,5609,0,13126,29.38,-98.58388889
+Texas,Denton,Denton Municipal,DTO,2021,6,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2021,61642,3256,3357820,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2021,26,0,285167,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2021,5600,0,446727,26.17694444,-98.23972222
+Texas,San Marcos,San Marcos Municipal,QQY,2021,8,0,2,29.89333333,-97.86444444
+Texas,Longview,East Texas Regional,GGG,2021,0,0,23937,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2021,5,0,32038,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2021,777,0,504252,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2021,20,0,47494,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2021,206599,0,1573,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2021,0,0,21904,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2021,70,0,66984,30.58944444,-96.36444444
+Texas,Waco,,8TX,2021,0,0,2,,
+Texas,Abilene,Abilene Regional,ABI,2021,219,0,75387,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2021,61,0,303897,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2021,217,0,60114,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2021,2,0,1043,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2021,51061,949,6640690,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2021,0,0,39934,32.35472222,-95.39888889
+Texas,Coleman,Coleman Municipal,COM,2021,0,0,0,31.84111111,-99.40361111
+Texas,Houston,David Wayne Hooks Memorial,DWH,2021,0,0,28,30.06388889,-95.55972222
+Texas,Midland/Odessa,Midland Airpark,MDD,2021,0,0,0,32.03583333,-102.1022222
+Texas,Killeen,Robert Gray AAF,GRK,2021,1462,0,142253,31.06472222,-97.8275
+Texas,Mineral Wells,Mineral Wells Airport,MWL,2021,0,0,3,32.78222222,-98.06111111
+Texas,Conroe,Lone Star Executive,CXO,2021,0,0,4,30.35194444,-95.41444444
+Texas,Corpus Christi,Corpus Christi NAS,NGP,2021,0,0,137,27.69277778,-97.29111111
+Texas,El Paso,Biggs AAF,BIF,2021,2254,0,26641,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2021,9009,0,108975,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2021,20,0,13,32.66361111,-97.09416667
+Texas,Houston,,T6X,2021,0,0,17,,
+Texas,Dallas,Dallas Love Field,DAL,2021,8051,164,6472003,32.84694444,-96.85138889
+Texas,Del Rio,Laughlin AFB,DLF,2021,0,0,6993,29.35972222,-100.7772222
+Texas,Del Rio,Del Rio International,DRT,2021,390,0,19879,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2021,16137,0,341510,26.22805556,-97.65222222
+Texas,Lufkin,Angelina County,LFK,2021,0,0,9,31.23416667,-94.75027778
+Texas,Fort Worth,Fort Worth Spinks,FWS,2021,0,0,5,32.56527778,-97.30805556
+Texas,Mesquite,Mesquite Metro,TX1,2021,0,0,30,32.74694444,-96.53055556
+Texas,Farmersville,Twisted JS Airport,TX6,2021,0,0,11,33.0929444,-96.3900278
+Texas,Sherman-Denison,Sherman-Denison Airport,PNX,2021,5,0,0,33.7,-96.66666667
+Texas,Uvalde,Garner Field,UVA,2021,2,0,15,29.21138889,-99.74361111
+Texas,Victoria,Victoria County Foster,VCT,2022,0,0,5180,28.85111111,-96.91444444
+Texas,Dallas/Fort Worth,Dallas/Fort Worth International,DFW,2022,224466,22453,25576831,32.89638889,-97.04111111
+Texas,El Paso,El Paso International,ELP,2022,38112,0,1389989,31.80666667,-106.3772222
+Texas,Dallas/Fort Worth,Redbird,RBD,2022,0,0,0,32.68027778,-96.86722222
+Texas,Sugar Land,Sugar Land Regional,SGR,2022,0,0,15,29.62222222,-95.65666667
+Texas,Houston,William P Hobby,HOU,2022,4834,0,4758817,29.645,-95.27861111
+Texas,Houston,Houston Intercontinental,IAH,2022,134096,12536,13557394,29.98333333,-95.34
+Texas,Brownsville,Brownsville South Padre Island International,BRO,2022,350,0,95411,25.90638889,-97.42555556
+Texas,Abilene,Dyess AFB,DYS,2022,0,0,77,32.42,-99.85666667
+Texas,Dallas,McKinney National,T8X,2022,0,0,2,33.17694444,-96.58888889
+Texas,Houston,Ellington Field,EFD,2022,0,0,282,29.60722222,-95.15861111
+Texas,Lubbock,Lubbock Regional,LBB,2022,15237,2,358394,33.66222222,-101.8227778
+Texas,Fort Worth,Carswell AFB,FWH,2022,4,0,0,32.76888889,-97.44111111
+Texas,Brownwood,Brownwood Regional,BWD,2022,147,0,0,31.79472222,-98.95666667
+Texas,Dallas,Addison,ADS,2022,0,0,91,32.96833333,-96.83611111
+Texas,San Antonio,Kelly AFB,SKF,2022,2483,0,415,29.38,-98.58388889
+Texas,Denton,Denton Municipal,DTO,2022,4,0,0,33.20055556,-97.19416667
+Texas,San Antonio,San Antonio International,SAT,2022,45552,2824,3249394,29.53333333,-98.46944444
+Texas,Corpus Christi,Corpus Christi International,CRP,2022,21,0,235917,27.77,-97.50083333
+Texas,Mission/McAllen/Edinburg,McAllen Miller International,MFE,2022,4008,0,331864,26.17694444,-98.23972222
+Texas,Longview,East Texas Regional,GGG,2022,0,0,19554,32.38666667,-94.71527778
+Texas,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,SPS,2022,0,0,21498,33.98833333,-98.49194444
+Texas,Midland/Odessa,Midland Regional Air Trml,MAF,2022,555,0,466613,31.94083333,-102.2013889
+Texas,Waco,Waco Regional,ACT,2022,29,0,40245,31.61138889,-97.22861111
+Texas,Dallas/Fort Worth,Fort Worth Alliance,AFW,2022,167073,0,1501,32.98666667,-97.3175
+Texas,Beaumont/Port Arthur,Jefferson County,BPT,2022,1,0,17850,29.95083333,-94.02
+Texas,College Station/Bryan,Easterwood Field,CLL,2022,18,0,39155,30.58944444,-96.36444444
+Texas,Abilene,Abilene Regional,ABI,2022,146,0,52433,32.41111111,-99.68166667
+Texas,Amarillo,Amarillo International,AMA,2022,23,0,262365,35.22722222,-101.7219444
+Texas,San Angelo,San Angelo Regional/Mathis Field,SJT,2022,149,0,40620,31.35972222,-100.4944444
+Texas,Dallas/Fort Worth,Meacham Field,FTW,2022,3,0,779,32.8175,-97.35861111
+Texas,Austin,Austin - Bergstrom International,AUS,2022,51374,144,7480808,30.19444444,-97.67
+Texas,Tyler,Tyler Pounds Regional,TYR,2022,0,0,29983,32.35472222,-95.39888889
+Texas,Houston,David Wayne Hooks Memorial,DWH,2022,0,0,7,30.06388889,-95.55972222
+Texas,Galveston,Scholes Field,GLS,2022,0,0,7,29.2675,-94.86027778
+Texas,Killeen,Robert Gray AAF,GRK,2022,923,0,100665,31.06472222,-97.8275
+Texas,Mineral Wells,Mineral Wells Airport,MWL,2022,0,0,3,32.78222222,-98.06111111
+Texas,Conroe,Lone Star Executive,CXO,2022,0,0,18,30.35194444,-95.41444444
+Texas,El Paso,Biggs AAF,BIF,2022,1066,0,20638,31.84944444,-106.3794444
+Texas,Laredo,Laredo International,LRD,2022,8751,0,106991,27.54472222,-99.46111111
+Texas,Arlington,Arlington Municipal,JZT,2022,7,0,0,32.66361111,-97.09416667
+Texas,Hebbronville,Jim Hogg County,HBV,2022,0,0,8,27.34944444,-98.73694444
+Texas,Georgetown,Georgetown Municipal,GTU,2022,0,0,0,30.67888889,-97.67944444
+Texas,Comanche,Comanche County-City Airport,MKN,2022,1,0,0,31.9203056,-98.5991944
+Texas,Dallas,Dallas Love Field,DAL,2022,5640,0,5676901,32.84694444,-96.85138889
+Texas,Del Rio,Laughlin AFB,DLF,2022,0,0,2846,29.35972222,-100.7772222
+Texas,Del Rio,Del Rio International,DRT,2022,454,0,19053,29.37416667,-100.9272222
+Texas,Harlingen/San Benito,Valley International,HRL,2022,10627,0,380005,26.22805556,-97.65222222
+Texas,Fort Worth,Fort Worth Spinks,FWS,2022,0,0,4,32.56527778,-97.30805556
+Texas,Mesquite,Mesquite Metro,TX1,2022,0,0,16,32.74694444,-96.53055556
+Texas,Farmersville,Twisted JS Airport,TX6,2022,0,0,2,33.0929444,-96.3900278
+Texas,Uvalde,Garner Field,UVA,2022,0,0,5,29.21138889,-99.74361111

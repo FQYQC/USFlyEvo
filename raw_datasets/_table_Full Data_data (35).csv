@@ -1,0 +1,538 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Ohio,Akron,Akron-Canton Regional,CAK,1990,668829,1786648,230249,40.91388889,-81.44166667
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,1990,13312776,20845740,3834291,41.41083333,-81.84944444
+Ohio,Dayton,James M Cox/Dayton International,DAY,1990,37801106,12613016,1845023,39.90111111,-84.22
+Ohio,Columbus,Lockbourne AFB,LCK,1990,87633,0,0,39.81416667,-82.93222222
+Ohio,Columbus,Port Columbus International,CMH,1990,6095776,23183494,1683687,39.99111111,-82.87833333
+Ohio,Toledo,Toledo Express,TOL,1990,261581,273676,202292,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,1990,7637,600,12474,41.25611111,-80.66972222
+Ohio,Columbus,Port Columbus International,CMH,1991,7486,13221,1583893,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,1991,108671,7319,1759339,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,1991,0,0,0,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,1991,557,0,1098,39.82611111,-84.04833333
+Ohio,Toledo,Toledo Express,TOL,1991,15204,146,205808,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,1991,27,1,15240,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,1991,21707,9998,3558001,41.41083333,-81.84944444
+Ohio,Columbus,Lockbourne AFB,LCK,1991,7437,3,64,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,1991,79,751,184840,40.91388889,-81.44166667
+Ohio,Zanesville,Zanesville Municipal,ZZV,1991,1,0,0,39.94277778,-81.8925
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,1991,0,0,108,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,1991,0,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,1992,6354,14878,2206646,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,1992,39069,4477,936235,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,1992,0,0,68,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,1992,1452,0,752,39.82611111,-84.04833333
+Ohio,Dayton,Montgomery County,MGY,1992,0,0,0,39.59111111,-84.22388889
+Ohio,Lima,Lima Allen County,AOH,1992,0,0,0,40.70833333,-84.02666667
+Ohio,Cleveland,Lakefront,BKL,1992,0,0,267,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,1992,94526,183,247122,41.59083333,-83.80083333
+Ohio,Sandusky,Griffing Sandusky,SKY,1992,0,0,0,41.43333333,-82.65222222
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,1992,22,0,18170,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,1992,23938,11633,3785012,41.41083333,-81.84944444
+Ohio,Columbus,Lockbourne AFB,LCK,1992,7606,0,0,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,1992,69,638,171176,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,1992,0,0,0,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,1992,216,0,0,39.42805556,-83.79222222
+Ohio,Springfield,Springfield-Beckley Municipal,SGH,1992,0,0,152,39.83833333,-83.83972222
+Ohio,Columbus,Port Columbus International,CMH,1993,7974,14961,2383716,39.99111111,-82.87833333
+Ohio,Lorain/Elyria,Lorain Cnty Regional,UXT,1993,0,0,0,41.34416667,-82.1775
+Ohio,Dayton,James M Cox/Dayton International,DAY,1993,123587,5725,825686,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,1993,0,0,29,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,1993,17,0,155,39.82611111,-84.04833333
+Ohio,Toledo,Toledo Express,TOL,1993,124885,150,201289,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,1993,57,0,6142,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,1993,24499,13240,3890066,41.41083333,-81.84944444
+Ohio,Columbus,Lockbourne AFB,LCK,1993,6736,0,89,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,1993,95,41,106718,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,1993,1,0,144,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,1993,2,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,1994,12730,14959,2591416,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,1994,97743,5601,1164970,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,1994,0,0,36,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,1994,53,0,125,39.82611111,-84.04833333
+Ohio,Cleveland,Lakefront,BKL,1994,0,0,147,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,1994,91050,154,188542,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,1994,225,0,24310,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,1994,28506,13078,4837276,41.41083333,-81.84944444
+Ohio,Columbus,Lockbourne AFB,LCK,1994,9819,2,0,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,1994,43,8,140290,40.91388889,-81.44166667
+Ohio,Zanesville,Zanesville Municipal,ZZV,1994,1,0,0,39.94277778,-81.8925
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,1994,56,0,92,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,1994,1,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,1995,5706,17163,2747665,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,1995,209791,18943,941345,39.90111111,-84.22
+Ohio,Dayton,Wright-Patterson AFB,FFO,1995,30,0,0,39.82611111,-84.04833333
+Ohio,Cleveland,Lakefront,BKL,1995,0,0,164,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,1995,76380,150,199060,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,1995,204,0,26384,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,1995,29383,15403,5110205,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,1995,1,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,1995,11988,3,0,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,1995,39,0,122081,40.91388889,-81.44166667
+Ohio,Wilmington,Wilmington Air Park,ILN,1995,28,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,1996,3171,15737,3102847,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,1996,379165,29968,823454,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,1996,4,0,213,39.10277778,-84.42138889
+Ohio,Lima,Lima Allen County,AOH,1996,0,0,0,40.70833333,-84.02666667
+Ohio,Middletown,Hook Field Municipal,MWO,1996,1,0,0,39.53166667,-84.39666667
+Ohio,Cleveland,Lakefront,BKL,1996,0,0,397,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,1996,201987,143,217273,41.59083333,-83.80083333
+Ohio,Wooster,Wayne County,BJJ,1996,0,0,0,40.87472222,-81.88694444
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,1996,53,0,36473,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,1996,31382,15979,5286823,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,1996,0,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,1996,19542,0,0,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,1996,96,0,143108,40.91388889,-81.44166667
+Ohio,Zanesville,Zanesville Municipal,ZZV,1996,1,0,0,39.94277778,-81.8925
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,1996,1,0,210,40.82,-82.51277778
+Ohio,Springfield,Springfield-Beckley Municipal,SGH,1996,0,0,87,39.83833333,-83.83972222
+Ohio,Columbus,Port Columbus International,CMH,1997,3365,14314,3223432,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,1997,324604,27543,850411,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,1997,1,0,0,39.10277778,-84.42138889
+Ohio,Columbus,Ohio State University,OSU,1997,0,0,23,40.07805556,-83.07333333
+Ohio,Dayton,Wright-Patterson AFB,FFO,1997,0,0,65,39.82611111,-84.04833333
+Ohio,Dayton,Montgomery County,MGY,1997,0,0,153,39.59111111,-84.22388889
+Ohio,Cleveland,Lakefront,BKL,1997,0,0,153,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,1997,189656,124,269817,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,1997,37,0,35963,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,1997,48677,17779,5550436,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,1997,1,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,1997,40300,0,0,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,1997,124,1,225635,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,1997,0,0,112,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,1997,3012,0,0,39.42805556,-83.79222222
+Ohio,Springfield,Springfield-Beckley Municipal,SGH,1997,0,0,0,39.83833333,-83.83972222
+Ohio,Columbus,Port Columbus International,CMH,1998,2781,10320,3160488,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,1998,329407,25665,936933,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,1998,3,0,0,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,1998,0,0,445,39.82611111,-84.04833333
+Ohio,Lima,Lima Allen County,AOH,1998,1,0,0,40.70833333,-84.02666667
+Ohio,Middletown,Hook Field Municipal,MWO,1998,2,0,0,39.53166667,-84.39666667
+Ohio,Cleveland,Lakefront,BKL,1998,3,0,636,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,1998,167270,88,259905,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,1998,419,0,27228,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,1998,48282,15660,5714280,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,1998,1,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,1998,35502,11,0,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,1998,103,0,248064,40.91388889,-81.44166667
+Ohio,Zanesville,Zanesville Municipal,ZZV,1998,5,0,0,39.94277778,-81.8925
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,1998,7,0,60,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,1998,12530,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,1999,2293,6778,3121152,39.99111111,-82.87833333
+Ohio,Marion,Marion Municipal,MNN,1999,0,0,0,40.61638889,-83.06583333
+Ohio,Dayton,James M Cox/Dayton International,DAY,1999,348554,16635,931292,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,1999,5,0,0,39.10277778,-84.42138889
+Ohio,Hamilton,Hamilton/Fairfield,HAO,1999,5,0,0,39.36444444,-84.52472222
+Ohio,Dayton,Wright-Patterson AFB,FFO,1999,24,0,88,39.82611111,-84.04833333
+Ohio,Dayton,Montgomery County,MGY,1999,5,0,0,39.59111111,-84.22388889
+Ohio,Lima,Lima Allen County,AOH,1999,3,0,0,40.70833333,-84.02666667
+Ohio,Cleveland,Cuyahoga County,CGF,1999,0,0,0,41.56527778,-81.48666667
+Ohio,Middletown,Hook Field Municipal,MWO,1999,32,0,0,39.53166667,-84.39666667
+Ohio,Cleveland,Lakefront,BKL,1999,0,0,598,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,1999,139226,49,161370,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,1999,92,0,26470,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,1999,69820,13383,5921429,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,1999,5,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,1999,25839,3,641,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,1999,78,0,270211,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,1999,17,0,113,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,1999,2,0,0,39.42805556,-83.79222222
+Ohio,Springfield,Springfield-Beckley Municipal,SGH,1999,4,0,0,39.83833333,-83.83972222
+Ohio,Columbus,Port Columbus International,CMH,2000,2257,8504,3106377,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2000,150597,6490,1031232,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2000,12,0,170,39.10277778,-84.42138889
+Ohio,Wapakoneta,Neil Armstrong,AXV,2000,7,0,0,40.49333333,-84.29888889
+Ohio,Hamilton,Hamilton/Fairfield,HAO,2000,1,0,0,39.36444444,-84.52472222
+Ohio,Dayton,Wright-Patterson AFB,FFO,2000,0,0,0,39.82611111,-84.04833333
+Ohio,Dayton,Montgomery County,MGY,2000,0,0,0,39.59111111,-84.22388889
+Ohio,Lima,Lima Allen County,AOH,2000,3,0,0,40.70833333,-84.02666667
+Ohio,Cleveland,Cuyahoga County,CGF,2000,1,0,0,41.56527778,-81.48666667
+Ohio,Middletown,Hook Field Municipal,MWO,2000,4,0,0,39.53166667,-84.39666667
+Ohio,Cleveland,Lakefront,BKL,2000,0,0,290,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2000,93851,8,237617,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2000,15,0,18404,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2000,49564,13915,6154662,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2000,7,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2000,35854,10,770,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2000,691,4,287719,40.91388889,-81.44166667
+Ohio,Zanesville,Zanesville Municipal,ZZV,2000,0,0,0,39.94277778,-81.8925
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2000,27,0,112,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2000,9,0,187,39.42805556,-83.79222222
+Ohio,Springfield,Springfield-Beckley Municipal,SGH,2000,0,0,36,39.83833333,-83.83972222
+Ohio,Columbus,Port Columbus International,CMH,2001,1355,6146,2873316,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2001,274331,3820,902022,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2001,3,0,0,39.10277778,-84.42138889
+Ohio,Hamilton,Hamilton/Fairfield,HAO,2001,0,0,0,39.36444444,-84.52472222
+Ohio,Dayton,Wright-Patterson AFB,FFO,2001,0,0,934,39.82611111,-84.04833333
+Ohio,Dayton,Montgomery County,MGY,2001,0,0,0,39.59111111,-84.22388889
+Ohio,Lima,Lima Allen County,AOH,2001,1,0,0,40.70833333,-84.02666667
+Ohio,Middletown,Hook Field Municipal,MWO,2001,0,0,0,39.53166667,-84.39666667
+Ohio,Cleveland,Lakefront,BKL,2001,0,0,361,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2001,64063,5875,305001,41.59083333,-83.80083333
+Ohio,Sandusky,Griffing Sandusky,SKY,2001,0,0,0,41.43333333,-82.65222222
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2001,3,3,14579,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2001,54257,7699,5528765,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2001,6,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2001,57679,378,421,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2001,520,7,245202,40.91388889,-81.44166667
+Ohio,Zanesville,Zanesville Municipal,ZZV,2001,0,0,0,39.94277778,-81.8925
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2001,5,0,112,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2001,9,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,2002,1509,3890,2730469,39.99111111,-82.87833333
+Ohio,Marion,Marion Municipal,MNN,2002,0,0,0,40.61638889,-83.06583333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2002,217789,615,862764,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2002,3,0,0,39.10277778,-84.42138889
+Ohio,Hamilton,Hamilton/Fairfield,HAO,2002,1,0,0,39.36444444,-84.52472222
+Ohio,Columbus,Ohio State University,OSU,2002,0,0,0,40.07805556,-83.07333333
+Ohio,Dayton,Wright-Patterson AFB,FFO,2002,0,0,379,39.82611111,-84.04833333
+Ohio,Dayton,Montgomery County,MGY,2002,1,0,0,39.59111111,-84.22388889
+Ohio,Lima,Lima Allen County,AOH,2002,0,0,0,40.70833333,-84.02666667
+Ohio,Middletown,Hook Field Municipal,MWO,2002,2,0,0,39.53166667,-84.39666667
+Ohio,Cleveland,Lakefront,BKL,2002,0,0,243,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2002,94441,4,256223,41.59083333,-83.80083333
+Ohio,Wooster,Wayne County,BJJ,2002,0,0,0,40.87472222,-81.88694444
+Ohio,Sandusky,Griffing Sandusky,SKY,2002,1,0,0,41.43333333,-82.65222222
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2002,9,0,11815,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2002,47345,2699,5021186,41.41083333,-81.84944444
+Ohio,Lancaster,Fairfield County,LHQ,2002,0,0,0,39.75555556,-82.65722222
+Ohio,Findlay,Findlay Airport,FDY,2002,0,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2002,49478,0,392,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2002,817,0,303640,40.91388889,-81.44166667
+Ohio,Zanesville,Zanesville Municipal,ZZV,2002,1,0,0,39.94277778,-81.8925
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2002,9,0,101,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2002,14,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,2003,1609,4851,2501356,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2003,173228,620,978016,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2003,29,0,254,39.10277778,-84.42138889
+Ohio,Washington Court House,Fayette County,OH1,2003,0,0,0,39.57027778,-83.42055556
+Ohio,Dayton,Wright-Patterson AFB,FFO,2003,564,0,727,39.82611111,-84.04833333
+Ohio,Dayton,Montgomery County,MGY,2003,0,0,0,39.59111111,-84.22388889
+Ohio,Lima,Lima Allen County,AOH,2003,1,0,0,40.70833333,-84.02666667
+Ohio,Middletown,Hook Field Municipal,MWO,2003,5,0,0,39.53166667,-84.39666667
+Ohio,Cleveland,Lakefront,BKL,2003,2,0,427,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2003,91967,0,219848,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2003,33,0,7939,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2003,45622,4170,4806250,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2003,11,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2003,24495,0,25806,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2003,2115,1,502750,40.91388889,-81.44166667
+Ohio,Zanesville,Zanesville Municipal,ZZV,2003,0,0,0,39.94277778,-81.8925
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2003,1,0,115,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2003,16,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,2004,1378,4051,2591813,39.99111111,-82.87833333
+Ohio,Marion,Marion Municipal,MNN,2004,1,0,0,40.61638889,-83.06583333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2004,167417,299,1257632,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2004,37,0,144,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,2004,247,0,469,39.82611111,-84.04833333
+Ohio,Dayton,Montgomery County,MGY,2004,0,0,0,39.59111111,-84.22388889
+Ohio,Lima,Lima Allen County,AOH,2004,3,0,0,40.70833333,-84.02666667
+Ohio,Middletown,Hook Field Municipal,MWO,2004,7,0,0,39.53166667,-84.39666667
+Ohio,Cleveland,Lakefront,BKL,2004,0,0,1171,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2004,114089,0,240802,41.59083333,-83.80083333
+Ohio,Portsmouth,Greater Portsmouth Regional,PMH,2004,2,0,0,38.83972222,-82.8475
+Ohio,Sandusky,Griffing Sandusky,SKY,2004,0,0,0,41.43333333,-82.65222222
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2004,39,0,21337,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2004,47895,3330,5239299,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2004,20,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2004,30208,0,84317,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2004,2423,0,642400,40.91388889,-81.44166667
+Ohio,Zanesville,Zanesville Municipal,ZZV,2004,2,0,0,39.94277778,-81.8925
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2004,24,0,63,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2004,1051,0,0,39.42805556,-83.79222222
+Ohio,Springfield,Springfield-Beckley Municipal,SGH,2004,0,0,0,39.83833333,-83.83972222
+Ohio,Bellefontaine,Bellefontaine Regional,OH2,2004,0,0,0,40.37222222,-83.81888889
+Ohio,Columbus,Port Columbus International,CMH,2005,967,3649,2718051,39.99111111,-82.87833333
+Ohio,Lorain/Elyria,Lorain Cnty Regional,UXT,2005,17,0,0,41.34416667,-82.1775
+Ohio,Marion,Marion Municipal,MNN,2005,5,0,0,40.61638889,-83.06583333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2005,115095,224,1115226,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2005,33,0,144,39.10277778,-84.42138889
+Ohio,Wapakoneta,Neil Armstrong,AXV,2005,1,0,0,40.49333333,-84.29888889
+Ohio,Dayton,Wright-Patterson AFB,FFO,2005,153,0,52,39.82611111,-84.04833333
+Ohio,Dayton,Montgomery County,MGY,2005,2,0,0,39.59111111,-84.22388889
+Ohio,Lima,Lima Allen County,AOH,2005,10,0,0,40.70833333,-84.02666667
+Ohio,Middletown,Hook Field Municipal,MWO,2005,0,0,0,39.53166667,-84.39666667
+Ohio,Cleveland,Lakefront,BKL,2005,0,0,1257,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2005,105509,0,223889,41.59083333,-83.80083333
+Ohio,Chillicothe,Ross County,OH3,2005,2,0,0,39.44027778,-83.02305556
+Ohio,Athens,Ohio University Snyder Field,ATO,2005,1,0,0,39.21083333,-82.23166667
+Ohio,Sandusky,Griffing Sandusky,SKY,2005,2,0,0,41.43333333,-82.65222222
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2005,9,0,6916,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2005,48331,2628,5378858,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2005,3,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2005,33824,0,34948,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2005,95,0,710733,40.91388889,-81.44166667
+Ohio,Cincinnati,Cincinnati - Blue Ash,OH5,2005,0,0,5,39.24666667,-84.38888889
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2005,21,0,133,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2005,383325,0,0,39.42805556,-83.79222222
+Ohio,Toledo,Metcalf Field,TDZ,2005,1,0,0,41.65,-83.53333333
+Ohio,Bellefontaine,Bellefontaine Regional,OH2,2005,1,0,0,40.37222222,-83.81888889
+Ohio,Columbus,Port Columbus International,CMH,2006,1319,2765,2834367,39.99111111,-82.87833333
+Ohio,Lorain/Elyria,Lorain Cnty Regional,UXT,2006,1,0,0,41.34416667,-82.1775
+Ohio,Marion,Marion Municipal,MNN,2006,2,0,0,40.61638889,-83.06583333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2006,47626,129,1213342,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2006,23,0,301,39.10277778,-84.42138889
+Ohio,Ravenna,Portage County,OH6,2006,0,0,2,41.21027778,-81.25166667
+Ohio,New Philadelphia,Harry Clever Field,PHD,2006,0,0,2,40.47083333,-81.41972222
+Ohio,Hamilton,Hamilton/Fairfield,HAO,2006,0,0,0,39.36444444,-84.52472222
+Ohio,Dayton,Wright-Patterson AFB,FFO,2006,396,0,429,39.82611111,-84.04833333
+Ohio,Lima,Lima Allen County,AOH,2006,11,0,0,40.70833333,-84.02666667
+Ohio,Cleveland,Cuyahoga County,CGF,2006,0,0,2,41.56527778,-81.48666667
+Ohio,Cleveland,Lakefront,BKL,2006,12,0,1287,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2006,102828,0,175942,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2006,1,0,12416,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2006,49671,2050,5268936,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2006,2,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2006,35009,0,2665,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2006,56,0,675687,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2006,38,0,115,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2006,440409,5,33,39.42805556,-83.79222222
+Ohio,Toledo,Metcalf Field,TDZ,2006,1,0,0,41.65,-83.53333333
+Ohio,Bellefontaine,Bellefontaine Regional,OH2,2006,4,0,0,40.37222222,-83.81888889
+Ohio,Columbus,Port Columbus International,CMH,2007,1253,1082,3342432,39.99111111,-82.87833333
+Ohio,Marion,Marion Municipal,MNN,2007,1,0,0,40.61638889,-83.06583333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2007,4005,0,1294634,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2007,29,0,366,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,2007,0,0,415,39.82611111,-84.04833333
+Ohio,Dayton,Montgomery County,MGY,2007,1,0,4,39.59111111,-84.22388889
+Ohio,Lima,Lima Allen County,AOH,2007,0,0,0,40.70833333,-84.02666667
+Ohio,Middletown,Hook Field Municipal,MWO,2007,0,0,0,39.53166667,-84.39666667
+Ohio,Cleveland,Lakefront,BKL,2007,8,0,1536,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2007,106569,0,127934,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2007,18,0,17192,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2007,49183,1722,4998735,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2007,49,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2007,32300,0,3497,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2007,12,2,646641,40.91388889,-81.44166667
+Ohio,Zanesville,Zanesville Municipal,ZZV,2007,0,0,0,39.94277778,-81.8925
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2007,33,0,106,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2007,412688,1,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,2008,1385,1326,2980445,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2008,3469,0,1316193,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2008,8,0,694,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,2008,121,0,555,39.82611111,-84.04833333
+Ohio,Dayton,Montgomery County,MGY,2008,0,0,10,39.59111111,-84.22388889
+Ohio,Cleveland,Lakefront,BKL,2008,12,0,1629,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2008,99852,0,104906,41.59083333,-83.80083333
+Ohio,Sandusky,Griffing Sandusky,SKY,2008,51,0,0,41.43333333,-82.65222222
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2008,2,0,17415,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2008,42314,1319,4447122,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2008,56,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2008,29130,0,10149,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2008,18,0,708081,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2008,15,0,127,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2008,358132,5,0,39.42805556,-83.79222222
+Ohio,Springfield,Springfield-Beckley Municipal,SGH,2008,0,0,16,39.83833333,-83.83972222
+Ohio,Columbus,Port Columbus International,CMH,2009,1276,725,2765979,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2009,3434,0,1153150,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2009,3,0,417,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,2009,83,0,625,39.82611111,-84.04833333
+Ohio,Lima,Lima Allen County,AOH,2009,9,0,0,40.70833333,-84.02666667
+Ohio,Cleveland,Lakefront,BKL,2009,9,0,982,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2009,94924,0,93255,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2009,0,0,17321,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2009,40280,894,3898713,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2009,4,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2009,46371,227,6410,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2009,26,3,712057,40.91388889,-81.44166667
+Ohio,Wilmington,Wilmington Air Park,ILN,2009,78745,92,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,2010,1203,673,2811101,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2010,3697,0,1171578,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2010,8,0,675,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,2010,0,0,164,39.82611111,-84.04833333
+Ohio,Cleveland,Lakefront,BKL,2010,9,0,1462,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2010,89061,0,89414,41.59083333,-83.80083333
+Ohio,Sandusky,Griffing Sandusky,SKY,2010,0,0,0,41.43333333,-82.65222222
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2010,79,0,27678,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2010,42457,749,3872962,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2010,1,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2010,53833,147,4672,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2010,53,6,770054,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2010,0,0,318,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2010,0,0,0,39.42805556,-83.79222222
+Ohio,Toledo,Metcalf Field,TDZ,2010,2,0,0,41.65,-83.53333333
+Ohio,Springfield,Springfield-Beckley Municipal,SGH,2010,0,0,87,39.83833333,-83.83972222
+Ohio,Columbus,Port Columbus International,CMH,2011,1561,670,2861595,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2011,4033,0,1177625,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2011,8,0,784,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,2011,1129,0,195,39.82611111,-84.04833333
+Ohio,Cleveland,Lakefront,BKL,2011,23,0,918,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2011,59789,0,56557,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2011,6,0,36980,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2011,38658,830,3766674,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2011,1,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2011,50183,27,7568,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2011,91,20,813737,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2011,8,0,0,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2011,1,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,2012,1568,989,2969218,39.99111111,-82.87833333
+Ohio,Marion,Marion Municipal,MNN,2012,0,0,0,40.61638889,-83.06583333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2012,4436,0,1227726,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2012,11,0,1166,39.10277778,-84.42138889
+Ohio,Wapakoneta,Neil Armstrong,AXV,2012,1,0,0,40.49333333,-84.29888889
+Ohio,Cleveland,Lakefront,BKL,2012,2,0,1584,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2012,6495,0,60465,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2012,0,0,40072,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2012,36840,955,3793953,41.41083333,-81.84944444
+Ohio,Columbus,Lockbourne AFB,LCK,2012,53153,8,6513,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2012,82,5,910070,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2012,2,0,446,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2012,144,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,2013,1566,973,3019130,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2013,4652,0,1158890,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2013,7,0,331,39.10277778,-84.42138889
+Ohio,Wapakoneta,Neil Armstrong,AXV,2013,2,0,0,40.49333333,-84.29888889
+Ohio,Hamilton,Hamilton/Fairfield,HAO,2013,0,0,2,39.36444444,-84.52472222
+Ohio,Dayton,Wright-Patterson AFB,FFO,2013,0,0,170,39.82611111,-84.04833333
+Ohio,Cleveland,Lakefront,BKL,2013,3,0,740,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2013,7208,0,85903,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2013,4,0,47233,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2013,37802,891,3972825,41.41083333,-81.84944444
+Ohio,Columbus,Lockbourne AFB,LCK,2013,50633,0,17755,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2013,62,2,850968,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2013,10,0,0,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2013,169,0,4,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,2014,1705,796,3061732,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2014,4915,0,1068015,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2014,7,0,923,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,2014,0,0,116,39.82611111,-84.04833333
+Ohio,Lima,Lima Allen County,AOH,2014,7,0,0,40.70833333,-84.02666667
+Ohio,Cleveland,Lakefront,BKL,2014,15,0,872,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2014,9189,0,98930,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2014,6,0,65874,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2014,40489,928,3501077,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2014,2,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2014,45830,33,49486,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2014,148,13,770579,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2014,0,0,107,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2014,57,0,0,39.42805556,-83.79222222
+Ohio,Toledo,Metcalf Field,TDZ,2014,2,0,0,41.65,-83.53333333
+Ohio,Columbus,Port Columbus International,CMH,2015,1489,1110,3266840,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2015,4848,0,1011006,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2015,20,0,1196,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,2015,0,0,65,39.82611111,-84.04833333
+Ohio,Lima,Lima Allen County,AOH,2015,1,0,0,40.70833333,-84.02666667
+Ohio,Lorain/Elyria,Lorain Cnty Regional,LPR,2015,0,0,0,41.34416667,-82.1775
+Ohio,Cleveland,Lakefront,BKL,2015,26,0,1273,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2015,11307,0,92867,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2015,10,0,66174,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2015,40588,1139,3856325,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2015,2,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2015,46947,180,83207,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2015,460,0,758749,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2015,2,0,108,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2015,7258,0,0,39.42805556,-83.79222222
+Ohio,Toledo,Metcalf Field,TDZ,2015,1,0,0,41.65,-83.53333333
+Ohio,Columbus,Port Columbus International,CMH,2016,1333,659,3512634,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2016,4444,1,972727,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2016,4,0,241,39.10277778,-84.42138889
+Ohio,Columbus,Ohio State University,OSU,2016,2,0,7,40.07805556,-83.07333333
+Ohio,Dayton,Wright-Patterson AFB,FFO,2016,0,0,168,39.82611111,-84.04833333
+Ohio,Lima,Lima Allen County,AOH,2016,1,0,0,40.70833333,-84.02666667
+Ohio,Cleveland,Lakefront,BKL,2016,28,0,1264,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2016,91,0,92213,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2016,16,0,52255,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2016,39004,929,4013817,41.41083333,-81.84944444
+Ohio,Columbus,Lockbourne AFB,LCK,2016,45402,42,102746,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2016,54,0,674927,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2016,9,0,135,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2016,65373,0,39,39.42805556,-83.79222222
+Ohio,Springfield,Springfield-Beckley Municipal,SGH,2016,1,0,0,39.83833333,-83.83972222
+Ohio,Columbus,Port Columbus International,CMH,2017,1426,773,3608180,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2017,4126,1,903387,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2017,1,0,238,39.10277778,-84.42138889
+Ohio,Columbus,Ohio State University,OSU,2017,0,0,8,40.07805556,-83.07333333
+Ohio,Dayton,Wright-Patterson AFB,FFO,2017,73,0,380,39.82611111,-84.04833333
+Ohio,Lima,Lima Allen County,AOH,2017,1,0,0,40.70833333,-84.02666667
+Ohio,Lorain/Elyria,Lorain Cnty Regional,LPR,2017,0,0,0,41.34416667,-82.1775
+Ohio,Cleveland,Lakefront,BKL,2017,19,0,1409,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2017,138,1,102865,41.59083333,-83.80083333
+Ohio,Wooster,Wayne County,BJJ,2017,0,0,4,40.87472222,-81.88694444
+Ohio,Sandusky,Griffing Sandusky,SKY,2017,1,0,0,41.43333333,-82.65222222
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2017,8,0,36414,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2017,39068,1113,4341097,41.41083333,-81.84944444
+Ohio,Columbus,Lockbourne AFB,LCK,2017,46026,27,133543,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2017,71,7,599870,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2017,4,0,336,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2017,29036,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,2018,919,826,3889133,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2018,3859,2,826676,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2018,3,0,320,39.10277778,-84.42138889
+Ohio,Hamilton,Hamilton/Fairfield,HAO,2018,0,0,5,39.36444444,-84.52472222
+Ohio,Columbus,Ohio State University,OSU,2018,0,0,5,40.07805556,-83.07333333
+Ohio,Dayton,Wright-Patterson AFB,FFO,2018,0,0,359,39.82611111,-84.04833333
+Ohio,Lima,Lima Allen County,AOH,2018,1,0,0,40.70833333,-84.02666667
+Ohio,Cleveland,Cuyahoga County,CGF,2018,0,0,2,41.56527778,-81.48666667
+Ohio,Lorain/Elyria,Lorain Cnty Regional,LPR,2018,0,0,4,41.34416667,-82.1775
+Ohio,Cleveland,Lakefront,BKL,2018,12,0,509,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2018,251,0,123404,41.59083333,-83.80083333
+Ohio,Athens,Ohio University Snyder Field,ATO,2018,0,0,6,39.21083333,-82.23166667
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2018,0,0,2624,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2018,40239,948,4541238,41.41083333,-81.84944444
+Ohio,Columbus,Lockbourne AFB,LCK,2018,44028,13,154520,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2018,64,1,438012,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2018,7,0,0,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2018,32,0,0,39.42805556,-83.79222222
+Ohio,Springfield,Springfield-Beckley Municipal,SGH,2018,3,0,0,39.83833333,-83.83972222
+Ohio,Columbus,Port Columbus International,CMH,2019,1163,1199,4078108,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2019,3861,0,834136,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2019,0,0,151,39.10277778,-84.42138889
+Ohio,Hamilton,Hamilton/Fairfield,HAO,2019,0,0,1,39.36444444,-84.52472222
+Ohio,Dayton,Wright-Patterson AFB,FFO,2019,0,0,150,39.82611111,-84.04833333
+Ohio,Lima,Lima Allen County,AOH,2019,7,0,0,40.70833333,-84.02666667
+Ohio,Cleveland,Cuyahoga County,CGF,2019,0,0,4,41.56527778,-81.48666667
+Ohio,Lorain/Elyria,Lorain Cnty Regional,LPR,2019,0,0,2,41.34416667,-82.1775
+Ohio,Cleveland,Lakefront,BKL,2019,21,0,1419,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2019,259,1,122991,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2019,6,0,1484,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2019,42398,978,4774813,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2019,0,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2019,37145,0,153597,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2019,90,0,384650,40.91388889,-81.44166667
+Ohio,Wilmington,Wilmington Air Park,ILN,2019,30780,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,2020,897,501,1564579,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2020,3488,0,313258,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2020,0,0,372,39.10277778,-84.42138889
+Ohio,Dayton,Wright-Patterson AFB,FFO,2020,35,0,859,39.82611111,-84.04833333
+Ohio,Cleveland,Lakefront,BKL,2020,27,0,678,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2020,41,0,53278,41.59083333,-83.80083333
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2020,43450,613,1959595,41.41083333,-81.84944444
+Ohio,Findlay,Findlay Airport,FDY,2020,2,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2020,31289,1,104868,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2020,37,0,136756,40.91388889,-81.44166667
+Ohio,Wilmington,Wilmington Air Park,ILN,2020,121003,0,0,39.42805556,-83.79222222
+Ohio,Springfield,Springfield-Beckley Municipal,SGH,2020,0,0,10,39.83833333,-83.83972222
+Ohio,Columbus,Port Columbus International,CMH,2021,1792,555,2819555,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2021,3639,0,517543,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2021,1,0,1193,39.10277778,-84.42138889
+Ohio,Hamilton,Hamilton/Fairfield,HAO,2021,0,0,1,39.36444444,-84.52472222
+Ohio,Columbus,Ohio State University,OSU,2021,0,0,2,40.07805556,-83.07333333
+Ohio,Dayton,Wright-Patterson AFB,FFO,2021,68,0,1949,39.82611111,-84.04833333
+Ohio,Lima,Lima Allen County,AOH,2021,0,0,8,40.70833333,-84.02666667
+Ohio,Cleveland,Cuyahoga County,CGF,2021,0,0,16,41.56527778,-81.48666667
+Ohio,Cleveland,Lakefront,BKL,2021,43,0,1330,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2021,6285,0,85544,41.59083333,-83.80083333
+Ohio,Chillicothe,Ross County,OH3,2021,0,0,0,39.44027778,-83.02305556
+Ohio,Athens,Ohio University Snyder Field,ATO,2021,0,0,0,39.21083333,-82.23166667
+Ohio,Sandusky,Griffing Sandusky,SKY,2021,0,0,7,41.43333333,-82.65222222
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2021,11,0,1773,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2021,44070,553,3548351,41.41083333,-81.84944444
+Ohio,Willoughby,,1OH,2021,0,0,9,,
+Ohio,Findlay,Findlay Airport,FDY,2021,0,0,0,41.01583333,-83.66638889
+Ohio,Columbus,Lockbourne AFB,LCK,2021,33348,16,148397,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2021,59,0,204979,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2021,2,0,122,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2021,141409,0,0,39.42805556,-83.79222222
+Ohio,Columbus,Port Columbus International,CMH,2022,1584,254,2657435,39.99111111,-82.87833333
+Ohio,Dayton,James M Cox/Dayton International,DAY,2022,2542,0,423495,39.90111111,-84.22
+Ohio,Cincinnati,Lunken Field,LUK,2022,0,0,1508,39.10277778,-84.42138889
+Ohio,Columbus,Ohio State University,OSU,2022,0,0,11,40.07805556,-83.07333333
+Ohio,Dayton,Wright-Patterson AFB,FFO,2022,0,0,108,39.82611111,-84.04833333
+Ohio,Cleveland,Cuyahoga County,CGF,2022,0,0,1,41.56527778,-81.48666667
+Ohio,Cleveland,Lakefront,BKL,2022,36,0,1144,41.51694444,-81.68333333
+Ohio,Toledo,Toledo Express,TOL,2022,6311,0,66447,41.59083333,-83.80083333
+Ohio,Youngstown/Warren,Youngstown-Warren Regional,YNG,2022,0,0,559,41.25611111,-80.66972222
+Ohio,Cleveland,Cleveland-Hopkins International,CLE,2022,31248,373,3151872,41.41083333,-81.84944444
+Ohio,Columbus,Lockbourne AFB,LCK,2022,25179,0,120481,39.81416667,-82.93222222
+Ohio,Akron,Akron-Canton Regional,CAK,2022,41,0,199069,40.91388889,-81.44166667
+Ohio,Mansfield,Mansfield Lahm Municipal,MFD,2022,61,0,0,40.82,-82.51277778
+Ohio,Wilmington,Wilmington Air Park,ILN,2022,101592,0,0,39.42805556,-83.79222222

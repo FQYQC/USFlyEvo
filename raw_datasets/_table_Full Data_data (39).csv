@@ -1,0 +1,145 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,1990,0,0,30011,18.25777778,-67.14861111
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,1990,98325840,9833123,3798879,18.44138889,-66.00222222
+Puerto Rico,Ponce,Mercedita,PSE,1990,0,9230,12677,18.00972222,-66.56138889
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,1990,7677720,0,9473,18.495,-67.12944444
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,1990,0,0,447,18.24972222,-65.63555556
+Puerto Rico,Arecibo,Arecibo Airport,ARE,1991,1,0,0,18.45,-66.67583333
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,1991,10429,0,45607,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,1991,0,0,55961,18.25777778,-67.14861111
+Puerto Rico,Ponce,Mercedita,PSE,1991,552,3,41760,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,1991,79167,9479,3774428,18.44138889,-66.00222222
+Puerto Rico,San Juan,Isla Grande,SIG,1991,0,0,0,18.45888889,-66.10277778
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,1991,0,0,700,18.24972222,-65.63555556
+Puerto Rico,Arecibo,Arecibo Airport,ARE,1992,0,0,0,18.45,-66.67583333
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,1992,9206,0,88777,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,1992,0,0,39222,18.25777778,-67.14861111
+Puerto Rico,Ponce,Mercedita,PSE,1992,572,0,37817,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,1992,70199,3303,3991597,18.44138889,-66.00222222
+Puerto Rico,San Juan,Isla Grande,SIG,1992,0,0,0,18.45888889,-66.10277778
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,1992,0,0,844,18.24972222,-65.63555556
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,1993,9044,0,104580,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,1993,0,0,37469,18.25777778,-67.14861111
+Puerto Rico,Ponce,Mercedita,PSE,1993,662,0,56673,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,1993,78215,4303,4150438,18.44138889,-66.00222222
+Puerto Rico,San Juan,Isla Grande,SIG,1993,0,0,0,18.45888889,-66.10277778
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,1993,0,0,2383,18.24972222,-65.63555556
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,1994,8115,0,124524,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,1994,0,0,30477,18.25777778,-67.14861111
+Puerto Rico,Ponce,Mercedita,PSE,1994,711,0,43716,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,1994,100509,4442,4414758,18.44138889,-66.00222222
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,1994,39,0,1392,18.24972222,-65.63555556
+Puerto Rico,Humacao,Humacao Airport,HUC,1994,0,0,63,18.14,-65.80111111
+Puerto Rico,Arecibo,Arecibo Airport,ARE,1995,2,0,0,18.45,-66.67583333
+Puerto Rico,Humacao,Palmas del Mar Airstrip,PPD,1995,0,0,172,18.15,-65.83333333
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,1995,9394,0,141149,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,1995,0,0,24804,18.25777778,-67.14861111
+Puerto Rico,Ponce,Mercedita,PSE,1995,769,0,33899,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,1995,104063,6335,4452443,18.44138889,-66.00222222
+Puerto Rico,San Juan,Isla Grande,SIG,1995,81,0,0,18.45888889,-66.10277778
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,1995,11,0,234,18.24972222,-65.63555556
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,1996,13430,0,77446,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,1996,0,0,36982,18.25777778,-67.14861111
+Puerto Rico,Ponce,Mercedita,PSE,1996,512,0,36962,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,1996,115810,8022,4549722,18.44138889,-66.00222222
+Puerto Rico,San Juan,Isla Grande,SIG,1996,8,0,0,18.45888889,-66.10277778
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,1996,4,0,1140,18.24972222,-65.63555556
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,1997,21034,0,48359,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,1997,0,0,29448,18.25777778,-67.14861111
+Puerto Rico,Ponce,Mercedita,PSE,1997,22,0,31803,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,1997,121228,7280,4725496,18.44138889,-66.00222222
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,1997,5,0,273,18.24972222,-65.63555556
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,1998,24461,5,38202,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,1998,0,0,25137,18.25777778,-67.14861111
+Puerto Rico,Ponce,Mercedita,PSE,1998,57,0,14320,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,1998,89056,7760,5178870,18.44138889,-66.00222222
+Puerto Rico,San Juan,Isla Grande,SIG,1998,0,0,0,18.45888889,-66.10277778
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,1998,27,0,827,18.24972222,-65.63555556
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,1999,37341,0,6049,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,1999,0,0,26090,18.25777778,-67.14861111
+Puerto Rico,Ponce,Mercedita,PSE,1999,37,0,9234,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,1999,103506,8315,4531970,18.44138889,-66.00222222
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,1999,7,0,1108,18.24972222,-65.63555556
+Puerto Rico,Humacao,Palmas del Mar Airstrip,PPD,2000,0,0,376,18.15,-65.83333333
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2000,22220,0,35722,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,2000,0,0,29407,18.25777778,-67.14861111
+Puerto Rico,Ponce,Mercedita,PSE,2000,164,0,8586,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2000,102552,7653,4836389,18.44138889,-66.00222222
+Puerto Rico,San Juan,Isla Grande,SIG,2000,0,0,0,18.45888889,-66.10277778
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,2000,0,0,3780,18.24972222,-65.63555556
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2001,23525,0,32790,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,2001,0,0,30803,18.25777778,-67.14861111
+Puerto Rico,Ponce,Mercedita,PSE,2001,67,0,0,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2001,83704,5708,4537774,18.44138889,-66.00222222
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,2001,0,0,2517,18.24972222,-65.63555556
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2002,23775,0,37517,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,2002,0,0,23721,18.25777778,-67.14861111
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2002,76685,1373,4474096,18.44138889,-66.00222222
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,2002,234,0,7212,18.24972222,-65.63555556
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2003,52283,0,61333,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,2003,0,0,20338,18.25777778,-67.14861111
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2003,79856,1766,4577478,18.44138889,-66.00222222
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,2003,825,0,12234,18.24972222,-65.63555556
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2004,54287,0,105680,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,2004,0,0,18578,18.25777778,-67.14861111
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2004,83623,1562,5074606,18.44138889,-66.00222222
+Puerto Rico,Ceiba,Roosevelt Roads NAS,NRR,2004,68,0,775,18.24972222,-65.63555556
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2005,49439,0,122293,18.495,-67.12944444
+Puerto Rico,Mayaguez,Eugenio Maria de Hostos,MAZ,2005,0,0,4800,18.25777778,-67.14861111
+Puerto Rico,Ponce,Mercedita,PSE,2005,0,0,27136,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2005,83444,1326,5185605,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2006,46153,0,174393,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2006,9,0,85596,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2006,80889,1772,5073218,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2007,46592,0,195965,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2007,0,0,114205,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2007,72682,1332,4986788,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2008,40691,0,237053,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2008,0,0,105549,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2008,63949,1569,4468016,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2009,20466,0,220984,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2009,125,0,84655,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2009,57570,1095,3916014,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2010,13774,1,239887,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2010,178,0,92558,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2010,59602,1082,4077041,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2011,12664,11,230400,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2011,170,0,94030,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2011,58041,835,3759893,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2012,9943,4,215424,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2012,160,0,95782,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2012,54929,486,3979332,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2013,10908,6,201453,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2013,168,0,93566,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2013,55715,679,3830263,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2014,14090,7,211004,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2014,14,0,96624,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2014,58532,946,3813066,18.44138889,-66.00222222
+Puerto Rico,Ceiba,Jose Aponte de la Torre,JRV,2014,3421,0,0,18.245,-65.64333333
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2015,27726,6,202195,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2015,0,0,98830,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2015,67327,1142,3893781,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2016,18761,0,257583,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2016,0,0,105804,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2016,60335,1168,3987941,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2017,18770,0,252691,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2017,0,0,89334,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2017,70600,999,3822611,18.44138889,-66.00222222
+Puerto Rico,Ceiba,Jose Aponte de la Torre,JRV,2017,0,0,0,18.245,-65.64333333
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2018,21869,0,294921,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2018,0,0,91966,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2018,78164,1271,3715017,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2019,18544,0,369918,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2019,0,0,102913,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2019,62882,1781,4202079,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2020,18032,0,75313,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2020,0,0,18643,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2020,77814,1170,2251604,18.44138889,-66.00222222
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2021,19086,0,228524,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2021,0,0,32584,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2021,77916,1944,4619027,18.44138889,-66.00222222
+Puerto Rico,San Juan,Isla Grande,SIG,2021,0,0,0,18.45888889,-66.10277778
+Puerto Rico,Aguadilla,Rafael Hernandez,BQN,2022,12968,0,249181,18.495,-67.12944444
+Puerto Rico,Ponce,Mercedita,PSE,2022,0,0,79756,18.00972222,-66.56138889
+Puerto Rico,San Juan,Luis Munoz Marin International,SJU,2022,48510,2211,3626732,18.44138889,-66.00222222
+Puerto Rico,San Juan,Isla Grande,SIG,2022,0,0,3,18.45888889,-66.10277778

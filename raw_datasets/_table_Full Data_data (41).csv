@@ -1,0 +1,391 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+South Carolina,Anderson,Anderson Regional,AND,1990,0,0,0,34.49361111,-82.71
+South Carolina,Charleston,Charleston International,CHS,1990,1749321,1732138,630756,32.89916667,-80.03888889
+South Carolina,Columbia,Columbia Metropolitan,CAE,1990,1805938,4019592,511794,33.93638889,-81.11583333
+South Carolina,Greer,Greenville-Spartanburg,GSP,1990,2602490,3817897,502376,34.89888889,-82.21388889
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,1990,100480,9945,204512,33.67916667,-78.92972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,1991,704,2627,435710,34.89888889,-82.21388889
+South Carolina,Sumter,Shaw AFB,SSC,1991,6,0,101,33.97277778,-80.47305556
+South Carolina,Columbia,Columbia Metropolitan,CAE,1991,9536,2425,479049,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,1991,2609,857,637651,32.89916667,-80.03888889
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,1991,284,0,222161,33.67916667,-78.92972222
+South Carolina,Beaufort,Beaufort County,BFT,1991,0,0,446,32.41194444,-80.63472222
+South Carolina,Columbia,McEntire Jngb,MMT,1992,0,0,72,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,1992,794,2791,424265,34.89888889,-82.21388889
+South Carolina,Sumter,Shaw AFB,SSC,1992,2,0,941,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,1992,0,0,140,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,1992,5037,2611,455938,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,1992,5876,903,623040,32.89916667,-80.03888889
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,1992,304,0,212981,33.67916667,-78.92972222
+South Carolina,Myrtle Beach,Grand Strand,CRE,1992,1,0,0,33.81166667,-78.72416667
+South Carolina,Beaufort,Beaufort County,BFT,1992,0,0,491,32.41194444,-80.63472222
+South Carolina,Greer,Greenville-Spartanburg,GSP,1993,3691,2674,476561,34.89888889,-82.21388889
+South Carolina,Sumter,Shaw AFB,SSC,1993,27,0,437,33.97277778,-80.47305556
+South Carolina,Hartsville,Hartsville Regional,HVS,1993,30,0,0,34.40527778,-80.11805556
+South Carolina,Florence,Florence Regional,FLO,1993,2,0,9460,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,1993,6627,2329,420075,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,1993,16338,1286,632872,32.89916667,-80.03888889
+South Carolina,Greenwood,Greenwood County,GRD,1993,0,0,0,34.25138889,-82.15833333
+South Carolina,Anderson,Anderson Regional,AND,1993,1,0,24,34.49361111,-82.71
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,1993,333,0,208642,33.67916667,-78.92972222
+South Carolina,Beaufort,Beaufort County,BFT,1993,0,0,392,32.41194444,-80.63472222
+South Carolina,Greenville,Greenville Downtown,GMU,1994,3,0,0,34.84777778,-82.35027778
+South Carolina,Greer,Greenville-Spartanburg,GSP,1994,5508,2578,652761,34.89888889,-82.21388889
+South Carolina,Sumter,Shaw AFB,SSC,1994,0,0,356,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,1994,4,0,20096,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,1994,9430,2563,516592,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,1994,11877,1183,856007,32.89916667,-80.03888889
+South Carolina,Greenwood,Greenwood County,GRD,1994,0,0,608,34.25138889,-82.15833333
+South Carolina,Anderson,Anderson Regional,AND,1994,0,0,28,34.49361111,-82.71
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,1994,372,0,262743,33.67916667,-78.92972222
+South Carolina,Myrtle Beach,Grand Strand,CRE,1994,0,0,0,33.81166667,-78.72416667
+South Carolina,Greer,Greenville-Spartanburg,GSP,1995,8612,2557,556778,34.89888889,-82.21388889
+South Carolina,Sumter,Shaw AFB,SSC,1995,183,0,549,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,1995,6,0,19364,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,1995,9883,2815,523574,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,1995,7206,1113,668544,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,1995,0,0,20,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,1995,0,0,155,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,1995,446,0,388324,33.67916667,-78.92972222
+South Carolina,Hilton Head,Hilton Head Airport,HHH,1995,0,0,843,32.21666667,-80.68333333
+South Carolina,Beaufort,Beaufort County,BFT,1995,0,0,50,32.41194444,-80.63472222
+South Carolina,Greenville,Greenville Downtown,GMU,1996,43,0,0,34.84777778,-82.35027778
+South Carolina,Greer,Greenville-Spartanburg,GSP,1996,10135,2336,592784,34.89888889,-82.21388889
+South Carolina,Sumter,Shaw AFB,SSC,1996,49,0,813,33.97277778,-80.47305556
+South Carolina,Hartsville,Hartsville Regional,HVS,1996,21,0,0,34.40527778,-80.11805556
+South Carolina,Florence,Florence Regional,FLO,1996,6,0,18789,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,1996,12426,1261,512326,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,1996,4086,1144,656139,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,1996,0,0,154,34.49361111,-82.71
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,1996,466,0,441493,33.67916667,-78.92972222
+South Carolina,Myrtle Beach,Grand Strand,CRE,1996,2,0,0,33.81166667,-78.72416667
+South Carolina,Hilton Head,Hilton Head Airport,HHH,1996,74,0,0,32.21666667,-80.68333333
+South Carolina,Greer,Greenville-Spartanburg,GSP,1997,10419,2453,605086,34.89888889,-82.21388889
+South Carolina,Spartanburg,Spartanburg Downtown Memorial,SPA,1997,26,0,0,34.91638889,-81.95777778
+South Carolina,Sumter,Shaw AFB,SSC,1997,0,0,1367,33.97277778,-80.47305556
+South Carolina,Hartsville,Hartsville Regional,HVS,1997,0,0,28,34.40527778,-80.11805556
+South Carolina,Florence,Florence Regional,FLO,1997,3,0,20585,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,1997,82764,1160,512482,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,1997,1440,1051,712124,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,1997,0,0,22,34.49361111,-82.71
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,1997,473,0,470004,33.67916667,-78.92972222
+South Carolina,Columbia,Owens Field,CUB,1997,1,0,236,33.97083333,-80.99555556
+South Carolina,Hilton Head,Hilton Head Airport,HHH,1997,0,0,0,32.21666667,-80.68333333
+South Carolina,Beaufort,Beaufort County,BFT,1997,0,0,94,32.41194444,-80.63472222
+South Carolina,Columbia,McEntire Jngb,MMT,1998,0,0,81,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,1998,10534,1711,547354,34.89888889,-82.21388889
+South Carolina,Spartanburg,Spartanburg Downtown Memorial,SPA,1998,8,0,0,34.91638889,-81.95777778
+South Carolina,Pickens,Pickens County,LQK,1998,1,0,0,34.81,-82.70277778
+South Carolina,Sumter,Shaw AFB,SSC,1998,0,0,672,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,1998,3,0,21594,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,1998,92724,1099,450708,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,1998,885,1099,690607,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,1998,5,0,110,34.49361111,-82.71
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,1998,492,3,551471,33.67916667,-78.92972222
+South Carolina,Hilton Head,Hilton Head Airport,HHH,1998,3,0,0,32.21666667,-80.68333333
+South Carolina,Greenville,Greenville Downtown,GMU,1999,3,0,0,34.84777778,-82.35027778
+South Carolina,Greer,Greenville-Spartanburg,GSP,1999,12886,1828,547213,34.89888889,-82.21388889
+South Carolina,Sumter,Shaw AFB,SSC,1999,46,0,387,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,1999,9,0,22948,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,1999,84223,920,399210,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,1999,1070,1220,649719,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,1999,1,0,0,34.49361111,-82.71
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,1999,488,0,558491,33.67916667,-78.92972222
+South Carolina,Greenville,Greenville Downtown,GMU,2000,1,0,0,34.84777778,-82.35027778
+South Carolina,Columbia,McEntire Jngb,MMT,2000,0,0,0,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2000,10815,1393,621410,34.89888889,-82.21388889
+South Carolina,Sumter,Shaw AFB,SSC,2000,0,0,648,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2000,6,0,20728,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2000,80930,928,443378,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2000,1552,920,660537,32.89916667,-80.03888889
+South Carolina,Greenwood,Greenwood County,GRD,2000,0,0,29,34.25138889,-82.15833333
+South Carolina,Anderson,Anderson Regional,AND,2000,2,0,0,34.49361111,-82.71
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2000,619,0,737079,33.67916667,-78.92972222
+South Carolina,Greenville,Greenville Downtown,GMU,2001,0,0,0,34.84777778,-82.35027778
+South Carolina,Columbia,McEntire Jngb,MMT,2001,0,0,96,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2001,17023,957,516096,34.89888889,-82.21388889
+South Carolina,Sumter,Shaw AFB,SSC,2001,29,0,470,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2001,1,0,17212,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2001,108536,805,353588,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2001,1177,522,603991,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,2001,2,0,0,34.49361111,-82.71
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2001,514,0,673749,33.67916667,-78.92972222
+South Carolina,Myrtle Beach,Grand Strand,CRE,2001,0,0,0,33.81166667,-78.72416667
+South Carolina,Beaufort,Beaufort County,BFT,2001,0,0,274,32.41194444,-80.63472222
+South Carolina,Greenville,Greenville Downtown,GMU,2002,0,0,0,34.84777778,-82.35027778
+South Carolina,Greer,Greenville-Spartanburg,GSP,2002,10367,110,433519,34.89888889,-82.21388889
+South Carolina,Sumter,Shaw AFB,SSC,2002,66,0,631,33.97277778,-80.47305556
+South Carolina,Hartsville,Hartsville Regional,HVS,2002,0,0,0,34.40527778,-80.11805556
+South Carolina,Darlington,Darlington County Jetport,UDG,2002,1,0,0,34.44916667,-79.89027778
+South Carolina,Florence,Florence Regional,FLO,2002,2,0,17416,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2002,66535,392,292323,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2002,1395,124,574502,32.89916667,-80.03888889
+South Carolina,Greenwood,Greenwood County,GRD,2002,1,0,0,34.25138889,-82.15833333
+South Carolina,Anderson,Anderson Regional,AND,2002,0,0,0,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2002,0,0,118,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2002,445,0,612316,33.67916667,-78.92972222
+South Carolina,Hilton Head,Hilton Head Airport,HHH,2002,7960,0,0,32.21666667,-80.68333333
+South Carolina,Beaufort,Beaufort County,BFT,2002,0,0,218,32.41194444,-80.63472222
+South Carolina,Greenville,Greenville Downtown,GMU,2003,1,0,0,34.84777778,-82.35027778
+South Carolina,Columbia,McEntire Jngb,MMT,2003,0,0,0,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2003,12099,121,483593,34.89888889,-82.21388889
+South Carolina,Sumter,Shaw AFB,SSC,2003,0,0,1545,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2003,87,0,19238,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2003,68548,219,372871,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2003,50779,136,672662,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,2003,3,0,203,34.49361111,-82.71
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2003,433,0,630066,33.67916667,-78.92972222
+South Carolina,Myrtle Beach,Grand Strand,CRE,2003,0,0,26,33.81166667,-78.72416667
+South Carolina,Beaufort,Beaufort County,BFT,2003,42,0,283,32.41194444,-80.63472222
+South Carolina,Greenville,Greenville Downtown,GMU,2004,0,0,0,34.84777778,-82.35027778
+South Carolina,Greer,Greenville-Spartanburg,GSP,2004,13302,178,666045,34.89888889,-82.21388889
+South Carolina,Sumter,Shaw AFB,SSC,2004,61,0,1022,33.97277778,-80.47305556
+South Carolina,Darlington,Darlington County Jetport,UDG,2004,3,0,0,34.44916667,-79.89027778
+South Carolina,Florence,Florence Regional,FLO,2004,13,0,19601,34.18888889,-79.72444444
+South Carolina,Winnsboro,Fairfield County,SC2,2004,0,0,0,34.31555556,-81.10888889
+South Carolina,Columbia,Columbia Metropolitan,CAE,2004,71313,215,586920,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2004,52750,243,841494,32.89916667,-80.03888889
+South Carolina,Greenwood,Greenwood County,GRD,2004,1,0,0,34.25138889,-82.15833333
+South Carolina,Anderson,Anderson Regional,AND,2004,0,0,74,34.49361111,-82.71
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2004,497,0,740794,33.67916667,-78.92972222
+South Carolina,Sumter,Sumter Airport,SUM,2004,1,0,0,33.995,-80.3625
+South Carolina,Beaufort,Beaufort County,BFT,2004,26,0,422,32.41194444,-80.63472222
+South Carolina,Greenville,Greenville Downtown,GMU,2005,35,0,0,34.84777778,-82.35027778
+South Carolina,Greer,Greenville-Spartanburg,GSP,2005,15033,20,778032,34.89888889,-82.21388889
+South Carolina,Spartanburg,Spartanburg Downtown Memorial,SPA,2005,3,0,0,34.91638889,-81.95777778
+South Carolina,Beaufort,Beaufort MCAS,SC1,2005,0,0,443,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2005,0,0,1008,33.97277778,-80.47305556
+South Carolina,Darlington,Darlington County Jetport,UDG,2005,0,0,0,34.44916667,-79.89027778
+South Carolina,Florence,Florence Regional,FLO,2005,58,0,21162,34.18888889,-79.72444444
+South Carolina,Winnsboro,Fairfield County,SC2,2005,0,0,0,34.31555556,-81.10888889
+South Carolina,Columbia,Columbia Metropolitan,CAE,2005,72490,25,700932,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2005,90380,1,1007244,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,2005,3,0,101,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2005,183,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2005,555,1,764359,33.67916667,-78.92972222
+South Carolina,Sumter,Sumter Airport,SUM,2005,4,0,0,33.995,-80.3625
+South Carolina,Beaufort,Beaufort County,BFT,2005,18,0,262,32.41194444,-80.63472222
+South Carolina,Greenville,Greenville Downtown,GMU,2006,3,0,0,34.84777778,-82.35027778
+South Carolina,Columbia,McEntire Jngb,MMT,2006,62,0,27,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2006,14650,0,624435,34.89888889,-82.21388889
+South Carolina,Beaufort,Beaufort MCAS,SC1,2006,0,0,25,32.4775,-80.72305556
+South Carolina,Rock Hill,Rock Hill/York County/Bryant Field,RKH,2006,3,0,0,34.98777778,-81.05722222
+South Carolina,Sumter,Shaw AFB,SSC,2006,304,0,1686,33.97277778,-80.47305556
+South Carolina,Darlington,Darlington County Jetport,UDG,2006,6,0,0,34.44916667,-79.89027778
+South Carolina,Florence,Florence Regional,FLO,2006,19,0,18222,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2006,67886,55,592601,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2006,48353,0,893025,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,2006,1,0,0,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2006,6,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2006,562,0,687066,33.67916667,-78.92972222
+South Carolina,Sumter,Sumter Airport,SUM,2006,1,0,0,33.995,-80.3625
+South Carolina,Beaufort,Beaufort County,BFT,2006,53,0,1408,32.41194444,-80.63472222
+South Carolina,Greenville,Greenville Downtown,GMU,2007,11,0,0,34.84777778,-82.35027778
+South Carolina,Greer,Greenville-Spartanburg,GSP,2007,13494,0,680040,34.89888889,-82.21388889
+South Carolina,Beaufort,Beaufort MCAS,SC1,2007,0,0,84,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2007,69,0,719,33.97277778,-80.47305556
+South Carolina,Darlington,Darlington County Jetport,UDG,2007,0,0,0,34.44916667,-79.89027778
+South Carolina,Florence,Florence Regional,FLO,2007,19,0,17332,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2007,66585,483,542348,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2007,71913,0,1097889,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,2007,0,0,505,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2007,111,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2007,477,0,787115,33.67916667,-78.92972222
+South Carolina,Hilton Head,Hilton Head Airport,HHH,2007,0,0,28984,32.21666667,-80.68333333
+South Carolina,Beaufort,Beaufort County,BFT,2007,0,0,646,32.41194444,-80.63472222
+South Carolina,Cheraw,Cheraw Municipal/Lynch Bellinger Field,CQW,2008,1,0,0,34.71083333,-79.96166667
+South Carolina,Columbia,McEntire Jngb,MMT,2008,0,0,64,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2008,12309,0,592536,34.89888889,-82.21388889
+South Carolina,Beaufort,Beaufort MCAS,SC1,2008,0,0,653,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2008,275,0,1725,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2008,8,0,21403,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2008,64221,1127,493576,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2008,3367,0,1092685,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,2008,0,0,358,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2008,37,0,103,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2008,363,0,717318,33.67916667,-78.92972222
+South Carolina,Hilton Head,Hilton Head Airport,HHH,2008,0,0,26509,32.21666667,-80.68333333
+South Carolina,Beaufort,Beaufort County,BFT,2008,0,0,1662,32.41194444,-80.63472222
+South Carolina,Columbia,McEntire Jngb,MMT,2009,86,0,228,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2009,11076,0,541656,34.89888889,-82.21388889
+South Carolina,Beaufort,Beaufort MCAS,SC1,2009,0,0,181,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2009,125,0,1209,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2009,0,0,28169,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2009,49379,904,469166,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2009,9337,0,1023782,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,2009,0,0,431,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2009,51,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2009,402,1,689948,33.67916667,-78.92972222
+South Carolina,Hilton Head,Hilton Head Airport,HHH,2009,0,0,14084,32.21666667,-80.68333333
+South Carolina,Beaufort,Beaufort County,BFT,2009,7,0,762,32.41194444,-80.63472222
+South Carolina,Columbia,McEntire Jngb,MMT,2010,0,0,326,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2010,13663,2,583596,34.89888889,-82.21388889
+South Carolina,Beaufort,Beaufort MCAS,SC1,2010,0,0,700,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2010,44,0,1722,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2010,3,0,30555,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2010,35738,44,430507,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2010,21245,0,958252,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,2010,5,0,285,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2010,143,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2010,422,7,806326,33.67916667,-78.92972222
+South Carolina,Hilton Head,Hilton Head Airport,HHH,2010,0,0,16600,32.21666667,-80.68333333
+South Carolina,Beaufort,Beaufort County,BFT,2010,0,0,727,32.41194444,-80.63472222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2011,14632,38,816057,34.89888889,-82.21388889
+South Carolina,Walterboro,Lowcountry Regional,RBW,2011,0,0,14,32.92111111,-80.64055556
+South Carolina,Beaufort,Beaufort MCAS,SC1,2011,164,0,635,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2011,118,0,1767,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2011,0,0,19831,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2011,31118,30,421534,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2011,18777,0,1171247,32.89916667,-80.03888889
+South Carolina,Greenwood,Greenwood County,GRD,2011,0,0,4,34.25138889,-82.15833333
+South Carolina,Anderson,Anderson Regional,AND,2011,3,0,181,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2011,39,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2011,421,21,843961,33.67916667,-78.92972222
+South Carolina,Beaufort,Beaufort County,BFT,2011,0,0,160,32.41194444,-80.63472222
+South Carolina,Columbia,McEntire Jngb,MMT,2012,48,0,386,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2012,14681,26,872328,34.89888889,-82.21388889
+South Carolina,Walterboro,Lowcountry Regional,RBW,2012,0,0,24,32.92111111,-80.64055556
+South Carolina,Beaufort,Beaufort MCAS,SC1,2012,17,0,683,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2012,69,0,1442,33.97277778,-80.47305556
+South Carolina,Hartsville,Hartsville Regional,HVS,2012,0,0,0,34.40527778,-80.11805556
+South Carolina,Florence,Florence Regional,FLO,2012,6,0,22200,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2012,31773,125,449783,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2012,11443,2,1276280,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,2012,0,0,134,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2012,63,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2012,371,12,718703,33.67916667,-78.92972222
+South Carolina,Beaufort,Beaufort County,BFT,2012,0,0,722,32.41194444,-80.63472222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2013,17321,80,806727,34.89888889,-82.21388889
+South Carolina,Walterboro,Lowcountry Regional,RBW,2013,0,0,28,32.92111111,-80.64055556
+South Carolina,Beaufort,Beaufort MCAS,SC1,2013,58,0,639,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2013,118,0,971,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2013,5,0,20995,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2013,30871,35,466424,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2013,7555,0,1440134,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,2013,7,0,43,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2013,65,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2013,412,0,815273,33.67916667,-78.92972222
+South Carolina,Beaufort,Beaufort County,BFT,2013,0,0,424,32.41194444,-80.63472222
+South Carolina,Columbia,McEntire Jngb,MMT,2014,0,0,197,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2014,17483,99,852036,34.89888889,-82.21388889
+South Carolina,Walterboro,Lowcountry Regional,RBW,2014,0,0,39,32.92111111,-80.64055556
+South Carolina,Beaufort,Beaufort MCAS,SC1,2014,34,0,1066,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2014,48,0,1012,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2014,9,0,10887,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2014,31176,153,481654,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2014,9365,0,1538114,32.89916667,-80.03888889
+South Carolina,Anderson,Anderson Regional,AND,2014,0,0,79,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2014,41,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2014,598,0,847948,33.67916667,-78.92972222
+South Carolina,Beaufort,Beaufort County,BFT,2014,0,0,325,32.41194444,-80.63472222
+South Carolina,Columbia,McEntire Jngb,MMT,2015,0,0,0,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2015,16239,39,877048,34.89888889,-82.21388889
+South Carolina,Walterboro,Lowcountry Regional,RBW,2015,0,0,24,32.92111111,-80.64055556
+South Carolina,Beaufort,Beaufort MCAS,SC1,2015,75,0,1301,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2015,110,0,1485,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2015,5,0,1934,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2015,33004,537,492671,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2015,11003,2,1647601,32.89916667,-80.03888889
+South Carolina,Georgetown,Georgetown County,GGE,2015,0,0,0,33.31194444,-79.31805556
+South Carolina,Greenville,Donaldson Center,GDC,2015,25,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2015,622,0,890303,33.67916667,-78.92972222
+South Carolina,Sumter,Sumter Airport,SUM,2015,1,0,0,33.995,-80.3625
+South Carolina,Beaufort,Beaufort County,BFT,2015,0,0,172,32.41194444,-80.63472222
+South Carolina,Columbia,McEntire Jngb,MMT,2016,104,0,163,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2016,15840,7,935564,34.89888889,-82.21388889
+South Carolina,Beaufort,Beaufort MCAS,SC1,2016,3,0,194,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2016,309,0,1153,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2016,5,0,3084,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2016,32616,423,515655,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2016,12953,12,1802540,32.89916667,-80.03888889
+South Carolina,Aiken,Aiken Municipal,AIK,2016,0,0,4,33.65,-81.68472222
+South Carolina,Anderson,Anderson Regional,AND,2016,1,0,0,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2016,20,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2016,608,0,935471,33.67916667,-78.92972222
+South Carolina,Beaufort,Beaufort County,BFT,2016,0,0,901,32.41194444,-80.63472222
+South Carolina,Greenville,Greenville Downtown,GMU,2017,0,0,4,34.84777778,-82.35027778
+South Carolina,Columbia,McEntire Jngb,MMT,2017,0,0,0,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2017,16368,1,942338,34.89888889,-82.21388889
+South Carolina,Walterboro,Lowcountry Regional,RBW,2017,0,0,25,32.92111111,-80.64055556
+South Carolina,Beaufort,Beaufort MCAS,SC1,2017,60,0,852,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2017,274,0,1616,33.97277778,-80.47305556
+South Carolina,Columbia,Columbia Metropolitan,CAE,2017,30479,284,487708,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2017,15440,1,1920378,32.89916667,-80.03888889
+South Carolina,Aiken,Aiken Municipal,AIK,2017,0,0,4,33.65,-81.68472222
+South Carolina,Anderson,Anderson Regional,AND,2017,1,0,0,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2017,561,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2017,581,1,1125577,33.67916667,-78.92972222
+South Carolina,Myrtle Beach,Grand Strand,CRE,2017,0,0,6,33.81166667,-78.72416667
+South Carolina,Beaufort,Beaufort County,BFT,2017,0,0,146,32.41194444,-80.63472222
+South Carolina,Columbia,McEntire Jngb,MMT,2018,233,0,264,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2018,15595,2,1080732,34.89888889,-82.21388889
+South Carolina,Walterboro,Lowcountry Regional,RBW,2018,0,0,9,32.92111111,-80.64055556
+South Carolina,Beaufort,Beaufort MCAS,SC1,2018,27,0,264,32.4775,-80.72305556
+South Carolina,Pickens,Pickens County,LQK,2018,0,0,9,34.81,-82.70277778
+South Carolina,Sumter,Shaw AFB,SSC,2018,324,0,1018,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2018,9,1,6277,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2018,30510,382,506247,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2018,18262,0,2153412,32.89916667,-80.03888889
+South Carolina,Aiken,Aiken Municipal,AIK,2018,0,0,2,33.65,-81.68472222
+South Carolina,Anderson,Anderson Regional,AND,2018,0,0,44,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2018,81,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2018,650,19,1241635,33.67916667,-78.92972222
+South Carolina,Hilton Head,Hilton Head Airport,HHH,2018,0,0,23594,32.21666667,-80.68333333
+South Carolina,Beaufort,Beaufort County,BFT,2018,0,0,457,32.41194444,-80.63472222
+South Carolina,Columbia,McEntire Jngb,MMT,2019,81,0,122,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2019,14245,0,1237819,34.89888889,-82.21388889
+South Carolina,Beaufort,Beaufort MCAS,SC1,2019,180,0,1251,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2019,219,0,923,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2019,2,0,0,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2019,34602,455,576622,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2019,20345,2,2305964,32.89916667,-80.03888889
+South Carolina,Georgetown,Georgetown County,GGE,2019,0,0,6,33.31194444,-79.31805556
+South Carolina,Aiken,Aiken Municipal,AIK,2019,0,0,9,33.65,-81.68472222
+South Carolina,Greenville,Donaldson Center,GDC,2019,17,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2019,630,4,1275021,33.67916667,-78.92972222
+South Carolina,Clemson,Clemson-Oconee County,CEU,2019,0,0,2,34.67444444,-82.89027778
+South Carolina,Hilton Head,Hilton Head Airport,HHH,2019,1,0,110234,32.21666667,-80.68333333
+South Carolina,Beaufort,Beaufort County,BFT,2019,65,0,665,32.41194444,-80.63472222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2020,14064,2,501466,34.89888889,-82.21388889
+South Carolina,Beaufort,Beaufort MCAS,SC1,2020,35,0,263,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2020,240,0,897,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2020,1,0,0,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2020,35900,453,243693,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2020,14778,1,928887,32.89916667,-80.03888889
+South Carolina,Georgetown,Georgetown County,GGE,2020,0,0,12,33.31194444,-79.31805556
+South Carolina,Greenville,Donaldson Center,GDC,2020,83,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2020,472,0,542290,33.67916667,-78.92972222
+South Carolina,Summerville,,SC5,2020,0,0,4,,
+South Carolina,Hilton Head,Hilton Head Airport,HHH,2020,0,0,73530,32.21666667,-80.68333333
+South Carolina,Beaufort,Beaufort County,BFT,2020,54,0,822,32.41194444,-80.63472222
+South Carolina,Columbia,McEntire Jngb,MMT,2021,197,0,404,33.91833333,-80.79972222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2021,23615,0,877798,34.89888889,-82.21388889
+South Carolina,Walterboro,Lowcountry Regional,RBW,2021,0,0,9,32.92111111,-80.64055556
+South Carolina,Beaufort,Beaufort MCAS,SC1,2021,106,0,882,32.4775,-80.72305556
+South Carolina,Rock Hill,Rock Hill/York County/Bryant Field,RKH,2021,0,0,2,34.98777778,-81.05722222
+South Carolina,Sumter,Shaw AFB,SSC,2021,187,0,2083,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2021,3,0,23028,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2021,32244,581,418312,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2021,7653,0,2015168,32.89916667,-80.03888889
+South Carolina,Aiken,Aiken Municipal,AIK,2021,0,0,13,33.65,-81.68472222
+South Carolina,Anderson,Anderson Regional,AND,2021,0,0,37,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2021,38,0,7,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2021,444,0,1579985,33.67916667,-78.92972222
+South Carolina,Myrtle Beach,Grand Strand,CRE,2021,0,0,7,33.81166667,-78.72416667
+South Carolina,Clemson,Clemson-Oconee County,CEU,2021,0,0,12,34.67444444,-82.89027778
+South Carolina,Hilton Head,Hilton Head Airport,HHH,2021,0,0,176320,32.21666667,-80.68333333
+South Carolina,Beaufort,Beaufort County,BFT,2021,4,0,1069,32.41194444,-80.63472222
+South Carolina,Greer,Greenville-Spartanburg,GSP,2022,16547,0,782531,34.89888889,-82.21388889
+South Carolina,Walterboro,Lowcountry Regional,RBW,2022,0,0,7,32.92111111,-80.64055556
+South Carolina,Beaufort,Beaufort MCAS,SC1,2022,0,0,492,32.4775,-80.72305556
+South Carolina,Sumter,Shaw AFB,SSC,2022,174,0,378,33.97277778,-80.47305556
+South Carolina,Florence,Florence Regional,FLO,2022,0,0,22028,34.18888889,-79.72444444
+South Carolina,Columbia,Columbia Metropolitan,CAE,2022,20941,650,375210,33.93638889,-81.11583333
+South Carolina,Charleston,Charleston International,CHS,2022,2170,0,1937672,32.89916667,-80.03888889
+South Carolina,Aiken,Aiken Municipal,AIK,2022,0,0,12,33.65,-81.68472222
+South Carolina,Anderson,Anderson Regional,AND,2022,0,0,3,34.49361111,-82.71
+South Carolina,Greenville,Donaldson Center,GDC,2022,42,0,0,34.75833333,-82.37666667
+South Carolina,Myrtle Beach,Myrtle Beach International,MYR,2022,325,0,1374551,33.67916667,-78.92972222
+South Carolina,Clemson,Clemson-Oconee County,CEU,2022,0,0,6,34.67444444,-82.89027778
+South Carolina,Hilton Head,Hilton Head Airport,HHH,2022,0,0,90306,32.21666667,-80.68333333
+South Carolina,Beaufort,Beaufort County,BFT,2022,33,0,431,32.41194444,-80.63472222

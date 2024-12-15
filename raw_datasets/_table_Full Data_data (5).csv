@@ -1,0 +1,2102 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+California,Arcata/Eureka,Arcata,ACV,1990,0,0,53515,40.97916667,-124.1075
+California,Big Bear City,Big Bear City Airport,RBF,1990,0,0,2015,34.26361111,-116.8536111
+California,Concord,Buchanan Field,CCR,1990,15906,0,49532,37.98888889,-122.0555556
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,1990,0,0,45320,38.50916667,-122.8116667
+California,Chico,Chico Municipal,CIC,1990,0,0,11049,39.79583333,-121.8566667
+California,Fresno,Fresno Air Terminal,FAT,1990,1112782,1926344,392982,36.77666667,-119.7172222
+California,Burbank,Hollywood-Burbank Midpoint,BUR,1990,3180644,3346452,1697765,34.2,-118.3577778
+California,Crescent City,Jack McNamara Field,CEC,1990,0,0,2497,41.78,-124.2358333
+California,Santa Ana,John Wayne Airport-Orange County,SNA,1990,2327225,347834,2198935,33.67555556,-117.8672222
+California,Lake Tahoe,Lake Tahoe Airport,TVL,1990,1425,0,42593,38.89416667,-119.9944444
+California,Long Beach,Long Beach Daugherty Field,LGB,1990,1027679,1859944,691659,33.8175,-118.1511111
+California,Los Angeles,Los Angeles International,LAX,1990,933138865,140969325,21490825,33.9425,-118.4080556
+California,Bakersfield,Meadows Field,BFL,1990,68793,297165,100867,35.43,-119.0522222
+California,Merced,Merced Macready Regional,MCE,1990,0,0,5990,37.28472222,-120.5127778
+California,Oakland,Metropolitan Oakland International,OAK,1990,4564136,7385389,2641198,37.72138889,-122.2208333
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,1990,0,0,13847,37.62694444,-120.9552778
+California,Monterey,Monterey Peninsula,MRY,1990,71885,7082,168099,36.58805556,-121.8480556
+California,Ontario,Ontario International,ONT,1990,5216052,21325558,2634704,34.05611111,-117.6011111
+California,Oxnard/Ventura,Oxnard,OXR,1990,0,0,23839,34.20111111,-119.2063889
+California,Palm Springs,Palm Springs International,PSP,1990,302860,109308,368496,33.82666667,-116.505
+California,Palmdale,Palmdale Airport,PMD,1990,910,0,19225,34.6275,-118.0833333
+California,Redding,Redding Municipal,RDD,1990,0,0,38951,40.50833333,-122.2922222
+California,Sacramento,Sacramento International,SMF,1990,3355906,20567689,1736506,38.69555556,-121.5897222
+California,San Diego,San Diego International Lindbergh Fl,SAN,1990,28383919,17645564,5274844,32.73277778,-117.1872222
+California,San Francisco,San Francisco International,SFO,1990,488447187,102676304,14569249,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,1990,15517021,7933363,3163859,37.36277778,-121.9405556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,1990,0,0,8898,35.23666667,-120.6391667
+California,Santa Barbara,Santa Barbara Municipal,SBA,1990,748946,24,226366,34.42777778,-119.8394444
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,1990,0,0,6213,34.905,-120.4577778
+California,Stockton,Stockton Metropolitan,SCK,1990,184173,12082,43994,37.89444444,-121.2391667
+California,Watsonville,Watsonville Municipal,WVI,1991,2,0,0,36.93583333,-121.7886111
+California,Dorris,Butte Valley,WQH,1991,0,0,0,41.88722222,-121.9744444
+California,Fresno,Chandler Downtown,FCH,1991,2,0,0,36.7325,-119.8188889
+California,Gasquet,Ward Field,ZXC,1991,0,0,0,41.84583333,-123.9833333
+California,Hollister,Hollister Municipal,HLI,1991,1,0,0,36.89027778,-121.4061111
+California,Fresno,Fresno Air Terminal,FAT,1991,992,895,350745,36.77666667,-119.7172222
+California,Carlsbad,Palomar,CLD,1991,2,0,0,33.12861111,-117.2797222
+California,Tulelake,Tulelake Municipal,WQD,1991,1,0,0,41.8875,-121.3583333
+California,Merced,Merced Macready Regional,MCE,1991,0,0,5247,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,1991,374153,62795,18335340,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,1991,6755,1989,1823749,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,1991,1,0,0,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,1991,13,0,2910,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,1991,17198,783,650191,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,1991,197,0,13010,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,1991,117125,3311,2964628,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,1991,64,0,588,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,1991,92210,11557,2839707,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,1991,205,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,1991,0,0,298,32.86916667,-117.1436111
+California,Edwards,Edwards AFB,EDW,1991,0,0,0,34.9,-117.8666667
+California,Riverside,March AFB,RIV,1991,0,0,130,33.88055556,-117.2586111
+California,San Diego,San Diego International Lindbergh Fl,SAN,1991,22018,8033,5388755,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,1991,0,0,32306,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,1991,295,0,131,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,1991,188111,52265,14038064,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,1991,27400,4071,3152514,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,1991,96,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,1991,2,0,14455,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,1991,7497,9491,2105544,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,1991,1466,125,2573035,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,1991,711,1,201310,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,1991,183,4,122340,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,1991,143,0,11529,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,1991,134,11,332509,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,1991,16,0,56219,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,1991,247,0,35736,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,1991,19805,0,9010,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,1991,207,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,1991,0,0,110,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,1991,129,0,1092,36.31944444,-119.3938889
+California,Concord,Buchanan Field,CCR,1991,1,0,5135,37.98888889,-122.0555556
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,1991,0,0,16955,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,1991,0,0,13513,37.89444444,-121.2391667
+California,Palmdale,Palmdale Airport,PMD,1991,0,0,8967,34.6275,-118.0833333
+California,San Diego,North Island NAS,NZY,1991,0,0,599,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,1991,3,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,1991,200,0,36979,40.50833333,-122.2922222
+California,Lakeport,Lampson,XXP,1991,1,0,0,38.99027778,-122.8986111
+California,Mojave,Mojave Airport,MHV,1991,0,0,0,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,1991,4,0,0,34.74055556,-118.22
+California,Bakersfield,Meadows Field,BFL,1991,261,41,98677,35.43,-119.0522222
+California,Red Bluff,Red Bluff Municipal,RBL,1991,1,0,0,40.15138889,-122.2511111
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,1991,0,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,1991,1,0,0,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,1991,0,0,0,34.20972222,-118.49
+California,Hesperia,Hesperia Airport,WQG,1991,0,0,0,34.37722222,-117.315
+California,Willits,Ells Field-Willits Municipal,XXN,1991,6,0,2522,39.45111111,-123.3688889
+California,Paradise,Skypark,ZXW,1991,1,0,0,39.70972222,-121.6152778
+California,Mountain View,Moffett Field NAS,NUQ,1991,0,0,135,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,1991,0,0,1299,34.12027778,-119.12
+California,Madera,Madera Municipal,MAE,1991,3,0,0,36.98777778,-120.1105556
+California,Clear Lake,Pearce Field,CKE,1991,1,0,0,38.93472222,-122.6222222
+California,Santa Ana,El Toro MCAS,NZJ,1991,0,0,461,33.6675,-117.7183333
+California,Oxnard/Ventura,Oxnard,OXR,1991,0,0,20643,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,1991,176,0,9770,34.905,-120.4577778
+California,Lompoc,Vandenberg AFB,VBG,1991,0,0,332,34.72972222,-120.5758333
+California,Santa Ynez,Santa Ynez Airport,ZXQ,1991,7,0,0,34.60694444,-120.0747222
+California,Watsonville,Watsonville Municipal,WVI,1992,1,0,0,36.93583333,-121.7886111
+California,Fresno,Chandler Downtown,FCH,1992,1,0,0,36.7325,-119.8188889
+California,Gasquet,Ward Field,ZXC,1992,0,0,0,41.84583333,-123.9833333
+California,Hollister,Hollister Municipal,HLI,1992,1,0,0,36.89027778,-121.4061111
+California,Fresno,Fresno Air Terminal,FAT,1992,1263,1036,333999,36.77666667,-119.7172222
+California,Oceano,Oceano County,WQP,1992,3,0,0,35.10138889,-120.6211111
+California,Tulelake,Tulelake Municipal,WQD,1992,0,0,0,41.8875,-121.3583333
+California,Livermore,Livermore Municipal,LVK,1992,0,0,0,37.69361111,-121.8202778
+California,Merced,Merced Macready Regional,MCE,1992,0,0,6145,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,1992,378561,69430,18394652,33.9425,-118.4080556
+California,Auburn,Auburn Municipal,AUN,1992,0,0,0,38.95277778,-121.0819444
+California,Burbank,Hollywood-Burbank Midpoint,BUR,1992,6834,2301,1863132,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,1992,15,0,72,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,1992,17,0,4216,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,1992,12132,832,400255,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,1992,198,0,13979,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,1992,113743,4209,3104087,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,1992,137,0,80,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,1992,13018,11955,2978354,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,1992,232,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,1992,0,0,228,32.86916667,-117.1436111
+California,Edwards,Edwards AFB,EDW,1992,102,0,208,34.9,-117.8666667
+California,Riverside,March AFB,RIV,1992,1,0,6035,33.88055556,-117.2586111
+California,San Diego,San Diego International Lindbergh Fl,SAN,1992,23092,8398,5656546,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,1992,102,0,10314,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,1992,336,0,0,32.83722222,-115.5747222
+California,Mariposa,Mariposa-Yosemite,XXR,1992,7,0,0,37.51083333,-120.0408333
+California,San Francisco,San Francisco International,SFO,1992,208711,63291,14208463,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,1992,24662,5057,3137190,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,1992,135,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,1992,0,0,330,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,1992,9928,8533,2488628,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,1992,2202,79,2679000,33.67555556,-117.8672222
+California,Marysville,Yuba County,MYV,1992,1,0,0,39.09805556,-121.5697222
+California,Shingletown,Shingletown Airport,QQM,1992,0,0,0,40.52222222,-121.8166667
+California,Santa Barbara,Santa Barbara Municipal,SBA,1992,815,0,184161,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,1992,265,4,115798,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,1992,166,0,18186,35.23666667,-120.6391667
+California,Needles,Needles Airport,EED,1992,0,0,0,34.75833333,-114.62
+California,Palm Springs,Palm Springs International,PSP,1992,112,2,315099,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,1992,1,0,62310,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,1992,291,0,26139,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,1992,6173,0,912,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,1992,226,0,0,39.12666667,-123.2
+California,Visalia,Visalia Municipal,VIS,1992,155,0,802,36.31944444,-119.3938889
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,1992,0,0,20728,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,1992,1,0,12134,37.89444444,-121.2391667
+California,San Diego,North Island NAS,NZY,1992,3298,0,285,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,1992,0,0,87,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,1992,286,0,45594,40.50833333,-122.2922222
+California,Blythe,Blythe Airport,BLH,1992,0,0,0,33.62083333,-114.7188889
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,1992,0,0,90,37.63111111,-118.8513889
+California,Mojave,Mojave Airport,MHV,1992,8,0,0,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,1992,1,0,0,34.74055556,-118.22
+California,Bakersfield,Meadows Field,BFL,1992,403,115,77065,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,1992,3,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,1992,0,1,0,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,1992,0,0,38,34.20972222,-118.49
+California,Willits,Ells Field-Willits Municipal,XXN,1992,0,0,0,39.45111111,-123.3688889
+California,Paradise,Skypark,ZXW,1992,1,0,0,39.70972222,-121.6152778
+California,Mountain View,Moffett Field NAS,NUQ,1992,0,0,0,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,1992,1,0,1336,34.12027778,-119.12
+California,San Diego,Montgomery Field,MYF,1992,294,0,0,32.81583333,-117.1394444
+California,Santa Ana,El Toro MCAS,NZJ,1992,0,0,1852,33.6675,-117.7183333
+California,Oxnard/Ventura,Oxnard,OXR,1992,32,0,858,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,1992,218,0,5024,34.905,-120.4577778
+California,Lompoc,Vandenberg AFB,VBG,1992,0,0,290,34.72972222,-120.5758333
+California,California City,California City Municipal,VWI,1992,0,0,0,35.15194444,-118.0138889
+California,Santa Paula,Santa Paula Airport,SZP,1992,0,0,0,34.34722222,-119.0602778
+California,Santa Ynez,Santa Ynez Airport,ZXQ,1992,2,0,0,34.60694444,-120.0747222
+California,Watsonville,Watsonville Municipal,WVI,1993,0,0,0,36.93583333,-121.7886111
+California,Fresno,Fresno Air Terminal,FAT,1993,1302,1137,290287,36.77666667,-119.7172222
+California,Merced,Merced Macready Regional,MCE,1993,0,0,3274,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,1993,374640,74564,18443271,33.9425,-118.4080556
+California,Montague,Siskiyou County,SIY,1993,0,0,0,41.78138889,-122.4680556
+California,Auburn,Auburn Municipal,AUN,1993,5,0,0,38.95277778,-121.0819444
+California,Burbank,Hollywood-Burbank Midpoint,BUR,1993,7141,2085,2117643,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,1993,20,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,1993,0,0,100,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,1993,20,0,3931,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,1993,12762,711,291131,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,1993,219,0,5808,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,1993,144943,9780,3577588,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,1993,0,0,60,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,1993,24838,12424,3025640,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,1993,219,0,0,40.805,-124.115
+California,Edwards,Edwards AFB,EDW,1993,40,0,16,34.9,-117.8666667
+California,Riverside,March AFB,RIV,1993,102,0,5020,33.88055556,-117.2586111
+California,San Diego,San Diego International Lindbergh Fl,SAN,1993,24046,8393,5699382,32.73277778,-117.1872222
+California,El Centro,Imperial County,IPL,1993,257,0,0,32.83722222,-115.5747222
+California,Mariposa,Mariposa-Yosemite,XXR,1993,10,0,0,37.51083333,-120.0408333
+California,San Francisco,San Francisco International,SFO,1993,198017,65136,14003556,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,1993,27193,5007,3186195,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,1993,140,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,1993,4,0,4587,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,1993,13481,8151,2538181,38.69555556,-121.5897222
+California,San Diego,Gillespie Field,SEE,1993,6,0,0,32.82611111,-116.9713889
+California,Santa Ana,John Wayne Airport-Orange County,SNA,1993,3697,159,2854297,33.67555556,-117.8672222
+California,Alameda,Alameda NAS,NGZ,1993,0,0,55,37.79055556,-122.3255556
+California,Lone Pine,Lone Pine Airport,RQA,1993,0,0,0,36.58833333,-118.0519444
+California,Santa Barbara,Santa Barbara Municipal,SBA,1993,7126,0,139546,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,1993,238,4,91371,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,1993,194,0,9114,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,1993,96,2,274724,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,1993,4,0,32364,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,1993,291,0,13607,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,1993,15520,0,1353,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,1993,221,0,0,39.12666667,-123.2
+California,Visalia,Visalia Municipal,VIS,1993,164,0,567,36.31944444,-119.3938889
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,1993,41,0,11809,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,1993,2,0,5783,37.89444444,-121.2391667
+California,Palmdale,Palmdale Airport,PMD,1993,0,0,119,34.6275,-118.0833333
+California,San Diego,North Island NAS,NZY,1993,12397,0,915,32.69916667,-117.2144444
+California,Redding,Redding Municipal,RDD,1993,311,0,28373,40.50833333,-122.2922222
+California,Cloverdale,Cloverdale Municipal,ZXT,1993,1,0,0,38.77444444,-122.9911111
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,1993,0,0,664,37.63111111,-118.8513889
+California,Lakeport,Lampson,XXP,1993,1,0,0,38.99027778,-122.8986111
+California,Mojave,Mojave Airport,MHV,1993,1,0,0,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,1993,0,0,0,34.74055556,-118.22
+California,Bakersfield,Meadows Field,BFL,1993,446,97,57765,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,1993,0,0,0,35.1375,-118.4416667
+California,Willits,Ells Field-Willits Municipal,XXN,1993,0,0,0,39.45111111,-123.3688889
+California,Paradise,Skypark,ZXW,1993,1,0,0,39.70972222,-121.6152778
+California,Mountain View,Moffett Field NAS,NUQ,1993,0,0,199,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,1993,0,0,1249,34.12027778,-119.12
+California,Madera,Madera Municipal,MAE,1993,0,0,0,36.98777778,-120.1105556
+California,San Diego,Montgomery Field,MYF,1993,568,0,0,32.81583333,-117.1394444
+California,Santa Ana,El Toro MCAS,NZJ,1993,0,0,1599,33.6675,-117.7183333
+California,Oxnard/Ventura,Oxnard,OXR,1993,57,0,337,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,1993,263,0,3095,34.905,-120.4577778
+California,Chowchilla,Chowchilla Airport,UXD,1993,3,0,0,37.1125,-120.2469444
+California,Santa Ynez,Santa Ynez Airport,SQA,1993,2,0,0,34.60694444,-120.0747222
+California,Lompoc,Vandenberg AFB,VBG,1993,0,0,311,34.72972222,-120.5758333
+California,California City,California City Municipal,VWI,1993,0,0,0,35.15194444,-118.0138889
+California,Santa Paula,Santa Paula Airport,SZP,1993,0,0,0,34.34722222,-119.0602778
+California,Weed,Weed Airport,VWM,1993,0,0,0,41.47472222,-122.4530556
+California,Fresno,Fresno Air Terminal,FAT,1994,1332,1086,251969,36.77666667,-119.7172222
+California,Oceano,Oceano County,WQP,1994,0,0,0,35.10138889,-120.6211111
+California,Thermal,Jacqueline Cochran Regional,TRM,1994,0,0,158,33.62638889,-116.1608333
+California,San Carlos,San Carlos Airport,SQL,1994,0,0,0,37.51111111,-122.2486111
+California,Los Angeles,Los Angeles International,LAX,1994,409542,84034,19912177,33.9425,-118.4080556
+California,Montague,Siskiyou County,SIY,1994,0,0,575,41.78138889,-122.4680556
+California,Auburn,Auburn Municipal,AUN,1994,13,0,0,38.95277778,-121.0819444
+California,Burbank,Hollywood-Burbank Midpoint,BUR,1994,8006,1428,2363621,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,1994,23,0,0,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,1994,24,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,1994,9513,241,246997,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,1994,236,0,282,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,1994,150849,18993,4009239,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,1994,0,0,47,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,1994,25529,10955,3142789,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,1994,249,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,1994,0,0,321,32.86916667,-117.1436111
+California,Edwards,Edwards AFB,EDW,1994,18,0,0,34.9,-117.8666667
+California,Riverside,March AFB,RIV,1994,203,0,7061,33.88055556,-117.2586111
+California,San Diego,San Diego International Lindbergh Fl,SAN,1994,23315,9356,6173704,32.73277778,-117.1872222
+California,El Centro,Imperial County,IPL,1994,260,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,1994,207159,73196,14468896,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,1994,33248,5098,4021998,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,1994,171,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,1994,0,0,1806,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,1994,14671,8435,2792416,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,1994,4238,439,3189566,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,1994,1074,0,120395,34.42777778,-119.8394444
+California,Mendota,William Robert Johnston Municipal,RQD,1994,1,0,0,36.75805556,-120.3713889
+California,Monterey,Monterey Peninsula,MRY,1994,261,5,83825,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,1994,251,0,2409,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,1994,93,1,302750,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,1994,8,17,6443,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,1994,283,0,1328,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,1994,14167,0,2481,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,1994,242,0,0,39.12666667,-123.2
+California,Visalia,Visalia Municipal,VIS,1994,382,0,1570,36.31944444,-119.3938889
+California,San Francisco,China Basin Heliport,JCC,1994,0,0,0,37.8,-122.4666667
+California,China Lake,China Lake Naws,RQK,1994,0,0,332,35.68777778,-117.6905556
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,1994,0,0,619,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,1994,0,0,689,37.89444444,-121.2391667
+California,Newport Beach,Newport Beach Airport,JNP,1994,0,0,72,33.61388889,-117.8897222
+California,Palmdale,Palmdale Airport,PMD,1994,0,0,24,34.6275,-118.0833333
+California,San Diego,North Island NAS,NZY,1994,6181,0,1227,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,1994,4,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,1994,311,0,12042,40.50833333,-122.2922222
+California,Cloverdale,Cloverdale Municipal,ZXT,1994,0,0,0,38.77444444,-122.9911111
+California,Blythe,Blythe Airport,BLH,1994,1,0,0,33.62083333,-114.7188889
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,1994,1,0,0,37.63111111,-118.8513889
+California,Woodlake,Woodlake Airport,QQN,1994,1,0,0,36.39888889,-119.1063889
+California,Marysville,Beale AFB,BAB,1994,10,0,0,39.13611111,-121.4355556
+California,Healdsburg,Healdsburg Municipal,QQX,1994,0,0,0,38.65361111,-122.8983333
+California,Woodland,Watts/Woodland,RQQ,1994,4,0,0,38.67388889,-121.8722222
+California,Salinas/Monterey,Salinas Municipal,SNS,1994,0,0,0,36.66361111,-121.6075
+California,Bakersfield,Meadows Field,BFL,1994,429,113,38362,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,1994,1,0,0,35.1375,-118.4416667
+California,Van Nuys,Van Nuys Airport,VNY,1994,0,0,0,34.20972222,-118.49
+California,Hesperia,Hesperia Airport,WQG,1994,0,0,0,34.37722222,-117.315
+California,Paradise,Skypark,ZXW,1994,2,0,0,39.70972222,-121.6152778
+California,Port Hueneme,Point Mugu NAS,NTD,1994,0,0,1526,34.12027778,-119.12
+California,Calipatria,Cliff Hatfield Memorial,CLR,1994,0,0,43,33.12972222,-115.5216667
+California,Madera,Madera Municipal,MAE,1994,7,0,0,36.98777778,-120.1105556
+California,San Diego,Montgomery Field,MYF,1994,643,0,0,32.81583333,-117.1394444
+California,Santa Ana,El Toro MCAS,NZJ,1994,0,0,1452,33.6675,-117.7183333
+California,Oxnard/Ventura,Oxnard,OXR,1994,136,0,0,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,1994,304,0,2249,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,1994,2,0,0,34.60694444,-120.0747222
+California,Lompoc,Vandenberg AFB,VBG,1994,0,0,388,34.72972222,-120.5758333
+California,Santa Paula,Santa Paula Airport,SZP,1994,0,0,0,34.34722222,-119.0602778
+California,Watsonville,Watsonville Municipal,WVI,1995,1,0,0,36.93583333,-121.7886111
+California,Gasquet,Ward Field,ZXC,1995,1,0,0,41.84583333,-123.9833333
+California,Sacramento,Mather AFB,MHR,1995,0,0,0,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,1995,1256,520,207868,36.77666667,-119.7172222
+California,Merced,Merced Macready Regional,MCE,1995,0,0,1238,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,1995,438162,89018,21073503,33.9425,-118.4080556
+California,Auburn,Auburn Municipal,AUN,1995,16,0,0,38.95277778,-121.0819444
+California,San Clemente Island,San Clemente Island Nalf,JZL,1995,0,0,3437,33.02333333,-118.5880556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,1995,10745,864,2436402,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,1995,30,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,1995,2,0,0,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,1995,21,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,1995,5513,0,184762,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,1995,256,0,77,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,1995,178642,17466,4750987,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,1995,0,0,65,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,1995,36863,7874,3193612,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,1995,305,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,1995,0,0,667,32.86916667,-117.1436111
+California,Edwards,Edwards AFB,EDW,1995,0,0,32792,34.9,-117.8666667
+California,Riverside,March AFB,RIV,1995,152,0,6428,33.88055556,-117.2586111
+California,San Diego,San Diego International Lindbergh Fl,SAN,1995,24870,13071,6336472,32.73277778,-117.1872222
+California,El Centro,Imperial County,IPL,1995,301,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,1995,182020,74545,15014295,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,1995,39056,4825,4267352,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,1995,197,0,4791,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,1995,0,0,16119,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,1995,22157,9556,3198568,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,1995,8420,3714,3452728,33.67555556,-117.8672222
+California,Alameda,Alameda NAS,NGZ,1995,0,0,117,37.79055556,-122.3255556
+California,Independence,Independence Airport,VWR,1995,0,0,0,36.81388889,-118.205
+California,Lone Pine,Lone Pine Airport,RQA,1995,0,0,0,36.58833333,-118.0519444
+California,Wasco,Wasco-Kern County,RQU,1995,0,0,0,35.61972222,-119.3536111
+California,Lompoc,Lompoc Airport,LPC,1995,1,0,0,34.66611111,-120.4655556
+California,Marysville,Yuba County,MYV,1995,0,0,0,39.09805556,-121.5697222
+California,Santa Barbara,Santa Barbara Municipal,SBA,1995,963,0,109394,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,1995,261,3,85723,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,1995,286,1,15878,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,1995,63,1,311799,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,1995,37,8,11890,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,1995,299,0,1084,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,1995,5613,0,667,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,1995,284,0,0,39.12666667,-123.2
+California,Visalia,Visalia Municipal,VIS,1995,530,0,1628,36.31944444,-119.3938889
+California,Concord,Buchanan Field,CCR,1995,0,0,0,37.98888889,-122.0555556
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,1995,0,0,698,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,1995,0,0,1128,37.89444444,-121.2391667
+California,Palmdale,Palmdale Airport,PMD,1995,0,0,4553,34.6275,-118.0833333
+California,San Diego,North Island NAS,NZY,1995,0,0,8184,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,1995,2,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,1995,300,0,11844,40.50833333,-122.2922222
+California,Cloverdale,Cloverdale Municipal,ZXT,1995,0,0,0,38.77444444,-122.9911111
+California,Lakeport,Lampson,XXP,1995,0,0,0,38.99027778,-122.8986111
+California,Woodlake,Woodlake Airport,QQN,1995,1,0,0,36.39888889,-119.1063889
+California,Mojave,Mojave Airport,MHV,1995,0,0,0,35.06666667,-118.15
+California,Woodland,Watts/Woodland,RQQ,1995,6,0,0,38.67388889,-121.8722222
+California,Salinas/Monterey,Salinas Municipal,SNS,1995,1,0,0,36.66361111,-121.6075
+California,Bakersfield,Meadows Field,BFL,1995,407,49,42734,35.43,-119.0522222
+California,Red Bluff,Red Bluff Municipal,RBL,1995,1,0,0,40.15138889,-122.2511111
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,1995,0,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,1995,0,0,134,32.57222222,-116.9794444
+California,Hesperia,Hesperia Airport,WQG,1995,1,0,0,34.37722222,-117.315
+California,Port Hueneme,Point Mugu NAS,NTD,1995,0,0,795,34.12027778,-119.12
+California,San Diego,Montgomery Field,MYF,1995,609,0,0,32.81583333,-117.1394444
+California,Santa Ana,El Toro MCAS,NZJ,1995,0,0,1195,33.6675,-117.7183333
+California,Oxnard/Ventura,Oxnard,OXR,1995,569,0,10178,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,1995,397,0,14048,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,1995,1,0,0,34.60694444,-120.0747222
+California,Santa Paula,Santa Paula Airport,SZP,1995,0,0,0,34.34722222,-119.0602778
+California,Watsonville,Watsonville Municipal,WVI,1996,2,0,0,36.93583333,-121.7886111
+California,Gasquet,Ward Field,ZXC,1996,0,0,0,41.84583333,-123.9833333
+California,Hollister,Hollister Municipal,HLI,1996,2,0,0,36.89027778,-121.4061111
+California,Sacramento,Mather AFB,MHR,1996,6836,2007,77,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,1996,1191,268,272806,36.77666667,-119.7172222
+California,Carlsbad,Palomar,CLD,1996,0,0,10495,33.12861111,-117.2797222
+California,Coalinga,Coalinga Municipal,CLG,1996,2,0,0,36.16055556,-120.3594444
+California,Fallbrook,Fallbrook Community Airpark,FVE,1996,1,0,0,33.35416667,-117.2508333
+California,Los Angeles,Los Angeles International,LAX,1996,472591,92591,22799083,33.9425,-118.4080556
+California,Auburn,Auburn Municipal,AUN,1996,14,0,0,38.95277778,-121.0819444
+California,Grass Valley,Nevada County,QQQ,1996,0,0,0,39.22444444,-121.0013889
+California,Burbank,Hollywood-Burbank Midpoint,BUR,1996,12329,857,2364246,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,1996,33,0,0,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,1996,27,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,1996,4022,1,207717,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,1996,290,0,275,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,1996,219342,17553,4684494,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,1996,0,0,478,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,1996,47188,9937,3122809,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,1996,348,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,1996,20,0,644,32.86916667,-117.1436111
+California,Edwards,Edwards AFB,EDW,1996,0,0,7954,34.9,-117.8666667
+California,Columbia,Columbia Airport,COA,1996,0,0,1,38.03055556,-120.4144444
+California,Riverside,March AFB,RIV,1996,109,0,5794,33.88055556,-117.2586111
+California,Lemoore,Lemoore NAS,NLC,1996,0,0,114,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,1996,30733,15603,6549170,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,1996,30,0,172,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,1996,419,0,5187,32.83722222,-115.5747222
+California,Mariposa,Mariposa-Yosemite,XXR,1996,0,0,0,37.51083333,-120.0408333
+California,San Francisco,San Francisco International,SFO,1996,177323,79506,16308203,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,1996,48736,4580,4825943,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,1996,243,0,8787,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,1996,0,0,160,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,1996,23656,10553,3321408,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,1996,9788,5117,3532746,33.67555556,-117.8672222
+California,Hawthorne,Jack Northrop Field/Hawthorne Municipal,HHR,1996,2,0,0,33.92277778,-118.3352778
+California,Santa Barbara,Santa Barbara Municipal,SBA,1996,962,0,135807,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,1996,282,0,91360,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,1996,323,0,18495,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,1996,75,0,369990,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,1996,85,1,11959,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,1996,361,0,1218,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,1996,5217,0,3473,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,1996,264,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,1996,0,0,34295,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,1996,354,0,2525,36.31944444,-119.3938889
+California,China Lake,China Lake Naws,RQK,1996,0,0,0,35.68777778,-117.6905556
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,1996,15,0,138,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,1996,42,0,570,37.89444444,-121.2391667
+California,Palmdale,Palmdale Airport,PMD,1996,0,0,7385,34.6275,-118.0833333
+California,San Diego,North Island NAS,NZY,1996,19,0,3079,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,1996,0,0,173,35.67055556,-120.6258333
+California,Tulare,Mefford Field,TLR,1996,1,0,0,36.15638889,-119.3261111
+California,Redding,Redding Municipal,RDD,1996,368,0,11867,40.50833333,-122.2922222
+California,Angwin,Virgil O Parrett Field,JZX,1996,0,0,0,38.57861111,-122.4352778
+California,Cloverdale,Cloverdale Municipal,ZXT,1996,0,0,0,38.77444444,-122.9911111
+California,Healdsburg,Healdsburg Municipal,QQX,1996,0,0,0,38.65361111,-122.8983333
+California,Mojave,Mojave Airport,MHV,1996,0,0,0,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,1996,1,0,0,34.74055556,-118.22
+California,Bakersfield,Meadows Field,BFL,1996,462,0,44287,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,1996,2,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,1996,0,0,69,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,1996,3,0,0,34.20972222,-118.49
+California,Hesperia,Hesperia Airport,WQG,1996,2,0,0,34.37722222,-117.315
+California,Port Hueneme,Point Mugu NAS,NTD,1996,0,0,1433,34.12027778,-119.12
+California,San Diego,Montgomery Field,MYF,1996,633,0,0,32.81583333,-117.1394444
+California,Santa Ana,El Toro MCAS,NZJ,1996,0,0,1294,33.6675,-117.7183333
+California,Oxnard/Ventura,Oxnard,OXR,1996,20,0,16804,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,1996,512,0,22019,34.905,-120.4577778
+California,Lompoc,Vandenberg AFB,VBG,1996,0,0,285,34.72972222,-120.5758333
+California,Santa Paula,Santa Paula Airport,SZP,1996,0,0,0,34.34722222,-119.0602778
+California,Sacramento,Mather AFB,MHR,1997,14010,2004,0,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,1997,4216,316,210345,36.77666667,-119.7172222
+California,Coalinga,Coalinga Municipal,CLG,1997,12,0,0,36.16055556,-120.3594444
+California,Merced,Merced Macready Regional,MCE,1997,0,0,0,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,1997,530141,95391,22352381,33.9425,-118.4080556
+California,Auburn,Auburn Municipal,AUN,1997,13,0,0,38.95277778,-121.0819444
+California,San Clemente Island,San Clemente Island Nalf,JZL,1997,67,0,13954,33.02333333,-118.5880556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,1997,17001,1710,2193486,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,1997,47,0,0,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,1997,39,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,1997,18955,0,330379,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,1997,465,0,0,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,1997,2,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,1997,313239,19898,4150803,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,1997,0,0,377,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,1997,244142,10949,2872339,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,1997,335,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,1997,0,0,787,32.86916667,-117.1436111
+California,Edwards,Edwards AFB,EDW,1997,0,0,12,34.9,-117.8666667
+California,Riverside,March AFB,RIV,1997,37,0,4778,33.88055556,-117.2586111
+California,Lemoore,Lemoore NAS,NLC,1997,0,0,213,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,1997,45262,17887,6545203,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,1997,37,0,298,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,1997,525,0,265,32.83722222,-115.5747222
+California,Mariposa,Mariposa-Yosemite,XXR,1997,2,0,0,37.51083333,-120.0408333
+California,San Francisco,San Francisco International,SFO,1997,193724,86602,16820188,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,1997,60845,4692,4723811,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,1997,289,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,1997,0,0,110,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,1997,37031,12289,3214732,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,1997,14374,7875,3675112,33.67555556,-117.8672222
+California,Hawthorne,Jack Northrop Field/Hawthorne Municipal,HHR,1997,1,0,0,33.92277778,-118.3352778
+California,Lone Pine,Lone Pine Airport,RQA,1997,2,0,0,36.58833333,-118.0519444
+California,Colusa,Colusa Airport,FVL,1997,1,0,0,39.17916667,-121.9933333
+California,Quincy,Gansner Field,FVP,1997,2,0,0,39.94388889,-120.9469444
+California,Santa Barbara,Santa Barbara Municipal,SBA,1997,968,0,182336,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,1997,419,1,75423,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,1997,340,0,0,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,1997,65,0,381361,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,1997,112,0,11506,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,1997,432,0,183,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,1997,6699,0,1501,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,1997,284,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,1997,0,0,38337,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,1997,290,0,1073,36.31944444,-119.3938889
+California,China Lake,China Lake Naws,RQK,1997,9,0,0,35.68777778,-117.6905556
+California,Palmdale,Palmdale Airport,PMD,1997,0,0,52,34.6275,-118.0833333
+California,Hayward,Hayward Air Terminal,HWD,1997,0,0,0,37.65916667,-122.1225
+California,Twentynine Palms,Twentynine Palms Airport,TNP,1997,10,0,0,34.13222222,-115.9458333
+California,San Diego,North Island NAS,NZY,1997,165,0,21785,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,1997,7,0,0,35.67055556,-120.6258333
+California,Tulare,Mefford Field,TLR,1997,0,0,0,36.15638889,-119.3261111
+California,Redding,Redding Municipal,RDD,1997,485,0,10587,40.50833333,-122.2922222
+California,Lakeport,Lampson,XXP,1997,0,0,0,38.99027778,-122.8986111
+California,Woodlake,Woodlake Airport,QQN,1997,2,0,0,36.39888889,-119.1063889
+California,Marysville,Beale AFB,BAB,1997,0,0,115,39.13611111,-121.4355556
+California,Lancaster,General William J. Fox Airfield,WJF,1997,1,0,0,34.74055556,-118.22
+California,Bakersfield,Meadows Field,BFL,1997,388,0,27776,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,1997,1,0,0,35.1375,-118.4416667
+California,Van Nuys,Van Nuys Airport,VNY,1997,17,0,0,34.20972222,-118.49
+California,Hesperia,Hesperia Airport,WQG,1997,1,0,0,34.37722222,-117.315
+California,Mountain View,Moffett Field NAS,NUQ,1997,0,0,0,37.41527778,-122.0472222
+California,Banning,Banning Municipal,BNG,1997,0,0,0,33.92305556,-116.8505556
+California,Port Hueneme,Point Mugu NAS,NTD,1997,484,0,16327,34.12027778,-119.12
+California,San Diego,Montgomery Field,MYF,1997,603,0,0,32.81583333,-117.1394444
+California,Santa Ana,El Toro MCAS,NZJ,1997,0,0,878,33.6675,-117.7183333
+California,Oxnard/Ventura,Oxnard,OXR,1997,2,0,0,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,1997,475,0,1849,34.905,-120.4577778
+California,Lompoc,Vandenberg AFB,VBG,1997,0,0,211,34.72972222,-120.5758333
+California,Watsonville,Watsonville Municipal,WVI,1998,0,0,26,36.93583333,-121.7886111
+California,Fresno,Chandler Downtown,FCH,1998,0,0,0,36.7325,-119.8188889
+California,Hollister,Hollister Municipal,HLI,1998,2,0,0,36.89027778,-121.4061111
+California,Sacramento,Mather AFB,MHR,1998,27947,1241,0,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,1998,4858,168,211075,36.77666667,-119.7172222
+California,Carlsbad,Palomar,CLD,1998,0,0,25695,33.12861111,-117.2797222
+California,Coalinga,Coalinga Municipal,CLG,1998,5,0,0,36.16055556,-120.3594444
+California,Los Angeles,Los Angeles International,LAX,1998,595702,105318,22873919,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,1998,17650,1365,2360165,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,1998,45,0,0,37.37333333,-118.365
+California,Hanford,Hanford Municipal,VWD,1998,3,0,0,36.31888889,-119.6297222
+California,Crescent City,Jack McNamara Field,CEC,1998,41,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,1998,18236,0,340991,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,1998,464,0,0,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,1998,1,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,1998,341427,22135,4410001,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,1998,0,0,119,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,1998,255743,7109,2979377,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,1998,398,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,1998,0,0,236,32.86916667,-117.1436111
+California,Edwards,Edwards AFB,EDW,1998,0,0,1099,34.9,-117.8666667
+California,Riverside,March AFB,RIV,1998,77,0,7676,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,1998,12,0,0,33.97083333,-117.6413889
+California,San Diego,San Diego International Lindbergh Fl,SAN,1998,46944,18324,6996325,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,1998,15,0,2319,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,1998,711,0,254,32.83722222,-115.5747222
+California,Mariposa,Mariposa-Yosemite,XXR,1998,1,0,0,37.51083333,-120.0408333
+California,San Francisco,San Francisco International,SFO,1998,184388,92432,16684337,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,1998,60353,3845,4994765,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,1998,307,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,1998,0,0,235,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,1998,32681,12690,3494596,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,1998,14541,8022,3633053,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,1998,1006,2,243623,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,1998,474,1,107736,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,1998,360,11,47724,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,1998,61,1,450601,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,1998,175,0,13093,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,1998,390,0,0,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,1998,5125,0,3218,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,1998,264,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,1998,0,0,35799,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,1998,445,0,1127,36.31944444,-119.3938889
+California,China Lake,China Lake Naws,RQK,1998,1,0,0,35.68777778,-117.6905556
+California,Stockton,Stockton Metropolitan,SCK,1998,20,0,576,37.89444444,-121.2391667
+California,Porterville,Porterville Municipal,PTV,1998,3,0,0,36.02777778,-119.0625
+California,Palmdale,Palmdale Airport,PMD,1998,0,0,0,34.6275,-118.0833333
+California,Hayward,Hayward Air Terminal,HWD,1998,0,0,0,37.65916667,-122.1225
+California,San Diego,North Island NAS,NZY,1998,8,0,11733,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,1998,7,0,0,35.67055556,-120.6258333
+California,Tulare,Mefford Field,TLR,1998,1,0,0,36.15638889,-119.3261111
+California,Redding,Redding Municipal,RDD,1998,519,0,12871,40.50833333,-122.2922222
+California,Cloverdale,Cloverdale Municipal,ZXT,1998,1,0,0,38.77444444,-122.9911111
+California,Blythe,Blythe Airport,BLH,1998,3,0,0,33.62083333,-114.7188889
+California,Lakeport,Lampson,XXP,1998,0,0,0,38.99027778,-122.8986111
+California,Woodlake,Woodlake Airport,QQN,1998,1,0,0,36.39888889,-119.1063889
+California,Mojave,Mojave Airport,MHV,1998,0,0,7,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,1998,1,0,0,34.74055556,-118.22
+California,Truckee,Truckee Tahoe,TKF,1998,0,0,0,39.32,-120.1394444
+California,Bakersfield,Meadows Field,BFL,1998,348,0,41787,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,1998,11,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,1998,0,0,155,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,1998,0,0,81,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,1998,0,0,53,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,1998,187,0,6856,34.12027778,-119.12
+California,Madera,Madera Municipal,MAE,1998,0,0,0,36.98777778,-120.1105556
+California,San Diego,Montgomery Field,MYF,1998,607,0,0,32.81583333,-117.1394444
+California,Santa Ana,El Toro MCAS,NZJ,1998,0,0,528,33.6675,-117.7183333
+California,Oxnard/Ventura,Oxnard,OXR,1998,1,0,0,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,1998,579,0,2047,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,1998,4,0,0,34.60694444,-120.0747222
+California,Lompoc,Vandenberg AFB,VBG,1998,0,0,348,34.72972222,-120.5758333
+California,Santa Paula,Santa Paula Airport,SZP,1998,0,0,0,34.34722222,-119.0602778
+California,Sacramento,Mather AFB,MHR,1999,35853,14255,97,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,1999,4622,117,200725,36.77666667,-119.7172222
+California,Carlsbad,Palomar,CLD,1999,0,0,10604,33.12861111,-117.2797222
+California,Los Angeles,Los Angeles International,LAX,1999,623444,112035,24043891,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,1999,19496,1210,2367418,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,1999,50,0,0,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,1999,46,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,1999,21018,0,316418,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,1999,429,0,0,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,1999,315060,18107,4738024,37.72138889,-122.2208333
+California,Ontario,Ontario International,ONT,1999,249929,6364,3071396,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,1999,485,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,1999,0,0,1107,32.86916667,-117.1436111
+California,Riverside,March AFB,RIV,1999,256,0,7094,33.88055556,-117.2586111
+California,San Diego,San Diego International Lindbergh Fl,SAN,1999,46158,18921,7252579,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,1999,74,0,1349,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,1999,605,0,55,32.83722222,-115.5747222
+California,Mariposa,Mariposa-Yosemite,XXR,1999,0,0,0,37.51083333,-120.0408333
+California,San Francisco,San Francisco International,SFO,1999,185267,103110,16563022,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,1999,63718,3326,5487338,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,1999,339,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,1999,0,0,12608,38.89416667,-119.9944444
+California,Los Banos,Los Banos Municipal,LSN,1999,0,0,0,37.06305556,-120.8691667
+California,Sacramento,Sacramento International,SMF,1999,26365,11762,3658148,38.69555556,-121.5897222
+California,San Diego,Gillespie Field,SEE,1999,0,0,0,32.82611111,-116.9713889
+California,Santa Ana,John Wayne Airport-Orange County,SNA,1999,14604,7338,3642580,33.67555556,-117.8672222
+California,Hawthorne,Jack Northrop Field/Hawthorne Municipal,HHR,1999,1,0,0,33.92277778,-118.3352778
+California,Santa Barbara,Santa Barbara Municipal,SBA,1999,1109,3,250040,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,1999,404,1,89476,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,1999,397,5,42912,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,1999,45,1,441318,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,1999,120,0,12777,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,1999,384,0,0,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,1999,6357,0,2392,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,1999,302,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,1999,70,0,45251,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,1999,501,0,0,36.31944444,-119.3938889
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,1999,1,0,0,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,1999,0,0,100,37.89444444,-121.2391667
+California,Palmdale,Palmdale Airport,PMD,1999,5,0,0,34.6275,-118.0833333
+California,San Diego,North Island NAS,NZY,1999,18,0,1817,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,1999,3,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,1999,506,0,15636,40.50833333,-122.2922222
+California,Lakeport,Lampson,XXP,1999,0,0,0,38.99027778,-122.8986111
+California,Woodlake,Woodlake Airport,QQN,1999,0,0,0,36.39888889,-119.1063889
+California,Marysville,Beale AFB,BAB,1999,0,0,121,39.13611111,-121.4355556
+California,Mojave,Mojave Airport,MHV,1999,0,0,0,35.06666667,-118.15
+California,Bakersfield,Meadows Field,BFL,1999,355,0,44253,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,1999,0,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,1999,24,0,0,32.57222222,-116.9794444
+California,Willits,Ells Field-Willits Municipal,XXN,1999,1,0,0,39.45111111,-123.3688889
+California,Mountain View,Moffett Field NAS,NUQ,1999,0,0,106,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,1999,0,0,1426,34.12027778,-119.12
+California,San Diego,Montgomery Field,MYF,1999,559,0,0,32.81583333,-117.1394444
+California,Santa Ana,El Toro MCAS,NZJ,1999,0,0,0,33.6675,-117.7183333
+California,Oxnard/Ventura,Oxnard,OXR,1999,0,0,0,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,1999,650,0,1500,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,1999,3,0,0,34.60694444,-120.0747222
+California,Lompoc,Vandenberg AFB,VBG,1999,0,0,655,34.72972222,-120.5758333
+California,Sacramento,Mather AFB,MHR,2000,32527,55211,215,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2000,4827,199,184220,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2000,0,0,18,38.21222222,-122.28
+California,Coalinga,Coalinga Municipal,CLG,2000,13,0,0,36.16055556,-120.3594444
+California,Merced,Merced Macready Regional,MCE,2000,0,0,0,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,2000,655068,110341,25130701,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2000,19074,2180,2380349,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2000,59,0,0,37.37333333,-118.365
+California,Hanford,Hanford Municipal,VWD,2000,0,0,0,36.31888889,-119.6297222
+California,Crescent City,Jack McNamara Field,CEC,2000,59,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2000,26654,0,335158,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2000,402,0,216,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,2000,318135,13238,5127743,37.72138889,-122.2208333
+California,Ontario,Ontario International,ONT,2000,254529,6578,3130422,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2000,633,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2000,65,0,1573,32.86916667,-117.1436111
+California,Edwards,Edwards AFB,EDW,2000,31,0,0,34.9,-117.8666667
+California,Riverside,March AFB,RIV,2000,87,0,6353,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2000,0,0,0,33.97083333,-117.6413889
+California,Lemoore,Lemoore NAS,NLC,2000,0,0,0,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,2000,49729,18441,7635691,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2000,0,0,51,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2000,840,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2000,211125,91155,16704265,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2000,91894,3376,6045141,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2000,333,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2000,0,0,2263,38.89416667,-119.9944444
+California,Los Banos,Los Banos Municipal,LSN,2000,0,0,0,37.06305556,-120.8691667
+California,Sacramento,Sacramento International,SMF,2000,25669,12837,3873376,38.69555556,-121.5897222
+California,San Diego,Gillespie Field,SEE,2000,0,0,0,32.82611111,-116.9713889
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2000,13374,11849,3828335,33.67555556,-117.8672222
+California,Hawthorne,Jack Northrop Field/Hawthorne Municipal,HHR,2000,1,0,0,33.92277778,-118.3352778
+California,Independence,Independence Airport,VWR,2000,0,0,0,36.81388889,-118.205
+California,Santa Barbara,Santa Barbara Municipal,SBA,2000,939,0,258108,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,2000,443,0,46563,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2000,416,0,43966,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2000,41,0,467145,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2000,167,0,11972,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2000,424,0,0,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2000,3731,0,2467,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2000,317,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2000,13,0,41837,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2000,561,0,0,36.31944444,-119.3938889
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2000,0,0,128,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2000,0,0,225,37.89444444,-121.2391667
+California,Palmdale,Palmdale Airport,PMD,2000,5,0,94,34.6275,-118.0833333
+California,San Diego,North Island NAS,NZY,2000,0,0,1507,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2000,1,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2000,553,0,13159,40.50833333,-122.2922222
+California,Angwin,Virgil O Parrett Field,JZX,2000,1,0,0,38.57861111,-122.4352778
+California,Mojave,Mojave Airport,MHV,2000,2,0,0,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,2000,1,0,0,34.74055556,-118.22
+California,Bakersfield,Meadows Field,BFL,2000,397,0,30431,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,2000,0,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,2000,145,0,0,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2000,0,0,114,34.20972222,-118.49
+California,Paradise,Skypark,ZXW,2000,1,0,0,39.70972222,-121.6152778
+California,Mountain View,Moffett Field NAS,NUQ,2000,0,0,90,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,2000,0,0,935,34.12027778,-119.12
+California,San Diego,Montgomery Field,MYF,2000,389,0,0,32.81583333,-117.1394444
+California,Oxnard/Ventura,Oxnard,OXR,2000,28,0,0,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2000,624,0,1658,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,2000,2,0,0,34.60694444,-120.0747222
+California,Lompoc,Vandenberg AFB,VBG,2000,0,0,231,34.72972222,-120.5758333
+California,Hollister,Hollister Municipal,HLI,2001,0,0,0,36.89027778,-121.4061111
+California,Sacramento,Mather AFB,MHR,2001,65914,35234,88,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2001,6664,113,169667,36.77666667,-119.7172222
+California,Coalinga,Coalinga Municipal,CLG,2001,3,0,0,36.16055556,-120.3594444
+California,Atwater,Castle,MER,2001,0,0,0,37.38055556,-120.5680556
+California,Merced,Merced Macready Regional,MCE,2001,4,0,0,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,2001,632924,67627,22873307,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2001,20868,1739,2238352,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2001,43,0,0,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,2001,63,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2001,32994,0,287369,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2001,402,0,895,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,2001,311972,7095,5487002,37.72138889,-122.2208333
+California,Ontario,Ontario International,ONT,2001,423545,8307,3105210,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2001,527,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2001,0,0,1131,32.86916667,-117.1436111
+California,Riverside,March AFB,RIV,2001,79,0,4632,33.88055556,-117.2586111
+California,San Diego,San Diego International Lindbergh Fl,SAN,2001,55838,12976,7254291,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2001,1,0,11,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2001,634,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2001,184163,69689,13862994,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2001,84446,4484,5865995,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2001,299,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2001,0,0,295,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2001,26279,9306,3874856,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2001,14314,10571,3618717,33.67555556,-117.8672222
+California,Daggett,Barstow-Daggett,DAG,2001,1,0,0,34.85388889,-116.7861111
+California,Lone Pine,Lone Pine Airport,RQA,2001,0,0,0,36.58833333,-118.0519444
+California,Santa Barbara,Santa Barbara Municipal,SBA,2001,844,0,203888,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,2001,265,0,39654,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2001,394,0,44632,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2001,31,0,425466,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2001,111,0,12640,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2001,420,0,0,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2001,10058,59,2212,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2001,281,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2001,0,0,44526,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2001,353,0,0,36.31944444,-119.3938889
+California,Calexico,Calexico International,CXL,2001,1,0,0,32.66944444,-115.5125
+California,Stockton,Stockton Metropolitan,SCK,2001,0,0,1117,37.89444444,-121.2391667
+California,Palmdale,Palmdale Airport,PMD,2001,3,0,392,34.6275,-118.0833333
+California,Hayward,Hayward Air Terminal,HWD,2001,0,0,0,37.65916667,-122.1225
+California,San Diego,North Island NAS,NZY,2001,0,0,2193,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2001,3,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2001,500,0,13627,40.50833333,-122.2922222
+California,Woodlake,Woodlake Airport,QQN,2001,0,0,0,36.39888889,-119.1063889
+California,Mojave,Mojave Airport,MHV,2001,56,0,0,35.06666667,-118.15
+California,Bakersfield,Meadows Field,BFL,2001,332,0,27663,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,2001,0,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,2001,108,0,0,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2001,8,0,0,34.20972222,-118.49
+California,Willits,Ells Field-Willits Municipal,XXN,2001,1,0,0,39.45111111,-123.3688889
+California,Mountain View,Moffett Field NAS,NUQ,2001,0,0,163,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,2001,0,0,1079,34.12027778,-119.12
+California,Madera,Madera Municipal,MAE,2001,1,0,4,36.98777778,-120.1105556
+California,San Diego,Montgomery Field,MYF,2001,215,0,0,32.81583333,-117.1394444
+California,Oxnard/Ventura,Oxnard,OXR,2001,154,0,0,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2001,610,0,1391,34.905,-120.4577778
+California,Lompoc,Vandenberg AFB,VBG,2001,0,0,94,34.72972222,-120.5758333
+California,Sacramento,Mather AFB,MHR,2002,23885,0,40,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2002,4479,14,209753,36.77666667,-119.7172222
+California,Merced,Merced Macready Regional,MCE,2002,0,0,100,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,2002,512280,32292,20344071,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2002,20758,871,2294053,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2002,46,0,0,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,2002,58,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2002,24210,186,696416,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2002,371,0,0,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,2002,337206,2664,5974899,37.72138889,-122.2208333
+California,Ontario,Ontario International,ONT,2002,249029,16819,2979640,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2002,510,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2002,0,0,1710,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2002,0,0,0,32.8275,-115.6688889
+California,Edwards,Edwards AFB,EDW,2002,0,0,0,34.9,-117.8666667
+California,Riverside,March AFB,RIV,2002,2,0,1885,33.88055556,-117.2586111
+California,San Diego,San Diego International Lindbergh Fl,SAN,2002,59204,5325,7092039,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2002,0,0,0,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2002,743,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2002,153824,58383,12258286,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2002,63843,1401,5067802,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2002,237,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2002,0,0,0,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2002,28406,8207,4052945,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2002,11979,4622,3889774,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2002,678,0,133810,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,2002,264,1,39089,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2002,394,0,50706,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2002,15,0,395914,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2002,63,0,13586,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2002,468,0,0,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2002,12307,0,2204,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2002,291,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2002,12,0,46615,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2002,390,0,0,36.31944444,-119.3938889
+California,Stockton,Stockton Metropolitan,SCK,2002,0,0,991,37.89444444,-121.2391667
+California,San Diego,North Island NAS,NZY,2002,64,0,477,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2002,1,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2002,518,0,12233,40.50833333,-122.2922222
+California,Lakeport,Lampson,XXP,2002,0,0,0,38.99027778,-122.8986111
+California,Mojave,Mojave Airport,MHV,2002,43,0,0,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,2002,5,0,0,34.74055556,-118.22
+California,Salinas/Monterey,Salinas Municipal,SNS,2002,0,0,0,36.66361111,-121.6075
+California,Bakersfield,Meadows Field,BFL,2002,300,0,581,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,2002,2,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,2002,2,0,0,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2002,13,0,167,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2002,0,0,58,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,2002,75,0,960,34.12027778,-119.12
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2002,518,0,1516,34.905,-120.4577778
+California,Sacramento,Mather AFB,MHR,2003,23117,0,386,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2003,4405,25,472133,36.77666667,-119.7172222
+California,Carlsbad,Palomar,CLD,2003,0,0,34968,33.12861111,-117.2797222
+California,Merced,Merced Macready Regional,MCE,2003,0,0,0,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,2003,535227,37195,20905871,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2003,24111,1899,2348839,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2003,55,0,0,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,2003,54,0,11264,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2003,23548,329,1401831,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2003,341,0,16203,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,2003,332396,2688,6516266,37.72138889,-122.2208333
+California,Ontario,Ontario International,ONT,2003,255571,2725,3021555,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2003,430,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2003,432,0,2162,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2003,0,1,496,32.8275,-115.6688889
+California,Apple Valley,Calf Apple Valley,APV,2003,0,0,0,34.52638889,-117.2127778
+California,Riverside,March AFB,RIV,2003,2589,2,28702,33.88055556,-117.2586111
+California,San Diego,San Diego International Lindbergh Fl,SAN,2003,60671,4883,7432441,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2003,1,0,47,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2003,945,0,8063,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2003,168637,61068,12231207,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2003,51472,1655,5033643,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2003,138,0,11427,35.65666667,-117.8291667
+California,Sacramento,Sacramento International,SMF,2003,29380,7944,4364716,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2003,12779,3848,4222241,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2003,990,0,313800,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,2003,249,0,151563,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2003,383,0,111755,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2003,13,0,577278,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2003,55,0,90184,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2003,500,0,0,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2003,10418,0,3833,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2003,288,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2003,23,5,30938,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2003,379,0,1355,36.31944444,-119.3938889
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2003,0,0,14590,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2003,7495,0,1212,37.89444444,-121.2391667
+California,Palmdale,Palmdale Airport,PMD,2003,0,0,0,34.6275,-118.0833333
+California,San Diego,North Island NAS,NZY,2003,122,0,6110,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2003,51,0,144,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2003,507,0,53802,40.50833333,-122.2922222
+California,Mojave,Mojave Airport,MHV,2003,7,0,0,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,2003,0,0,0,34.74055556,-118.22
+California,Bakersfield,Meadows Field,BFL,2003,281,0,43555,35.43,-119.0522222
+California,San Diego,Brown Field Municipal,SDM,2003,5,0,0,32.57222222,-116.9794444
+California,Paradise,Skypark,ZXW,2003,1,0,0,39.70972222,-121.6152778
+California,Mountain View,Moffett Field NAS,NUQ,2003,0,0,0,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,2003,0,0,1015,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2003,0,0,21968,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2003,527,0,34516,34.905,-120.4577778
+California,Lompoc,Vandenberg AFB,VBG,2003,0,0,2164,34.72972222,-120.5758333
+California,Gasquet,Ward Field,ZXC,2004,1,0,0,41.84583333,-123.9833333
+California,Sacramento,Mather AFB,MHR,2004,23029,0,225,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2004,4566,23,538372,36.77666667,-119.7172222
+California,Carlsbad,Palomar,CLD,2004,0,0,47696,33.12861111,-117.2797222
+California,Merced,Merced Macready Regional,MCE,2004,0,0,0,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,2004,571552,34564,22893116,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2004,25330,1281,2455513,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2004,60,0,0,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,2004,52,0,12472,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2004,24690,59,1425847,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2004,357,0,17527,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,2004,361421,2999,6825031,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2004,0,0,0,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2004,266489,6801,3237431,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2004,423,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2004,127,0,3682,32.86916667,-117.1436111
+California,Riverside,March AFB,RIV,2004,890,3,29571,33.88055556,-117.2586111
+California,Lemoore,Lemoore NAS,NLC,2004,66,0,371,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,2004,62118,3563,8088510,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2004,0,0,48,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2004,997,0,7100,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2004,160164,53845,13503823,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2004,50910,1336,5189970,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2004,130,0,12725,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2004,0,0,200,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2004,28842,5337,4768472,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2004,13169,3861,4620808,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2004,1087,30,417089,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,2004,291,0,183721,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2004,406,0,155497,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2004,75,2,686641,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2004,81,0,96287,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2004,534,0,0,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2004,23460,0,3004,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2004,362,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2004,348,6,32415,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2004,360,0,1085,36.31944444,-119.3938889
+California,Oceanside,Oceanside Municipal,OCN,2004,0,0,57,33.21722222,-117.3527778
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2004,0,0,18979,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2004,4590,0,1666,37.89444444,-121.2391667
+California,Palmdale,Palmdale Airport,PMD,2004,0,0,71,34.6275,-118.0833333
+California,San Diego,North Island NAS,NZY,2004,33,0,1486,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2004,21,0,208,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2004,506,0,60941,40.50833333,-122.2922222
+California,Mojave,Mojave Airport,MHV,2004,0,0,63,35.06666667,-118.15
+California,Bakersfield,Meadows Field,BFL,2004,319,0,117975,35.43,-119.0522222
+California,San Diego,Brown Field Municipal,SDM,2004,321,0,0,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2004,0,0,0,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2004,0,0,53,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,2004,0,0,1275,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2004,0,0,23824,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2004,530,0,37998,34.905,-120.4577778
+California,Lompoc,Vandenberg AFB,VBG,2004,0,0,242,34.72972222,-120.5758333
+California,Gasquet,Ward Field,ZXC,2005,0,0,0,41.84583333,-123.9833333
+California,Sacramento,Mather AFB,MHR,2005,32669,360,62,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2005,10583,6,573648,36.77666667,-119.7172222
+California,Carlsbad,Palomar,CLD,2005,0,0,44100,33.12861111,-117.2797222
+California,Atwater,Castle,MER,2005,7,0,0,37.38055556,-120.5680556
+California,Merced,Merced Macready Regional,MCE,2005,0,0,0,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,2005,577875,33679,22966430,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2005,27130,363,2758394,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2005,53,0,0,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,2005,58,0,11605,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2005,30869,116,1480950,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2005,307,0,17795,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,2005,371085,2544,6936037,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2005,0,0,0,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2005,268947,7303,3398018,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2005,395,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2005,196,0,1731,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2005,0,0,205,32.8275,-115.6688889
+California,Edwards,Edwards AFB,EDW,2005,0,0,195,34.9,-117.8666667
+California,Riverside,March AFB,RIV,2005,2718,0,21184,33.88055556,-117.2586111
+California,San Diego,San Diego International Lindbergh Fl,SAN,2005,71160,2979,8568237,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2005,0,0,24,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2005,665,0,5966,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2005,155302,49638,13829935,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2005,51916,1394,5233967,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2005,131,0,13138,35.65666667,-117.8291667
+California,Sacramento,Sacramento International,SMF,2005,28751,4289,5049631,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2005,13410,4052,4791169,33.67555556,-117.8672222
+California,Independence,Independence Airport,VWR,2005,0,0,17,36.81388889,-118.205
+California,Santa Barbara,Santa Barbara Municipal,SBA,2005,905,0,430943,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,2005,268,0,193534,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2005,390,0,173219,35.23666667,-120.6391667
+California,Fortuna,Rohnerville,XXY,2005,1,0,0,40.55416667,-124.1313889
+California,Palm Springs,Palm Springs International,PSP,2005,20,0,699304,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2005,92,0,108684,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2005,546,0,0,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2005,22266,0,4014,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2005,342,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2005,39,0,25735,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2005,346,0,786,36.31944444,-119.3938889
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2005,0,0,17721,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2005,8243,0,861,37.89444444,-121.2391667
+California,San Diego,North Island NAS,NZY,2005,224,0,2966,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2005,0,0,402,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2005,478,0,62482,40.50833333,-122.2922222
+California,Marysville,Beale AFB,BAB,2005,0,0,251,39.13611111,-121.4355556
+California,Bakersfield,Meadows Field,BFL,2005,372,0,146547,35.43,-119.0522222
+California,San Diego,Brown Field Municipal,SDM,2005,15,0,15,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2005,3,0,0,34.20972222,-118.49
+California,Port Hueneme,Point Mugu NAS,NTD,2005,35,0,1656,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2005,0,0,22778,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2005,527,0,37785,34.905,-120.4577778
+California,Lompoc,Vandenberg AFB,VBG,2005,0,0,1345,34.72972222,-120.5758333
+California,Sacramento,Mather AFB,MHR,2006,30275,2093,0,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2006,5036,441,604614,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2006,0,0,2,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2006,0,0,49664,33.12861111,-117.2797222
+California,Livermore,Livermore Municipal,LVK,2006,0,0,2,37.69361111,-121.8202778
+California,Santa Monica,Santa Monica Municipal,SMO,2006,0,0,6,34.01611111,-118.4508333
+California,Merced,Merced Macready Regional,MCE,2006,0,0,0,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,2006,548506,30484,23121112,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2006,27990,18,2835933,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2006,52,0,0,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,2006,49,0,11477,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2006,30044,160,1342967,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2006,334,0,22914,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,2006,372146,2351,6990944,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2006,0,0,0,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2006,275086,7598,3328942,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2006,375,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2006,234,0,4306,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2006,0,0,93,32.8275,-115.6688889
+California,Riverside,March AFB,RIV,2006,11777,0,32056,33.88055556,-117.2586111
+California,Lemoore,Lemoore NAS,NLC,2006,34,0,316,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,2006,73688,2748,8611811,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2006,4,0,0,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2006,715,0,10434,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2006,157114,40949,13906755,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2006,49631,1366,5196752,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2006,139,0,13506,35.65666667,-117.8291667
+California,Sacramento,Sacramento International,SMF,2006,32232,9146,5125075,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2006,14564,2756,4775835,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2006,904,0,434028,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2006,0,0,7,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2006,242,0,199145,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2006,391,0,173375,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2006,77,0,736486,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2006,72,0,103499,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2006,511,0,2,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2006,19788,0,1742,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2006,303,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2006,226,0,25612,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2006,407,0,0,36.31944444,-119.3938889
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2006,0,0,35348,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2006,4321,0,13770,37.89444444,-121.2391667
+California,San Diego,North Island NAS,NZY,2006,68,0,1298,32.69916667,-117.2144444
+California,Redding,Redding Municipal,RDD,2006,502,0,66635,40.50833333,-122.2922222
+California,Marysville,Beale AFB,BAB,2006,0,0,193,39.13611111,-121.4355556
+California,Bakersfield,Meadows Field,BFL,2006,455,0,171783,35.43,-119.0522222
+California,San Diego,Brown Field Municipal,SDM,2006,22,0,0,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2006,0,0,31,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2006,0,0,45,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,2006,158,0,2187,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2006,0,0,23650,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2006,520,0,48705,34.905,-120.4577778
+California,Lompoc,Vandenberg AFB,VBG,2006,0,0,237,34.72972222,-120.5758333
+California,Sacramento,Mather AFB,MHR,2007,31831,4770,0,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2007,4675,803,611192,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2007,0,0,9,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2007,0,0,46591,33.12861111,-117.2797222
+California,Santa Monica,Santa Monica Municipal,SMO,2007,0,0,24,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2007,0,0,5,33.62638889,-116.1608333
+California,Atwater,Castle,MER,2007,0,0,0,37.38055556,-120.5680556
+California,Los Angeles,Los Angeles International,LAX,2007,525632,29589,23828782,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2007,26180,1,2950277,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2007,52,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2007,0,0,9,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,2007,50,0,13134,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2007,28436,678,1414313,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2007,354,0,26140,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,2007,15,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,2007,363651,3396,7068564,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2007,0,0,6,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2007,271853,4425,3434458,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2007,373,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2007,0,0,3435,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2007,0,0,333,32.8275,-115.6688889
+California,Edwards,Edwards AFB,EDW,2007,0,0,69,34.9,-117.8666667
+California,Riverside,March AFB,RIV,2007,10184,0,26986,33.88055556,-117.2586111
+California,Lemoore,Lemoore NAS,NLC,2007,0,0,196,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,2007,76037,1169,9046728,32.73277778,-117.1872222
+California,El Centro,Imperial County,IPL,2007,749,0,11626,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2007,157326,30352,14888835,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2007,47236,656,5183559,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2007,133,0,12292,35.65666667,-117.8291667
+California,Sacramento,Sacramento International,SMF,2007,44118,275,5315066,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2007,14207,1473,4945982,33.67555556,-117.8672222
+California,Bermuda Dunes,Bermuda Dunes Airport,UDD,2007,0,0,4,33.74833333,-116.2741667
+California,Santa Barbara,Santa Barbara Municipal,SBA,2007,921,0,414763,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2007,0,0,5,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2007,207,0,215417,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2007,394,1,179579,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2007,11,0,756153,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2007,79,0,105758,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2007,537,0,53739,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2007,19338,0,1643,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2007,289,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2007,24,0,29931,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2007,405,0,0,36.31944444,-119.3938889
+California,San Francisco,China Basin Heliport,JCC,2007,0,0,56,37.8,-122.4666667
+California,Concord,Buchanan Field,CCR,2007,4,0,0,37.98888889,-122.0555556
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2007,0,0,48446,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2007,0,0,28969,37.89444444,-121.2391667
+California,Palmdale,Palmdale Airport,PMD,2007,0,0,5712,34.6275,-118.0833333
+California,San Diego,North Island NAS,NZY,2007,119,0,3964,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2007,0,0,8,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2007,494,0,64217,40.50833333,-122.2922222
+California,La Verne,Brackett Field,POC,2007,0,0,7,34.09166667,-117.7830556
+California,Lancaster,General William J. Fox Airfield,WJF,2007,0,0,4,34.74055556,-118.22
+California,Salinas/Monterey,Salinas Municipal,SNS,2007,0,0,5,36.66361111,-121.6075
+California,Bakersfield,Meadows Field,BFL,2007,522,1,155234,35.43,-119.0522222
+California,San Diego,Brown Field Municipal,SDM,2007,0,0,12,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2007,0,0,189,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2007,27,0,21,37.41527778,-122.0472222
+California,Los Alamitos,Los Alamitos AAF,VZL,2007,0,0,510,33.79,-118.0519444
+California,Port Hueneme,Point Mugu NAS,NTD,2007,76,0,2560,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2007,0,0,21344,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2007,519,0,52302,34.905,-120.4577778
+California,Sacramento,Mather AFB,MHR,2008,31491,7383,190,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2008,4057,0,570336,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2008,0,0,6,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2008,0,0,34286,33.12861111,-117.2797222
+California,Santa Monica,Santa Monica Municipal,SMO,2008,0,0,42,34.01611111,-118.4508333
+California,Atwater,Castle,MER,2008,0,0,2,37.38055556,-120.5680556
+California,Los Angeles,Los Angeles International,LAX,2008,442989,37035,22670499,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2008,22704,33,2646688,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2008,37,0,0,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,2008,42,0,12091,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2008,23831,1518,1412954,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2008,315,0,24796,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,2008,314677,3926,5510204,37.72138889,-122.2208333
+California,Davis/Woodland/Winters,Yolo County,DWA,2008,0,0,8,38.57916667,-121.8566667
+California,Sacramento,McClellan AFB,MCC,2008,36,0,0,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2008,246533,5885,2963905,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2008,376,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2008,46,0,3342,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2008,0,0,569,32.8275,-115.6688889
+California,Riverside,March AFB,RIV,2008,9664,0,36406,33.88055556,-117.2586111
+California,Lemoore,Lemoore NAS,NLC,2008,10,0,382,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,2008,69776,1184,8935902,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2008,0,0,0,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2008,687,0,7057,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2008,124855,34492,15760022,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2008,40344,693,4713975,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2008,133,0,11149,35.65666667,-117.8291667
+California,Sacramento,Sacramento International,SMF,2008,36283,757,4912863,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2008,12825,1726,4463009,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2008,878,0,413227,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,2008,165,0,207443,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2008,325,1,149626,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2008,13,0,704909,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2008,85,0,106478,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2008,444,0,100516,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2008,19213,0,2963,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2008,237,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2008,126,0,31889,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2008,375,0,0,36.31944444,-119.3938889
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2008,0,0,36502,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2008,0,0,36866,37.89444444,-121.2391667
+California,Palmdale,Palmdale Airport,PMD,2008,0,0,10392,34.6275,-118.0833333
+California,San Diego,North Island NAS,NZY,2008,1,0,2338,32.69916667,-117.2144444
+California,Redding,Redding Municipal,RDD,2008,424,0,63284,40.50833333,-122.2922222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2008,0,0,566,37.63111111,-118.8513889
+California,Marysville,Beale AFB,BAB,2008,0,0,68,39.13611111,-121.4355556
+California,Mojave,Mojave Airport,MHV,2008,0,0,98,35.06666667,-118.15
+California,Bakersfield,Meadows Field,BFL,2008,426,0,136993,35.43,-119.0522222
+California,San Diego,Brown Field Municipal,SDM,2008,9,0,4,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2008,1,0,55,34.20972222,-118.49
+California,Los Alamitos,Los Alamitos AAF,VZL,2008,0,0,401,33.79,-118.0519444
+California,Port Hueneme,Point Mugu NAS,NTD,2008,0,0,1670,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2008,0,0,15929,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2008,483,0,53282,34.905,-120.4577778
+California,Lompoc,Vandenberg AFB,VBG,2008,0,0,41,34.72972222,-120.5758333
+California,Dorris,Butte Valley,WQH,2009,1,0,0,41.88722222,-121.9744444
+California,Hollister,Hollister Municipal,HLI,2009,0,0,0,36.89027778,-121.4061111
+California,Sacramento,Mather AFB,MHR,2009,23204,6791,26,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2009,3307,19,546132,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2009,0,0,11,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2009,0,0,24827,33.12861111,-117.2797222
+California,Santa Monica,Santa Monica Municipal,SMO,2009,0,0,31,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2009,0,0,8,33.62638889,-116.1608333
+California,Atwater,Castle,MER,2009,0,0,8,37.38055556,-120.5680556
+California,Merced,Merced Macready Regional,MCE,2009,0,0,41,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,2009,406797,32189,21668667,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2009,24406,65,2294791,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2009,33,0,2,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2009,0,0,6,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,2009,54,0,11472,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2009,20230,1482,1401791,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2009,159,0,23232,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,2009,270420,3474,4569637,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2009,26,0,0,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2009,223912,6002,2374916,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2009,358,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2009,57,0,1586,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2009,3,0,695,32.8275,-115.6688889
+California,Riverside,March AFB,RIV,2009,269,0,27004,33.88055556,-117.2586111
+California,San Diego,San Diego International Lindbergh Fl,SAN,2009,62202,1367,8376402,32.73277778,-117.1872222
+California,El Centro,Imperial County,IPL,2009,681,0,5641,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2009,102510,27318,15994848,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2009,32664,384,4042974,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2009,169,0,11081,35.65666667,-117.8291667
+California,Sacramento,Sacramento International,SMF,2009,34091,1193,4406386,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2009,12527,1574,4310909,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2009,816,1,379539,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2009,0,0,36,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2009,167,0,191325,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2009,363,0,118117,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2009,11,1,662773,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2009,57,0,102435,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2009,425,0,91156,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2009,16646,0,2835,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2009,204,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2009,152,0,43129,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2009,357,0,11,36.31944444,-119.3938889
+California,Concord,Buchanan Field,CCR,2009,0,0,5,37.98888889,-122.0555556
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2009,0,0,24954,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2009,0,0,28348,37.89444444,-121.2391667
+California,Porterville,Porterville Municipal,PTV,2009,5,0,0,36.02777778,-119.0625
+California,San Diego,North Island NAS,NZY,2009,63,0,1348,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2009,3,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2009,407,0,54128,40.50833333,-122.2922222
+California,Cloverdale,Cloverdale Municipal,ZXT,2009,1,0,0,38.77444444,-122.9911111
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2009,0,0,6148,37.63111111,-118.8513889
+California,Lakeport,Lampson,XXP,2009,3,0,0,38.99027778,-122.8986111
+California,Marysville,Beale AFB,BAB,2009,0,0,117,39.13611111,-121.4355556
+California,Mojave,Mojave Airport,MHV,2009,3,0,0,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,2009,0,0,8,34.74055556,-118.22
+California,Bakersfield,Meadows Field,BFL,2009,358,1,103048,35.43,-119.0522222
+California,San Diego,Brown Field Municipal,SDM,2009,0,0,53,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2009,0,0,121,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2009,45,0,69,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,2009,3,0,2421,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2009,0,0,12053,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2009,472,0,43594,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,2009,2,0,0,34.60694444,-120.0747222
+California,Sacramento,Mather AFB,MHR,2010,22386,4667,0,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2010,3047,1,551137,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2010,0,0,39,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2010,0,0,28184,33.12861111,-117.2797222
+California,Santa Monica,Santa Monica Municipal,SMO,2010,0,0,75,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2010,0,0,18,33.62638889,-116.1608333
+California,Atwater,Castle,MER,2010,0,0,0,37.38055556,-120.5680556
+California,Merced,Merced Macready Regional,MCE,2010,0,0,2,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,2010,435478,36797,22860849,33.9425,-118.4080556
+California,San Clemente Island,San Clemente Island Nalf,JZL,2010,0,0,612,33.02333333,-118.5880556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2010,26958,162,2239563,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2010,36,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2010,0,0,13,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,2010,50,0,14341,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2010,19218,670,1451313,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2010,156,0,23270,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,2010,278282,3076,4566953,37.72138889,-122.2208333
+California,Davis/Woodland/Winters,Yolo County,DWA,2010,0,0,2,38.57916667,-121.8566667
+California,Sacramento,McClellan AFB,MCC,2010,0,0,33,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2010,229516,7715,2368262,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2010,364,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2010,2,0,3366,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2010,0,0,293,32.8275,-115.6688889
+California,Edwards,Edwards AFB,EDW,2010,0,0,169,34.9,-117.8666667
+California,Riverside,March AFB,RIV,2010,181,0,37072,33.88055556,-117.2586111
+California,Lemoore,Lemoore NAS,NLC,2010,38,0,0,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,2010,66580,1635,8347443,32.73277778,-117.1872222
+California,El Centro,Imperial County,IPL,2010,687,0,4751,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2010,103002,21636,16751758,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2010,28084,1063,3992074,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2010,157,0,11109,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2010,0,0,10,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2010,34515,744,4392047,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2010,13758,1893,4267214,33.67555556,-117.8672222
+California,Lathrop,Sharpe AFF,LRO,2010,0,0,4,37.83666667,-121.2722222
+California,Daggett,Barstow-Daggett,DAG,2010,0,0,44,34.85388889,-116.7861111
+California,Lompoc,Lompoc Airport,LPC,2010,3,0,0,34.66611111,-120.4655556
+California,Santa Barbara,Santa Barbara Municipal,SBA,2010,903,0,382276,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,2010,175,0,190251,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2010,384,0,129201,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2010,10,0,662943,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2010,47,0,93390,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2010,428,0,92713,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2010,15878,0,2188,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2010,201,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2010,62,0,32310,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2010,363,0,3,36.31944444,-119.3938889
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2010,0,0,23468,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2010,0,0,50629,37.89444444,-121.2391667
+California,Porterville,Porterville Municipal,PTV,2010,2,0,0,36.02777778,-119.0625
+California,San Diego,North Island NAS,NZY,2010,94,0,2261,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2010,1,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2010,409,0,54354,40.50833333,-122.2922222
+California,San Pedro,Catalina Air-Sea Terminal Heliport,SPQ,2010,4,0,220,33.74916667,-118.2747222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2010,0,0,19803,37.63111111,-118.8513889
+California,Woodlake,Woodlake Airport,QQN,2010,3,0,0,36.39888889,-119.1063889
+California,Marysville,Beale AFB,BAB,2010,0,0,0,39.13611111,-121.4355556
+California,Mojave,Mojave Airport,MHV,2010,1,0,135,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,2010,1,0,41,34.74055556,-118.22
+California,Truckee,Truckee Tahoe,TKF,2010,0,0,2,39.32,-120.1394444
+California,Bakersfield,Meadows Field,BFL,2010,357,5,111663,35.43,-119.0522222
+California,San Diego,Brown Field Municipal,SDM,2010,4,0,127,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2010,0,0,95,34.20972222,-118.49
+California,Los Alamitos,Los Alamitos AAF,VZL,2010,0,0,411,33.79,-118.0519444
+California,Port Hueneme,Point Mugu NAS,NTD,2010,20,0,3109,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2010,0,0,4069,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2010,497,0,47552,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,2010,3,0,0,34.60694444,-120.0747222
+California,Lompoc,Vandenberg AFB,VBG,2010,0,0,95,34.72972222,-120.5758333
+California,Hollister,Hollister Municipal,HLI,2011,0,0,13,36.89027778,-121.4061111
+California,Sacramento,Mather AFB,MHR,2011,22323,4068,4,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2011,2827,3,558181,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2011,0,0,34,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2011,0,0,45488,33.12861111,-117.2797222
+California,Livermore,Livermore Municipal,LVK,2011,0,0,3,37.69361111,-121.8202778
+California,Santa Monica,Santa Monica Municipal,SMO,2011,0,0,108,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2011,0,0,46,33.62638889,-116.1608333
+California,Atwater,Castle,MER,2011,0,0,0,37.38055556,-120.5680556
+California,Merced,Merced Macready Regional,MCE,2011,2,0,17,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,2011,443952,35460,24428086,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2011,26337,240,2143996,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2011,31,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2011,0,0,4,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,2011,48,0,14108,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2011,17744,909,1512118,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2011,184,0,20877,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,2011,1,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,2011,270438,3149,4454765,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2011,1,0,0,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2011,227008,7017,2234250,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2011,348,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2011,0,0,1108,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2011,0,0,250,32.8275,-115.6688889
+California,Edwards,Edwards AFB,EDW,2011,19,0,0,34.9,-117.8666667
+California,Riverside,March AFB,RIV,2011,1104,0,25322,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2011,96,0,13,33.97083333,-117.6413889
+California,Lemoore,Lemoore NAS,NLC,2011,13,0,341,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,2011,67670,1904,8304909,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2011,0,0,9,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2011,623,0,6136,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2011,88169,23348,17409931,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2011,25700,226,4055801,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2011,149,0,8711,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2011,0,0,0,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2011,32633,1097,4354762,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2011,13813,1584,4209864,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2011,854,1,367018,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2011,0,0,3,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2011,168,0,180027,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2011,396,0,132692,35.23666667,-120.6391667
+California,Needles,Needles Airport,EED,2011,1,0,0,34.75833333,-114.62
+California,Palm Springs,Palm Springs International,PSP,2011,23,1,663149,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2011,26,0,70401,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2011,431,0,102355,38.50916667,-122.8116667
+California,Chemehuevi Valley,Chemehuevi Valley Airport,CA6,2011,0,0,0,34.52888889,-114.4319444
+California,Fairfield,Travis AFB,SUU,2011,14434,0,1814,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2011,188,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2011,690,0,36445,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2011,331,0,0,36.31944444,-119.3938889
+California,China Lake,China Lake Naws,RQK,2011,0,0,83,35.68777778,-117.6905556
+California,Concord,Buchanan Field,CCR,2011,0,0,3,37.98888889,-122.0555556
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2011,0,0,18680,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2011,0,0,56040,37.89444444,-121.2391667
+California,Porterville,Porterville Municipal,PTV,2011,1,0,0,36.02777778,-119.0625
+California,San Diego,North Island NAS,NZY,2011,29,0,620,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2011,2,0,5,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2011,376,0,38277,40.50833333,-122.2922222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2011,0,0,26201,37.63111111,-118.8513889
+California,Lakeport,Lampson,XXP,2011,1,0,0,38.99027778,-122.8986111
+California,Woodlake,Woodlake Airport,QQN,2011,1,0,0,36.39888889,-119.1063889
+California,Salinas/Monterey,Salinas Municipal,SNS,2011,0,0,0,36.66361111,-121.6075
+California,Bakersfield,Meadows Field,BFL,2011,360,0,148345,35.43,-119.0522222
+California,San Diego,Brown Field Municipal,SDM,2011,10,0,43,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2011,10,0,151,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2011,0,0,110,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,2011,24,0,1839,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2011,0,0,3,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2011,492,0,41463,34.905,-120.4577778
+California,Lompoc,Vandenberg AFB,VBG,2011,2,0,58,34.72972222,-120.5758333
+California,Sacramento,Mather AFB,MHR,2012,22826,3790,246,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2012,2907,0,580935,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2012,0,0,18,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2012,0,0,48317,33.12861111,-117.2797222
+California,Santa Monica,Santa Monica Municipal,SMO,2012,0,0,47,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2012,0,0,16,33.62638889,-116.1608333
+California,Los Angeles,Los Angeles International,LAX,2012,467427,36714,24974087,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2012,25421,258,2021697,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2012,36,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2012,0,0,5,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,2012,42,0,12541,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2012,16956,73,1554658,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2012,177,0,19267,39.79583333,-121.8566667
+California,Oakland,Metropolitan Oakland International,OAK,2012,271875,2570,4849006,37.72138889,-122.2208333
+California,Davis/Woodland/Winters,Yolo County,DWA,2012,0,0,2,38.57916667,-121.8566667
+California,Sacramento,McClellan AFB,MCC,2012,5,0,46,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2012,229047,6907,2112591,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2012,326,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2012,242,0,3770,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2012,30,0,2284,32.8275,-115.6688889
+California,Edwards,Edwards AFB,EDW,2012,0,0,195,34.9,-117.8666667
+California,Riverside,March AFB,RIV,2012,1045,0,16970,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2012,29,0,0,33.97083333,-117.6413889
+California,San Diego,San Diego International Lindbergh Fl,SAN,2012,68505,1749,8479221,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2012,0,0,22,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2012,567,0,5491,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2012,99909,22762,18567216,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2012,23523,27,4025383,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2012,159,0,7024,35.65666667,-117.8291667
+California,Sacramento,Sacramento International,SMF,2012,35026,1523,4326178,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2012,13637,1333,4300976,33.67555556,-117.8672222
+California,Daggett,Barstow-Daggett,DAG,2012,0,0,5,34.85388889,-116.7861111
+California,Santa Barbara,Santa Barbara Municipal,SBA,2012,775,0,369743,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2012,0,0,6,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2012,165,0,193509,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2012,424,0,127328,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2012,144,0,751337,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2012,13,0,61698,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2012,393,0,105680,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2012,13755,0,720,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2012,138,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2012,2338,0,26420,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2012,350,0,0,36.31944444,-119.3938889
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2012,0,0,14719,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2012,0,0,63127,37.89444444,-121.2391667
+California,San Diego,North Island NAS,NZY,2012,2,0,969,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2012,1,0,10,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2012,384,0,29172,40.50833333,-122.2922222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2012,0,0,27488,37.63111111,-118.8513889
+California,Woodlake,Woodlake Airport,QQN,2012,2,0,0,36.39888889,-119.1063889
+California,Mojave,Mojave Airport,MHV,2012,0,0,10,35.06666667,-118.15
+California,Bakersfield,Meadows Field,BFL,2012,390,0,152409,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,2012,1,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,2012,20,0,83,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2012,0,0,150,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2012,0,0,377,37.41527778,-122.0472222
+California,Los Alamitos,Los Alamitos AAF,VZL,2012,0,0,186,33.79,-118.0519444
+California,Port Hueneme,Point Mugu NAS,NTD,2012,2,0,638,34.12027778,-119.12
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2012,498,0,44343,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,2012,4,0,0,34.60694444,-120.0747222
+California,Lompoc,Vandenberg AFB,VBG,2012,0,0,49,34.72972222,-120.5758333
+California,Hollister,Hollister Municipal,HLI,2013,1,0,0,36.89027778,-121.4061111
+California,Sacramento,Mather AFB,MHR,2013,26094,2946,3,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2013,3005,0,617477,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2013,0,0,54,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2013,0,0,51100,33.12861111,-117.2797222
+California,Livermore,Livermore Municipal,LVK,2013,0,0,5,37.69361111,-121.8202778
+California,Santa Monica,Santa Monica Municipal,SMO,2013,0,0,105,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2013,0,0,32,33.62638889,-116.1608333
+California,Merced,Merced Macready Regional,MCE,2013,0,0,6,37.28472222,-120.5127778
+California,Los Angeles,Los Angeles International,LAX,2013,475502,31931,25848367,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2013,25596,179,1916325,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2013,39,0,2,37.37333333,-118.365
+California,Crescent City,Jack McNamara Field,CEC,2013,45,0,12103,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2013,15771,88,1438216,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2013,141,0,16801,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,2013,129,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,2013,279568,3200,4691477,37.72138889,-122.2208333
+California,Davis/Woodland/Winters,Yolo County,DWA,2013,0,0,12,38.57916667,-121.8566667
+California,Sacramento,McClellan AFB,MCC,2013,0,0,371,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2013,231544,6766,1942202,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2013,300,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2013,125,0,2188,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2013,0,0,2762,32.8275,-115.6688889
+California,Edwards,Edwards AFB,EDW,2013,3,0,0,34.9,-117.8666667
+California,Riverside,March AFB,RIV,2013,1132,0,13651,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2013,34,0,0,33.97083333,-117.6413889
+California,San Diego,San Diego International Lindbergh Fl,SAN,2013,66878,1342,8661543,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2013,0,0,142,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2013,507,0,1045,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2013,71384,20538,18853113,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2013,24515,3,4235626,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2013,160,0,4131,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2013,0,0,46,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2013,34699,2113,4202425,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2013,14072,896,4424742,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2013,709,0,362742,34.42777778,-119.8394444
+California,Monterey,Monterey Peninsula,MRY,2013,132,0,201962,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2013,384,0,135738,35.23666667,-120.6391667
+California,Fortuna,Rohnerville,XXY,2013,0,0,0,40.55416667,-124.1313889
+California,Palm Springs,Palm Springs International,PSP,2013,162,0,751402,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2013,23,0,56623,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2013,245,0,112414,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2013,9147,0,891,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2013,143,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2013,76,0,7229,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2013,522,0,0,36.31944444,-119.3938889
+California,Concord,Buchanan Field,CCR,2013,0,0,3,37.98888889,-122.0555556
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2013,1,0,11237,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2013,0,0,71606,37.89444444,-121.2391667
+California,San Diego,North Island NAS,NZY,2013,1,0,429,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2013,3,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2013,394,0,24801,40.50833333,-122.2922222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2013,0,0,30866,37.63111111,-118.8513889
+California,Lakeport,Lampson,XXP,2013,0,0,0,38.99027778,-122.8986111
+California,Woodlake,Woodlake Airport,QQN,2013,1,0,0,36.39888889,-119.1063889
+California,Lancaster,General William J. Fox Airfield,WJF,2013,2,0,0,34.74055556,-118.22
+California,Bakersfield,Meadows Field,BFL,2013,397,0,143118,35.43,-119.0522222
+California,Red Bluff,Red Bluff Municipal,RBL,2013,0,0,0,40.15138889,-122.2511111
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,2013,1,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,2013,20,0,26,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2013,0,0,116,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2013,93,0,0,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,2013,51,0,2148,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2013,0,0,5,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2013,483,0,50927,34.905,-120.4577778
+California,Lompoc,Vandenberg AFB,VBG,2013,0,0,77,34.72972222,-120.5758333
+California,Sacramento,Mather AFB,MHR,2014,30855,3090,140,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2014,2906,0,639150,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2014,0,0,48,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2014,0,0,49838,33.12861111,-117.2797222
+California,Santa Monica,Santa Monica Municipal,SMO,2014,0,0,62,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2014,0,0,37,33.62638889,-116.1608333
+California,Atwater,Castle,MER,2014,0,0,153,37.38055556,-120.5680556
+California,Los Angeles,Los Angeles International,LAX,2014,469925,36946,27388440,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2014,28218,127,1926130,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2014,36,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2014,0,0,6,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,2014,45,0,13701,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2014,18048,25,1368778,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2014,139,0,17141,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,2014,363,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,2014,295552,2648,4972245,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2014,29,0,345,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2014,238647,6104,1995701,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2014,289,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2014,61,0,2126,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2014,0,0,264,32.8275,-115.6688889
+California,Riverside,March AFB,RIV,2014,1861,0,16557,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2014,61,0,0,33.97083333,-117.6413889
+California,San Diego,San Diego International Lindbergh Fl,SAN,2014,67763,2014,9094538,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2014,3,0,2,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2014,528,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2014,72896,25098,19695765,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2014,24606,60,4524016,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2014,133,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2014,0,0,10,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2014,31715,2606,4324558,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2014,13396,916,4526213,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2014,727,0,334591,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2014,0,0,7,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2014,138,0,186717,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2014,372,0,151391,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2014,369,2,809934,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2014,9,0,51683,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2014,0,0,116909,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2014,6168,0,970,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2014,135,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2014,1324,0,23603,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2014,539,0,0,36.31944444,-119.3938889
+California,Concord,Buchanan Field,CCR,2014,0,0,11,37.98888889,-122.0555556
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2014,0,0,4317,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2014,0,0,82297,37.89444444,-121.2391667
+California,Porterville,Porterville Municipal,PTV,2014,2,0,0,36.02777778,-119.0625
+California,Hayward,Hayward Air Terminal,HWD,2014,0,0,1,37.65916667,-122.1225
+California,San Diego,North Island NAS,NZY,2014,17,0,655,32.69916667,-117.2144444
+California,Redding,Redding Municipal,RDD,2014,413,0,23160,40.50833333,-122.2922222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2014,0,0,25910,37.63111111,-118.8513889
+California,Lakeport,Lampson,XXP,2014,1,0,0,38.99027778,-122.8986111
+California,Woodlake,Woodlake Airport,QQN,2014,1,0,0,36.39888889,-119.1063889
+California,Mojave,Mojave Airport,MHV,2014,0,0,0,35.06666667,-118.15
+California,Truckee,Truckee Tahoe,TKF,2014,0,0,1,39.32,-120.1394444
+California,Bakersfield,Meadows Field,BFL,2014,405,0,139994,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,2014,1,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,2014,50,0,74,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2014,0,0,120,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2014,0,0,10,37.41527778,-122.0472222
+California,Novato,Gnoss Field,NOT,2014,8,0,0,38.14444444,-122.5580556
+California,Los Alamitos,Los Alamitos AAF,VZL,2014,0,0,53,33.79,-118.0519444
+California,Port Hueneme,Point Mugu NAS,NTD,2014,0,0,895,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2014,0,0,2,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2014,520,0,46263,34.905,-120.4577778
+California,Sacramento,Mather AFB,MHR,2015,27143,3030,5,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2015,3135,3,610309,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2015,0,0,80,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2015,0,0,12282,33.12861111,-117.2797222
+California,Livermore,Livermore Municipal,LVK,2015,0,0,5,37.69361111,-121.8202778
+California,Santa Monica,Santa Monica Municipal,SMO,2015,0,0,16,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2015,0,0,11,33.62638889,-116.1608333
+California,Atwater,Castle,MER,2015,0,0,2,37.38055556,-120.5680556
+California,Los Angeles,Los Angeles International,LAX,2015,482584,41884,29065562,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2015,27937,418,1966175,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2015,31,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2015,0,0,2,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,2015,38,0,2217,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2015,18173,28,1220604,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2015,118,0,0,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,2015,385,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,2015,297732,2816,5359076,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2015,0,0,114,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2015,246565,11365,2016744,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2015,313,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2015,95,0,1520,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2015,3,0,596,32.8275,-115.6688889
+California,Edwards,Edwards AFB,EDW,2015,0,0,181,34.9,-117.8666667
+California,Riverside,March AFB,RIV,2015,1302,0,16029,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2015,108,0,0,33.97083333,-117.6413889
+California,Lemoore,Lemoore NAS,NLC,2015,5,0,69,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,2015,71600,2603,9749712,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2015,793,0,0,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2015,547,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2015,84126,31709,20745598,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2015,23871,10,4703985,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2015,136,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2015,0,0,8,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2015,32814,2793,4620977,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2015,13388,1153,4904038,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2015,625,0,316278,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2015,0,0,21,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2015,122,0,180483,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2015,355,0,144269,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2015,336,1,773680,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2015,8,0,55154,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2015,0,0,128932,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2015,8101,0,1310,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2015,147,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2015,1139,0,34160,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2015,490,0,2,36.31944444,-119.3938889
+California,Stockton,Stockton Metropolitan,SCK,2015,0,0,80073,37.89444444,-121.2391667
+California,Hayward,Hayward Air Terminal,HWD,2015,0,0,4,37.65916667,-122.1225
+California,San Diego,North Island NAS,NZY,2015,48,0,1432,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2015,3,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2015,451,0,30840,40.50833333,-122.2922222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2015,0,0,23504,37.63111111,-118.8513889
+California,Lakeport,Lampson,XXP,2015,1,0,0,38.99027778,-122.8986111
+California,Truckee,Truckee Tahoe,TKF,2015,0,0,6,39.32,-120.1394444
+California,Salinas/Monterey,Salinas Municipal,SNS,2015,0,0,0,36.66361111,-121.6075
+California,Bakersfield,Meadows Field,BFL,2015,372,0,120863,35.43,-119.0522222
+California,San Diego,Brown Field Municipal,SDM,2015,46,0,5,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2015,0,0,151,34.20972222,-118.49
+California,Willits,Ells Field-Willits Municipal,XXN,2015,0,0,0,39.45111111,-123.3688889
+California,Mountain View,Moffett Field NAS,NUQ,2015,54,0,0,37.41527778,-122.0472222
+California,Los Alamitos,Los Alamitos AAF,VZL,2015,0,0,114,33.79,-118.0519444
+California,Port Hueneme,Point Mugu NAS,NTD,2015,76,0,1301,34.12027778,-119.12
+California,San Diego,Montgomery Field,MYF,2015,1,0,0,32.81583333,-117.1394444
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2015,532,0,43816,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,2015,1,0,0,34.60694444,-120.0747222
+California,Murrieta/Temecula,French Valley,F70,2016,0,0,9,33.57611111,-117.1280556
+California,Sacramento,Mather AFB,MHR,2016,23893,2047,450,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2016,3481,2,660101,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2016,0,0,63,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2016,0,0,30,33.12861111,-117.2797222
+California,Livermore,Livermore Municipal,LVK,2016,0,0,1,37.69361111,-121.8202778
+California,Santa Monica,Santa Monica Municipal,SMO,2016,0,0,5,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2016,0,0,22,33.62638889,-116.1608333
+California,Los Angeles,Los Angeles International,LAX,2016,514329,39715,31321226,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2016,25871,31,2077561,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2016,28,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2016,0,0,17,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,2016,44,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2016,17615,4,1386154,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2016,140,0,0,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,2016,378,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,2016,298839,1481,5739652,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2016,6,0,0,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2016,292245,8581,2038521,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2016,337,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2016,227,0,1968,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2016,0,0,465,32.8275,-115.6688889
+California,Edwards,Edwards AFB,EDW,2016,0,0,80,34.9,-117.8666667
+California,Riverside,March AFB,RIV,2016,1546,0,14719,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2016,146,0,14,33.97083333,-117.6413889
+California,San Diego,San Diego International Lindbergh Fl,SAN,2016,73599,1574,10068335,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2016,315,0,0,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2016,538,0,4,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2016,102992,28604,21753664,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2016,23819,0,5079593,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2016,126,0,0,35.65666667,-117.8291667
+California,Sacramento,Sacramento International,SMF,2016,34860,2709,4858419,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2016,13516,338,5181093,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2016,630,0,329709,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2016,0,0,10,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2016,126,0,192019,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2016,356,0,162718,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2016,242,0,820663,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2016,8,0,61652,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2016,0,0,167097,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2016,10957,0,1471,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2016,134,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2016,84,0,17538,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2016,445,0,5,36.31944444,-119.3938889
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2016,0,0,6,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2016,12888,0,93030,37.89444444,-121.2391667
+California,San Diego,North Island NAS,NZY,2016,60,0,315,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2016,3,0,19,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2016,436,0,39074,40.50833333,-122.2922222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2016,0,0,21822,37.63111111,-118.8513889
+California,Lakeport,Lampson,XXP,2016,1,0,0,38.99027778,-122.8986111
+California,Mojave,Mojave Airport,MHV,2016,15,0,0,35.06666667,-118.15
+California,Oroville,Oroville Municipal,OVE,2016,0,0,0,39.49166667,-121.6180556
+California,Truckee,Truckee Tahoe,TKF,2016,0,0,6,39.32,-120.1394444
+California,Bakersfield,Meadows Field,BFL,2016,435,0,100483,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,2016,4,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,2016,1,0,34,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2016,0,0,181,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2016,0,0,16,37.41527778,-122.0472222
+California,Los Alamitos,Los Alamitos AAF,VZL,2016,0,0,0,33.79,-118.0519444
+California,Port Hueneme,Point Mugu NAS,NTD,2016,84,0,842,34.12027778,-119.12
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2016,592,0,38613,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,2016,4,0,0,34.60694444,-120.0747222
+California,Murrieta/Temecula,French Valley,F70,2017,0,0,4,33.57611111,-117.1280556
+California,Hollister,Hollister Municipal,HLI,2017,2,0,0,36.89027778,-121.4061111
+California,Sacramento,Mather AFB,MHR,2017,29884,1647,17,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2017,3720,4,653108,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2017,0,0,151,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2017,0,0,5876,33.12861111,-117.2797222
+California,Santa Monica,Santa Monica Municipal,SMO,2017,0,0,103,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2017,0,0,26,33.62638889,-116.1608333
+California,Los Angeles,Los Angeles International,LAX,2017,554607,47282,32206803,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2017,26293,5,2367135,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2017,27,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2017,0,0,19,38.5125,-121.4925
+California,Hanford,Hanford Municipal,VWD,2017,7,0,0,36.31888889,-119.6297222
+California,Crescent City,Jack McNamara Field,CEC,2017,44,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2017,17630,0,1830668,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2017,157,0,0,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,2017,361,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,2017,313490,2279,6101739,37.72138889,-122.2208333
+California,Torrance,Torrance Municipal - Zamperini Field,TOA,2017,0,0,4,33.80333333,-118.3386111
+California,Ontario,Ontario International,ONT,2017,341268,10491,2178772,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2017,360,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2017,201,0,1860,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2017,0,0,551,32.8275,-115.6688889
+California,Edwards,Edwards AFB,EDW,2017,0,0,51,34.9,-117.8666667
+California,Riverside,March AFB,RIV,2017,1454,0,18279,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2017,95,0,9,33.97083333,-117.6413889
+California,Lemoore,Lemoore NAS,NLC,2017,0,0,162,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,2017,73120,3247,10837173,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2017,1375,0,4,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2017,443,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2017,130506,33062,22654362,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2017,25285,223,5796892,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2017,124,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2017,0,0,9,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2017,38122,3600,5232949,38.69555556,-121.5897222
+California,San Diego,Gillespie Field,SEE,2017,0,0,2,32.82611111,-116.9713889
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2017,13696,1055,5042979,33.67555556,-117.8672222
+California,Redding,Benton Field,O85,2017,3,0,0,40.57416667,-122.4075
+California,Santa Barbara,Santa Barbara Municipal,SBA,2017,628,0,356559,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2017,0,0,27,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2017,130,2,197072,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2017,377,0,197558,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2017,164,1,866522,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2017,11,0,58121,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2017,0,0,195278,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2017,13618,0,959,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2017,127,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2017,500,0,19335,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2017,433,0,3,36.31944444,-119.3938889
+California,Concord,Buchanan Field,CCR,2017,0,0,0,37.98888889,-122.0555556
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2017,0,0,2,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2017,20840,0,96197,37.89444444,-121.2391667
+California,San Diego,North Island NAS,NZY,2017,215,0,349,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2017,3,0,9,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2017,453,0,39851,40.50833333,-122.2922222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2017,0,0,20523,37.63111111,-118.8513889
+California,Lakeport,Lampson,XXP,2017,0,0,0,38.99027778,-122.8986111
+California,Mojave,Mojave Airport,MHV,2017,10,0,3,35.06666667,-118.15
+California,Truckee,Truckee Tahoe,TKF,2017,0,0,2,39.32,-120.1394444
+California,Bakersfield,Meadows Field,BFL,2017,523,0,99442,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,2017,1,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,2017,180,0,30,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2017,0,0,602,34.20972222,-118.49
+California,Willits,Ells Field-Willits Municipal,XXN,2017,1,0,0,39.45111111,-123.3688889
+California,Mountain View,Moffett Field NAS,NUQ,2017,0,0,12,37.41527778,-122.0472222
+California,Los Alamitos,Los Alamitos AAF,VZL,2017,0,0,265,33.79,-118.0519444
+California,Port Hueneme,Point Mugu NAS,NTD,2017,121,0,1045,34.12027778,-119.12
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2017,557,0,21941,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,2017,4,0,0,34.60694444,-120.0747222
+California,Gasquet,Ward Field,ZXC,2018,0,0,0,41.84583333,-123.9833333
+California,Hollister,Hollister Municipal,HLI,2018,1,0,0,36.89027778,-121.4061111
+California,Sacramento,Mather AFB,MHR,2018,34222,1552,0,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2018,4173,0,740631,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2018,0,0,155,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2018,0,0,2117,33.12861111,-117.2797222
+California,Santa Monica,Santa Monica Municipal,SMO,2018,0,0,20,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2018,0,0,17,33.62638889,-116.1608333
+California,Los Angeles,Los Angeles International,LAX,2018,612950,49279,33062945,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2018,27381,0,2627051,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2018,22,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2018,0,0,13,38.5125,-121.4925
+California,Hanford,Hanford Municipal,VWD,2018,1,0,0,36.31888889,-119.6297222
+California,Crescent City,Jack McNamara Field,CEC,2018,45,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2018,16580,0,1908278,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2018,125,0,0,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,2018,352,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,2018,337059,2432,6265027,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2018,16,0,0,38.66777778,-121.3994444
+California,Torrance,Torrance Municipal - Zamperini Field,TOA,2018,0,0,2,33.80333333,-118.3386111
+California,Ontario,Ontario International,ONT,2018,389774,10775,2400617,34.05611111,-117.6011111
+California,Eureka,Eureka Airport,EKA,2018,64,0,0,40.805,-124.115
+California,San Diego,Miramar NAS,NKX,2018,233,0,1311,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2018,3,0,529,32.8275,-115.6688889
+California,Edwards,Edwards AFB,EDW,2018,0,0,19,34.9,-117.8666667
+California,Riverside,March AFB,RIV,2018,5928,0,35529,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2018,174,0,0,33.97083333,-117.6413889
+California,San Diego,San Diego International Lindbergh Fl,SAN,2018,70035,3781,11828174,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2018,15172,0,0,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2018,436,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2018,129568,33389,23232306,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2018,25529,292,6656305,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2018,121,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2018,0,0,12,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2018,61882,3562,5784106,38.69555556,-121.5897222
+California,San Diego,Gillespie Field,SEE,2018,0,0,9,32.82611111,-116.9713889
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2018,13412,997,5151287,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2018,715,1,398434,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2018,0,0,38,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2018,129,0,185812,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2018,376,0,235392,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2018,184,0,950810,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2018,323,0,69549,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2018,0,1,216980,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2018,18968,0,985,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2018,138,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2018,7,0,42,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2018,426,0,8,36.31944444,-119.3938889
+California,China Lake,China Lake Naws,RQK,2018,19,0,0,35.68777778,-117.6905556
+California,Stockton,Stockton Metropolitan,SCK,2018,19051,0,98842,37.89444444,-121.2391667
+California,Porterville,Porterville Municipal,PTV,2018,1,0,0,36.02777778,-119.0625
+California,San Diego,North Island NAS,NZY,2018,170,0,658,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2018,4,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2018,441,0,42648,40.50833333,-122.2922222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2018,0,0,22484,37.63111111,-118.8513889
+California,Woodlake,Woodlake Airport,QQN,2018,5,0,0,36.39888889,-119.1063889
+California,Marysville,Beale AFB,BAB,2018,0,0,22,39.13611111,-121.4355556
+California,Mojave,Mojave Airport,MHV,2018,0,0,0,35.06666667,-118.15
+California,Truckee,Truckee Tahoe,TKF,2018,0,0,8,39.32,-120.1394444
+California,Bakersfield,Meadows Field,BFL,2018,505,0,105057,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,2018,2,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,2018,2,0,0,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2018,0,0,732,34.20972222,-118.49
+California,Willits,Ells Field-Willits Municipal,XXN,2018,12,0,0,39.45111111,-123.3688889
+California,Mountain View,Moffett Field NAS,NUQ,2018,0,0,84,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,2018,209,0,659,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2018,0,0,15,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2018,580,0,23079,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,2018,2,0,0,34.60694444,-120.0747222
+California,Lompoc,Vandenberg AFB,VBG,2018,0,0,58,34.72972222,-120.5758333
+California,Watsonville,Watsonville Municipal,WVI,2019,0,0,2,36.93583333,-121.7886111
+California,Hollister,Hollister Municipal,HLI,2019,1,0,0,36.89027778,-121.4061111
+California,Sacramento,Mather AFB,MHR,2019,35648,2075,10,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2019,6323,1,830025,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2019,0,0,92,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2019,0,0,78,33.12861111,-117.2797222
+California,Livermore,Livermore Municipal,LVK,2019,0,0,2,37.69361111,-121.8202778
+California,Thermal,Jacqueline Cochran Regional,TRM,2019,0,0,78,33.62638889,-116.1608333
+California,Los Angeles,Los Angeles International,LAX,2019,550083,65440,33356647,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2019,26174,0,2988128,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2019,30,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2019,0,0,51,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,2019,43,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2019,15312,0,1752074,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2019,91,0,6,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,2019,363,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,2019,320001,2254,6221368,37.72138889,-122.2208333
+California,Davis/Woodland/Winters,Yolo County,DWA,2019,0,0,5,38.57916667,-121.8566667
+California,Sacramento,McClellan AFB,MCC,2019,7,0,22,38.66777778,-121.3994444
+California,Torrance,Torrance Municipal - Zamperini Field,TOA,2019,0,0,2,33.80333333,-118.3386111
+California,Ontario,Ontario International,ONT,2019,421657,9011,2600311,34.05611111,-117.6011111
+California,San Diego,Miramar NAS,NKX,2019,122,0,1571,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2019,0,0,504,32.8275,-115.6688889
+California,Riverside,March AFB,RIV,2019,27664,0,44953,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2019,58,0,0,33.97083333,-117.6413889
+California,Lemoore,Lemoore NAS,NLC,2019,0,0,7,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,2019,68583,3188,12281181,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2019,28708,134,237,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2019,380,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2019,129958,29821,22906335,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2019,22433,166,7370416,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2019,118,0,3,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2019,0,0,28,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2019,57503,3645,6291744,38.69555556,-121.5897222
+California,San Diego,Gillespie Field,SEE,2019,0,0,0,32.82611111,-116.9713889
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2019,12514,531,5111125,33.67555556,-117.8672222
+California,Hawthorne,Jack Northrop Field/Hawthorne Municipal,HHR,2019,0,0,3,33.92277778,-118.3352778
+California,Santa Barbara,Santa Barbara Municipal,SBA,2019,664,2,480256,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2019,0,0,27,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2019,122,2,210203,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2019,300,0,266962,35.23666667,-120.6391667
+California,Fortuna,Rohnerville,XXY,2019,0,0,0,40.55416667,-124.1313889
+California,Palm Springs,Palm Springs International,PSP,2019,189,0,1084926,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2019,284,0,86140,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2019,1,0,239526,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2019,19157,0,927,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2019,130,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2019,64,0,4,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2019,463,0,18,36.31944444,-119.3938889
+California,China Lake,China Lake Naws,RQK,2019,13,0,0,35.68777778,-117.6905556
+California,Concord,Buchanan Field,CCR,2019,0,0,1,37.98888889,-122.0555556
+California,Stockton,Stockton Metropolitan,SCK,2019,29209,0,101148,37.89444444,-121.2391667
+California,Hayward,Hayward Air Terminal,HWD,2019,0,0,10,37.65916667,-122.1225
+California,San Diego,North Island NAS,NZY,2019,57,0,235,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2019,9,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2019,476,0,51603,40.50833333,-122.2922222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2019,0,0,17168,37.63111111,-118.8513889
+California,Lakeport,Lampson,XXP,2019,1,0,0,38.99027778,-122.8986111
+California,Woodlake,Woodlake Airport,QQN,2019,5,0,0,36.39888889,-119.1063889
+California,Marysville,Beale AFB,BAB,2019,41,0,97,39.13611111,-121.4355556
+California,Mojave,Mojave Airport,MHV,2019,2,0,0,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,2019,0,0,10,34.74055556,-118.22
+California,Truckee,Truckee Tahoe,TKF,2019,0,0,16,39.32,-120.1394444
+California,Bakersfield,Meadows Field,BFL,2019,401,0,129632,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,2019,1,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,2019,16,0,15,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2019,0,0,1635,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2019,0,0,174,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,2019,224,0,669,34.12027778,-119.12
+California,Oxnard/Ventura,Oxnard,OXR,2019,0,0,6,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2019,609,0,24252,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,2019,1,0,0,34.60694444,-120.0747222
+California,Lompoc,Vandenberg AFB,VBG,2019,0,0,23,34.72972222,-120.5758333
+California,Murrieta/Temecula,French Valley,F70,2020,0,0,2,33.57611111,-117.1280556
+California,Gasquet,Ward Field,ZXC,2020,0,0,0,41.84583333,-123.9833333
+California,Sacramento,Mather AFB,MHR,2020,41405,1926,0,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2020,7502,159,402724,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2020,0,0,61,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2020,0,0,63,33.12861111,-117.2797222
+California,Livermore,Livermore Municipal,LVK,2020,0,0,1,37.69361111,-121.8202778
+California,Thermal,Jacqueline Cochran Regional,TRM,2020,0,0,20,33.62638889,-116.1608333
+California,Los Angeles,Los Angeles International,LAX,2020,578428,64577,11750012,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2020,26396,2,997235,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2020,31,0,0,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2020,0,0,9,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,2020,37,0,4,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2020,10831,0,504409,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2020,69,0,0,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,2020,388,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,2020,321670,2096,2112508,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2020,6,0,8,38.66777778,-121.3994444
+California,Torrance,Torrance Municipal - Zamperini Field,TOA,2020,0,0,2,33.80333333,-118.3386111
+California,Ontario,Ontario International,ONT,2020,503610,10452,1196806,34.05611111,-117.6011111
+California,San Diego,Miramar NAS,NKX,2020,277,0,1322,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2020,0,0,617,32.8275,-115.6688889
+California,Riverside,March AFB,RIV,2020,43450,0,36451,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2020,456,0,0,33.97083333,-117.6413889
+California,San Diego,San Diego International Lindbergh Fl,SAN,2020,67327,2209,4567080,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2020,35023,51,15,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2020,435,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2020,130611,18053,6808846,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2020,21659,148,2179657,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2020,111,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2020,0,0,30,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2020,71812,4070,2619077,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2020,12667,587,1795144,33.67555556,-117.8672222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2020,701,0,186262,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2020,0,0,39,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2020,104,0,85020,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2020,276,0,129989,35.23666667,-120.6391667
+California,Fortuna,Rohnerville,XXY,2020,0,0,0,40.55416667,-124.1313889
+California,Palm Springs,Palm Springs International,PSP,2020,73,3,541447,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2020,293,0,37979,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2020,0,0,94271,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2020,20757,0,1675,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2020,105,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2020,0,0,1680,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2020,426,0,0,36.31944444,-119.3938889
+California,China Lake,China Lake Naws,RQK,2020,0,0,89,35.68777778,-117.6905556
+California,Concord,Buchanan Field,CCR,2020,0,0,1,37.98888889,-122.0555556
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2020,0,0,110,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2020,29151,0,44363,37.89444444,-121.2391667
+California,Hayward,Hayward Air Terminal,HWD,2020,0,0,11,37.65916667,-122.1225
+California,San Diego,North Island NAS,NZY,2020,274,0,625,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2020,6,0,0,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2020,536,0,19259,40.50833333,-122.2922222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2020,0,0,6775,37.63111111,-118.8513889
+California,Lakeport,Lampson,XXP,2020,18,0,0,38.99027778,-122.8986111
+California,Woodlake,Woodlake Airport,QQN,2020,3,0,0,36.39888889,-119.1063889
+California,Marysville,Beale AFB,BAB,2020,0,0,73,39.13611111,-121.4355556
+California,Mojave,Mojave Airport,MHV,2020,1,0,0,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,2020,1,0,0,34.74055556,-118.22
+California,Truckee,Truckee Tahoe,TKF,2020,0,0,37,39.32,-120.1394444
+California,Salinas/Monterey,Salinas Municipal,SNS,2020,0,0,14,36.66361111,-121.6075
+California,Bakersfield,Meadows Field,BFL,2020,340,0,83933,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,2020,2,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,2020,3,0,33,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2020,0,0,1311,34.20972222,-118.49
+California,Willits,Ells Field-Willits Municipal,XXN,2020,1,0,0,39.45111111,-123.3688889
+California,Mountain View,Moffett Field NAS,NUQ,2020,0,0,29,37.41527778,-122.0472222
+California,Port Hueneme,Point Mugu NAS,NTD,2020,111,0,763,34.12027778,-119.12
+California,Madera,Madera Municipal,MAE,2020,6,0,0,36.98777778,-120.1105556
+California,Oxnard/Ventura,Oxnard,OXR,2020,0,0,6,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2020,609,0,10725,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,2020,2,0,0,34.60694444,-120.0747222
+California,Lompoc,Vandenberg AFB,VBG,2020,0,0,75,34.72972222,-120.5758333
+California,Murrieta/Temecula,French Valley,F70,2021,0,0,22,33.57611111,-117.1280556
+California,Gasquet,Ward Field,ZXC,2021,0,0,0,41.84583333,-123.9833333
+California,Sacramento,Mather AFB,MHR,2021,34888,2212,416,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2021,7408,0,829562,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2021,0,0,259,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2021,0,0,195,33.12861111,-117.2797222
+California,Livermore,Livermore Municipal,LVK,2021,0,0,121,37.69361111,-121.8202778
+California,Santa Monica,Santa Monica Municipal,SMO,2021,0,0,6,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2021,0,0,76,33.62638889,-116.1608333
+California,San Carlos,San Carlos Airport,SQL,2021,0,0,6,37.51111111,-122.2486111
+California,Los Angeles,Los Angeles International,LAX,2021,710814,64895,21232639,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2021,26797,4,1866250,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2021,24,0,1073,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2021,0,0,40,38.5125,-121.4925
+California,Crescent City,Jack McNamara Field,CEC,2021,40,0,14,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2021,9348,0,1039305,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2021,63,0,0,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,2021,328,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,2021,346166,3834,3807851,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2021,18,0,26,38.66777778,-121.3994444
+California,Ontario,Ontario International,ONT,2021,485363,13056,2144407,34.05611111,-117.6011111
+California,San Diego,Miramar NAS,NKX,2021,125,0,628,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2021,0,0,713,32.8275,-115.6688889
+California,Apple Valley,Calf Apple Valley,APV,2021,0,0,0,34.52638889,-117.2127778
+California,Riverside,March AFB,RIV,2021,41107,0,37794,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2021,105,0,9,33.97083333,-117.6413889
+California,San Diego,San Diego International Lindbergh Fl,SAN,2021,67182,2400,7811649,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2021,72212,0,886,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2021,438,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2021,147043,17324,10826486,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2021,19685,22,3504014,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2021,110,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2021,0,0,37,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2021,77169,3976,4637248,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2021,12709,568,3760493,33.67555556,-117.8672222
+California,Hawthorne,Jack Northrop Field/Hawthorne Municipal,HHR,2021,0,0,23,33.92277778,-118.3352778
+California,Bermuda Dunes,Bermuda Dunes Airport,UDD,2021,0,0,22,33.74833333,-116.2741667
+California,Marysville,Yuba County,MYV,2021,0,0,1,39.09805556,-121.5697222
+California,Santa Barbara,Santa Barbara Municipal,SBA,2021,611,0,438218,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2021,0,0,79,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2021,98,0,184660,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2021,268,0,200579,35.23666667,-120.6391667
+California,Palo Alto,Palo Alto Airport,PAO,2021,0,0,4,37.4611111,-122.1150556
+California,Palm Springs,Palm Springs International,PSP,2021,140,2,1001114,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2021,281,0,94642,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2021,0,0,215916,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2021,15650,0,2051,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2021,115,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2021,35,0,803,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2021,370,0,6,36.31944444,-119.3938889
+California,China Lake,China Lake Naws,RQK,2021,0,0,25,35.68777778,-117.6905556
+California,Concord,Buchanan Field,CCR,2021,0,0,18,37.98888889,-122.0555556
+California,Modesto,Modesto City-County-Harry Sham Field,MOD,2021,0,0,5,37.62694444,-120.9552778
+California,Stockton,Stockton Metropolitan,SCK,2021,34350,0,69223,37.89444444,-121.2391667
+California,Porterville,Porterville Municipal,PTV,2021,7,0,2,36.02777778,-119.0625
+California,Hayward,Hayward Air Terminal,HWD,2021,0,0,55,37.65916667,-122.1225
+California,San Diego,North Island NAS,NZY,2021,253,0,364,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2021,5,0,15,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2021,557,0,58289,40.50833333,-122.2922222
+California,Angwin,Virgil O Parrett Field,JZX,2021,0,0,2,38.57861111,-122.4352778
+California,Cloverdale,Cloverdale Municipal,ZXT,2021,0,0,0,38.77444444,-122.9911111
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2021,0,0,7,37.63111111,-118.8513889
+California,Lakeport,Lampson,XXP,2021,2,0,0,38.99027778,-122.8986111
+California,Lancaster,General William J. Fox Airfield,WJF,2021,0,0,0,34.74055556,-118.22
+California,Truckee,Truckee Tahoe,TKF,2021,0,0,67,39.32,-120.1394444
+California,Bakersfield,Meadows Field,BFL,2021,317,0,131325,35.43,-119.0522222
+California,Tehachapi,Tehachapi Kern County Nr 4,TSP,2021,1,0,0,35.1375,-118.4416667
+California,San Diego,Brown Field Municipal,SDM,2021,30,0,212,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2021,0,0,6076,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2021,0,0,251,37.41527778,-122.0472222
+California,Novato,Gnoss Field,NOT,2021,0,0,4,38.14444444,-122.5580556
+California,Port Hueneme,Point Mugu NAS,NTD,2021,115,0,667,34.12027778,-119.12
+California,San Diego,Montgomery Field,MYF,2021,0,0,6,32.81583333,-117.1394444
+California,Oxnard/Ventura,Oxnard,OXR,2021,0,0,10,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2021,525,0,27906,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,2021,2,0,4,34.60694444,-120.0747222
+California,Lompoc,Vandenberg AFB,VBG,2021,0,0,114,34.72972222,-120.5758333
+California,Gasquet,Ward Field,ZXC,2022,0,0,0,41.84583333,-123.9833333
+California,Sacramento,Mather AFB,MHR,2022,20223,1722,32,38.55638889,-121.2955556
+California,Fresno,Fresno Air Terminal,FAT,2022,4678,0,694376,36.77666667,-119.7172222
+California,Napa,Napa County,APC,2022,0,0,288,38.21222222,-122.28
+California,Carlsbad,Palomar,CLD,2022,0,0,114,33.12861111,-117.2797222
+California,Livermore,Livermore Municipal,LVK,2022,0,0,22,37.69361111,-121.8202778
+California,Santa Monica,Santa Monica Municipal,SMO,2022,0,0,16,34.01611111,-118.4508333
+California,Thermal,Jacqueline Cochran Regional,TRM,2022,0,0,29,33.62638889,-116.1608333
+California,San Carlos,San Carlos Airport,SQL,2022,0,0,53,37.51111111,-122.2486111
+California,Los Angeles,Los Angeles International,LAX,2022,476217,49502,19654430,33.9425,-118.4080556
+California,Burbank,Hollywood-Burbank Midpoint,BUR,2022,16428,0,2185318,34.2,-118.3577778
+California,Bishop,Eastern Sierra Regional,BIH,2022,15,0,9349,37.37333333,-118.365
+California,Sacramento,Sacramento Executive,SAC,2022,0,0,11,38.5125,-121.4925
+California,Hanford,Hanford Municipal,VWD,2022,0,0,2,36.31888889,-119.6297222
+California,Crescent City,Jack McNamara Field,CEC,2022,24,0,0,41.78,-124.2358333
+California,Long Beach,Long Beach Daugherty Field,LGB,2022,6307,0,1191894,33.8175,-118.1511111
+California,Chico,Chico Municipal,CIC,2022,40,0,4,39.79583333,-121.8566667
+California,Petaluma,Petaluma Municipal,UXK,2022,246,0,0,38.25777778,-122.6052778
+California,Oakland,Metropolitan Oakland International,OAK,2022,224713,3806,3900076,37.72138889,-122.2208333
+California,Sacramento,McClellan AFB,MCC,2022,41,0,233,38.66777778,-121.3994444
+California,Torrance,Torrance Municipal - Zamperini Field,TOA,2022,0,0,3,33.80333333,-118.3386111
+California,Ontario,Ontario International,ONT,2022,340857,9227,2022035,34.05611111,-117.6011111
+California,San Diego,Miramar NAS,NKX,2022,197,0,673,32.86916667,-117.1436111
+California,El Centro,El Centro NAF,NJK,2022,0,0,270,32.8275,-115.6688889
+California,Riverside,March AFB,RIV,2022,15618,0,36680,33.88055556,-117.2586111
+California,Chino,Chino Airport,CNO,2022,93,0,0,33.97083333,-117.6413889
+California,Lemoore,Lemoore NAS,NLC,2022,0,0,93,36.33305556,-119.9522222
+California,San Diego,San Diego International Lindbergh Fl,SAN,2022,48228,2131,8050720,32.73277778,-117.1872222
+California,San Bernardino,Norton AFB,SBD,2022,89414,122,3092,34.09694444,-117.2366667
+California,El Centro,Imperial County,IPL,2022,329,0,0,32.83722222,-115.5747222
+California,San Francisco,San Francisco International,SFO,2022,108600,10384,12692210,37.61888889,-122.375
+California,San Jose,San Jose International,SJC,2022,15223,7,3985311,37.36277778,-121.9405556
+California,Inyokern,Inyokern-Kern County,IYK,2022,75,0,0,35.65666667,-117.8291667
+California,Lake Tahoe,Lake Tahoe Airport,TVL,2022,0,0,17,38.89416667,-119.9944444
+California,Sacramento,Sacramento International,SMF,2022,43740,1824,4352715,38.69555556,-121.5897222
+California,Santa Ana,John Wayne Airport-Orange County,SNA,2022,9028,66,3990922,33.67555556,-117.8672222
+California,Hawthorne,Jack Northrop Field/Hawthorne Municipal,HHR,2022,0,0,6,33.92277778,-118.3352778
+California,Bermuda Dunes,Bermuda Dunes Airport,UDD,2022,0,0,5,33.74833333,-116.2741667
+California,Santa Barbara,Santa Barbara Municipal,SBA,2022,283,0,444862,34.42777778,-119.8394444
+California,Camarillo,Camarillo Airport,C01,2022,0,0,64,34.21388889,-119.0944444
+California,Monterey,Monterey Peninsula,MRY,2022,71,0,166615,36.58805556,-121.8480556
+California,San Luis Obispo,San Luis Obispo County Regional,SBP,2022,184,0,196676,35.23666667,-120.6391667
+California,Palm Springs,Palm Springs International,PSP,2022,98,1,970421,33.82666667,-116.505
+California,Arcata/Eureka,Arcata,ACV,2022,167,0,91774,40.97916667,-124.1075
+California,Santa Rosa,Charles M. Schulz - Sonoma County,STS,2022,0,0,225302,38.50916667,-122.8116667
+California,Fairfield,Travis AFB,SUU,2022,17118,0,1139,38.2625,-121.9269444
+California,Ukiah,Ukiah Municipal,UKI,2022,78,0,0,39.12666667,-123.2
+California,Victorville,Southern California Logistics,VCV,2022,0,0,627,34.5975,-117.3830556
+California,Visalia,Visalia Municipal,VIS,2022,265,0,5,36.31944444,-119.3938889
+California,Concord,Buchanan Field,CCR,2022,0,0,2,37.98888889,-122.0555556
+California,Stockton,Stockton Metropolitan,SCK,2022,17244,0,56826,37.89444444,-121.2391667
+California,Porterville,Porterville Municipal,PTV,2022,5,0,0,36.02777778,-119.0625
+California,Hayward,Hayward Air Terminal,HWD,2022,0,0,49,37.65916667,-122.1225
+California,San Diego,North Island NAS,NZY,2022,361,0,233,32.69916667,-117.2144444
+California,Paso Robles,Paso Robles Municipal,PRB,2022,6,0,21,35.67055556,-120.6258333
+California,Redding,Redding Municipal,RDD,2022,403,0,74485,40.50833333,-122.2922222
+California,Mammoth Lakes,Mammoth Lakes Airport,MMH,2022,0,0,15,37.63111111,-118.8513889
+California,Woodlake,Woodlake Airport,QQN,2022,5,0,0,36.39888889,-119.1063889
+California,Marysville,Beale AFB,BAB,2022,0,0,71,39.13611111,-121.4355556
+California,Mojave,Mojave Airport,MHV,2022,2,0,0,35.06666667,-118.15
+California,Lancaster,General William J. Fox Airfield,WJF,2022,0,0,3,34.74055556,-118.22
+California,Oroville,Oroville Municipal,OVE,2022,0,0,7,39.49166667,-121.6180556
+California,Truckee,Truckee Tahoe,TKF,2022,0,0,62,39.32,-120.1394444
+California,Bakersfield,Meadows Field,BFL,2022,230,0,101911,35.43,-119.0522222
+California,San Diego,Brown Field Municipal,SDM,2022,246,0,65,32.57222222,-116.9794444
+California,Van Nuys,Van Nuys Airport,VNY,2022,0,0,3715,34.20972222,-118.49
+California,Mountain View,Moffett Field NAS,NUQ,2022,45,0,168,37.41527778,-122.0472222
+California,Novato,Gnoss Field,NOT,2022,0,0,2,38.14444444,-122.5580556
+California,Port Hueneme,Point Mugu NAS,NTD,2022,125,0,705,34.12027778,-119.12
+California,San Diego,Montgomery Field,MYF,2022,0,0,8,32.81583333,-117.1394444
+California,Oxnard/Ventura,Oxnard,OXR,2022,0,0,11,34.20111111,-119.2063889
+California,Santa Maria,Santa Maria Public/Capt. G. Allan Hancock Field,SMX,2022,408,0,11869,34.905,-120.4577778
+California,Santa Ynez,Santa Ynez Airport,SQA,2022,1,0,0,34.60694444,-120.0747222

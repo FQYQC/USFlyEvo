@@ -1,0 +1,183 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Maine,Bangor,Bangor International,BGR,1990,1023725,921209,134442,44.80777778,-68.82777778
+Maine,Limestone,Loring AFB,LIZ,1990,21867,0,0,46.95027778,-67.88611111
+Maine,Portland,Portland International Jetport,PWM,1990,1638615,3101908,472052,43.64444444,-70.30361111
+Maine,Brunswick,Brunswick NAS,NHZ,1991,1,0,294,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,1991,331,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,1991,3133,1028,451903,43.64444444,-70.30361111
+Maine,Sanford,Sanford Municipal,SFM,1991,0,0,0,43.39472222,-70.71
+Maine,Bangor,Bangor International,BGR,1991,3949,1095,200487,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,1991,107,0,0,46.685,-68.0475
+Maine,Limestone,Loring AFB,LIZ,1991,507,0,55,46.95027778,-67.88611111
+Maine,Brunswick,Brunswick NAS,NHZ,1992,0,0,0,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,1992,345,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,1992,3805,1031,463590,43.64444444,-70.30361111
+Maine,Sanford,Sanford Municipal,SFM,1992,0,0,29,43.39472222,-70.71
+Maine,Bangor,Bangor International,BGR,1992,1036,367,136751,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,1992,102,0,4673,46.685,-68.0475
+Maine,Limestone,Loring AFB,LIZ,1992,1306,0,3,46.95027778,-67.88611111
+Maine,Augusta/Waterville,Waterville Robert Lafleur,WVL,1992,1,0,0,44.53388889,-69.67583333
+Maine,Brunswick,Brunswick NAS,NHZ,1993,46,0,333,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,1993,390,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,1993,3233,952,471545,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,1993,903,213,164472,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,1993,137,0,18505,46.685,-68.0475
+Maine,Limestone,Loring AFB,LIZ,1993,0,0,0,46.95027778,-67.88611111
+Maine,Lewiston/Auburn,Auburn Lewiston Municipal,LEW,1993,0,0,0,44.0475,-70.28388889
+Maine,Brunswick,Brunswick NAS,NHZ,1994,0,0,50,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,1994,478,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,1994,3653,1037,460632,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,1994,1509,118,159391,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,1994,141,0,18468,46.685,-68.0475
+Maine,Lewiston/Auburn,Auburn Lewiston Municipal,LEW,1994,1,0,0,44.0475,-70.28388889
+Maine,Brunswick,Brunswick NAS,NHZ,1995,0,0,383,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,1995,275,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,1995,4219,698,500941,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,1995,2347,101,193602,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,1995,145,0,21818,46.685,-68.0475
+Maine,Augusta/Waterville,Waterville Robert Lafleur,WVL,1995,0,0,0,44.53388889,-69.67583333
+Maine,Brunswick,Brunswick NAS,NHZ,1996,0,0,187,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,1996,276,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,1996,3920,858,433473,43.64444444,-70.30361111
+Maine,Sanford,Sanford Municipal,SFM,1996,0,0,55,43.39472222,-70.71
+Maine,Bangor,Bangor International,BGR,1996,5616,177,169903,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,1996,133,0,23140,46.685,-68.0475
+Maine,Brunswick,Brunswick NAS,NHZ,1997,0,0,0,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,1997,55,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,1997,6242,654,439674,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,1997,4826,244,126933,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,1997,171,0,10310,46.685,-68.0475
+Maine,Brunswick,Brunswick NAS,NHZ,1998,47,0,271,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,1998,2,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,1998,6654,274,464374,43.64444444,-70.30361111
+Maine,Houlton,Houlton International,HUL,1998,0,0,0,46.12305556,-67.79333333
+Maine,Bangor,Bangor International,BGR,1998,5147,149,106554,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,1998,208,0,0,46.685,-68.0475
+Maine,Millinocket,Millinocket Municipal,MLT,1998,19,0,12,45.64777778,-68.68555556
+Maine,Brunswick,Brunswick NAS,NHZ,1999,97,0,176,43.89222222,-69.93916667
+Maine,Portland,Portland International Jetport,PWM,1999,6087,225,491468,43.64444444,-70.30361111
+Maine,Houlton,Houlton International,HUL,1999,1,0,0,46.12305556,-67.79333333
+Maine,Bangor,Bangor International,BGR,1999,6151,12,37320,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,1999,200,0,0,46.685,-68.0475
+Maine,Brunswick,Brunswick NAS,NHZ,2000,3,0,158,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,2000,0,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,2000,6768,185,513198,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2000,3334,91,64172,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2000,192,0,32,46.685,-68.0475
+Maine,Brunswick,Brunswick NAS,NHZ,2001,0,0,0,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,2001,402,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,2001,3854,30,529376,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2001,1086,3,140719,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2001,160,0,0,46.685,-68.0475
+Maine,Brunswick,Brunswick NAS,NHZ,2002,14,0,243,43.89222222,-69.93916667
+Maine,Portland,Portland International Jetport,PWM,2002,5804,1,488351,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2002,3906,0,171417,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2002,141,0,0,46.685,-68.0475
+Maine,Brunswick,Brunswick NAS,NHZ,2003,0,0,381,43.89222222,-69.93916667
+Maine,Portland,Portland International Jetport,PWM,2003,6666,1,534503,43.64444444,-70.30361111
+Maine,Houlton,Houlton International,HUL,2003,0,0,71,46.12305556,-67.79333333
+Maine,Bangor,Bangor International,BGR,2003,5765,0,180148,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2003,147,0,0,46.685,-68.0475
+Maine,Brunswick,Brunswick NAS,NHZ,2004,48,0,457,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,2004,3,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,2004,6691,2,627318,43.64444444,-70.30361111
+Maine,Sanford,Sanford Municipal,SFM,2004,0,0,39,43.39472222,-70.71
+Maine,Bangor,Bangor International,BGR,2004,4775,0,271454,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2004,144,0,0,46.685,-68.0475
+Maine,Brunswick,Brunswick NAS,NHZ,2005,0,0,313,43.89222222,-69.93916667
+Maine,Portland,Portland International Jetport,PWM,2005,4732,1,683940,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2005,3384,0,310066,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2005,148,0,0,46.685,-68.0475
+Maine,Brunswick,Brunswick NAS,NHZ,2006,0,0,109,43.89222222,-69.93916667
+Maine,Portland,Portland International Jetport,PWM,2006,4543,0,632273,43.64444444,-70.30361111
+Maine,Sanford,Sanford Municipal,SFM,2006,2,0,0,43.39472222,-70.71
+Maine,Bangor,Bangor International,BGR,2006,5238,2,283810,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2006,153,0,0,46.685,-68.0475
+Maine,Lewiston/Auburn,Auburn Lewiston Municipal,LEW,2006,1,0,0,44.0475,-70.28388889
+Maine,Brunswick,Brunswick NAS,NHZ,2007,67,0,430,43.89222222,-69.93916667
+Maine,Portland,Portland International Jetport,PWM,2007,4163,0,747083,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2007,8050,42,302825,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2007,140,0,0,46.685,-68.0475
+Maine,Bar Harbor,Hancock County-Bar Harbor,BHB,2008,0,0,8990,44.44888889,-68.36166667
+Maine,Brunswick,Brunswick NAS,NHZ,2008,0,0,325,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,2008,0,0,2611,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,2008,3971,0,816468,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2008,4342,0,328951,44.80777778,-68.82777778
+Maine,Rockland,Knox County Regional,RKD,2008,0,0,4141,44.05916667,-69.09805556
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2008,139,0,9982,46.685,-68.0475
+Maine,Bar Harbor,Hancock County-Bar Harbor,BHB,2009,7,0,9615,44.44888889,-68.36166667
+Maine,Brunswick,Brunswick NAS,NHZ,2009,0,0,438,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,2009,1,0,3490,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,2009,4748,1,847438,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2009,1830,0,323797,44.80777778,-68.82777778
+Maine,Rockland,Knox County Regional,RKD,2009,0,0,5,44.05916667,-69.09805556
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2009,118,0,13296,46.685,-68.0475
+Maine,Bar Harbor,Hancock County-Bar Harbor,BHB,2010,13,0,11031,44.44888889,-68.36166667
+Maine,Augusta/Waterville,Augusta,AUG,2010,0,0,3811,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,2010,4689,0,832664,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2010,3459,0,287785,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2010,101,0,14956,46.685,-68.0475
+Maine,Bar Harbor,Hancock County-Bar Harbor,BHB,2011,3,0,12287,44.44888889,-68.36166667
+Maine,Portland,Portland International Jetport,PWM,2011,4780,0,795740,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2011,2379,0,226330,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2011,89,0,14238,46.685,-68.0475
+Maine,Bar Harbor,Hancock County-Bar Harbor,BHB,2012,0,0,1004,44.44888889,-68.36166667
+Maine,Portland,Portland International Jetport,PWM,2012,4788,0,741383,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2012,1387,0,231009,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2012,96,0,5928,46.685,-68.0475
+Maine,Lewiston/Auburn,Auburn Lewiston Municipal,LEW,2012,2,0,0,44.0475,-70.28388889
+Maine,Portland,Portland International Jetport,PWM,2013,4710,0,824543,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2013,376,0,264262,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2013,90,0,0,46.685,-68.0475
+Maine,Augusta/Waterville,Augusta,AUG,2014,0,0,12,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,2014,4494,0,834618,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2014,472,0,288457,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2014,71,0,0,46.685,-68.0475
+Maine,Brunswick,Brunswick NAS,NHZ,2015,0,0,9,43.89222222,-69.93916667
+Maine,Portland,Portland International Jetport,PWM,2015,4861,0,853825,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2015,282,2,255995,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2015,70,0,0,46.685,-68.0475
+Maine,Bar Harbor,Hancock County-Bar Harbor,BHB,2016,0,0,667,44.44888889,-68.36166667
+Maine,Brunswick,Brunswick NAS,NHZ,2016,0,0,4,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,2016,0,0,4,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,2016,4627,0,862236,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2016,359,0,256400,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2016,69,0,0,46.685,-68.0475
+Maine,Bar Harbor,Hancock County-Bar Harbor,BHB,2017,1,0,3,44.44888889,-68.36166667
+Maine,Brunswick,Brunswick NAS,NHZ,2017,0,0,6,43.89222222,-69.93916667
+Maine,Portland,Portland International Jetport,PWM,2017,4343,0,865218,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2017,609,0,270770,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2017,68,0,0,46.685,-68.0475
+Maine,Bar Harbor,Hancock County-Bar Harbor,BHB,2018,0,0,15,44.44888889,-68.36166667
+Maine,Brunswick,Brunswick NAS,NHZ,2018,0,0,3,43.89222222,-69.93916667
+Maine,Portland,Portland International Jetport,PWM,2018,4445,0,958579,43.64444444,-70.30361111
+Maine,Sanford,Sanford Municipal,SFM,2018,0,0,4,43.39472222,-70.71
+Maine,Bangor,Bangor International,BGR,2018,468,0,278690,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2018,66,0,0,46.685,-68.0475
+Maine,Bar Harbor,Hancock County-Bar Harbor,BHB,2019,0,0,3,44.44888889,-68.36166667
+Maine,Brunswick,Brunswick NAS,NHZ,2019,0,0,3,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,2019,0,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,2019,4182,0,979927,43.64444444,-70.30361111
+Maine,Sanford,Sanford Municipal,SFM,2019,0,0,18,43.39472222,-70.71
+Maine,Bangor,Bangor International,BGR,2019,597,0,250554,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2019,72,0,0,46.685,-68.0475
+Maine,Bar Harbor,Hancock County-Bar Harbor,BHB,2020,0,0,994,44.44888889,-68.36166667
+Maine,Portland,Portland International Jetport,PWM,2020,5851,0,368722,43.64444444,-70.30361111
+Maine,Bangor,Bangor International,BGR,2020,4243,0,108897,44.80777778,-68.82777778
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2020,54,0,1166,46.685,-68.0475
+Maine,Bar Harbor,Hancock County-Bar Harbor,BHB,2021,0,0,10,44.44888889,-68.36166667
+Maine,Brunswick,Brunswick NAS,NHZ,2021,0,0,0,43.89222222,-69.93916667
+Maine,Augusta/Waterville,Augusta,AUG,2021,0,0,0,44.31805556,-69.79666667
+Maine,Portland,Portland International Jetport,PWM,2021,5774,0,851180,43.64444444,-70.30361111
+Maine,Sanford,Sanford Municipal,SFM,2021,0,0,20,43.39472222,-70.71
+Maine,Bangor,Bangor International,BGR,2021,2945,14,298443,44.80777778,-68.82777778
+Maine,Rockland,Knox County Regional,RKD,2021,0,0,23,44.05916667,-69.09805556
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2021,56,0,11129,46.685,-68.0475
+Maine,Bar Harbor,Hancock County-Bar Harbor,BHB,2022,0,0,9,44.44888889,-68.36166667
+Maine,Portland,Portland International Jetport,PWM,2022,2804,0,742320,43.64444444,-70.30361111
+Maine,Houlton,Houlton International,HUL,2022,1,0,0,46.12305556,-67.79333333
+Maine,Sanford,Sanford Municipal,SFM,2022,0,0,0,43.39472222,-70.71
+Maine,Bangor,Bangor International,BGR,2022,1468,0,268983,44.80777778,-68.82777778
+Maine,Rockland,Knox County Regional,RKD,2022,0,0,8,44.05916667,-69.09805556
+Maine,Presque Isle/Houlton,Presque Isle Municipal,PQI,2022,46,0,11051,46.685,-68.0475
+Maine,Lewiston/Auburn,Auburn Lewiston Municipal,LEW,2022,0,0,4,44.0475,-70.28388889

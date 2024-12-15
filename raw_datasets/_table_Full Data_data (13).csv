@@ -1,0 +1,592 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Illinois,Chicago,Chicago Midway International,MDW,1990,9119394,8971166,3566769,41.785,-87.75194444
+Illinois,Chicago,Chicago O'Hare International,ORD,1990,605502131,275539086,26723145,41.97805556,-87.90611111
+Illinois,Rockford,Chicago/Rockford International,RFD,1990,0,0,0,42.19722222,-89.0925
+Illinois,Peoria,Greater Peoria,PIA,1990,104149,30627,108716,40.66138889,-89.68722222
+Illinois,Moline,Quad City International,MLI,1990,524055,620516,219933,41.44888889,-90.505
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,1990,37421,1123,81656,40.03972222,-88.27972222
+Illinois,Moline,Quad City International,MLI,1991,1033,253,256745,41.44888889,-90.505
+Illinois,Chicago,Chicago O'Hare International,ORD,1991,306434,130664,26053184,41.97805556,-87.90611111
+Illinois,Rockford,Chicago/Rockford International,RFD,1991,15,2,24192,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,1991,0,0,0,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,1991,1650,15,120901,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,1991,0,1,46540,39.84416667,-89.67888889
+Illinois,Chicago,Meigs Field,CGX,1991,0,0,7701,41.85888889,-87.60833333
+Illinois,Marion/Herrin,Williamson County Regional,MWA,1991,0,0,11714,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,1991,0,0,7760,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,1991,0,2,19804,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,1991,31,2,117406,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,1991,5308,4303,2937407,41.785,-87.75194444
+Illinois,Decatur,Decatur Airport,DEC,1991,1603,0,17781,39.83416667,-88.86861111
+Illinois,Glenview,Glenview NAS,NBU,1991,0,0,287,42.08333333,-87.81833333
+Illinois,Moline,Quad City International,MLI,1992,221,532,300106,41.44888889,-90.505
+Illinois,Chicago,Chicago O'Hare International,ORD,1992,317837,142051,28947832,41.97805556,-87.90611111
+Illinois,Lawrenceville,Lawrenceville-Vincennes International,LWV,1992,2,0,0,38.76305556,-87.60111111
+Illinois,Rockford,Chicago/Rockford International,RFD,1992,10,7,78950,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,1992,0,0,65,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,1992,3735,74,169324,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,1992,5,4,84793,39.84416667,-89.67888889
+Illinois,Chicago,Meigs Field,CGX,1992,0,0,6984,41.85888889,-87.60833333
+Illinois,Marion/Herrin,Williamson County Regional,MWA,1992,0,0,13755,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,1992,0,0,10479,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,1992,0,6,53524,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,1992,22,6,139307,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,1992,2252,25,1983291,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,1992,0,0,214,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,1992,43,3,39667,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,1992,6,0,0,38.32305556,-88.85861111
+Illinois,Glenview,Glenview NAS,NBU,1992,0,0,387,42.08333333,-87.81833333
+Illinois,Moline,Quad City International,MLI,1993,133,770,179672,41.44888889,-90.505
+Illinois,Chicago,Pal/Waukee,PWK,1993,0,0,0,42.1125,-87.90111111
+Illinois,Galesburg,Galesburg Municipal,GBG,1993,0,0,0,40.93861111,-90.42888889
+Illinois,Chicago,Chicago O'Hare International,ORD,1993,315052,149088,28327112,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,1993,104,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,1993,5,7,79229,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,1993,0,0,207,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,1993,5509,76,146331,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,1993,3,4,91925,39.84416667,-89.67888889
+Illinois,Chicago,Meigs Field,CGX,1993,0,0,7139,41.85888889,-87.60833333
+Illinois,Marion/Herrin,Williamson County Regional,MWA,1993,0,0,13128,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,1993,26,0,10830,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,1993,3,5,53415,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,1993,3,4,99849,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,1993,3252,54,2978283,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,1993,0,0,263,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,1993,51,0,35890,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,1993,7,0,0,38.32305556,-88.85861111
+Illinois,Danville,Vermillon County,DNV,1993,0,0,23,40.19722222,-87.59694444
+Illinois,Centralia,Centralia Municipal,ENL,1993,0,0,23,38.51222222,-89.09222222
+Illinois,Carbondale,Southern Illinois,MDH,1993,0,0,23,37.78138889,-89.24694444
+Illinois,Peru,Illinois Valley Regional,VYS,1993,0,0,23,41.35194444,-89.15305556
+Illinois,Glenview,Glenview NAS,NBU,1993,0,0,404,42.08333333,-87.81833333
+Illinois,Alton,St. Louis Regional,ALN,1993,0,0,112,38.89166667,-90.04833333
+Illinois,Moline,Quad City International,MLI,1994,3779,1081,252240,41.44888889,-90.505
+Illinois,Chicago,Chicago O'Hare International,ORD,1994,334785,136541,29970255,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,1994,63,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,1994,115,6,74690,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,1994,24,0,406,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,1994,4032,5,166380,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,1994,0,5,87702,39.84416667,-89.67888889
+Illinois,Chicago,Meigs Field,CGX,1994,0,0,6788,41.85888889,-87.60833333
+Illinois,Marion/Herrin,Williamson County Regional,MWA,1994,0,0,14630,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,1994,0,0,12714,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,1994,0,0,55480,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,1994,3,4,86078,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,1994,3359,414,4078506,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,1994,0,0,80,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,1994,42,0,32091,39.83416667,-88.86861111
+Illinois,Carbondale,Southern Illinois,MDH,1994,0,0,40,37.78138889,-89.24694444
+Illinois,Glenview,Glenview NAS,NBU,1994,26,0,0,42.08333333,-87.81833333
+Illinois,Moline,Quad City International,MLI,1995,2050,940,232288,41.44888889,-90.505
+Illinois,Chicago,Chicago O'Hare International,ORD,1995,371710,137248,29886131,41.97805556,-87.90611111
+Illinois,Rockford,Chicago/Rockford International,RFD,1995,669,5,45634,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,1995,0,0,83,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,1995,8108,40,145204,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,1995,0,4,61196,39.84416667,-89.67888889
+Illinois,Chicago,Meigs Field,CGX,1995,0,0,727,41.85888889,-87.60833333
+Illinois,Marion/Herrin,Williamson County Regional,MWA,1995,0,0,12929,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,1995,0,0,11813,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,1995,2,2,54165,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,1995,3,4,79762,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,1995,4071,648,4172589,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,1995,1,0,117,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,1995,36,0,22160,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,1995,17,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,1995,0,0,94,37.78138889,-89.24694444
+Illinois,Glenview,Glenview NAS,NBU,1995,0,0,242,42.08333333,-87.81833333
+Illinois,Alton,St. Louis Regional,ALN,1995,0,0,0,38.89166667,-90.04833333
+Illinois,Moline,Quad City International,MLI,1996,7330,679,231166,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,1996,0,0,94,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,1996,1,0,0,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,1996,350725,141836,30526401,41.97805556,-87.90611111
+Illinois,Rockford,Chicago/Rockford International,RFD,1996,1148,5,15171,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,1996,27,0,327,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,1996,8672,68,151813,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,1996,0,2,48013,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,1996,0,0,10216,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,1996,0,0,10859,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,1996,0,4,52816,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,1996,3,7,87492,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,1996,4778,1075,4436034,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,1996,0,0,103,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,1996,26,0,19371,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,1996,3,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,1996,0,0,30,37.78138889,-89.24694444
+Illinois,Moline,Quad City International,MLI,1997,8122,731,304457,41.44888889,-90.505
+Illinois,Chicago,Chicago O'Hare International,ORD,1997,405508,139410,31153895,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,1997,4,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,1997,114311,0,22603,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,1997,0,0,347,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,1997,9349,74,216621,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,1997,0,2,56005,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,1997,0,0,12447,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,1997,0,0,10609,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,1997,90,3,130771,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,1997,3,5,111830,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,1997,5202,2905,4229569,41.785,-87.75194444
+Illinois,Decatur,Decatur Airport,DEC,1997,3078,0,19082,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,1997,10,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,1997,0,0,32,37.78138889,-89.24694444
+Illinois,Moline,Quad City International,MLI,1998,7038,568,356879,41.44888889,-90.505
+Illinois,Kankakee,Greater Kankakee,IKK,1998,2,0,0,41.07138889,-87.84888889
+Illinois,Chicago,Pal/Waukee,PWK,1998,12,0,0,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,1998,405085,133357,33001494,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,1998,2,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,1998,122199,0,34865,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,1998,0,0,727,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,1998,10607,48,235450,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,1998,0,1,57284,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,1998,0,0,11473,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,1998,4,0,8683,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,1998,125,0,203304,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,1998,1,6,132958,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,1998,7101,5060,5031271,41.785,-87.75194444
+Illinois,Decatur,Decatur Airport,DEC,1998,3070,18,20627,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,1998,23,0,0,38.32305556,-88.85861111
+Illinois,Alton,St. Louis Regional,ALN,1998,0,0,0,38.89166667,-90.04833333
+Illinois,Moline,Quad City International,MLI,1999,5777,440,373160,41.44888889,-90.505
+Illinois,Chicago,Pal/Waukee,PWK,1999,12,0,0,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,1999,386052,127940,31657965,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,1999,3,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,1999,126355,2,31817,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,1999,19,0,1814,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,1999,12576,1,192783,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,1999,5,1,47236,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,1999,0,0,9887,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,1999,1,0,7484,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,1999,123,0,216406,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,1999,10,5,116940,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,1999,6699,5340,6137767,41.785,-87.75194444
+Illinois,Decatur,Decatur Airport,DEC,1999,3388,0,16719,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,1999,19,0,0,38.32305556,-88.85861111
+Illinois,Alton,St. Louis Regional,ALN,1999,0,0,0,38.89166667,-90.04833333
+Illinois,Moline,Quad City International,MLI,2000,3723,512,374587,41.44888889,-90.505
+Illinois,Salem,Salem/Leckrone,SLO,2000,17,0,0,38.645,-88.96333333
+Illinois,Waukegan,Waukegan Regional,UGN,2000,6,0,0,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2000,11,0,0,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2000,396565,117206,30891491,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2000,5,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2000,131309,2,26413,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2000,1,0,15461,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2000,16509,2,173223,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2000,0,0,35832,39.84416667,-89.67888889
+Illinois,Sterling/Rockfalls,Whiteside County-Jos H. Bittorf Field,SQI,2000,0,0,0,41.74,-89.68083333
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2000,3,0,3928,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2000,8,0,3792,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2000,117,1,235641,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2000,21,1,121949,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2000,6110,5724,6957730,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2000,40,0,114,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2000,3063,0,13826,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2000,35,0,0,38.32305556,-88.85861111
+Illinois,Danville,Vermillon County,DNV,2000,1,0,0,40.19722222,-87.59694444
+Illinois,Alton,St. Louis Regional,ALN,2000,0,0,0,38.89166667,-90.04833333
+Illinois,Moline,Quad City International,MLI,2001,228,387,352478,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2001,0,0,0,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2001,7,0,0,42.1125,-87.90111111
+Illinois,Flora,Flora Municipal,FQL,2001,1,0,0,38.665,-88.45305556
+Illinois,Chicago,Chicago O'Hare International,ORD,2001,431350,79341,28626694,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2001,4,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2001,175466,0,9066,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2001,0,0,24764,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2001,30229,1,179661,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2001,0,0,47339,39.84416667,-89.67888889
+Illinois,Sterling/Rockfalls,Whiteside County-Jos H. Bittorf Field,SQI,2001,0,0,0,41.74,-89.68083333
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2001,0,0,506,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2001,4,0,4200,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2001,18,0,207456,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2001,54,0,113371,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2001,6424,4782,6781495,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2001,0,0,117,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2001,4523,0,10062,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2001,11,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,2001,0,0,0,37.78138889,-89.24694444
+Illinois,Moline,Quad City International,MLI,2002,303,264,297539,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2002,6,0,0,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2002,17,0,0,42.1125,-87.90111111
+Illinois,Flora,Flora Municipal,FQL,2002,3,0,0,38.665,-88.45305556
+Illinois,Galesburg,Galesburg Municipal,GBG,2002,0,0,0,40.93861111,-90.42888889
+Illinois,Chicago,Chicago O'Hare International,ORD,2002,369077,44324,28364898,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2002,12,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2002,101588,0,1268,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2002,0,0,74,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2002,30091,0,188397,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2002,3,0,84006,39.84416667,-89.67888889
+Illinois,Sterling/Rockfalls,Whiteside County-Jos H. Bittorf Field,SQI,2002,3,0,0,41.74,-89.68083333
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2002,3,0,395,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2002,1,0,4318,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2002,0,0,198115,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2002,3,0,118288,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2002,8178,3957,7379940,41.785,-87.75194444
+Illinois,Freeport,Albertus,FEP,2002,1,0,0,42.23555556,-89.56916667
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2002,0,0,115,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2002,2629,0,9137,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2002,25,0,0,38.32305556,-88.85861111
+Illinois,Danville,Vermillon County,DNV,2002,0,0,0,40.19722222,-87.59694444
+Illinois,Carbondale,Southern Illinois,MDH,2002,0,0,0,37.78138889,-89.24694444
+Illinois,Moline,Quad City International,MLI,2003,443,34,344882,41.44888889,-90.505
+Illinois,Rantoul,Rantoul National Aviation Center,II1,2003,2,0,0,40.29361111,-88.1425
+Illinois,Kankakee,Greater Kankakee,IKK,2003,3,0,0,41.07138889,-87.84888889
+Illinois,Chicago,Pal/Waukee,PWK,2003,6,0,0,42.1125,-87.90111111
+Illinois,Flora,Flora Municipal,FQL,2003,0,0,0,38.665,-88.45305556
+Illinois,Galesburg,Galesburg Municipal,GBG,2003,2,0,0,40.93861111,-90.42888889
+Illinois,Chicago,Chicago O'Hare International,ORD,2003,340713,56170,30818564,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2003,15,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2003,109088,0,16928,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2003,11,0,4123,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2003,11554,0,178601,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2003,1,0,101576,39.84416667,-89.67888889
+Illinois,Chicago/Romeoville,Lewis University,II2,2003,1,0,0,41.60805556,-88.09611111
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2003,2,0,332,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2003,1,0,359,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2003,21,0,207158,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2003,11,0,97263,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2003,9832,3202,8113489,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2003,0,0,123,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2003,4184,0,14489,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2003,73,0,0,38.32305556,-88.85861111
+Illinois,Danville,Vermillon County,DNV,2003,1,0,0,40.19722222,-87.59694444
+Illinois,Peru,Illinois Valley Regional,VYS,2003,2,0,0,41.35194444,-89.15305556
+Illinois,Moline,Quad City International,MLI,2004,517,0,410524,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2004,1,0,0,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2004,10,0,0,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2004,399827,63955,33800868,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2004,308,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2004,123983,18,49048,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2004,23,0,4918,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2004,6809,0,223119,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2004,3,0,85933,39.84416667,-89.67888889
+Illinois,Sterling/Rockfalls,Whiteside County-Jos H. Bittorf Field,SQI,2004,3,0,0,41.74,-89.68083333
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2004,0,0,668,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2004,0,0,112,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2004,2,0,219894,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2004,70,0,118181,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2004,11505,4285,8686812,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2004,0,0,118,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2004,7206,0,13233,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2004,401,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,2004,0,0,115,37.78138889,-89.24694444
+Illinois,Peru,Illinois Valley Regional,VYS,2004,6,0,0,41.35194444,-89.15305556
+Illinois,Moline,Quad City International,MLI,2005,230,0,430321,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2005,6,0,0,42.42138889,-87.86694444
+Illinois,Rantoul,Rantoul National Aviation Center,II1,2005,2,0,0,40.29361111,-88.1425
+Illinois,Chicago,Pal/Waukee,PWK,2005,12,0,2,42.1125,-87.90111111
+Illinois,Galesburg,Galesburg Municipal,GBG,2005,40,0,0,40.93861111,-90.42888889
+Illinois,Chicago,Chicago O'Hare International,ORD,2005,410442,63563,34040853,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2005,106,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2005,132850,0,82190,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2005,3,0,29449,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2005,3864,0,255299,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2005,6,0,81966,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2005,4,0,1136,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2005,6,0,86,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2005,1867,0,227739,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2005,38,0,131950,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2005,14639,4482,8343201,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2005,12,0,0,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2005,7604,0,11686,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2005,4,0,0,38.32305556,-88.85861111
+Illinois,Peru,Illinois Valley Regional,VYS,2005,3,0,0,41.35194444,-89.15305556
+Illinois,Alton,St. Louis Regional,ALN,2005,2,0,0,38.89166667,-90.04833333
+Illinois,Moline,Quad City International,MLI,2006,353,1,453481,41.44888889,-90.505
+Illinois,Chicago,Pal/Waukee,PWK,2006,25,0,9,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2006,415894,49618,34349480,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2006,167,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2006,132973,6304,90100,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2006,0,0,26746,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2006,7042,0,240248,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2006,2,0,61455,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2006,0,0,543,37.75194444,-89.01638889
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2006,1647,0,239450,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2006,6,0,116910,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2006,14866,2613,8913162,41.785,-87.75194444
+Illinois,De Kalb,De Kalb Taylor Municipal,II3,2006,1,0,0,41.93138889,-88.70722222
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2006,61,0,41,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2006,7692,0,7378,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2006,6,0,0,38.32305556,-88.85861111
+Illinois,Danville,Vermillon County,DNV,2006,2,0,0,40.19722222,-87.59694444
+Illinois,Moline,Quad City International,MLI,2007,364,0,475760,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2007,0,0,17,42.42138889,-87.86694444
+Illinois,Rantoul,Rantoul National Aviation Center,II1,2007,84,0,0,40.29361111,-88.1425
+Illinois,Chicago,Pal/Waukee,PWK,2007,7,0,28,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2007,422116,34047,34131111,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2007,97,0,16,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2007,136656,11949,112166,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2007,96,0,29011,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2007,10208,0,270917,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2007,0,0,58683,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2007,1,0,1113,37.75194444,-89.01638889
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2007,1753,0,231797,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2007,4,0,112197,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2007,14822,0,9119137,41.785,-87.75194444
+Illinois,De Kalb,De Kalb Taylor Municipal,II3,2007,0,0,0,41.93138889,-88.70722222
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2007,9,0,157,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2007,7238,0,303,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2007,6,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,2007,0,0,102,37.78138889,-89.24694444
+Illinois,Peru,Illinois Valley Regional,VYS,2007,1,0,0,41.35194444,-89.15305556
+Illinois,Moline,Quad City International,MLI,2008,184,0,455200,41.44888889,-90.505
+Illinois,Chicago,Pal/Waukee,PWK,2008,0,0,24,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2008,360512,44637,30795993,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2008,7,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2008,132564,7510,110016,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2008,57,0,26910,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2008,7537,69,278115,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2008,0,0,28795,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2008,5,0,869,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2008,0,0,43,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2008,950,0,262676,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2008,1,0,98047,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2008,15284,0,8012176,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2008,0,0,38,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2008,6269,0,0,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2008,3,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,2008,0,0,120,37.78138889,-89.24694444
+Illinois,Moline,Quad City International,MLI,2009,2,0,441172,41.44888889,-90.505
+Illinois,Chicago,Pal/Waukee,PWK,2009,0,0,11,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2009,250561,37503,28486552,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2009,4,0,2,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2009,100681,6131,93856,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2009,445,0,1921,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2009,14565,12,242134,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2009,0,0,40657,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2009,0,0,864,37.75194444,-89.01638889
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2009,2,0,243362,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2009,2,0,88037,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2009,12741,0,8223655,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2009,0,0,249,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2009,498,1,0,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2009,3,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,2009,0,0,0,37.78138889,-89.24694444
+Illinois,Moline,Quad City International,MLI,2010,0,6,424461,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2010,0,0,2,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2010,5,0,4,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2010,279571,33370,29049170,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2010,20,0,2,41.91555556,-88.24666667
+Illinois,Aurora,Aurora Municipal,AUZ,2010,0,0,0,41.77083333,-88.47277778
+Illinois,Lawrenceville,Lawrenceville-Vincennes International,LWV,2010,0,0,0,38.76305556,-87.60111111
+Illinois,Rockford,Chicago/Rockford International,RFD,2010,84976,3813,82364,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2010,679,0,1182,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2010,15073,2,217755,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2010,0,0,57396,39.84416667,-89.67888889
+Illinois,Chicago/Romeoville,Lewis University,II2,2010,0,0,0,41.60805556,-88.09611111
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2010,5,0,761,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2010,0,0,44,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2010,8,1,246642,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2010,22,0,85532,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2010,13241,0,8469653,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2010,0,0,0,39.47861111,-88.27833333
+Illinois,Danville,Vermillon County,DNV,2010,4,0,0,40.19722222,-87.59694444
+Illinois,Carbondale,Southern Illinois,MDH,2010,0,0,0,37.78138889,-89.24694444
+Illinois,Alton,St. Louis Regional,ALN,2010,4,0,0,38.89166667,-90.04833333
+Illinois,Moline,Quad City International,MLI,2011,2,0,384844,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2011,9,0,4,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2011,0,0,5,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2011,261683,29996,28831457,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2011,60,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2011,83409,4377,96246,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2011,37,0,706,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2011,12474,77,209559,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2011,0,0,71555,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2011,0,0,601,37.75194444,-89.01638889
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2011,1,3,262954,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2011,7,0,83394,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2011,13532,0,9013069,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2011,0,0,170,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2011,0,0,323,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2011,3,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,2011,0,0,0,37.78138889,-89.24694444
+Illinois,Moline,Quad City International,MLI,2012,2,0,380771,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2012,0,0,2,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2012,0,0,1,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2012,231288,26056,29453904,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2012,20,0,0,41.91555556,-88.24666667
+Illinois,Aurora,Aurora Municipal,AUZ,2012,0,0,9,41.77083333,-88.47277778
+Illinois,Rockford,Chicago/Rockford International,RFD,2012,72910,4597,106173,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2012,0,0,2308,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2012,16105,225,267042,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2012,0,0,64747,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2012,0,0,844,37.75194444,-89.01638889
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2012,0,0,226144,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2012,9,0,86119,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2012,14362,0,9264407,41.785,-87.75194444
+Illinois,Decatur,Decatur Airport,DEC,2012,0,0,160,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2012,7,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,2012,0,0,12,37.78138889,-89.24694444
+Illinois,Moline,Quad City International,MLI,2013,17,0,355225,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2013,0,0,1,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2013,0,0,4,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2013,229317,28751,29508737,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2013,58,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2013,67293,3694,109314,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2013,0,0,13538,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2013,14564,139,290806,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2013,0,0,70453,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2013,0,0,497,37.75194444,-89.01638889
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2013,4,0,211817,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2013,9,0,84609,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2013,13384,23,9726519,41.785,-87.75194444
+Illinois,De Kalb,De Kalb Taylor Municipal,II3,2013,0,0,0,41.93138889,-88.70722222
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2013,0,0,132,39.47861111,-88.27833333
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2013,15,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,2013,0,0,266,37.78138889,-89.24694444
+Illinois,Jacksonville,Jacksonville Municipal,IJX,2013,0,0,2,39.77416667,-90.23722222
+Illinois,Moline,Quad City International,MLI,2014,46,0,332223,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2014,0,0,9,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2014,0,0,8,42.1125,-87.90111111
+Illinois,Chicago/Romeoville,Lewis University,LOT,2014,0,0,7,41.60805556,-88.09611111
+Illinois,Chicago,Chicago O'Hare International,ORD,2014,239881,30281,30574524,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2014,31,0,0,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2014,70983,3348,111974,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2014,4,0,16326,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2014,15122,238,284911,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2014,0,0,86076,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2014,0,0,531,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2014,8,0,0,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2014,0,0,204445,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2014,18,0,95071,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2014,12809,0,10127309,41.785,-87.75194444
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2014,9,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,2014,0,0,133,37.78138889,-89.24694444
+Illinois,Moline,Quad City International,MLI,2015,17,0,355237,41.44888889,-90.505
+Illinois,Chicago,Pal/Waukee,PWK,2015,0,0,6,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2015,233462,34806,33265451,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2015,26,0,0,41.91555556,-88.24666667
+Illinois,Aurora,Aurora Municipal,AUZ,2015,0,0,0,41.77083333,-88.47277778
+Illinois,Rockford,Chicago/Rockford International,RFD,2015,73565,2525,108329,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2015,0,0,32588,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2015,11688,9,309608,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2015,0,0,90368,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2015,0,0,478,37.75194444,-89.01638889
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2015,2954,0,186398,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2015,5,0,89526,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2015,12697,0,10623138,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2015,0,0,148,39.47861111,-88.27833333
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2015,12,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,2015,0,0,281,37.78138889,-89.24694444
+Illinois,Moline,Quad City International,MLI,2016,1,0,338931,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2016,0,0,30,42.42138889,-87.86694444
+Illinois,Kankakee,Greater Kankakee,IKK,2016,0,0,2,41.07138889,-87.84888889
+Illinois,Chicago,Pal/Waukee,PWK,2016,0,0,15,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2016,264717,30698,34187985,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2016,14,0,79,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2016,82350,1135,101780,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2016,2,0,79982,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2016,10293,3,291879,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2016,0,0,93247,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2016,18,0,369,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2016,74,0,0,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2016,3277,0,188355,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2016,5,0,88979,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2016,8527,0,10805623,41.785,-87.75194444
+Illinois,De Kalb,De Kalb Taylor Municipal,II3,2016,0,0,0,41.93138889,-88.70722222
+Illinois,Decatur,Decatur Airport,DEC,2016,1,0,0,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2016,1,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,2016,0,0,252,37.78138889,-89.24694444
+Illinois,Alton,St. Louis Regional,ALN,2016,0,0,0,38.89166667,-90.04833333
+Illinois,Moline,Quad City International,MLI,2017,12,11,313105,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2017,0,0,50,42.42138889,-87.86694444
+Illinois,Kankakee,Greater Kankakee,IKK,2017,0,0,10,41.07138889,-87.84888889
+Illinois,Chicago,Pal/Waukee,PWK,2017,1,0,79,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2017,287230,32666,34795802,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2017,7,0,132,41.91555556,-88.24666667
+Illinois,Aurora,Aurora Municipal,AUZ,2017,3,0,1,41.77083333,-88.47277778
+Illinois,Rockford,Chicago/Rockford International,RFD,2017,124493,1576,100513,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2017,0,0,123841,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2017,8739,6,297085,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2017,0,0,92010,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2017,7,0,775,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2017,0,0,463,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2017,3235,9,163297,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2017,31,0,83871,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2017,10990,0,10660291,41.785,-87.75194444
+Illinois,De Kalb,De Kalb Taylor Municipal,II3,2017,0,0,2,41.93138889,-88.70722222
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2017,0,0,149,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2017,5,0,11,39.83416667,-88.86861111
+Illinois,Carbondale,Southern Illinois,MDH,2017,0,0,1,37.78138889,-89.24694444
+Illinois,Moline,Quad City International,MLI,2018,14,1,336385,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2018,0,0,82,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2018,0,0,113,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2018,283394,32778,36010592,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2018,27,0,88,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2018,176752,2576,106637,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2018,20,0,152262,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2018,8319,0,321478,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2018,0,0,76741,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2018,16,0,538,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2018,2,0,9354,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2018,3627,0,177905,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2018,8,0,95273,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2018,10853,0,10435652,41.785,-87.75194444
+Illinois,Decatur,Decatur Airport,DEC,2018,0,0,3,39.83416667,-88.86861111
+Illinois,Mount Vernon,Mount Vernon Airport,MVN,2018,3,0,0,38.32305556,-88.85861111
+Illinois,Carbondale,Southern Illinois,MDH,2018,0,0,124,37.78138889,-89.24694444
+Illinois,Moline,Quad City International,MLI,2019,11,0,292887,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2019,0,0,54,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2019,0,0,136,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2019,306152,32861,36717227,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2019,19,0,85,41.91555556,-88.24666667
+Illinois,Aurora,Aurora Municipal,AUZ,2019,0,0,0,41.77083333,-88.47277778
+Illinois,Rockford,Chicago/Rockford International,RFD,2019,191075,2315,116832,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2019,21,0,153802,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2019,8618,1,323958,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2019,0,0,75362,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2019,0,0,687,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2019,0,0,9950,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2019,3416,0,209117,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2019,37,0,105324,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2019,9985,0,9831964,41.785,-87.75194444
+Illinois,De Kalb,De Kalb Taylor Municipal,II3,2019,0,0,0,41.93138889,-88.70722222
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2019,0,0,151,39.47861111,-88.27833333
+Illinois,Moline,Quad City International,MLI,2020,3,0,136707,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2020,0,0,89,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2020,0,0,69,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2020,321171,30127,13512574,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2020,47,0,4,41.91555556,-88.24666667
+Illinois,Rockford,Chicago/Rockford International,RFD,2020,220485,1760,79674,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2020,46,0,108762,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2020,9394,0,157646,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2020,1,0,34483,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2020,35,0,397,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2020,0,0,124,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2020,3036,0,89754,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2020,5,0,33396,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2020,10579,1,4121566,41.785,-87.75194444
+Illinois,Decatur,Decatur Airport,DEC,2020,0,0,2276,39.83416667,-88.86861111
+Illinois,Alton,St. Louis Regional,ALN,2020,0,0,0,38.89166667,-90.04833333
+Illinois,Moline,Quad City International,MLI,2021,4,0,246081,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2021,0,0,64,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2021,0,0,217,42.1125,-87.90111111
+Illinois,Chicago/Romeoville,Lewis University,LOT,2021,0,0,7,41.60805556,-88.09611111
+Illinois,Chicago,Chicago O'Hare International,ORD,2021,329432,28323,24894042,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2021,46,0,37,41.91555556,-88.24666667
+Illinois,Aurora,Aurora Municipal,AUZ,2021,0,0,15,41.77083333,-88.47277778
+Illinois,Rockford,Chicago/Rockford International,RFD,2021,243746,4951,102779,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2021,115,0,161562,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2021,8814,0,237344,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2021,0,0,60926,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2021,0,0,1546,37.75194444,-89.01638889
+Illinois,Quincy,Quincy Regional-Baldwin Field,UIN,2021,0,0,4,39.94416667,-91.19722222
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2021,3026,0,159897,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2021,4,0,56559,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2021,11969,173,7507514,41.785,-87.75194444
+Illinois,Mattoon/Charleston,Coles County Memorial,MTO,2021,0,0,262,39.47861111,-88.27833333
+Illinois,Decatur,Decatur Airport,DEC,2021,0,0,8899,39.83416667,-88.86861111
+Illinois,Carbondale,Southern Illinois,MDH,2021,0,0,3,37.78138889,-89.24694444
+Illinois,Alton,St. Louis Regional,ALN,2021,0,0,1,38.89166667,-90.04833333
+Illinois,Moline,Quad City International,MLI,2022,12,0,202048,41.44888889,-90.505
+Illinois,Waukegan,Waukegan Regional,UGN,2022,0,0,61,42.42138889,-87.86694444
+Illinois,Chicago,Pal/Waukee,PWK,2022,0,0,121,42.1125,-87.90111111
+Illinois,Chicago,Chicago O'Hare International,ORD,2022,219718,21004,22409831,41.97805556,-87.90611111
+Illinois,Chicago,Du Page County,DPA,2022,7,0,11,41.91555556,-88.24666667
+Illinois,Aurora,Aurora Municipal,AUZ,2022,0,0,10,41.77083333,-88.47277778
+Illinois,Rockford,Chicago/Rockford International,RFD,2022,184801,3780,89484,42.19722222,-89.0925
+Illinois,Belleville,Scott AFB,BLV,2022,0,0,131187,38.54277778,-89.85111111
+Illinois,Peoria,Greater Peoria,PIA,2022,4966,0,213295,40.66138889,-89.68722222
+Illinois,Springfield,Capital,SPI,2022,0,0,54662,39.84416667,-89.67888889
+Illinois,Marion/Herrin,Williamson County Regional,MWA,2022,18,0,309,37.75194444,-89.01638889
+Illinois,Bloomington/Normal,Central Illinois Regional,BMI,2022,2404,0,133429,40.48194444,-88.9275
+Illinois,Champaign/Urbana,University of Illinois/Willard,CMI,2022,1,0,44947,40.03972222,-88.27972222
+Illinois,Chicago,Chicago Midway International,MDW,2022,8176,0,6922705,41.785,-87.75194444
+Illinois,Decatur,Decatur Airport,DEC,2022,0,0,7378,39.83416667,-88.86861111
+Illinois,Alton,St. Louis Regional,ALN,2022,0,0,0,38.89166667,-90.04833333

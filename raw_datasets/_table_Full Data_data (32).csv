@@ -1,0 +1,796 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+New York,Albany,Albany International,ALB,1990,1821277,5422168,878309,42.74583333,-73.80527778
+New York,Buffalo,Buffalo Niagara International,BUF,1990,5262615,7728324,1623559,42.94055556,-78.7325
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,1990,90767,16936,75480,42.16083333,-76.89527778
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,1990,43703,24478,100218,42.20138889,-75.96916667
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,1990,37147,9846,44806,42.49027778,-76.45805556
+New York,New York,John F. Kennedy International,JFK,1990,1124929858,137325410,13766505,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,1990,48083650,71425993,11083550,40.77944444,-73.87583333
+New York,Islip,Long Island MacArthur,ISP,1990,1085156,2968416,422443,40.79666667,-73.10083333
+New York,Niagara Falls,Niagara Falls International,IAG,1990,0,0,57,43.10722222,-78.94555556
+New York,Utica/Rome,Oneida County,UCA,1990,5653,21724,26153,43.14138889,-75.38027778
+New York,Rochester,Rochester Monroe County,ROC,1990,1803048,5820611,1153555,43.12138889,-77.67083333
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,1990,13521655,363636,183361,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,1990,2380826,8694372,1165577,43.11055556,-76.1025
+New York,White Plains,Westchester County,HPN,1990,6860,21,160491,41.06888889,-73.70777778
+New York,New York,West 30th Street Heliport,JRA,1991,2,0,0,40.75444444,-74.0075
+New York,Ovid,Ovid Airport,WQA,1991,1,0,0,42.65472222,-76.79666667
+New York,New York,John F. Kennedy International,JFK,1991,262136,57122,8354452,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,1991,22190,33508,9194934,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,1991,25,0,8876,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,1991,7452,2603,1069888,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,1991,356,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,1991,19852,802,360032,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,1991,21773,3359,1039284,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,1991,2235,2621,763298,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,1991,305,0,0,44.68833333,-73.52111111
+New York,Buffalo,Buffalo Niagara International,BUF,1991,13910,3893,1564781,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,1991,0,0,0,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,1991,3,0,178415,41.06888889,-73.70777778
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,1991,37,0,102675,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,1991,486,1,72500,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,1991,342,1652,414753,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,1991,30,4,45456,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,1991,0,0,224,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,1991,478,0,380,44.65083333,-73.46805556
+New York,Glens Falls,Warren County,GFL,1991,1,0,0,43.34444444,-73.60916667
+New York,Utica/Rome,Oneida County,UCA,1991,5,0,28236,43.14138889,-75.38027778
+New York,New York,World Trade Center Heliport,WTC,1992,99,0,0,40.7125,-74.015
+New York,New York,West 30th Street Heliport,JRA,1992,8,0,0,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,1992,265078,58808,8468339,40.63861111,-73.77694444
+New York,East Hampton,East Hampton Airport,HTO,1992,0,0,0,40.95944444,-72.25166667
+New York,New York,LaGuardia,LGA,1992,23583,37012,9252185,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,1992,1434,0,5529,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,1992,14788,2727,1038100,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,1992,434,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,1992,8299,897,328486,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,1992,12705,3761,932899,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,1992,2671,3066,804299,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,1992,337,0,0,44.68833333,-73.52111111
+New York,Buffalo,Buffalo Niagara International,BUF,1992,7082,4238,1522337,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,1992,0,0,0,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,1992,9,1,215142,41.06888889,-73.70777778
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,1992,39,1,75319,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,1992,623,3,66434,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,1992,235,1264,383919,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,1992,45,2,43612,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,1992,0,0,1474,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,1992,1334,0,2,44.65083333,-73.46805556
+New York,East Farmingdale,Republic,FRG,1992,0,0,0,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,1992,33,0,0,40.7425,-73.97138889
+New York,Utica/Rome,Oneida County,UCA,1992,1,0,9197,43.14138889,-75.38027778
+New York,New York,World Trade Center Heliport,WTC,1993,139,0,0,40.7125,-74.015
+New York,New York,West 30th Street Heliport,JRA,1993,0,0,0,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,1993,256658,60136,8257682,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,1993,19359,37870,9340107,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,1993,8,0,3677,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,1993,16083,2365,1008003,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,1993,463,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,1993,7832,683,317428,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,1993,11756,3917,902503,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,1993,2850,3130,843224,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,1993,379,0,0,44.68833333,-73.52111111
+New York,Ogdensburg,Ogdensburg International,OGS,1993,0,0,0,44.68166667,-75.46583333
+New York,Buffalo,Buffalo Niagara International,BUF,1993,7363,4584,1463025,42.94055556,-78.7325
+New York,White Plains,Westchester County,HPN,1993,6,0,322869,41.06888889,-73.70777778
+New York,Westhampton,Suffolk County,FOK,1993,0,0,20,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,1993,47,0,72818,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,1993,658,0,69505,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,1993,156,831,423483,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,1993,36,0,43464,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,1993,0,0,343,43.10722222,-78.94555556
+New York,East Farmingdale,Republic,FRG,1993,0,0,0,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,1993,46,0,0,40.7425,-73.97138889
+New York,Utica/Rome,Oneida County,UCA,1993,0,0,841,43.14138889,-75.38027778
+New York,New York,World Trade Center Heliport,WTC,1994,145,0,0,40.7125,-74.015
+New York,New York,West 30th Street Heliport,JRA,1994,0,0,0,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,1994,265861,62190,8949198,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,1994,17568,35212,9805791,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,1994,0,0,9774,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,1994,16940,2331,1080253,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,1994,528,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,1994,8009,905,353244,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,1994,11466,3728,858875,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,1994,2850,2964,857148,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,1994,378,0,0,44.68833333,-73.52111111
+New York,Buffalo,Buffalo Niagara International,BUF,1994,15171,4253,1694766,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,1994,0,0,0,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,1994,9,0,320876,41.06888889,-73.70777778
+New York,Seneca,Seneca AAF,RQO,1994,77,0,0,42.71527778,-76.88222222
+New York,Westhampton,Suffolk County,FOK,1994,0,0,20,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,1994,48,0,78711,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,1994,680,1,67242,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,1994,163,1907,469227,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,1994,40,0,44949,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,1994,0,0,2542,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,1994,33,0,0,44.65083333,-73.46805556
+New York,Glens Falls,Warren County,GFL,1994,1,0,0,43.34444444,-73.60916667
+New York,East Farmingdale,Republic,FRG,1994,0,0,53,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,1994,39,0,0,40.7425,-73.97138889
+New York,Utica/Rome,Oneida County,UCA,1994,1,0,687,43.14138889,-75.38027778
+New York,New York,World Trade Center Heliport,WTC,1995,117,0,0,40.7125,-74.015
+New York,New York,West 30th Street Heliport,JRA,1995,0,0,0,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,1995,384119,73886,9284597,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,1995,13537,38495,9682171,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,1995,13,0,6407,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,1995,19601,3364,1072721,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,1995,582,0,13522,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,1995,8294,1271,362950,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,1995,10652,3557,842266,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,1995,2899,2840,850457,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,1995,373,0,0,44.68833333,-73.52111111
+New York,Massena,Richards Field,MSS,1995,0,0,2411,44.93777778,-74.84666667
+New York,Ogdensburg,Ogdensburg International,OGS,1995,0,0,1090,44.68166667,-75.46583333
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,1995,0,0,22,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,1995,7854,4791,1424945,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,1995,0,0,2254,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,1995,2,0,339270,41.06888889,-73.70777778
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,1995,54,0,89497,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,1995,652,1,70683,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,1995,165,1865,452969,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,1995,18,0,68698,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,1995,0,0,1413,43.10722222,-78.94555556
+New York,Glens Falls,Warren County,GFL,1995,2,0,0,43.34444444,-73.60916667
+New York,East Farmingdale,Republic,FRG,1995,0,0,419,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,1995,35,0,0,40.7425,-73.97138889
+New York,Utica/Rome,Oneida County,UCA,1995,0,0,2152,43.14138889,-75.38027778
+New York,New York,World Trade Center Heliport,WTC,1996,155,0,0,40.7125,-74.015
+New York,New York,West 30th Street Heliport,JRA,1996,0,0,0,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,1996,282710,90536,9703787,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,1996,11988,34565,9593965,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,1996,0,0,3773,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,1996,22605,3496,1041628,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,1996,507,0,26378,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,1996,12808,1330,369945,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,1996,13829,3754,808407,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,1996,3984,2517,810130,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,1996,402,0,0,44.68833333,-73.52111111
+New York,Massena,Richards Field,MSS,1996,2,0,2344,44.93777778,-74.84666667
+New York,Ogdensburg,Ogdensburg International,OGS,1996,0,0,1024,44.68166667,-75.46583333
+New York,Buffalo,Buffalo Niagara International,BUF,1996,6122,5758,1391281,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,1996,1,0,2132,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,1996,3,0,309280,41.06888889,-73.70777778
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,1996,38,0,87440,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,1996,867,0,77960,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,1996,168,1024,427314,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,1996,11,1,76823,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,1996,0,0,1861,43.10722222,-78.94555556
+New York,Monticello,Sullivan County International,MSV,1996,12,0,0,41.70166667,-74.795
+New York,East Farmingdale,Republic,FRG,1996,1,0,505,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,1996,57,0,0,40.7425,-73.97138889
+New York,Utica/Rome,Oneida County,UCA,1996,1,0,1481,43.14138889,-75.38027778
+New York,New York,World Trade Center Heliport,WTC,1997,196,0,0,40.7125,-74.015
+New York,New York,West 30th Street Heliport,JRA,1997,0,0,0,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,1997,317493,90358,9757147,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,1997,11756,33340,9867782,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,1997,30,0,5195,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,1997,21637,2976,1035403,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,1997,4,0,0,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,1997,524,0,13883,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,1997,15585,1482,370097,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,1997,28085,3534,834022,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,1997,8467,1940,844557,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,1997,416,0,0,44.68833333,-73.52111111
+New York,Massena,Richards Field,MSS,1997,0,0,1592,44.93777778,-74.84666667
+New York,Ogdensburg,Ogdensburg International,OGS,1997,0,0,840,44.68166667,-75.46583333
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,1997,1,0,60,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,1997,24213,5502,1404470,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,1997,1,0,1453,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,1997,0,0,329346,41.06888889,-73.70777778
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,1997,27,0,84369,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,1997,790,0,73327,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,1997,84,650,376150,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,1997,14,0,72536,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,1997,0,0,3649,43.10722222,-78.94555556
+New York,East Farmingdale,Republic,FRG,1997,52,0,601,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,1997,57,0,0,40.7425,-73.97138889
+New York,Utica/Rome,Oneida County,UCA,1997,0,0,3033,43.14138889,-75.38027778
+New York,New York,World Trade Center Heliport,WTC,1998,31,0,0,40.7125,-74.015
+New York,New York,West 30th Street Heliport,JRA,1998,0,0,0,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,1998,316557,84718,10076141,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,1998,10097,27052,10356421,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,1998,0,0,1680,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,1998,26850,2823,1066653,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,1998,89,0,0,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,1998,500,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,1998,18168,427,262070,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,1998,27454,1985,882831,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,1998,8360,966,942546,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,1998,358,0,0,44.68833333,-73.52111111
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,1998,0,0,45,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,1998,23215,4533,1529324,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,1998,0,0,135,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,1998,0,0,285469,41.06888889,-73.70777778
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,1998,480,0,70042,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,1998,690,1,65031,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,1998,0,0,262141,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,1998,15,0,55379,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,1998,0,0,8106,43.10722222,-78.94555556
+New York,Glens Falls,Warren County,GFL,1998,2,0,0,43.34444444,-73.60916667
+New York,East Farmingdale,Republic,FRG,1998,113,0,812,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,1998,3,0,0,40.7425,-73.97138889
+New York,Utica/Rome,Oneida County,UCA,1998,0,0,1915,43.14138889,-75.38027778
+New York,New York,West 30th Street Heliport,JRA,1999,2,0,0,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,1999,323013,82761,10138272,40.63861111,-73.77694444
+New York,East Hampton,East Hampton Airport,HTO,1999,14,0,0,40.95944444,-72.25166667
+New York,New York,LaGuardia,LGA,1999,11456,27003,10805389,40.77944444,-73.87583333
+New York,Rochester,Rochester Monroe County,ROC,1999,21899,2065,1011902,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,1999,88,0,0,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,1999,474,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,1999,17274,289,184567,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,1999,24633,1581,876087,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,1999,9239,1207,963195,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,1999,353,0,0,44.68833333,-73.52111111
+New York,Buffalo,Buffalo Niagara International,BUF,1999,24426,4209,1608284,42.94055556,-78.7325
+New York,White Plains,Westchester County,HPN,1999,1,0,304037,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,1999,185,0,0,44.05,-75.73305556
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,1999,351,0,59446,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,1999,612,0,60320,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,1999,19,0,767023,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,1999,8,0,52078,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,1999,0,0,2114,43.10722222,-78.94555556
+New York,Glens Falls,Warren County,GFL,1999,3,0,0,43.34444444,-73.60916667
+New York,East Farmingdale,Republic,FRG,1999,224,0,1075,40.72944444,-73.415
+New York,Utica/Rome,Oneida County,UCA,1999,0,0,1776,43.14138889,-75.38027778
+New York,New York,World Trade Center Heliport,WTC,2000,14,0,0,40.7125,-74.015
+New York,New York,West 30th Street Heliport,JRA,2000,5,0,0,40.75444444,-74.0075
+New York,Schenectady,Schenectady County,SCH,2000,7,0,0,42.8525,-73.93
+New York,New York,John F. Kennedy International,JFK,2000,380539,82508,10652524,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2000,10652,28518,11444925,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2000,0,0,0,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2000,24725,1580,1063517,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,2000,79,0,0,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2000,647,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2000,15755,310,208044,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2000,28221,1355,887355,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2000,7993,1624,1229029,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,2000,425,0,0,44.68833333,-73.52111111
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2000,0,0,34,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2000,23261,3641,1942826,42.94055556,-78.7325
+New York,White Plains,Westchester County,HPN,2000,229,0,360940,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2000,56,0,0,44.05,-75.73305556
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2000,55,0,60471,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2000,645,0,69691,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2000,49,0,985135,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2000,18,0,52321,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2000,0,0,578,43.10722222,-78.94555556
+New York,East Farmingdale,Republic,FRG,2000,6,0,895,40.72944444,-73.415
+New York,Utica/Rome,Oneida County,UCA,2000,0,0,795,43.14138889,-75.38027778
+New York,New York,World Trade Center Heliport,WTC,2001,11,0,0,40.7125,-74.015
+New York,New York,West 30th Street Heliport,JRA,2001,3,0,0,40.75444444,-74.0075
+New York,Schenectady,Schenectady County,SCH,2001,1,0,0,42.8525,-73.93
+New York,New York,John F. Kennedy International,JFK,2001,371820,67662,9647313,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2001,7853,22354,10311470,40.77944444,-73.87583333
+New York,Rochester,Rochester Monroe County,ROC,2001,29491,2243,993181,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,2001,50,0,0,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2001,506,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2001,10815,151,143419,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2001,28624,1433,805226,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2001,11397,1518,1291758,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,2001,484,0,0,44.68833333,-73.52111111
+New York,Buffalo,Buffalo Niagara International,BUF,2001,32796,3039,1989396,42.94055556,-78.7325
+New York,White Plains,Westchester County,HPN,2001,171,0,356354,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2001,229,0,135,44.05,-75.73305556
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2001,74,0,54337,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2001,548,0,55660,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2001,66,0,930334,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2001,52,0,46550,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2001,0,0,2043,43.10722222,-78.94555556
+New York,East Farmingdale,Republic,FRG,2001,5,0,848,40.72944444,-73.415
+New York,Utica/Rome,Oneida County,UCA,2001,0,0,1665,43.14138889,-75.38027778
+New York,New York,World Trade Center Heliport,WTC,2002,7,0,0,40.7125,-74.015
+New York,New York,West 30th Street Heliport,JRA,2002,0,0,0,40.75444444,-74.0075
+New York,Schenectady,Schenectady County,SCH,2002,2,0,0,42.8525,-73.93
+New York,New York,John F. Kennedy International,JFK,2002,253387,44895,9935889,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2002,5709,15133,9732225,40.77944444,-73.87583333
+New York,Rochester,Rochester Monroe County,ROC,2002,35335,1221,984674,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,2002,25,0,0,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2002,416,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2002,4749,0,128273,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2002,21513,1280,811416,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2002,8915,954,1235660,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,2002,505,0,0,44.68833333,-73.52111111
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2002,0,0,51,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2002,26915,1284,1817635,42.94055556,-78.7325
+New York,White Plains,Westchester County,HPN,2002,284,0,331637,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2002,504,0,84,44.05,-75.73305556
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2002,0,0,39890,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2002,517,0,21415,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2002,222,1,897383,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2002,2,0,20857,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2002,0,0,333,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2002,0,0,41,44.65083333,-73.46805556
+New York,East Farmingdale,Republic,FRG,2002,161,0,1387,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,2002,5,0,0,40.7425,-73.97138889
+New York,Utica/Rome,Oneida County,UCA,2002,0,0,1308,43.14138889,-75.38027778
+New York,New York,World Trade Center Heliport,WTC,2003,1,0,0,40.7125,-74.015
+New York,New York,West 30th Street Heliport,JRA,2003,1,0,0,40.75444444,-74.0075
+New York,Schenectady,Schenectady County,SCH,2003,6,0,0,42.8525,-73.93
+New York,New York,John F. Kennedy International,JFK,2003,283184,44160,10807461,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2003,9253,10730,10149101,40.77944444,-73.87583333
+New York,Rochester,Rochester Monroe County,ROC,2003,32401,206,1058531,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,2003,46,0,0,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2003,399,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2003,10934,3,180536,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2003,19011,725,828664,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2003,10074,767,1241092,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,2003,472,0,0,44.68833333,-73.52111111
+New York,Ogdensburg,Ogdensburg International,OGS,2003,0,0,36,44.68166667,-75.46583333
+New York,Buffalo,Buffalo Niagara International,BUF,2003,24669,820,1843721,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2003,0,0,0,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2003,316,0,318844,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2003,20,0,3453,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2003,0,0,1,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2003,316,0,66414,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2003,495,0,28733,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2003,1139,1,891264,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2003,1,0,8505,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2003,4676,0,514,43.10722222,-78.94555556
+New York,Glens Falls,Warren County,GFL,2003,0,0,23,43.34444444,-73.60916667
+New York,East Farmingdale,Republic,FRG,2003,348,0,1657,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,2003,58,0,0,40.7425,-73.97138889
+New York,Utica/Rome,Oneida County,UCA,2003,0,0,1919,43.14138889,-75.38027778
+New York,New York,West 30th Street Heliport,JRA,2004,1,0,0,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,2004,305421,41480,13244074,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2004,9999,8393,10979770,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2004,2,0,0,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2004,38783,231,1180666,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,2004,71,0,0,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2004,333,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2004,9448,3,222710,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2004,19743,299,1007640,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2004,10908,613,1392725,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,2004,481,0,0,44.68833333,-73.52111111
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2004,0,0,270,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2004,27988,314,1979164,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2004,1,0,0,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2004,478,0,366174,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2004,92,1,3203,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2004,0,0,0,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2004,448,0,88528,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2004,540,4,57239,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2004,1423,0,938048,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2004,0,0,18116,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2004,7335,0,861,43.10722222,-78.94555556
+New York,East Farmingdale,Republic,FRG,2004,479,0,1242,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,2004,0,0,0,40.7425,-73.97138889
+New York,Utica/Rome,Oneida County,UCA,2004,0,0,2042,43.14138889,-75.38027778
+New York,New York,West 30th Street Heliport,JRA,2005,2,0,0,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,2005,294743,37350,14483219,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2005,6806,4297,11539054,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2005,0,0,0,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2005,37491,91,1265441,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,2005,71,0,0,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2005,93,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2005,8771,6,141695,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2005,23141,135,1075414,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2005,11406,364,1438285,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,2005,385,0,0,44.68833333,-73.52111111
+New York,Buffalo,Buffalo Niagara International,BUF,2005,27012,418,2147662,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2005,1,0,0,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2005,0,0,372665,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2005,291,0,11978,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2005,0,0,5,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2005,17,0,95267,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2005,536,1,62982,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2005,1451,0,994696,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2005,0,0,36170,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2005,7189,0,652,43.10722222,-78.94555556
+New York,East Farmingdale,Republic,FRG,2005,441,0,854,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,2005,28,0,0,40.7425,-73.97138889
+New York,Utica/Rome,Oneida County,UCA,2005,0,0,1858,43.14138889,-75.38027778
+New York,New York,John F. Kennedy International,JFK,2006,284100,41812,14937294,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2006,6640,2290,11477218,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2006,0,0,1,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2006,32227,52,1264674,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,2006,56,0,0,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2006,115,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2006,5967,8,122635,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2006,22487,57,982665,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2006,11337,200,1362003,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,2006,378,0,0,44.68833333,-73.52111111
+New York,Buffalo,Buffalo Niagara International,BUF,2006,26461,243,2261844,42.94055556,-78.7325
+New York,White Plains,Westchester County,HPN,2006,8,0,431240,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2006,393,0,11930,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2006,0,0,19,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2006,5,0,63913,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2006,549,0,65320,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2006,1092,0,1092333,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2006,0,0,37626,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2006,6015,0,1368,43.10722222,-78.94555556
+New York,East Farmingdale,Republic,FRG,2006,410,0,1678,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,2006,25,0,0,40.7425,-73.97138889
+New York,Utica/Rome,Oneida County,UCA,2006,0,0,1757,43.14138889,-75.38027778
+New York,New York,West 30th Street Heliport,JRA,2007,1,0,0,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,2007,297358,42968,16406690,40.63861111,-73.77694444
+New York,East Hampton,East Hampton Airport,HTO,2007,0,0,1,40.95944444,-72.25166667
+New York,New York,LaGuardia,LGA,2007,4373,386,11360136,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2007,2,0,1603,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2007,26825,7,1348428,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,2007,49,0,0,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2007,94,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2007,6187,9,426756,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2007,25199,66,1033316,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2007,11272,5,1322389,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,2007,336,0,0,44.68833333,-73.52111111
+New York,Ogdensburg,Ogdensburg International,OGS,2007,45,0,0,44.68166667,-75.46583333
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2007,0,0,7,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2007,26659,102,2454677,42.94055556,-78.7325
+New York,White Plains,Westchester County,HPN,2007,2,0,731352,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2007,214,0,9128,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2007,0,0,21,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2007,0,0,68150,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2007,487,2,69997,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2007,1590,0,1145299,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2007,0,0,48912,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2007,4679,0,9208,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2007,0,0,1758,44.65083333,-73.46805556
+New York,Glens Falls,Warren County,GFL,2007,0,0,1,43.34444444,-73.60916667
+New York,East Farmingdale,Republic,FRG,2007,443,0,2105,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,2007,12,0,0,40.7425,-73.97138889
+New York,New York,West 30th Street Heliport,JRA,2008,16,0,0,40.75444444,-74.0075
+New York,Schenectady,Schenectady County,SCH,2008,9,0,0,42.8525,-73.93
+New York,New York,John F. Kennedy International,JFK,2008,267086,49218,16435649,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2008,4144,1148,10603310,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2008,0,0,1526,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2008,25353,0,1223762,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,2008,38,0,0,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2008,80,0,2583,42.15055556,-79.25805556
+New York,Poughkeepsie,Dutchess County,POU,2008,0,0,4,41.62805556,-73.88277778
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2008,4964,1,358169,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2008,20399,57,963409,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2008,10776,1,1228654,42.74583333,-73.80527778
+New York,Plattsburgh,Clinton County,PLB,2008,81,0,0,44.68833333,-73.52111111
+New York,Ogdensburg,Ogdensburg International,OGS,2008,62,0,0,44.68166667,-75.46583333
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2008,0,0,42,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2008,23696,5,2526563,42.94055556,-78.7325
+New York,White Plains,Westchester County,HPN,2008,0,0,828268,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2008,0,0,14457,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2008,0,0,7,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2008,0,0,75015,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2008,444,2,71228,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2008,1527,0,1036875,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2008,0,0,59658,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2008,0,0,12384,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2008,256,0,34175,44.65083333,-73.46805556
+New York,Glens Falls,Warren County,GFL,2008,0,0,3,43.34444444,-73.60916667
+New York,East Farmingdale,Republic,FRG,2008,74,0,2354,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,2008,3,0,0,40.7425,-73.97138889
+New York,New York,John F. Kennedy International,JFK,2009,200539,36056,16088080,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2009,2809,407,10052065,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2009,1,0,1326,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2009,25347,0,1161071,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2009,63,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2009,3770,0,190538,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2009,22045,402,828942,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2009,9793,0,1183441,42.74583333,-73.80527778
+New York,Buffalo,Buffalo Niagara International,BUF,2009,22399,9,2482466,42.94055556,-78.7325
+New York,Montauk Point,Sky Portal,MTP,2009,0,0,0,41.07666667,-71.92055556
+New York,White Plains,Westchester County,HPN,2009,2,0,931940,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2009,53,0,13721,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2009,0,0,70,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2009,0,0,71228,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2009,427,0,93700,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2009,645,0,916223,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2009,6,0,59858,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2009,0,0,17615,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2009,270,0,66478,44.65083333,-73.46805556
+New York,East Farmingdale,Republic,FRG,2009,287,0,2054,40.72944444,-73.415
+New York,Schenectady,Schenectady County,SCH,2010,0,0,4,42.8525,-73.93
+New York,New York,John F. Kennedy International,JFK,2010,222386,30952,16237290,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2010,2887,22,10922054,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2010,0,0,1057,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2010,25117,0,1142135,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2010,23,0,0,42.15055556,-79.25805556
+New York,Poughkeepsie,Dutchess County,POU,2010,0,0,6,41.62805556,-73.88277778
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2010,3445,0,189556,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2010,23473,865,907774,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2010,9634,10,1192090,42.74583333,-73.80527778
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2010,0,0,38,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2010,22856,13,2507034,42.94055556,-78.7325
+New York,White Plains,Westchester County,HPN,2010,4,0,949716,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2010,3,0,13981,44.05,-75.73305556
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2010,0,0,90385,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2010,481,0,111608,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2010,319,0,837968,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2010,8,0,50708,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2010,2,0,35524,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2010,204,0,93169,44.65083333,-73.46805556
+New York,East Farmingdale,Republic,FRG,2010,73,0,1811,40.72944444,-73.415
+New York,Schenectady,Schenectady County,SCH,2011,0,0,11,42.8525,-73.93
+New York,New York,John F. Kennedy International,JFK,2011,215437,29055,16604070,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2011,2964,19,10901942,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2011,9,0,1319,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2011,22835,1,1069245,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2011,52,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2011,3191,0,195150,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2011,22802,1234,848888,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2011,9631,16,1156937,42.74583333,-73.80527778
+New York,Buffalo,Buffalo Niagara International,BUF,2011,22990,0,2487490,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2011,0,0,1908,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2011,5,0,874258,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2011,0,0,7061,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2011,0,0,11,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2011,0,1,90991,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2011,622,0,140285,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2011,195,0,761727,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2011,22,0,65078,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2011,1,0,97674,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2011,238,0,139692,44.65083333,-73.46805556
+New York,East Farmingdale,Republic,FRG,2011,89,0,1949,40.72944444,-73.415
+New York,Schenectady,Schenectady County,SCH,2012,0,0,6,42.8525,-73.93
+New York,New York,John F. Kennedy International,JFK,2012,200419,23932,17067341,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2012,2848,406,11920306,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2012,0,0,807,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2012,20712,0,1085566,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2012,45,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2012,3873,0,150685,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2012,22136,1144,833704,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2012,9695,20,1138157,42.74583333,-73.80527778
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2012,0,0,38,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2012,21946,7,2505387,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2012,0,0,16967,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2012,0,0,829531,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2012,705,0,8647,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2012,0,0,5,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2012,0,0,58349,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2012,419,1,118871,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2012,182,0,638613,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2012,0,0,54981,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2012,20,0,85837,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2012,229,0,108975,44.65083333,-73.46805556
+New York,East Farmingdale,Republic,FRG,2012,56,0,979,40.72944444,-73.415
+New York,Schenectady,Schenectady County,SCH,2013,0,0,1,42.8525,-73.93
+New York,New York,John F. Kennedy International,JFK,2013,200181,31604,17038505,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2013,2670,552,12798359,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2013,34,0,582,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2013,21373,0,1070327,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2013,55,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2013,4112,1,139374,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2013,22859,825,877120,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2013,9628,14,1140536,42.74583333,-73.80527778
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2013,0,0,47,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2013,21824,0,2511603,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2013,0,0,18682,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2013,0,0,708594,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2013,543,0,13300,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2013,0,0,14,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2013,0,0,35501,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2013,350,0,114582,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2013,400,0,622286,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2013,0,0,48776,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2013,48,0,98880,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2013,235,0,143444,44.65083333,-73.46805556
+New York,East Farmingdale,Republic,FRG,2013,2,0,2012,40.72944444,-73.415
+New York,New York,John F. Kennedy International,JFK,2014,192962,21502,17640668,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2014,2672,972,12870013,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2014,58,0,169,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2014,22514,0,1081907,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2014,80,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2014,4165,0,134500,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2014,23557,753,868045,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2014,9779,1,1132195,42.74583333,-73.80527778
+New York,Buffalo,Buffalo Niagara International,BUF,2014,21917,0,2310999,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2014,2,3,13337,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2014,0,0,707949,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2014,175,0,4605,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2014,0,0,10,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2014,0,0,27359,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2014,329,0,132205,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2014,365,0,607646,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2014,1,0,30678,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2014,1,0,108958,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2014,274,0,131572,44.65083333,-73.46805556
+New York,Monticello,Sullivan County International,MSV,2014,0,0,1,41.70166667,-74.795
+New York,East Farmingdale,Republic,FRG,2014,1,0,2142,40.72944444,-73.415
+New York,New York,John F. Kennedy International,JFK,2015,186680,19705,18438607,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2015,2996,410,13482195,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2015,67,0,4,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2015,23394,0,1101016,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2015,70,0,0,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2015,4168,1377,114409,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2015,22651,652,894711,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2015,9462,0,1188282,42.74583333,-73.80527778
+New York,Buffalo,Buffalo Niagara International,BUF,2015,22369,5,2268816,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2015,0,0,6924,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2015,0,0,730087,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2015,552,0,13508,44.05,-75.73305556
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2015,0,0,25623,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2015,332,0,136867,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2015,416,0,573272,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2015,6,0,28362,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2015,123,0,117896,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2015,174,0,123752,44.65083333,-73.46805556
+New York,East Farmingdale,Republic,FRG,2015,0,0,1930,40.72944444,-73.415
+New York,Schenectady,Schenectady County,SCH,2016,0,0,0,42.8525,-73.93
+New York,New York,John F. Kennedy International,JFK,2016,179953,17389,19134726,40.63861111,-73.77694444
+New York,New York,LaGuardia,LGA,2016,3069,229,13672046,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2016,40,0,8,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2016,23373,0,1100005,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2016,49,0,12,42.15055556,-79.25805556
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2016,5783,172,114100,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2016,20528,908,883815,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2016,10042,0,1266296,42.74583333,-73.80527778
+New York,Ogdensburg,Ogdensburg International,OGS,2016,0,0,6023,44.68166667,-75.46583333
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2016,0,0,6,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2016,21090,16,2241685,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2016,0,0,144,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2016,1,0,739226,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2016,271,0,3397,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2016,0,0,79,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2016,0,0,32665,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2016,316,0,122697,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2016,243,0,567756,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2016,3,0,36822,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2016,18,0,123049,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2016,164,0,122942,44.65083333,-73.46805556
+New York,East Farmingdale,Republic,FRG,2016,0,0,1244,40.72944444,-73.415
+New York,New York,West 30th Street Heliport,JRA,2017,0,0,8,40.75444444,-74.0075
+New York,Schenectady,Schenectady County,SCH,2017,0,0,0,42.8525,-73.93
+New York,New York,John F. Kennedy International,JFK,2017,176861,18703,19090316,40.63861111,-73.77694444
+New York,East Hampton,East Hampton Airport,HTO,2017,0,0,6,40.95944444,-72.25166667
+New York,New York,LaGuardia,LGA,2017,3032,1927,13691052,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2017,7,0,42,43.23388889,-75.4075
+New York,Rochester,Rochester Monroe County,ROC,2017,23783,0,1092413,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,2017,0,0,5,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2017,5,0,0,42.15055556,-79.25805556
+New York,Poughkeepsie,Dutchess County,POU,2017,0,0,2,41.62805556,-73.88277778
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2017,5809,0,122252,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2017,19456,1106,931609,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2017,10118,28,1236488,42.74583333,-73.80527778
+New York,Ogdensburg,Ogdensburg International,OGS,2017,0,0,17239,44.68166667,-75.46583333
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2017,0,0,0,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2017,19970,2,2264190,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2017,0,0,10169,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2017,20,0,737492,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2017,356,0,14576,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2017,0,0,204,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2017,0,0,31833,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2017,349,0,124602,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2017,242,0,618491,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2017,10,0,34499,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2017,89,0,142543,43.10722222,-78.94555556
+New York,Hudson,Columbia County,1B1,2017,0,0,8,42.28888889,-73.71027778
+New York,Plattsburgh,Plattsburgh International,PBG,2017,98,0,131991,44.65083333,-73.46805556
+New York,Glens Falls,Warren County,GFL,2017,0,0,5,43.34444444,-73.60916667
+New York,Hamilton,Hamilton Municipal,VGC,2017,0,0,2,42.84388889,-75.56138889
+New York,East Farmingdale,Republic,FRG,2017,6,0,1138,40.72944444,-73.415
+New York,New York,West 30th Street Heliport,JRA,2018,0,0,77,40.75444444,-74.0075
+New York,Schenectady,Schenectady County,SCH,2018,0,0,9,42.8525,-73.93
+New York,New York,John F. Kennedy International,JFK,2018,193021,18389,19737011,40.63861111,-73.77694444
+New York,East Hampton,East Hampton Airport,HTO,2018,0,0,4,40.95944444,-72.25166667
+New York,New York,LaGuardia,LGA,2018,2692,3679,14162653,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2018,0,0,59,43.23388889,-75.4075
+New York,Southampton,Southampton Heliport,N4Y,2018,0,0,49,40.84722222,-72.46388889
+New York,Rochester,Rochester Monroe County,ROC,2018,22676,0,1142767,43.12138889,-77.67083333
+New York,New York,Downtown Manhattan/Wall Street Heliport,JRB,2018,0,0,2,40.70416667,-74.00833333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2018,0,0,0,42.15055556,-79.25805556
+New York,Poughkeepsie,Dutchess County,POU,2018,0,0,4,41.62805556,-73.88277778
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2018,7345,0,148631,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2018,20007,958,1031362,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2018,10191,36,1261895,42.74583333,-73.80527778
+New York,Ogdensburg,Ogdensburg International,OGS,2018,0,0,17474,44.68166667,-75.46583333
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2018,0,0,42,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2018,20547,0,2421637,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2018,1,0,1102,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2018,27,0,748413,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2018,453,0,10795,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2018,0,0,139,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2018,0,0,36333,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2018,367,0,126155,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2018,255,0,776796,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2018,0,0,36668,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2018,59,0,119099,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2018,21,0,117160,44.65083333,-73.46805556
+New York,Hamilton,Hamilton Municipal,VGC,2018,0,0,4,42.84388889,-75.56138889
+New York,East Farmingdale,Republic,FRG,2018,15,0,746,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,2018,0,0,143,40.7425,-73.97138889
+New York,New York,West 30th Street Heliport,JRA,2019,0,0,72,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,2019,195389,19189,20165380,40.63861111,-73.77694444
+New York,East Hampton,East Hampton Airport,HTO,2019,0,0,8,40.95944444,-72.25166667
+New York,New York,LaGuardia,LGA,2019,2967,2282,14493826,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2019,0,0,5,43.23388889,-75.4075
+New York,Southampton,Southampton Heliport,N4Y,2019,0,0,39,40.84722222,-72.46388889
+New York,Rochester,Rochester Monroe County,ROC,2019,22389,0,1126476,43.12138889,-77.67083333
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2019,7608,9128,139897,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2019,22877,908,1165041,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2019,10330,20,1317432,42.74583333,-73.80527778
+New York,Ogdensburg,Ogdensburg International,OGS,2019,0,0,25203,44.68166667,-75.46583333
+New York,Buffalo,Buffalo Niagara International,BUF,2019,19075,2,2339890,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2019,0,0,6987,43.99083333,-76.02138889
+New York,Montauk Point,Sky Portal,MTP,2019,0,0,4,41.07666667,-71.92055556
+New York,White Plains,Westchester County,HPN,2019,20,0,857505,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2019,240,0,12833,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2019,0,0,96,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2019,0,0,38075,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2019,395,0,141838,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2019,233,0,740092,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2019,7,0,46342,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2019,0,0,122039,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2019,0,0,125453,44.65083333,-73.46805556
+New York,Glens Falls,Warren County,GFL,2019,0,0,1,43.34444444,-73.60916667
+New York,East Farmingdale,Republic,FRG,2019,2,0,852,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,2019,0,0,56,40.7425,-73.97138889
+New York,New York,West 30th Street Heliport,JRA,2020,0,0,6,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,2020,222133,12854,5905011,40.63861111,-73.77694444
+New York,East Hampton,East Hampton Airport,HTO,2020,0,0,15,40.95944444,-72.25166667
+New York,New York,LaGuardia,LGA,2020,2684,891,3985692,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2020,0,0,2,43.23388889,-75.4075
+New York,Southampton,Southampton Heliport,N4Y,2020,0,0,20,40.84722222,-72.46388889
+New York,Rochester,Rochester Monroe County,ROC,2020,22530,0,369189,43.12138889,-77.67083333
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2020,7494,15962,39464,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2020,23129,818,397620,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2020,11605,0,461532,42.74583333,-73.80527778
+New York,Ogdensburg,Ogdensburg International,OGS,2020,0,0,9259,44.68166667,-75.46583333
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2020,0,0,10,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2020,17865,0,674850,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2020,0,0,101,43.99083333,-76.02138889
+New York,Montauk Point,Sky Portal,MTP,2020,0,0,0,41.07666667,-71.92055556
+New York,White Plains,Westchester County,HPN,2020,1,0,231763,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2020,498,0,5097,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2020,0,0,158,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2020,0,0,8492,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2020,198,0,51192,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2020,158,0,252376,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2020,5,0,14999,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2020,7,0,41953,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2020,0,0,43323,44.65083333,-73.46805556
+New York,East Farmingdale,Republic,FRG,2020,70,0,595,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,2020,0,0,27,40.7425,-73.97138889
+New York,New York,West 30th Street Heliport,JRA,2021,0,0,59,40.75444444,-74.0075
+New York,Schenectady,Schenectady County,SCH,2021,0,0,0,42.8525,-73.93
+New York,Dunkirk,Dunkirk Airport,DKK,2021,0,0,0,42.4939444,-79.2711111
+New York,New York,John F. Kennedy International,JFK,2021,294504,18042,12548649,40.63861111,-73.77694444
+New York,East Hampton,East Hampton Airport,HTO,2021,0,0,16,40.95944444,-72.25166667
+New York,New York,LaGuardia,LGA,2021,2821,873,7712575,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2021,6,0,10,43.23388889,-75.4075
+New York,Southampton,Southampton Heliport,N4Y,2021,0,0,28,40.84722222,-72.46388889
+New York,Rochester,Rochester Monroe County,ROC,2021,24581,0,769392,43.12138889,-77.67083333
+New York,Jamestown,Chautauqua County/Jamestown,JHW,2021,0,0,0,42.15055556,-79.25805556
+New York,Poughkeepsie,Dutchess County,POU,2021,0,0,17,41.62805556,-73.88277778
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2021,10594,11334,69549,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2021,24978,851,840839,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2021,12876,0,966100,42.74583333,-73.80527778
+New York,Massena,Richards Field,MSS,2021,0,0,4,44.93777778,-74.84666667
+New York,Ogdensburg,Ogdensburg International,OGS,2021,0,0,10302,44.68166667,-75.46583333
+New York,Buffalo,Buffalo Niagara International,BUF,2021,20509,0,1427285,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2021,0,0,19900,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2021,0,0,530746,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2021,123,0,3438,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2021,0,0,577,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2021,0,0,10313,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2021,119,0,76926,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2021,162,1,553356,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2021,1,0,57713,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2021,8,0,42465,43.10722222,-78.94555556
+New York,Hudson,Columbia County,1B1,2021,0,0,9,42.28888889,-73.71027778
+New York,Plattsburgh,Plattsburgh International,PBG,2021,6,0,40747,44.65083333,-73.46805556
+New York,Saratoga Springs,,VWK,2021,0,0,3,,
+New York,Monticello,Sullivan County International,MSV,2021,0,0,0,41.70166667,-74.795
+New York,East Farmingdale,Republic,FRG,2021,0,0,2353,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,2021,0,0,41,40.7425,-73.97138889
+New York,New York,West 30th Street Heliport,JRA,2022,0,0,20,40.75444444,-74.0075
+New York,New York,John F. Kennedy International,JFK,2022,191738,12912,14982488,40.63861111,-73.77694444
+New York,East Hampton,East Hampton Airport,HTO,2022,0,0,1,40.95944444,-72.25166667
+New York,New York,LaGuardia,LGA,2022,2278,502,10200481,40.77944444,-73.87583333
+New York,Rome,Griffiss AFB,RME,2022,19,0,8,43.23388889,-75.4075
+New York,Southampton,Southampton Heliport,N4Y,2022,0,0,21,40.84722222,-72.46388889
+New York,Rochester,Rochester Monroe County,ROC,2022,17912,0,846724,43.12138889,-77.67083333
+New York,Newburgh/Poughkeepsie,Stewart International,SWF,2022,5999,10276,99736,41.50583333,-74.09722222
+New York,Syracuse,Syracuse Hancock International,SYR,2022,18238,748,911939,43.11055556,-76.1025
+New York,Albany,Albany International,ALB,2022,8811,0,962437,42.74583333,-73.80527778
+New York,Ogdensburg,Ogdensburg International,OGS,2022,0,0,4198,44.68166667,-75.46583333
+New York,Saranac Lake/Lake Placid,Adirondack,SLK,2022,0,0,16,44.38277778,-74.20666667
+New York,Buffalo,Buffalo Niagara International,BUF,2022,14602,4,1526208,42.94055556,-78.7325
+New York,Watertown,Watertown International,ART,2022,0,0,15821,43.99083333,-76.02138889
+New York,White Plains,Westchester County,HPN,2022,0,0,631087,41.06888889,-73.70777778
+New York,Fort Drum,Wheeler-Sack AAF,DQK,2022,116,0,7511,44.05,-75.73305556
+New York,Westhampton,Suffolk County,FOK,2022,0,0,258,40.84361111,-72.63222222
+New York,Binghamton,Greater Binghamton/Edwin A. Link Field,BGM,2022,0,0,8718,42.20138889,-75.96916667
+New York,Elmira/Corning,Elmira/Corning Regional,ELM,2022,73,0,62465,42.16083333,-76.89527778
+New York,Islip,Long Island MacArthur,ISP,2022,87,0,478784,40.79666667,-73.10083333
+New York,Ithaca/Cortland,Ithaca Tompkins Regional,ITH,2022,2,0,45216,42.49027778,-76.45805556
+New York,Niagara Falls,Niagara Falls International,IAG,2022,16,0,44454,43.10722222,-78.94555556
+New York,Plattsburgh,Plattsburgh International,PBG,2022,0,0,53682,44.65083333,-73.46805556
+New York,East Farmingdale,Republic,FRG,2022,0,0,1548,40.72944444,-73.415
+New York,New York,East 34th Street Heliport,TSS,2022,0,0,27,40.7425,-73.97138889

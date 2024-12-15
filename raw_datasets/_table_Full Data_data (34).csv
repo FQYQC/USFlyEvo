@@ -1,0 +1,303 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,1990,183831,554769,126206,46.77888889,-100.7525
+North Dakota,Grand Forks,Grand Forks International,GFK,1990,155384,9230,86417,47.95194444,-97.17861111
+North Dakota,Fargo,Hector International,FAR,1990,286670,2696670,187611,46.91555556,-96.81472222
+North Dakota,Minot,Minot International,MOT,1990,64136,155445,82815,48.25944444,-101.2808333
+North Dakota,Mandan,Mandan Municipal,WQB,1991,0,0,0,46.76861111,-100.8936111
+North Dakota,Minot,Minot AFB,MIB,1991,4,0,0,48.41555556,-101.3572222
+North Dakota,Red River,Grand Forks AFB,RDR,1991,4,0,552,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,1991,27,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,1991,22,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,1991,305,285,122451,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,1991,177,1425,174987,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,1991,3076,6,83734,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,1991,159,64,89208,48.25944444,-101.2808333
+North Dakota,Mandan,Mandan Municipal,WQB,1992,0,0,0,46.76861111,-100.8936111
+North Dakota,Minot,Minot AFB,MIB,1992,13,0,146,48.41555556,-101.3572222
+North Dakota,Red River,Grand Forks AFB,RDR,1992,275,0,8178,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,1992,26,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,1992,22,0,0,48.17611111,-103.6361111
+North Dakota,Pembina,Pembina Municipal,PMB,1992,150,0,0,48.9425,-97.24083333
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,1992,325,359,129080,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,1992,144,1500,207537,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,1992,3500,4,82117,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,1992,209,119,106316,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,1992,1,0,0,46.93,-98.67833333
+North Dakota,Mandan,Mandan Municipal,WQB,1993,3,0,0,46.76861111,-100.8936111
+North Dakota,Red River,Grand Forks AFB,RDR,1993,0,0,392,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,1993,34,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,1993,24,0,88,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,1993,330,390,120692,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,1993,153,1430,186365,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,1993,3842,4,77331,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,1993,248,70,89102,48.25944444,-101.2808333
+North Dakota,Ashley,Ashley Municipal,ASY,1993,28,0,0,46.02388889,-99.35277778
+North Dakota,Garrison,Garrison Municipal,UXZ,1993,0,0,0,47.65611111,-101.4366667
+North Dakota,Red River,Grand Forks AFB,RDR,1994,0,0,129,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,1994,36,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,1994,19,0,0,48.17611111,-103.6361111
+North Dakota,Pembina,Pembina Municipal,PMB,1994,31,0,0,48.9425,-97.24083333
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,1994,377,411,114532,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,1994,142,1505,181229,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,1994,4226,3,87296,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,1994,246,43,75851,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,1994,3,0,0,46.93,-98.67833333
+North Dakota,Garrison,Garrison Municipal,UXZ,1994,0,0,0,47.65611111,-101.4366667
+North Dakota,Mandan,Mandan Municipal,WQB,1995,5,0,0,46.76861111,-100.8936111
+North Dakota,Minot,Minot AFB,MIB,1995,0,0,100,48.41555556,-101.3572222
+North Dakota,Red River,Grand Forks AFB,RDR,1995,0,0,0,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,1995,47,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,1995,27,0,0,48.17611111,-103.6361111
+North Dakota,Pembina,Pembina Municipal,PMB,1995,0,0,0,48.9425,-97.24083333
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,1995,346,496,122164,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,1995,143,1534,188660,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,1995,4930,12,80941,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,1995,356,13,68894,48.25944444,-101.2808333
+North Dakota,Garrison,Garrison Municipal,UXZ,1995,2,0,0,47.65611111,-101.4366667
+North Dakota,Mandan,Mandan Municipal,WQB,1996,0,0,0,46.76861111,-100.8936111
+North Dakota,Minot,Minot AFB,MIB,1996,0,0,395,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,1996,37,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,1996,31,0,0,48.17611111,-103.6361111
+North Dakota,Pembina,Pembina Municipal,PMB,1996,166,0,0,48.9425,-97.24083333
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,1996,321,526,112953,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,1996,770,1454,186553,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,1996,6961,34,79691,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,1996,393,27,69579,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,1996,0,0,81,46.93,-98.67833333
+North Dakota,Garrison,Garrison Municipal,UXZ,1996,0,0,0,47.65611111,-101.4366667
+North Dakota,Mandan,Mandan Municipal,WQB,1997,0,0,0,46.76861111,-100.8936111
+North Dakota,Minot,Minot AFB,MIB,1997,0,0,90,48.41555556,-101.3572222
+North Dakota,Red River,Grand Forks AFB,RDR,1997,0,0,60,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,1997,53,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,1997,38,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,1997,321,539,108153,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,1997,431,1074,181962,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,1997,7637,15,89705,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,1997,308,118,70452,48.25944444,-101.2808333
+North Dakota,Minot,Minot AFB,MIB,1998,0,0,381,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,1998,69,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,1998,38,0,0,48.17611111,-103.6361111
+North Dakota,Pembina,Pembina Municipal,PMB,1998,44,0,0,48.9425,-97.24083333
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,1998,333,429,102415,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,1998,513,729,181832,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,1998,4897,3,85763,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,1998,310,161,69340,48.25944444,-101.2808333
+North Dakota,Minot,Minot AFB,MIB,1999,0,0,83,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,1999,53,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,1999,33,0,0,48.17611111,-103.6361111
+North Dakota,Killdeer,Weydahl Field,DQJ,1999,0,0,0,47.39277778,-102.7708333
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,1999,473,943,116455,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,1999,1424,1813,202986,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,1999,4931,4,88259,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,1999,248,198,73867,48.25944444,-101.2808333
+North Dakota,Minot,Minot AFB,MIB,2000,1,2,5352,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2000,64,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2000,41,0,0,48.17611111,-103.6361111
+North Dakota,Killdeer,Weydahl Field,DQJ,2000,1,0,0,47.39277778,-102.7708333
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2000,444,709,134756,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2000,434,2276,214743,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2000,4636,5,90026,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2000,271,49,68881,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2000,0,0,84,46.93,-98.67833333
+North Dakota,Minot,Minot AFB,MIB,2001,0,0,146,48.41555556,-101.3572222
+North Dakota,Red River,Grand Forks AFB,RDR,2001,405,0,9564,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,2001,43,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2001,41,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2001,329,228,126404,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2001,3054,829,196269,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2001,6031,5,71594,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2001,268,16,70271,48.25944444,-101.2808333
+North Dakota,Minot,Minot AFB,MIB,2002,0,0,207,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2002,44,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2002,40,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2002,290,225,137031,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2002,200,175,202625,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2002,9186,0,87876,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2002,211,11,72657,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2002,0,0,0,46.93,-98.67833333
+North Dakota,Minot,Minot AFB,MIB,2003,65,0,405,48.41555556,-101.3572222
+North Dakota,Red River,Grand Forks AFB,RDR,2003,0,0,227,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,2003,53,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2003,42,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2003,285,171,129298,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2003,200,286,249447,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2003,8609,2,89760,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2003,182,25,72438,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2003,0,0,802,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2003,0,0,874,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2004,0,0,83,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2004,41,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2004,54,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2004,305,0,161867,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2004,167,5,261655,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2004,10711,2,91709,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2004,201,0,74533,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2004,0,0,2545,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2004,0,0,2934,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2005,0,0,101,48.41555556,-101.3572222
+North Dakota,Red River,Grand Forks AFB,RDR,2005,0,0,59,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,2005,61,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2005,69,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2005,280,0,173886,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2005,1857,6,284957,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2005,9119,0,88057,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2005,186,0,76455,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2005,0,0,2193,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2005,0,0,3327,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2006,104,0,390,48.41555556,-101.3572222
+North Dakota,Red River,Grand Forks AFB,RDR,2006,29,0,133,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,2006,55,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2006,85,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2006,275,0,179769,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2006,1309,0,306564,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2006,8299,0,86324,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2006,185,0,74990,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2006,0,0,2353,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2006,0,0,3332,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2007,0,0,264,48.41555556,-101.3572222
+North Dakota,Red River,Grand Forks AFB,RDR,2007,0,0,57,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,2007,55,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2007,121,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2007,274,0,182829,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2007,1312,0,299201,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2007,8259,0,82664,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2007,182,0,70947,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2007,13,0,2199,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2007,0,0,3535,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2008,81,0,380,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2008,61,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2008,155,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2008,242,0,177636,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2008,720,0,326131,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2008,7425,61,88091,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2008,172,0,71578,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2008,42,0,2768,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2008,0,0,3216,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2009,0,0,442,48.41555556,-101.3572222
+North Dakota,Red River,Grand Forks AFB,RDR,2009,0,0,22,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,2009,58,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2009,141,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2009,242,0,183988,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2009,24,0,351340,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2009,8436,63,97358,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2009,207,0,67054,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2009,1,0,3458,46.93,-98.67833333
+North Dakota,Kindred,Hamry Field,ND1,2009,0,0,2,46.64888889,-96.99861111
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2009,0,0,3734,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2010,0,0,893,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2010,71,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2010,239,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2010,256,0,196029,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2010,1191,0,365140,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2010,10199,48,118086,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2010,223,0,91092,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2010,0,0,4434,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2010,0,0,4992,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2011,5,0,576,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2011,79,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2011,230,0,0,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2011,230,0,197167,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2011,26,0,346276,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2011,10621,14,118870,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2011,248,0,150704,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2011,0,0,5354,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2011,0,0,5368,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2012,0,0,608,48.41555556,-101.3572222
+North Dakota,Red River,Grand Forks AFB,RDR,2012,0,0,237,47.96111111,-97.40083333
+North Dakota,Dickinson,Dickinson Municipal,DIK,2012,104,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2012,296,0,9842,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2012,233,0,238992,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2012,140,0,368389,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2012,10488,4,137914,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2012,251,0,222138,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2012,0,0,1549,46.93,-98.67833333
+North Dakota,Minot,Minot AFB,MIB,2013,2,0,755,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2013,98,0,25273,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2013,225,0,86697,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2013,235,0,238813,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2013,281,0,402656,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2013,11667,3,148583,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2013,270,0,220460,48.25944444,-101.2808333
+North Dakota,Minot,Minot AFB,MIB,2014,0,0,132,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2014,103,0,58453,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2014,199,0,112971,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2014,218,0,248206,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2014,929,0,454974,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2014,11603,11,145940,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2014,226,0,219842,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2014,0,0,3054,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2014,0,0,2865,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2015,0,0,1174,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2015,101,0,29809,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2015,168,0,97472,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2015,200,0,262405,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2015,35,0,435528,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2015,11890,6,145750,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2015,233,0,176553,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2015,0,0,6085,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2015,0,0,6178,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2016,131,0,365,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2016,94,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2016,140,0,61633,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2016,187,0,259547,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2016,1987,0,391099,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2016,9933,0,132522,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2016,212,0,148915,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2016,0,0,10941,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2016,0,0,6261,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2017,47,0,1349,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2017,114,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2017,190,0,47008,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2017,181,0,246669,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2017,12857,0,375506,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2017,0,0,117512,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2017,200,0,133014,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2017,1,0,10917,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2017,0,0,7767,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2018,108,0,405,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2018,111,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2018,268,0,58427,48.17611111,-103.6361111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2018,198,1,235142,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2018,14179,1,400189,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2018,0,0,114879,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2018,203,0,145657,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2018,0,0,11759,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2018,0,0,6628,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2019,188,0,843,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2019,93,0,0,46.79666667,-102.7963889
+North Dakota,Williston,Sloulin Field International,ISN,2019,200,0,26256,48.17611111,-103.6361111
+North Dakota,Williston,Williston Basin International,XWA,2019,46,0,10975,48.26083333,-103.7511111
+North Dakota,Pembina,Pembina Municipal,PMB,2019,37,0,0,48.9425,-97.24083333
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2019,209,0,277183,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2019,17180,0,448994,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2019,0,0,117323,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2019,205,0,139055,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2019,0,0,11170,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2019,0,0,6908,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2020,44,0,605,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2020,72,0,6151,46.79666667,-102.7963889
+North Dakota,Williston,Williston Basin International,XWA,2020,142,0,22400,48.26083333,-103.7511111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2020,211,0,146768,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2020,18776,2,236861,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2020,0,0,46745,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2020,185,0,83439,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2020,0,0,6161,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2020,0,0,3983,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2021,0,0,844,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2021,56,0,17440,46.79666667,-102.7963889
+North Dakota,Williston,Williston Basin International,XWA,2021,120,0,46395,48.26083333,-103.7511111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2021,188,0,214419,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2021,21396,0,406187,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2021,0,0,69800,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2021,195,0,126407,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2021,0,0,12804,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2021,0,0,6799,48.11305556,-98.9075
+North Dakota,Minot,Minot AFB,MIB,2022,132,0,616,48.41555556,-101.3572222
+North Dakota,Dickinson,Dickinson Municipal,DIK,2022,51,0,16016,46.79666667,-102.7963889
+North Dakota,Williston,Williston Basin International,XWA,2022,90,0,46532,48.26083333,-103.7511111
+North Dakota,Bismarck/Mandan,Bismarck Municipal,BIS,2022,150,0,181083,46.77888889,-100.7525
+North Dakota,Fargo,Hector International,FAR,2022,15791,6,337958,46.91555556,-96.81472222
+North Dakota,Grand Forks,Grand Forks International,GFK,2022,0,0,64301,47.95194444,-97.17861111
+North Dakota,Minot,Minot International,MOT,2022,147,0,103253,48.25944444,-101.2808333
+North Dakota,Jamestown,Jamestown Regional,JMS,2022,0,0,8773,46.93,-98.67833333
+North Dakota,Devils Lake,Devils Lake Regional,DVL,2022,0,0,5570,48.11305556,-98.9075

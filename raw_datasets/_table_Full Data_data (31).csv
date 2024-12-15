@@ -1,0 +1,334 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,1990,3118756,12877600,2382899,35.04166667,-106.6063889
+New Mexico,Farmington,Four Corners Regional,FMN,1990,6241,0,2574,36.74111111,-108.2291667
+New Mexico,Roswell,Roswell International Air Center,ROW,1990,0,0,0,33.30166667,-104.5305556
+New Mexico,Alamogordo,Holloman AFB,HMN,1991,17,0,260,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,1991,20,0,440,34.385,-103.3238889
+New Mexico,Clovis,Clovis Municipal,CVN,1991,2,0,0,34.42722222,-103.0788889
+New Mexico,Gallup,Gallup Municipal,GUP,1991,28,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,1991,79,0,0,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,1991,132,0,130,36.74111111,-108.2291667
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,1991,16133,6169,2353046,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,1991,97,0,159,33.30166667,-104.5305556
+New Mexico,Alamogordo,Holloman AFB,HMN,1992,116,0,1037,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,1992,12,0,432,34.385,-103.3238889
+New Mexico,Las Vegas,Las Vegas Municipal,LVS,1992,1,0,0,35.65416667,-105.1425
+New Mexico,Clovis,Clovis Municipal,CVN,1992,38,0,0,34.42722222,-103.0788889
+New Mexico,Gallup,Gallup Municipal,GUP,1992,28,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,1992,213,0,0,32.68861111,-103.2169444
+New Mexico,Aztec,Aztec Municipal,XWH,1992,1,0,0,36.83472222,-108.0277778
+New Mexico,Farmington,Four Corners Regional,FMN,1992,133,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,1992,0,0,48,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,1992,10468,7065,2514150,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,1992,113,0,273,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,1992,0,0,35,32.29083333,-106.9216667
+New Mexico,Alamogordo,Holloman AFB,HMN,1993,24,0,271,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,1993,0,0,392,34.385,-103.3238889
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,1993,3,0,19,32.33722222,-104.2627778
+New Mexico,Clovis,Clovis Municipal,CVN,1993,53,0,0,34.42722222,-103.0788889
+New Mexico,Gallup,Gallup Municipal,GUP,1993,479,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,1993,235,0,0,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,1993,1744,0,59,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,1993,0,0,138,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,1993,18043,8137,2680077,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,1993,119,0,230,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,1993,0,0,229,32.29083333,-106.9216667
+New Mexico,Alamogordo,Alamogordo White Sands Regional,ALM,1994,0,0,81,32.83972222,-105.99
+New Mexico,Alamogordo,Holloman AFB,HMN,1994,45,0,182,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,1994,0,0,261,34.385,-103.3238889
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,1994,21,0,0,32.33722222,-104.2627778
+New Mexico,Clovis,Clovis Municipal,CVN,1994,98,0,0,34.42722222,-103.0788889
+New Mexico,Gallup,Gallup Municipal,GUP,1994,45,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,1994,130,0,0,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,1994,176,0,50,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,1994,0,0,0,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,1994,11966,8165,2939231,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,1994,121,0,1869,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,1994,0,0,357,32.29083333,-106.9216667
+New Mexico,Lovington,Lea County-Zip Franklin Memorial,RQP,1994,0,0,0,32.95,-103.4061111
+New Mexico,Ruidoso,Ruidoso Airport,RUI,1994,1,0,0,33.36083333,-105.6625
+New Mexico,Alamogordo,Alamogordo White Sands Regional,ALM,1995,0,0,1485,32.83972222,-105.99
+New Mexico,Alamogordo,Holloman AFB,HMN,1995,0,0,66,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,1995,0,0,1402,34.385,-103.3238889
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,1995,32,0,4674,32.33722222,-104.2627778
+New Mexico,Clovis,Clovis Municipal,CVN,1995,98,0,2395,34.42722222,-103.0788889
+New Mexico,Gallup,Gallup Municipal,GUP,1995,51,0,3529,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,1995,145,0,1737,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,1995,161,0,38948,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,1995,0,0,7988,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,1995,10589,8728,2981437,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,1995,120,0,14033,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,1995,0,0,3172,32.29083333,-106.9216667
+New Mexico,Silver City/Hurley,Silver City Grant County,SVC,1995,0,0,1444,32.63194444,-108.1538889
+New Mexico,Alamogordo,Alamogordo White Sands Regional,ALM,1996,0,0,2820,32.83972222,-105.99
+New Mexico,Alamogordo,Holloman AFB,HMN,1996,0,0,319,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,1996,0,0,1049,34.385,-103.3238889
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,1996,39,0,9113,32.33722222,-104.2627778
+New Mexico,Clovis,Clovis Municipal,CVN,1996,109,0,3441,34.42722222,-103.0788889
+New Mexico,Gallup,Gallup Municipal,GUP,1996,61,0,6133,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,1996,188,0,3730,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,1996,152,0,68990,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,1996,0,0,17252,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,1996,15732,9750,3274263,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,1996,137,0,22915,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,1996,0,0,6021,32.29083333,-106.9216667
+New Mexico,Ruidoso,Ruidoso Airport,RUI,1996,1,0,0,33.36083333,-105.6625
+New Mexico,Silver City/Hurley,Silver City Grant County,SVC,1996,0,0,1908,32.63194444,-108.1538889
+New Mexico,Los Alamos,Los Alamos Airport,LAM,1997,0,0,755,35.87972222,-106.2694444
+New Mexico,Alamogordo,Alamogordo White Sands Regional,ALM,1997,0,0,1287,32.83972222,-105.99
+New Mexico,Alamogordo,Holloman AFB,HMN,1997,0,0,82,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,1997,42,0,861,34.385,-103.3238889
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,1997,39,0,4801,32.33722222,-104.2627778
+New Mexico,Clovis,Clovis Municipal,CVN,1997,1,0,1400,34.42722222,-103.0788889
+New Mexico,Gallup,Gallup Municipal,GUP,1997,75,0,2494,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,1997,228,0,1979,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,1997,163,0,33870,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,1997,2,0,7193,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,1997,45242,11001,2972093,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,1997,164,0,12962,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,1997,0,0,2794,32.29083333,-106.9216667
+New Mexico,Silver City/Hurley,Silver City Grant County,SVC,1997,0,0,1069,32.63194444,-108.1538889
+New Mexico,Alamogordo,Holloman AFB,HMN,1998,0,0,776,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,1998,26,0,862,34.385,-103.3238889
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,1998,49,0,0,32.33722222,-104.2627778
+New Mexico,Gallup,Gallup Municipal,GUP,1998,71,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,1998,263,0,0,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,1998,158,0,154,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,1998,1,0,0,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,1998,43556,11812,2975950,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,1998,181,0,0,33.30166667,-104.5305556
+New Mexico,Alamogordo,Holloman AFB,HMN,1999,0,0,131,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,1999,0,0,1231,34.385,-103.3238889
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,1999,47,0,0,32.33722222,-104.2627778
+New Mexico,Gallup,Gallup Municipal,GUP,1999,71,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,1999,232,0,0,32.68861111,-103.2169444
+New Mexico,Aztec,Aztec Municipal,XWH,1999,0,0,0,36.83472222,-108.0277778
+New Mexico,Farmington,Four Corners Regional,FMN,1999,268,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,1999,0,0,0,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,1999,37969,12265,3046656,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,1999,171,0,137,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,1999,0,0,98,32.29083333,-106.9216667
+New Mexico,Lovington,Lea County-Zip Franklin Memorial,RQP,1999,1,0,0,32.95,-103.4061111
+New Mexico,Alamogordo,Holloman AFB,HMN,2000,0,0,0,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2000,0,0,694,34.385,-103.3238889
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,2000,38,0,0,32.33722222,-104.2627778
+New Mexico,Gallup,Gallup Municipal,GUP,2000,71,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2000,230,0,0,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,2000,328,0,0,36.74111111,-108.2291667
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2000,41346,12707,3043248,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2000,204,0,123,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2000,0,0,406,32.29083333,-106.9216667
+New Mexico,Lovington,Lea County-Zip Franklin Memorial,RQP,2000,0,0,0,32.95,-103.4061111
+New Mexico,Alamogordo,Holloman AFB,HMN,2001,0,0,178,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2001,0,0,814,34.385,-103.3238889
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,2001,43,0,0,32.33722222,-104.2627778
+New Mexico,Gallup,Gallup Municipal,GUP,2001,85,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2001,117,0,0,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,2001,319,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2001,0,0,0,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2001,60694,6731,2979832,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2001,200,0,0,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2001,0,0,0,32.29083333,-106.9216667
+New Mexico,Alamogordo,Holloman AFB,HMN,2002,0,0,116,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2002,84,0,978,34.385,-103.3238889
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,2002,43,0,0,32.33722222,-104.2627778
+New Mexico,Gallup,Gallup Municipal,GUP,2002,83,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2002,99,0,0,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,2002,293,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2002,0,0,0,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2002,45567,1874,2851663,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2002,184,0,2236,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2002,0,0,117,32.29083333,-106.9216667
+New Mexico,Alamogordo,Holloman AFB,HMN,2003,51,0,340,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2003,0,0,577,34.385,-103.3238889
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,2003,37,0,0,32.33722222,-104.2627778
+New Mexico,Gallup,Gallup Municipal,GUP,2003,76,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2003,74,0,0,32.68861111,-103.2169444
+New Mexico,Aztec,Aztec Municipal,XWH,2003,0,0,0,36.83472222,-108.0277778
+New Mexico,Farmington,Four Corners Regional,FMN,2003,161,0,28,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2003,7,0,0,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2003,42918,1496,2889621,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2003,168,0,0,33.30166667,-104.5305556
+New Mexico,Alamogordo,Holloman AFB,HMN,2004,91,0,338,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2004,0,1,1511,34.385,-103.3238889
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,2004,28,0,0,32.33722222,-104.2627778
+New Mexico,Gallup,Gallup Municipal,GUP,2004,78,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2004,57,0,0,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,2004,176,0,42,36.74111111,-108.2291667
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2004,46115,1266,3046113,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2004,174,0,116,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2004,0,0,95,32.29083333,-106.9216667
+New Mexico,Alamogordo,Holloman AFB,HMN,2005,51,0,431,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2005,87,0,1371,34.385,-103.3238889
+New Mexico,Gallup,Gallup Municipal,GUP,2005,89,0,0,35.51111111,-108.7866667
+New Mexico,Farmington,Four Corners Regional,FMN,2005,192,0,6,36.74111111,-108.2291667
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2005,49972,1327,3119802,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2005,213,0,447,33.30166667,-104.5305556
+New Mexico,Alamogordo,Holloman AFB,HMN,2006,0,0,516,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2006,141,0,798,34.385,-103.3238889
+New Mexico,Gallup,Gallup Municipal,GUP,2006,67,0,0,35.51111111,-108.7866667
+New Mexico,Farmington,Four Corners Regional,FMN,2006,203,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2006,0,0,5,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2006,50622,853,3147278,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2006,177,0,51,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2006,0,0,301,32.29083333,-106.9216667
+New Mexico,Alamogordo,Holloman AFB,HMN,2007,264,0,461,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2007,94,0,565,34.385,-103.3238889
+New Mexico,Gallup,Gallup Municipal,GUP,2007,68,0,0,35.51111111,-108.7866667
+New Mexico,Farmington,Four Corners Regional,FMN,2007,211,0,99,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2007,0,0,22,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2007,47694,1024,3217713,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2007,184,0,9382,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2007,0,0,408,32.29083333,-106.9216667
+New Mexico,Alamogordo,Holloman AFB,HMN,2008,0,0,165,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2008,18,0,0,34.385,-103.3238889
+New Mexico,Zuni Pueblo,Black Rock,XXZ,2008,34,0,0,35.08305556,-108.7911111
+New Mexico,Gallup,Gallup Municipal,GUP,2008,59,0,0,35.51111111,-108.7866667
+New Mexico,Farmington,Four Corners Regional,FMN,2008,214,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2008,0,0,111,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2008,44608,2212,3147507,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2008,179,0,34284,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2008,0,0,905,32.29083333,-106.9216667
+New Mexico,Alamogordo,Holloman AFB,HMN,2009,3,0,378,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2009,0,0,38,34.385,-103.3238889
+New Mexico,Las Vegas,Las Vegas Municipal,LVS,2009,0,0,7,35.65416667,-105.1425
+New Mexico,Gallup,Gallup Municipal,GUP,2009,75,0,0,35.51111111,-108.7866667
+New Mexico,Aztec,Aztec Municipal,XWH,2009,0,0,0,36.83472222,-108.0277778
+New Mexico,Farmington,Four Corners Regional,FMN,2009,237,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2009,0,0,9628,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2009,45161,1530,2872599,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2009,170,0,37773,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2009,0,0,251,32.29083333,-106.9216667
+New Mexico,Silver City/Hurley,Silver City Grant County,SVC,2009,0,0,37,32.63194444,-108.1538889
+New Mexico,Albuquerque,Double Eagle II,ZXB,2010,1,0,0,35.14666667,-106.805
+New Mexico,Alamogordo,Holloman AFB,HMN,2010,62,0,468,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2010,0,0,343,34.385,-103.3238889
+New Mexico,Gallup,Gallup Municipal,GUP,2010,77,0,0,35.51111111,-108.7866667
+New Mexico,Farmington,Four Corners Regional,FMN,2010,279,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2010,0,0,43699,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2010,45863,2236,2819302,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2010,179,0,38842,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2010,0,0,36,32.29083333,-106.9216667
+New Mexico,Alamogordo,Holloman AFB,HMN,2011,197,0,158,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2011,5,0,918,34.385,-103.3238889
+New Mexico,Gallup,Gallup Municipal,GUP,2011,56,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2011,0,0,7278,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,2011,272,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2011,0,0,43318,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2011,44770,1634,2761487,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2011,198,0,37262,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2011,0,0,122,32.29083333,-106.9216667
+New Mexico,Eagle Nest,Angel Fire,AXX,2012,0,0,4,36.42055556,-105.2894444
+New Mexico,Alamogordo,Holloman AFB,HMN,2012,18,0,232,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2012,37,0,676,34.385,-103.3238889
+New Mexico,Gallup,Gallup Municipal,GUP,2012,56,0,3,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2012,0,0,17086,32.68861111,-103.2169444
+New Mexico,Aztec,Aztec Municipal,XWH,2012,0,0,0,36.83472222,-108.0277778
+New Mexico,Farmington,Four Corners Regional,FMN,2012,289,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2012,0,0,47391,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2012,40262,650,2624445,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2012,210,0,34593,33.30166667,-104.5305556
+New Mexico,Alamogordo,Holloman AFB,HMN,2013,74,0,0,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2013,33,0,512,34.385,-103.3238889
+New Mexico,Artesia,Artesia Municipal,ATS,2013,0,0,0,32.84833333,-104.4669444
+New Mexico,Gallup,Gallup Municipal,GUP,2013,56,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2013,0,0,17235,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,2013,284,0,2,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2013,0,0,59871,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2013,40201,285,2473507,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2013,194,0,32543,33.30166667,-104.5305556
+New Mexico,Clovis,Cannon AFB,CVS,2014,0,0,415,34.385,-103.3238889
+New Mexico,Gallup,Gallup Municipal,GUP,2014,65,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2014,0,0,18233,32.68861111,-103.2169444
+New Mexico,Aztec,Aztec Municipal,XWH,2014,0,0,0,36.83472222,-108.0277778
+New Mexico,Farmington,Four Corners Regional,FMN,2014,275,0,36,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2014,0,0,74572,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2014,42121,198,2349471,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2014,178,0,35356,33.30166667,-104.5305556
+New Mexico,Alamogordo,Holloman AFB,HMN,2015,0,0,54,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2015,0,0,298,34.385,-103.3238889
+New Mexico,Gallup,Gallup Municipal,GUP,2015,48,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2015,0,0,16565,32.68861111,-103.2169444
+New Mexico,Aztec,Aztec Municipal,XWH,2015,1,0,0,36.83472222,-108.0277778
+New Mexico,Farmington,Four Corners Regional,FMN,2015,270,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2015,0,0,59458,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2015,40844,129,2319104,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2015,160,0,35411,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2015,0,0,246,32.29083333,-106.9216667
+New Mexico,Alamogordo,Holloman AFB,HMN,2016,0,0,67,32.85138889,-106.1016667
+New Mexico,Deming,Deming Municipal,DMN,2016,0,0,8,32.2625,-107.7188889
+New Mexico,Clovis,Cannon AFB,CVS,2016,130,0,976,34.385,-103.3238889
+New Mexico,Gallup,Gallup Municipal,GUP,2016,48,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2016,0,0,14705,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,2016,256,0,5,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2016,0,0,43261,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2016,38085,19,2333555,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2016,155,0,44378,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2016,0,0,41,32.29083333,-106.9216667
+New Mexico,Ruidoso,Ruidoso Airport,RUI,2016,1,0,0,33.36083333,-105.6625
+New Mexico,Alamogordo,Holloman AFB,HMN,2017,0,0,55,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2017,113,0,468,34.385,-103.3238889
+New Mexico,Gallup,Gallup Municipal,GUP,2017,39,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2017,0,0,16214,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,2017,247,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2017,1,0,73535,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2017,38100,52,2390418,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2017,159,0,55211,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2017,0,0,283,32.29083333,-106.9216667
+New Mexico,Ruidoso,Ruidoso Airport,RUI,2017,2,0,0,33.36083333,-105.6625
+New Mexico,Alamogordo,Holloman AFB,HMN,2018,0,0,215,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2018,109,0,1005,34.385,-103.3238889
+New Mexico,Artesia,Artesia Municipal,ATS,2018,0,0,0,32.84833333,-104.4669444
+New Mexico,Gallup,Gallup Municipal,GUP,2018,60,0,5,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2018,0,0,23413,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,2018,245,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2018,0,0,74685,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2018,31513,137,2635486,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2018,160,0,56607,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2018,0,0,100,32.29083333,-106.9216667
+New Mexico,Tucumcari,Tucumcari Municipal,TCC,2018,0,0,2,35.18,-103.6047222
+New Mexico,Albuquerque,Double Eagle II,ZXB,2019,0,0,0,35.14666667,-106.805
+New Mexico,Alamogordo,Holloman AFB,HMN,2019,11,0,169,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2019,150,0,651,34.385,-103.3238889
+New Mexico,Las Vegas,Las Vegas Municipal,LVS,2019,0,0,2,35.65416667,-105.1425
+New Mexico,Carlsbad,Cavern City Air Terminal,CNM,2019,0,0,13,32.33722222,-104.2627778
+New Mexico,Gallup,Gallup Municipal,GUP,2019,57,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2019,0,0,27765,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,2019,229,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2019,0,0,100143,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2019,29907,307,2626792,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2019,148,0,60214,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2019,0,0,310,32.29083333,-106.9216667
+New Mexico,Ruidoso,Ruidoso Airport,RUI,2019,1,0,0,33.36083333,-105.6625
+New Mexico,Clovis,Cannon AFB,CVS,2020,69,0,397,34.385,-103.3238889
+New Mexico,Las Vegas,Las Vegas Municipal,LVS,2020,0,0,2,35.65416667,-105.1425
+New Mexico,Gallup,Gallup Municipal,GUP,2020,52,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2020,0,0,9080,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,2020,202,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2020,0,0,41790,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2020,30918,154,863139,35.04166667,-106.6063889
+New Mexico,Grants,Grants-Milan Municipal Airport,GNT,2020,1,0,0,35.1672222,-107.9019444
+New Mexico,Roswell,Roswell International Air Center,ROW,2020,118,0,24054,33.30166667,-104.5305556
+New Mexico,Alamogordo,Holloman AFB,HMN,2021,6,0,118,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2021,111,0,938,34.385,-103.3238889
+New Mexico,Raton,Raton Municipal Airport/Crews Field,RTN,2021,0,0,0,36.7424392,-104.5017264
+New Mexico,Gallup,Gallup Municipal,GUP,2021,46,0,0,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2021,0,0,11970,32.68861111,-103.2169444
+New Mexico,Aztec,Aztec Municipal,XWH,2021,1,0,0,36.83472222,-108.0277778
+New Mexico,Farmington,Four Corners Regional,FMN,2021,130,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2021,0,0,94871,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2021,30934,20,1683666,35.04166667,-106.6063889
+New Mexico,Grants,Grants-Milan Municipal Airport,GNT,2021,0,0,0,35.1672222,-107.9019444
+New Mexico,Roswell,Roswell International Air Center,ROW,2021,145,0,44879,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2021,0,0,160,32.29083333,-106.9216667
+New Mexico,Taos,Taos Regional Airport,TSM,2022,0,0,14,36.4516944,-105.6730833
+New Mexico,Alamogordo,Holloman AFB,HMN,2022,10,0,188,32.85138889,-106.1016667
+New Mexico,Clovis,Cannon AFB,CVS,2022,0,0,93,34.385,-103.3238889
+New Mexico,Raton,Raton Municipal Airport/Crews Field,RTN,2022,0,0,2,36.7424392,-104.5017264
+New Mexico,Gallup,Gallup Municipal,GUP,2022,29,0,6,35.51111111,-108.7866667
+New Mexico,Hobbs,Lea County Hobbs,HOB,2022,0,0,13004,32.68861111,-103.2169444
+New Mexico,Farmington,Four Corners Regional,FMN,2022,82,0,0,36.74111111,-108.2291667
+New Mexico,Santa Fe,Santa Fe Municipal,SAF,2022,0,0,92631,35.6175,-106.0883333
+New Mexico,Albuquerque,Albuquerque International Sunport,ABQ,2022,21802,33,1681270,35.04166667,-106.6063889
+New Mexico,Roswell,Roswell International Air Center,ROW,2022,106,0,40951,33.30166667,-104.5305556
+New Mexico,Las Cruces,Las Cruces Municipal,LRU,2022,0,0,118,32.29083333,-106.9216667

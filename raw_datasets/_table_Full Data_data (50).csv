@@ -1,0 +1,438 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,1990,50596,2308,76728,38.14138889,-78.45305556
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,1990,119594,4864,31479,37.32694444,-79.20111111
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,1990,91811,686,18263,37.13166667,-76.49333333
+Virginia,Norfolk,Norfolk International,ORF,1990,4637624,5061568,1255144,36.89583333,-76.20138889
+Virginia,Norfolk,Norfolk NAS,NGU,1990,0,0,100,36.93722222,-76.29055556
+Virginia,Newport News/Williamsburg,Patrick Henry International,PHF,1990,81644,1150,34828,37.13166667,-76.49333333
+Virginia,Richmond,Richmond International,RIC,1990,2589772,7014104,863017,37.50527778,-77.31972222
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,1990,487800,1174818,224127,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,1990,20940228,54682686,7032033,38.85166667,-77.03694444
+Virginia,Staunton,Shenandoah Valley Regional,SHD,1990,0,0,2716,38.26388889,-78.89666667
+Virginia,Washington,Washington Dulles International,IAD,1990,88431642,50655036,4745840,38.94166667,-77.4575
+Virginia,Washington,Ronald Reagan Washington National,DCA,1991,7409,29027,6631828,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,1991,53449,23839,4714617,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,1991,5971,2647,1170132,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,1991,11936,4691,826451,37.50527778,-77.31972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,1991,0,0,8283,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,1991,0,0,3774,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,1991,5970,1541,24544,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,1991,0,0,230,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,1991,13,1,63081,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,1991,0,0,1970,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,1991,42,0,57220,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,1991,3846,578,189873,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,1992,8199,29555,6836877,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,1992,61930,29591,4478719,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,1992,5251,4582,1122619,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,1992,11892,4171,894028,37.50527778,-77.31972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,1992,0,0,201,37.32694444,-79.20111111
+Virginia,Norfolk,Norfolk NAS,NGU,1992,3201,0,14750,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,1992,0,0,1033,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,1992,4,0,44200,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,1992,21,0,563,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,1992,23,1,48813,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,1992,2302,693,178263,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,1993,7705,27408,7186011,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,1993,66322,31653,3982251,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,1993,5271,6141,1134081,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,1993,14036,4789,924265,37.50527778,-77.31972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,1993,2,0,89,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,1993,34,0,0,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,1993,11645,0,15122,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,1993,0,0,641,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,1993,25,0,1972,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,1993,15,0,50328,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,1993,3035,807,158030,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,1994,7640,30705,6983375,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,1994,77330,28807,4240202,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,1994,6387,6360,1547039,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,1994,16416,4907,1025563,37.50527778,-77.31972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,1994,88,0,6223,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,1994,154,0,37,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,1994,9919,0,15531,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,1994,0,0,6,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,1994,2,0,1470,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,1994,0,0,1371,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,1994,18,0,63187,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,1994,2918,840,223751,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,1995,7392,25672,6888576,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,1995,80679,37648,4574682,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,1995,5939,6450,1185153,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,1995,15989,5821,999161,37.50527778,-77.31972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,1995,9,0,12414,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,1995,180,0,24,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,1995,6470,0,15875,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,1995,1,0,1950,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,1995,0,0,923,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,1995,6,1,82532,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,1995,9783,571,213539,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,1996,6638,25646,6771891,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,1996,84494,38728,4758242,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,1996,6609,6405,1263078,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,1996,17172,7148,992861,37.50527778,-77.31972222
+Virginia,Danville,Danville Regional,DAN,1996,0,0,0,36.57305556,-79.335
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,1996,11,0,10807,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,1996,184,0,179,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,1996,2663,0,15188,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,1996,0,0,117,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,1996,0,0,4403,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,1996,0,0,0,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,1996,0,20,46071,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,1996,6500,536,217897,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,1997,6151,24293,7010224,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,1997,95795,40328,4969772,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,1997,8027,4664,1320621,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,1997,27226,6408,1092907,37.50527778,-77.31972222
+Virginia,Danville,Danville Regional,DAN,1997,0,0,0,36.57305556,-79.335
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,1997,6,0,14725,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,1997,214,0,122,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,1997,3943,0,16026,36.93722222,-76.29055556
+Virginia,Blacksburg,Virginia Tech/Montgomery Executive,BCB,1997,0,0,0,37.20722222,-80.40694444
+Virginia,Oceana,Oceana NAS,NTU,1997,0,0,179,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,1997,1,0,9208,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,1997,0,0,1240,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,1997,2,37,46878,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,1997,12062,493,229050,37.32472222,-79.97638889
+Virginia,Winchester,Winchester Airport,WGO,1997,1,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,1998,5546,23056,7067065,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,1998,97134,38994,5380800,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,1998,7607,4530,1295481,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,1998,30338,6008,1172417,37.50527778,-77.31972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,1998,5,0,14512,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,1998,30,0,114,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,1998,3490,0,20756,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,1998,0,0,1593,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,1998,0,0,1714,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,1998,8,0,57402,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,1998,11423,283,220909,37.32472222,-79.97638889
+Virginia,Winchester,Winchester Airport,WGO,1998,0,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,1999,5916,18373,6663275,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,1999,93827,35593,6838523,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,1999,9171,5297,1269941,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,1999,29894,5492,1173741,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,1999,2,0,0,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,1999,19,0,17029,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,1999,27,0,255,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,1999,4171,0,9773,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,1999,0,0,66,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,1999,1,0,1137,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,1999,0,0,1269,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,1999,2,1,114086,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,1999,9747,278,224509,37.32472222,-79.97638889
+Virginia,Winchester,Winchester Airport,WGO,1999,2,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2000,4380,19901,6987151,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2000,94357,33225,6657147,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2000,9760,3823,1292369,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2000,35263,4863,1214064,37.50527778,-77.31972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2000,3,0,15897,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2000,120,0,0,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2000,5285,0,8168,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2000,176,0,16259,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2000,67,0,1801,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2000,5,4,121806,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2000,7981,173,233494,37.32472222,-79.97638889
+Virginia,Winchester,Winchester Airport,WGO,2000,8,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2001,3130,13614,5784639,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2001,80198,22698,5753870,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2001,17358,2883,1252051,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2001,56774,2811,1094207,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2001,0,0,0,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2001,2,0,13826,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2001,79,0,91,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2001,3879,0,17395,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2001,167,0,16556,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2001,0,0,572,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2001,1,0,114273,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2001,9007,67,171317,37.32472222,-79.97638889
+Virginia,Winchester,Winchester Airport,WGO,2001,1,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2002,1755,869,5562522,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2002,84192,11139,5405239,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2002,13129,1273,1513012,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2002,25304,1277,1033815,37.50527778,-77.31972222
+Virginia,Danville,Danville Regional,DAN,2002,0,0,23,36.57305556,-79.335
+Virginia,Dublin,New River Valley,PSK,2002,0,0,0,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2002,4,0,13816,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2002,0,0,106,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2002,8325,0,20947,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2002,531,0,44744,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2002,387,0,2689,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2002,0,0,209979,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2002,9225,0,104956,37.32472222,-79.97638889
+Virginia,Winchester,Winchester Airport,WGO,2002,1,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2003,3874,803,6070724,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2003,81435,9463,6931619,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2003,14999,907,1572727,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2003,26331,1089,1018412,37.50527778,-77.31972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2003,1,0,20640,37.32694444,-79.20111111
+Virginia,Norfolk,Norfolk NAS,NGU,2003,14648,0,39952,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2003,285,0,84870,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2003,125,1,93452,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2003,0,0,275846,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2003,8979,1,170645,37.32472222,-79.97638889
+Virginia,Winchester,Winchester Airport,WGO,2003,77,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2004,3569,1027,7183725,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2004,93014,6923,9389247,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2004,16054,81,1748251,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2004,25651,146,1158290,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2004,3,0,0,37.13722222,-80.67861111
+Virginia,Chesapeake,Chesapeake Regional,VA2,2004,1,0,0,36.66555556,-76.32055556
+Virginia,Marion/Wytheville,Mountain Empire,VA3,2004,0,0,0,36.89472222,-81.34972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2004,2,0,29706,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2004,0,0,452,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2004,8855,1,39914,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,2004,0,0,152,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2004,143,0,107454,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2004,102,0,2238,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2004,12,0,375315,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2004,9591,0,188013,37.32472222,-79.97638889
+Virginia,Winchester,Winchester Airport,WGO,2004,2,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2005,1484,224,8351164,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2005,104475,6610,11164467,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2005,14291,68,1773328,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2005,26783,44,1339519,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2005,117,0,0,37.13722222,-80.67861111
+Virginia,Marion/Wytheville,Mountain Empire,VA3,2005,2,0,0,36.89472222,-81.34972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2005,4,0,28082,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2005,0,0,102,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2005,7152,0,29241,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,2005,0,0,112,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2005,2,0,120677,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2005,577,0,1728,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2005,6,0,470602,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2005,10043,0,238873,37.32472222,-79.97638889
+Virginia,Manassas,Manassas Regional/Harry P. Davis Field,MNZ,2005,3,0,0,38.72194444,-77.51805556
+Virginia,Winchester,Winchester Airport,WGO,2005,19,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2006,1622,35,8741866,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2006,108542,5840,9333476,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2006,13000,9,1704143,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2006,28194,2,1469075,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2006,1,0,0,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2006,1,0,27944,37.32694444,-79.20111111
+Virginia,Norfolk,Norfolk NAS,NGU,2006,5124,0,32460,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2006,5,1,97516,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2006,122,0,643,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2006,12,0,451272,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2006,10078,0,246729,37.32472222,-79.97638889
+Virginia,Manassas,Manassas Regional/Harry P. Davis Field,MNZ,2006,5,0,0,38.72194444,-77.51805556
+Virginia,Winchester,Winchester Airport,WGO,2006,15,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2007,1665,4,8796123,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2007,120091,5383,9892356,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2007,10647,0,1692897,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2007,28543,1,1633433,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2007,7,0,2,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2007,1,0,21739,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2007,0,0,248,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2007,5075,0,38758,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2007,0,0,88061,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2007,201,0,2894,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2007,0,0,445728,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2007,9808,0,225657,37.32472222,-79.97638889
+Virginia,Manassas,Manassas Regional/Harry P. Davis Field,MNZ,2007,0,0,6,38.72194444,-77.51805556
+Virginia,Winchester,Winchester Airport,WGO,2007,5,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2008,942,10,8458651,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2008,107644,7311,8936957,38.94166667,-77.4575
+Virginia,Leesburg,Leesburg Executive,VA4,2008,0,0,2,39.07805556,-77.5575
+Virginia,Norfolk,Norfolk International,ORF,2008,9072,2,1601371,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2008,24549,0,1459657,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2008,5,0,0,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2008,1,0,21013,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2008,0,0,6236,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2008,4784,0,37399,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2008,6,0,103057,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2008,0,0,2739,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2008,17,16,470995,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2008,7511,32,192695,37.32472222,-79.97638889
+Virginia,Winchester,Winchester Airport,WGO,2008,0,0,2,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2009,955,2,8280837,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2009,99479,5292,8711045,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2009,10830,0,1602293,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2009,22058,4,1407132,37.50527778,-77.31972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2009,2,0,35255,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2009,0,0,8308,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2009,3891,0,33301,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2009,7,1,122851,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2009,214,0,3947,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2009,6,3,462655,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2009,7019,75,198443,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,2010,1032,1,8463782,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2010,112416,4828,9209954,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2010,14273,0,1596534,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2010,23041,1,1474627,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2010,120,0,0,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2010,0,0,38778,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2010,0,0,10362,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2010,5319,0,36093,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,2010,10,0,0,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2010,13,0,132490,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2010,0,0,2039,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2010,7,1,482084,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2010,6456,1,221562,37.32472222,-79.97638889
+Virginia,Winchester,Winchester Airport,WGO,2010,2,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2011,1269,4,8756757,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2011,94851,7289,9056870,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2011,14612,0,1535910,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2011,23053,3,1486373,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2011,2,0,0,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2011,0,0,28720,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2011,0,0,11991,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2011,6868,0,38143,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,2011,9,0,143,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2011,10,0,139313,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2011,7,0,2111,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2011,1,1,468328,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2011,6136,0,203695,37.32472222,-79.97638889
+Virginia,Manassas,Manassas Regional/Harry P. Davis Field,MNZ,2011,0,0,0,38.72194444,-77.51805556
+Virginia,Winchester,Winchester Airport,WGO,2011,1,0,21,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2012,1513,2,9230512,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2012,78599,6429,8714366,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2012,14409,0,1591588,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2012,24706,103,1513997,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2012,6,0,0,37.13722222,-80.67861111
+Virginia,Chesapeake,Chesapeake Regional,VA2,2012,0,0,3,36.66555556,-76.32055556
+Virginia,Marion/Wytheville,Mountain Empire,VA3,2012,1,0,0,36.89472222,-81.34972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2012,0,0,54224,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2012,0,0,8975,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2012,5154,0,36565,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2012,5,0,126474,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2012,66,0,646,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2012,1,0,275988,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2012,6142,4,215000,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,2013,1253,0,9700578,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2013,65545,5461,8189253,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2013,13459,0,1522734,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2013,29338,448,1539725,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2013,0,0,0,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2013,0,0,39400,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2013,0,0,5455,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2013,6044,0,38415,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2013,3,0,98269,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2013,109,0,1227,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2013,0,1,227610,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2013,6088,1,159330,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,2014,1200,322,9959874,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2014,68154,5327,7883187,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2014,12902,0,1421256,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2014,32015,396,1609604,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2014,0,0,0,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2014,2,0,22508,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2014,0,0,124,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2014,4904,0,29747,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2014,15,1,142469,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2014,0,0,381,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2014,7,0,228401,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2014,6671,0,164995,37.32472222,-79.97638889
+Virginia,Manassas,Manassas Regional/Harry P. Davis Field,MNZ,2014,0,0,0,38.72194444,-77.51805556
+Virginia,Winchester,Winchester Airport,WGO,2014,1,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2015,1838,208,11096678,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2015,67786,7233,7442553,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2015,13239,0,1447033,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2015,32282,541,1650909,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2015,0,0,0,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2015,3,0,2202,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2015,0,0,327,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2015,5217,0,32117,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,2015,0,0,0,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2015,18,0,159316,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2015,128,0,2818,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2015,8,2,181342,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2015,6593,2,166381,37.32472222,-79.97638889
+Virginia,Winchester,Winchester Airport,WGO,2015,2,0,0,39.14111111,-78.14277778
+Virginia,Washington,Ronald Reagan Washington National,DCA,2016,1385,66,11312201,38.85166667,-77.03694444
+Virginia,Chincoteague,Wallops Flight Center,WAL,2016,3,0,0,37.94166667,-75.46222222
+Virginia,Washington,Washington Dulles International,IAD,2016,64108,6266,7634684,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2016,13256,0,1546927,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2016,33541,322,1655760,37.50527778,-77.31972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2016,0,0,10755,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2016,0,0,681,38.26388889,-78.89666667
+Virginia,Fort A P Hill,A P Hill AAF,APH,2016,0,0,477,38.06888889,-77.31833333
+Virginia,Norfolk,Norfolk NAS,NGU,2016,8834,0,27953,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,2016,0,0,0,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2016,11,0,202518,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2016,349,0,1808,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2016,244,0,176379,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2016,6546,0,162600,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,2017,1312,600,11001474,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2017,68346,6872,8147564,38.94166667,-77.4575
+Virginia,Leesburg,Leesburg Executive,VA4,2017,0,0,1,39.07805556,-77.5575
+Virginia,Norfolk,Norfolk International,ORF,2017,12974,3,1666176,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2017,32251,281,1683911,37.50527778,-77.31972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2017,3,0,19875,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2017,0,0,634,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2017,8355,0,27120,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2017,10,0,270043,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2017,108,0,1313,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2017,92,1,166026,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2017,6840,0,168252,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,2018,955,228,10853100,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2018,68960,6120,8799183,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2018,12694,1,1780648,36.89583333,-76.20138889
+Virginia,Richmond,Richmond Executive Chesterfield County,VA8,2018,0,0,7,37.40638889,-77.52472222
+Virginia,Richmond,Richmond International,RIC,2018,33822,295,1920269,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2018,0,0,0,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2018,0,0,49163,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2018,0,0,11751,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2018,8558,0,26451,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,2018,0,0,0,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2018,1,0,297125,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2018,197,0,564,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2018,45,1,146704,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2018,6649,0,208239,37.32472222,-79.97638889
+Virginia,Manassas,Manassas Regional/Harry P. Davis Field,MNZ,2018,0,0,7,38.72194444,-77.51805556
+Virginia,Washington,Ronald Reagan Washington National,DCA,2019,843,258,11364437,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2019,66359,4916,8958995,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2019,12266,0,1937392,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2019,33462,218,2059027,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2019,33,0,0,37.13722222,-80.67861111
+Virginia,Chesapeake,Chesapeake Regional,VA2,2019,0,0,6,36.66555556,-76.32055556
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2019,1,0,46750,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2019,0,0,17547,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2019,10594,0,32845,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,2019,0,0,111,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2019,1,0,307969,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2019,39,0,936,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2019,9,2,151819,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2019,6341,5,208869,37.32472222,-79.97638889
+Virginia,Manassas,Manassas Regional/Harry P. Davis Field,MNZ,2019,0,0,6,38.72194444,-77.51805556
+Virginia,Washington,Ronald Reagan Washington National,DCA,2020,461,280,3555900,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2020,58151,3802,3119514,38.94166667,-77.4575
+Virginia,Norfolk,Norfolk International,ORF,2020,12262,1,870750,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2020,37028,177,801027,37.50527778,-77.31972222
+Virginia,Dublin,New River Valley,PSK,2020,0,0,0,37.13722222,-80.67861111
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2020,0,0,26141,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2020,0,0,6300,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2020,5960,0,13669,36.93722222,-76.29055556
+Virginia,Norfolk,,VA9,2020,0,0,4,,
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2020,0,0,110448,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2020,341,0,2256,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2020,206,0,46967,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2020,5760,0,86605,37.32472222,-79.97638889
+Virginia,Washington,Ronald Reagan Washington National,DCA,2021,456,85,6723919,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2021,59012,2892,6252247,38.94166667,-77.4575
+Virginia,Leesburg,Leesburg Executive,VA4,2021,0,0,20,39.07805556,-77.5575
+Virginia,Norfolk,Norfolk International,ORF,2021,12749,0,1657784,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2021,38588,140,1602983,37.50527778,-77.31972222
+Virginia,Wise,Lonesome Pine Airport,LNP,2021,0,0,2,36.9875178,-82.5299975
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2021,7,0,70443,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2021,0,0,14301,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2021,3317,0,3671,36.93722222,-76.29055556
+Virginia,Oceana,Oceana NAS,NTU,2021,0,0,67,36.82055556,-76.03388889
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2021,3,0,214322,38.14138889,-78.45305556
+Virginia,Stafford,Stafford Regional Airport,RMN,2021,0,0,12,38.3981111,-77.4554722
+Virginia,Newport News/Hampton,Langley AFB,LFI,2021,119,0,1558,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2021,21,0,83902,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2021,6078,0,242749,37.32472222,-79.97638889
+Virginia,Manassas,Manassas Regional/Harry P. Davis Field,MNZ,2021,0,0,43,38.72194444,-77.51805556
+Virginia,Washington,Ronald Reagan Washington National,DCA,2022,515,4,8399821,38.85166667,-77.03694444
+Virginia,Washington,Washington Dulles International,IAD,2022,49436,2041,6039250,38.94166667,-77.4575
+Virginia,Leesburg,Leesburg Executive,VA4,2022,0,0,16,39.07805556,-77.5575
+Virginia,Norfolk,Norfolk International,ORF,2022,8857,0,1552334,36.89583333,-76.20138889
+Virginia,Richmond,Richmond International,RIC,2022,21915,111,1486139,37.50527778,-77.31972222
+Virginia,Lynchburg,Lynchburg Regional/Preston Glenn Field,LYH,2022,0,0,57129,37.32694444,-79.20111111
+Virginia,Staunton,Shenandoah Valley Regional,SHD,2022,0,0,7431,38.26388889,-78.89666667
+Virginia,Norfolk,Norfolk NAS,NGU,2022,5332,0,17000,36.93722222,-76.29055556
+Virginia,Charlottesville,Charlottesville Albemarle,CHO,2022,1,0,195231,38.14138889,-78.45305556
+Virginia,Newport News/Hampton,Langley AFB,LFI,2022,8,0,1037,37.08277778,-76.36083333
+Virginia,Newport News/Williamsburg,Newport News/Williamsburg International,PHF,2022,4,0,58979,37.13166667,-76.49333333
+Virginia,Roanoke,Roanoke Regional/Woodrum Field,ROA,2022,4166,0,216437,37.32472222,-79.97638889
+Virginia,Manassas,Manassas Regional/Harry P. Davis Field,MNZ,2022,0,0,25,38.72194444,-77.51805556

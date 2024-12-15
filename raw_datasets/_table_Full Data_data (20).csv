@@ -1,0 +1,218 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Maryland,Camp Springs,Andrews AFB,ADW,1990,0,0,1817,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,1990,29028253,38000280,4517424,39.175,-76.67
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,1990,0,0,122,39.70777778,-77.73
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,1991,0,0,181,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,1991,35,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,1991,0,0,6707,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,1991,27706,20152,4278004,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,1991,343,0,0,38.33861111,-75.51
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,1992,0,0,126,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,1992,73,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,1992,0,0,5382,38.81083333,-76.86722222
+Maryland,Ocean City,Ocean City Municipal,OCE,1992,27,0,0,38.31055556,-75.12388889
+Maryland,Baltimore,Baltimore/Washington International,BWI,1992,25523,20278,3647868,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,1992,388,0,0,38.33861111,-75.51
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,1993,2,0,0,39.70777778,-77.73
+Maryland,Annapolis,Lee,ANP,1993,0,0,0,38.94277778,-76.56888889
+Maryland,Cumberland,Cumberland Municipal,CBE,1993,104,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,1993,395,0,4549,38.81083333,-76.86722222
+Maryland,Ocean City,Ocean City Municipal,OCE,1993,24,0,0,38.31055556,-75.12388889
+Maryland,Baltimore,Baltimore/Washington International,BWI,1993,22345,20186,3952301,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,1993,450,0,0,38.33861111,-75.51
+Maryland,Aberdeen,Phillips AAF,APG,1993,0,0,0,39.46611111,-76.16972222
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,1994,0,0,96,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,1994,117,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,1994,2487,0,5296,38.81083333,-76.86722222
+Maryland,Ocean City,Ocean City Municipal,OCE,1994,47,0,0,38.31055556,-75.12388889
+Maryland,Baltimore,Baltimore/Washington International,BWI,1994,20620,22369,5533258,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,1994,536,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,1994,6,0,0,39.32555556,-76.41388889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,1995,0,0,5876,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,1995,116,0,4800,39.61444444,-78.76611111
+Maryland,Easton,Easton Municipal,ESN,1995,2,0,0,38.80277778,-76.06777778
+Maryland,Camp Springs,Andrews AFB,ADW,1995,0,0,2604,38.81083333,-76.86722222
+Maryland,Ocean City,Ocean City Municipal,OCE,1995,74,0,0,38.31055556,-75.12388889
+Maryland,Baltimore,Baltimore/Washington International,BWI,1995,22940,26958,5666499,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,1995,679,0,0,38.33861111,-75.51
+Maryland,Patuxent River,Patuxent River NAS,NHK,1996,0,0,0,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,1996,0,0,10916,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,1996,161,0,8380,39.61444444,-78.76611111
+Maryland,Cambridge,Cambridge-Dorchester,CGE,1996,13,0,0,38.53944444,-76.02777778
+Maryland,Camp Springs,Andrews AFB,ADW,1996,0,0,5191,38.81083333,-76.86722222
+Maryland,College Park,College Park Airport,CGS,1996,1,0,0,38.98055556,-76.92277778
+Maryland,Ocean City,Ocean City Municipal,OCE,1996,66,0,0,38.31055556,-75.12388889
+Maryland,Baltimore,Baltimore/Washington International,BWI,1996,24331,29753,5907427,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,1996,703,0,0,38.33861111,-75.51
+Maryland,Oakland,Garrett County,OBT,1996,1,0,0,39.58083333,-79.33583333
+Maryland,Patuxent River,Patuxent River NAS,NHK,1997,0,0,0,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,1997,0,0,4505,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,1997,183,0,4009,39.61444444,-78.76611111
+Maryland,Easton,Easton Municipal,ESN,1997,1,0,0,38.80277778,-76.06777778
+Maryland,Camp Springs,Andrews AFB,ADW,1997,0,0,3382,38.81083333,-76.86722222
+Maryland,Ocean City,Ocean City Municipal,OCE,1997,50,0,0,38.31055556,-75.12388889
+Maryland,Baltimore,Baltimore/Washington International,BWI,1997,48991,25678,6231016,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,1997,806,0,0,38.33861111,-75.51
+Maryland,Patuxent River,Patuxent River NAS,NHK,1998,12,0,34,38.29166667,-76.41638889
+Maryland,Cumberland,Cumberland Municipal,CBE,1998,242,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,1998,0,0,2758,38.81083333,-76.86722222
+Maryland,Ocean City,Ocean City Municipal,OCE,1998,41,0,0,38.31055556,-75.12388889
+Maryland,Baltimore,Baltimore/Washington International,BWI,1998,46242,25630,6842133,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,1998,500,0,0,38.33861111,-75.51
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,1999,1,0,0,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,1999,280,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,1999,0,0,2229,38.81083333,-76.86722222
+Maryland,College Park,College Park Airport,CGS,1999,0,0,193,38.98055556,-76.92277778
+Maryland,Ocean City,Ocean City Municipal,OCE,1999,39,0,0,38.31055556,-75.12388889
+Maryland,Baltimore,Baltimore/Washington International,BWI,1999,47217,21075,8004113,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,1999,403,0,0,38.33861111,-75.51
+Maryland,Patuxent River,Patuxent River NAS,NHK,2000,0,0,65,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2000,15,0,0,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,2000,250,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,2000,0,0,2059,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2000,50573,23501,8981718,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2000,428,0,0,38.33861111,-75.51
+Maryland,Oakland,Garrett County,OBT,2000,1,0,0,39.58083333,-79.33583333
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2001,0,0,0,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,2001,274,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,2001,0,0,2757,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2001,57492,18287,9450749,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2001,396,0,0,38.33861111,-75.51
+Maryland,Patuxent River,Patuxent River NAS,NHK,2002,0,0,23,38.29166667,-76.41638889
+Maryland,Cumberland,Cumberland Municipal,CBE,2002,244,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,2002,6,0,6801,38.81083333,-76.86722222
+Maryland,Camp Springs,Andrews NAF,NSF,2002,0,0,200,38.81083333,-76.86722222
+Maryland,College Park,College Park Airport,CGS,2002,0,0,0,38.98055556,-76.92277778
+Maryland,Baltimore,Baltimore/Washington International,BWI,2002,63732,8571,8976123,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2002,417,0,0,38.33861111,-75.51
+Maryland,Cumberland,Cumberland Municipal,CBE,2003,197,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,2003,0,1,4364,38.81083333,-76.86722222
+Maryland,Camp Springs,Andrews NAF,NSF,2003,0,0,570,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2003,65116,8450,9427440,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2003,431,0,0,38.33861111,-75.51
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2004,0,0,148,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,2004,174,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,2004,0,0,3636,38.81083333,-76.86722222
+Maryland,Camp Springs,Andrews NAF,NSF,2004,0,0,1167,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2004,60716,7228,9795284,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2004,446,0,50,38.33861111,-75.51
+Maryland,Patuxent River,Patuxent River NAS,NHK,2005,0,0,60,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2005,0,0,0,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,2005,168,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,2005,0,0,3880,38.81083333,-76.86722222
+Maryland,Camp Springs,Andrews NAF,NSF,2005,0,0,275,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2005,62679,7112,9546924,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2005,441,0,42,38.33861111,-75.51
+Maryland,Patuxent River,Patuxent River NAS,NHK,2006,0,0,50,38.29166667,-76.41638889
+Maryland,Cumberland,Cumberland Municipal,CBE,2006,164,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,2006,25,0,3582,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2006,57481,5919,9978431,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2006,498,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2006,4,0,0,39.32555556,-76.41388889
+Maryland,Patuxent River,Patuxent River NAS,NHK,2007,0,0,68,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2007,0,0,0,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,2007,169,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,2007,27,0,2580,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2007,55493,3492,10193232,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2007,529,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2007,1,0,4,39.32555556,-76.41388889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2008,0,0,1670,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,2008,152,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,2008,165,0,2894,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2008,48439,4879,9958231,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2008,436,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2008,0,0,2,39.32555556,-76.41388889
+Maryland,Patuxent River,Patuxent River NAS,NHK,2009,0,0,46,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2009,0,0,10834,39.70777778,-77.73
+Maryland,Cumberland,Cumberland Municipal,CBE,2009,96,0,0,39.61444444,-78.76611111
+Maryland,Camp Springs,Andrews AFB,ADW,2009,340,0,5446,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2009,46022,3989,10072016,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2009,439,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2009,0,0,1,39.32555556,-76.41388889
+Maryland,Patuxent River,Patuxent River NAS,NHK,2010,0,0,120,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2010,0,0,7439,39.70777778,-77.73
+Maryland,Camp Springs,Andrews AFB,ADW,2010,86,0,5173,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2010,47800,3247,10611700,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2010,447,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2010,1,0,7,39.32555556,-76.41388889
+Maryland,Patuxent River,Patuxent River NAS,NHK,2011,0,0,112,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2011,0,0,2062,39.70777778,-77.73
+Maryland,Gaithersburg,Montgomery County Airpark,GAI,2011,1,0,0,39.16833333,-77.16611111
+Maryland,Camp Springs,Andrews AFB,ADW,2011,80,0,4330,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2011,51186,3168,10862281,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2011,470,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2011,1,0,0,39.32555556,-76.41388889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2012,0,0,7456,39.70777778,-77.73
+Maryland,Camp Springs,Andrews AFB,ADW,2012,30,0,4613,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2012,54305,3160,11018200,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2012,465,0,9209,38.33861111,-75.51
+Maryland,Patuxent River,Patuxent River NAS,NHK,2013,0,0,66,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2013,0,0,11679,39.70777778,-77.73
+Maryland,Camp Springs,Andrews AFB,ADW,2013,18,0,3490,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2013,53592,3067,10980029,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2013,507,0,199,38.33861111,-75.51
+Maryland,Patuxent River,Patuxent River NAS,NHK,2014,0,0,41,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2014,0,0,13617,39.70777778,-77.73
+Maryland,Camp Springs,Andrews AFB,ADW,2014,32,0,3002,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2014,55095,2614,10869096,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2014,483,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2014,0,0,8,39.32555556,-76.41388889
+Maryland,Patuxent River,Patuxent River NAS,NHK,2015,0,0,119,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2015,0,0,23750,39.70777778,-77.73
+Maryland,Camp Springs,Andrews AFB,ADW,2015,15,0,2474,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2015,61585,3275,11572806,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2015,479,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2015,0,0,3,39.32555556,-76.41388889
+Maryland,Patuxent River,Patuxent River NAS,NHK,2016,0,0,53,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2016,3,0,23490,39.70777778,-77.73
+Maryland,Easton,Easton Municipal,ESN,2016,0,0,3,38.80277778,-76.06777778
+Maryland,Camp Springs,Andrews AFB,ADW,2016,142,0,3037,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2016,60343,2444,12103079,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2016,339,0,3,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2016,0,0,105,39.32555556,-76.41388889
+Maryland,Patuxent River,Patuxent River NAS,NHK,2017,0,0,111,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2017,0,0,23430,39.70777778,-77.73
+Maryland,Easton,Easton Municipal,ESN,2017,0,0,21,38.80277778,-76.06777778
+Maryland,Gaithersburg,Montgomery County Airpark,GAI,2017,0,0,2,39.16833333,-77.16611111
+Maryland,Camp Springs,Andrews AFB,ADW,2017,49,0,3816,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2017,86010,3113,12730171,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2017,475,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2017,0,0,18,39.32555556,-76.41388889
+Maryland,Patuxent River,Patuxent River NAS,NHK,2018,0,0,106,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2018,0,0,20975,39.70777778,-77.73
+Maryland,Easton,Easton Municipal,ESN,2018,0,0,20,38.80277778,-76.06777778
+Maryland,Camp Springs,Andrews AFB,ADW,2018,160,0,2882,38.81083333,-76.86722222
+Maryland,College Park,College Park Airport,CGS,2018,0,0,1,38.98055556,-76.92277778
+Maryland,Baltimore,Baltimore/Washington International,BWI,2018,103099,3328,13084531,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2018,482,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2018,0,0,0,39.32555556,-76.41388889
+Maryland,Frederick,Frederick Municipal,FDK,2018,0,0,2,39.41444444,-77.3775
+Maryland,Patuxent River,Patuxent River NAS,NHK,2019,0,0,99,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2019,4,0,26303,39.70777778,-77.73
+Maryland,Easton,Easton Municipal,ESN,2019,0,0,12,38.80277778,-76.06777778
+Maryland,Camp Springs,Andrews AFB,ADW,2019,80,0,3070,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2019,116730,2647,13055835,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2019,450,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2019,0,0,6,39.32555556,-76.41388889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2020,1,0,14347,39.70777778,-77.73
+Maryland,Easton,Easton Municipal,ESN,2020,0,0,0,38.80277778,-76.06777778
+Maryland,Camp Springs,Andrews AFB,ADW,2020,101,0,1398,38.81083333,-76.86722222
+Maryland,Westminster,,QQG,2020,0,0,5,,
+Maryland,Baltimore,Baltimore/Washington International,BWI,2020,142791,2524,5408185,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2020,387,0,0,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2020,0,0,3,39.32555556,-76.41388889
+Maryland,Patuxent River,Patuxent River NAS,NHK,2021,0,0,128,38.29166667,-76.41638889
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2021,0,0,23215,39.70777778,-77.73
+Maryland,Easton,Easton Municipal,ESN,2021,0,0,2,38.80277778,-76.06777778
+Maryland,Camp Springs,Andrews AFB,ADW,2021,56,0,2409,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2021,146604,3222,9232401,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2021,319,0,58568,38.33861111,-75.51
+Maryland,Baltimore,Martin State,MTN,2021,0,0,85,39.32555556,-76.41388889
+Maryland,Frederick,Frederick Municipal,FDK,2021,0,0,6,39.41444444,-77.3775
+Maryland,Hagerstown,Hagerstown Regional-Richard A. Henson Field,HGR,2022,0,0,25881,39.70777778,-77.73
+Maryland,Easton,Easton Municipal,ESN,2022,0,0,14,38.80277778,-76.06777778
+Maryland,Gaithersburg,Montgomery County Airpark,GAI,2022,0,0,2,39.16833333,-77.16611111
+Maryland,Camp Springs,Andrews AFB,ADW,2022,39,0,1488,38.81083333,-76.86722222
+Maryland,Baltimore,Baltimore/Washington International,BWI,2022,101246,2608,8135919,39.175,-76.67
+Maryland,Salisbury,Salisbury-Ocean City/Wicomico Regional,SBY,2022,203,0,34701,38.33861111,-75.51
+Maryland,Frederick,Frederick Municipal,FDK,2022,0,0,4,39.41444444,-77.3775

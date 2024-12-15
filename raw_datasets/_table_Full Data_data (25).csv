@@ -1,0 +1,386 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Missouri,Columbia,Columbia Regional,COU,1990,0,0,151,38.81361111,-92.21916667
+Missouri,Kansas City,Kansas City International,MCI,1990,9453251,33218999,3360551,39.2975,-94.71388889
+Missouri,St. Louis,Lambert-St. Louis International,STL,1990,73490571,75165910,9303131,38.74722222,-90.36444444
+Missouri,Grandview,Richards/Gebaur AFB,GVW,1990,0,0,234,38.85083333,-94.55833333
+Missouri,Springfield,Springfield-Branson National,SGF,1990,217824,1710,84938,37.24,-93.385
+Missouri,Kansas City,Kansas City International,MCI,1991,18062,16980,3318559,39.2975,-94.71388889
+Missouri,Columbia,Columbia Regional,COU,1991,0,0,26294,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,1991,51336,32264,9452921,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,1991,2735,1,113611,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,1991,0,0,3796,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,1991,1,0,14253,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,1991,0,0,3938,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,1991,7,0,0,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,1991,0,0,0,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,1991,11,0,172,39.12333333,-94.59277778
+Missouri,Grandview,Richards/Gebaur AFB,GVW,1991,0,0,114,38.85083333,-94.55833333
+Missouri,St. Louis,Bi-State Parks,CPS,1992,0,0,0,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,1992,22702,20537,3514701,39.2975,-94.71388889
+Missouri,Columbia,Columbia Regional,COU,1992,0,0,35006,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,1992,54198,40264,10435595,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,1992,1081,5,148829,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,1992,0,0,4430,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,1992,4,0,21420,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,1992,0,0,5798,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,1992,1,0,7102,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,1992,0,0,102,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,1992,264,0,654,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,1993,0,0,21,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,1993,24868,22959,3778822,39.2975,-94.71388889
+Missouri,Columbia,Columbia Regional,COU,1993,2,0,32251,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,1993,44984,42693,9902321,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,1993,1116,8,245490,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,1993,0,0,5275,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,1993,1,0,22108,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,1993,0,0,4793,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,1993,1,0,0,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,1993,0,0,31,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,1993,460,0,300,39.12333333,-94.59277778
+Missouri,Grandview,Richards/Gebaur AFB,GVW,1993,45,0,275,38.85083333,-94.55833333
+Missouri,Kansas City,Kansas City International,MCI,1994,26377,25137,4280310,39.2975,-94.71388889
+Missouri,St. Joseph,Rosecrans Memorial,STJ,1994,0,1,118,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,1994,140,0,36601,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,1994,53105,54246,11603588,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,1994,1418,10,258338,37.24,-93.385
+Missouri,Lake of the Ozarks,Lee C Fine Memorial,AIZ,1994,0,0,121,38.09833333,-92.54722222
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,1994,0,0,6221,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,1994,0,0,23813,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,1994,0,0,4882,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,1994,1,0,0,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,1994,0,0,81,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,1994,705,0,7159,39.12333333,-94.59277778
+Missouri,Grandview,Richards/Gebaur AFB,GVW,1994,0,0,0,38.85083333,-94.55833333
+Missouri,St. Louis,Bi-State Parks,CPS,1995,0,0,0,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,1995,25448,28364,4538263,39.2975,-94.71388889
+Missouri,St. Joseph,Rosecrans Memorial,STJ,1995,1,0,0,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,1995,10,0,34339,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,1995,57705,57040,12738531,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,1995,1451,15,243724,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,1995,0,0,5483,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,1995,0,0,23480,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,1995,0,0,3784,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,1995,0,0,0,38.66194444,-90.65
+Missouri,Jefferson City,Jefferson City Memorial,JEF,1995,0,0,20,38.59222222,-92.15638889
+Missouri,Knob Noster,Whiteman AFB,SZL,1995,9,0,728,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,1995,1363,0,0,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,1996,0,0,0,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,1996,27630,29499,4820290,39.2975,-94.71388889
+Missouri,Columbia,Columbia Regional,COU,1996,2,0,34169,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,1996,59690,65241,13546822,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,1996,1466,25,278599,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,1996,0,0,3302,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,1996,0,0,23426,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,1996,0,0,2625,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,1996,8,0,0,38.66194444,-90.65
+Missouri,Kansas City,Kansas City Downtown,MKC,1996,0,0,302,39.12333333,-94.59277778
+Missouri,Grandview,Richards/Gebaur AFB,GVW,1996,1,0,0,38.85083333,-94.55833333
+Missouri,Kansas City,Kansas City International,MCI,1997,49231,26972,5071144,39.2975,-94.71388889
+Missouri,Columbia,Columbia Regional,COU,1997,13,0,32236,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,1997,70568,55784,13835954,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,1997,6596,19,282530,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,1997,0,0,5534,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,1997,5,0,21823,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,1997,0,0,4151,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,1997,35,0,0,38.66194444,-90.65
+Missouri,Kansas City,Kansas City Downtown,MKC,1997,0,0,355,39.12333333,-94.59277778
+Missouri,Sedalia,Sedalia Memorial,DMO,1998,2,0,0,38.7075,-93.17583333
+Missouri,Malden,Malden Municipal,MAW,1998,1,0,0,36.60055556,-89.99222222
+Missouri,St. Louis,Bi-State Parks,CPS,1998,0,0,44,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,1998,63242,26503,5280162,39.2975,-94.71388889
+Missouri,St. Joseph,Rosecrans Memorial,STJ,1998,3,0,0,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,1998,25,0,28985,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,1998,60917,44189,14211362,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,1998,8013,11,310802,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,1998,1,0,9995,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,1998,8,0,20830,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,1998,0,0,4619,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,1998,19,0,0,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,1998,16,0,62,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,1998,2,0,752,39.12333333,-94.59277778
+Missouri,Malden,Malden Municipal,MAW,1999,0,0,0,36.60055556,-89.99222222
+Missouri,Kansas City,Kansas City International,MCI,1999,59705,24626,5601445,39.2975,-94.71388889
+Missouri,Sikeston,Sikeston Memorial Municipal,SIK,1999,0,0,0,36.89444444,-89.55972222
+Missouri,Columbia,Columbia Regional,COU,1999,22,0,26096,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,1999,64886,40951,14929887,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,1999,9188,4,272050,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,1999,11,0,9463,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,1999,3,0,18821,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,1999,0,0,6044,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,1999,25,0,0,38.66194444,-90.65
+Missouri,Jefferson City,Jefferson City Memorial,JEF,1999,0,0,336,38.59222222,-92.15638889
+Missouri,Knob Noster,Whiteman AFB,SZL,1999,0,0,830,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,1999,0,0,444,39.12333333,-94.59277778
+Missouri,Malden,Malden Municipal,MAW,2000,0,0,0,36.60055556,-89.99222222
+Missouri,Kansas City,Kansas City International,MCI,2000,61388,26281,5750814,39.2975,-94.71388889
+Missouri,Sikeston,Sikeston Memorial Municipal,SIK,2000,3,0,0,36.89444444,-89.55972222
+Missouri,St. Joseph,Rosecrans Memorial,STJ,2000,0,0,0,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,2000,9,0,25189,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2000,67180,45712,15108499,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2000,9863,3,265969,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2000,20,0,3115,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2000,15,0,18240,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,2000,0,0,2155,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,2000,342,0,174,38.66194444,-90.65
+Missouri,Farmington,Farmington Regional,FAM,2000,0,0,0,37.76166667,-90.42833333
+Missouri,Kansas City,Kansas City Downtown,MKC,2000,0,0,849,39.12333333,-94.59277778
+Missouri,Kansas City,Kansas City International,MCI,2001,122699,19108,5495846,39.2975,-94.71388889
+Missouri,Columbia,Columbia Regional,COU,2001,0,0,21895,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2001,78249,30360,12864472,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2001,14201,4,227706,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2001,1,0,0,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2001,7,0,19099,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2001,18,0,0,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,2001,0,0,108,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2001,0,0,507,39.12333333,-94.59277778
+Missouri,Sedalia,Sedalia Memorial,DMO,2002,9,0,0,38.7075,-93.17583333
+Missouri,Kansas City,Kansas City International,MCI,2002,80087,5644,5080954,39.2975,-94.71388889
+Missouri,Sikeston,Sikeston Memorial Municipal,SIK,2002,0,0,0,36.89444444,-89.55972222
+Missouri,Columbia,Columbia Regional,COU,2002,25,0,24537,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2002,67304,13607,11771632,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2002,8468,0,216839,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2002,5,0,0,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2002,13,0,22478,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2002,7,0,0,38.66194444,-90.65
+Missouri,Jefferson City,Jefferson City Memorial,JEF,2002,1,0,0,38.59222222,-92.15638889
+Missouri,Knob Noster,Whiteman AFB,SZL,2002,0,0,679,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2002,0,0,237,39.12333333,-94.59277778
+Missouri,Sedalia,Sedalia Memorial,DMO,2003,0,0,0,38.7075,-93.17583333
+Missouri,St. Louis,Bi-State Parks,CPS,2003,0,0,0,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2003,73873,4298,4810777,39.2975,-94.71388889
+Missouri,Columbia,Columbia Regional,COU,2003,20,0,22775,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2003,62360,7792,9287309,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2003,9086,0,244100,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2003,8,0,0,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2003,10,0,14746,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2003,1,0,783,38.66194444,-90.65
+Missouri,Kirksville,Clarence Cannon Memorial,IRK,2003,0,0,0,40.0925,-92.54388889
+Missouri,Jefferson City,Jefferson City Memorial,JEF,2003,2,0,0,38.59222222,-92.15638889
+Missouri,Knob Noster,Whiteman AFB,SZL,2003,0,0,321,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2003,0,0,279,39.12333333,-94.59277778
+Missouri,Sedalia,Sedalia Memorial,DMO,2004,2,0,0,38.7075,-93.17583333
+Missouri,St. Louis,Bi-State Parks,CPS,2004,0,0,56,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2004,74881,5535,5002828,39.2975,-94.71388889
+Missouri,Columbia,Columbia Regional,COU,2004,9,0,20214,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2004,59384,5514,5883008,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2004,10842,0,354112,37.24,-93.385
+Missouri,Lake of the Ozarks,Lee C Fine Memorial,AIZ,2004,1,0,0,38.09833333,-92.54722222
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2004,12,0,69,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2004,58,0,10445,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2004,4,0,922,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,2004,0,0,79,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2004,0,0,540,39.12333333,-94.59277778
+Missouri,Kansas City,Kansas City International,MCI,2005,74552,5706,5020185,39.2975,-94.71388889
+Missouri,St. Joseph,Rosecrans Memorial,STJ,2005,0,0,368,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,2005,1276,0,21930,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2005,50595,2698,6326714,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2005,12041,0,434143,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2005,46,0,98,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2005,7,0,10043,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2005,2,0,682,38.66194444,-90.65
+Missouri,Kirksville,Clarence Cannon Memorial,IRK,2005,1,0,0,40.0925,-92.54388889
+Missouri,Jefferson City,Jefferson City Memorial,JEF,2005,1,0,41,38.59222222,-92.15638889
+Missouri,Knob Noster,Whiteman AFB,SZL,2005,64,0,1216,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2005,0,0,45,39.12333333,-94.59277778
+Missouri,Kansas City,Kansas City International,MCI,2006,73099,4427,5415262,39.2975,-94.71388889
+Missouri,St. Joseph,Rosecrans Memorial,STJ,2006,0,0,514,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,2006,989,0,13383,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2006,46457,2824,6437907,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2006,14267,76,428158,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2006,27,0,122,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2006,7,0,5610,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2006,13,0,1337,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,2006,13,0,895,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2006,8,0,322,39.12333333,-94.59277778
+Missouri,Kansas City,Kansas City International,MCI,2007,67639,3762,5728827,39.2975,-94.71388889
+Missouri,St. Joseph,Rosecrans Memorial,STJ,2007,0,0,185,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,2007,1546,0,3043,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2007,45826,2157,6484119,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2007,15432,135,433062,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2007,2,0,76,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2007,4,0,113,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2007,13,0,2667,38.66194444,-90.65
+Missouri,Mosby,Midwest National Air Center,MO1,2007,0,0,51,39.3325,-94.30944444
+Missouri,Knob Noster,Whiteman AFB,SZL,2007,231,0,595,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2007,12,0,1041,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2008,0,0,1736,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2008,54925,3300,5310618,39.2975,-94.71388889
+Missouri,St. Joseph,Rosecrans Memorial,STJ,2008,0,0,333,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,2008,719,0,9875,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2008,42296,2570,5491822,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2008,13794,297,354642,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2008,1,0,52,37.22361111,-89.57166667
+Missouri,St. Louis,Spirit of St. Louis,SUS,2008,0,0,2693,38.66194444,-90.65
+Missouri,Jefferson City,Jefferson City Memorial,JEF,2008,0,0,4,38.59222222,-92.15638889
+Missouri,Knob Noster,Whiteman AFB,SZL,2008,0,0,379,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2008,29,0,1912,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2009,0,0,276,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2009,46021,2363,4819200,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2009,0,0,42653,36.53194444,-93.20055556
+Missouri,St. Joseph,Rosecrans Memorial,STJ,2009,0,0,206,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,2009,1,0,26818,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2009,41212,1475,5306241,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2009,11948,309,362855,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2009,2,0,0,37.22361111,-89.57166667
+Missouri,St. Louis,Spirit of St. Louis,SUS,2009,5,0,1401,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,2009,177,0,333,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2009,74,0,1965,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2010,0,0,363,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2010,45382,2085,4901213,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2010,0,0,91505,36.53194444,-93.20055556
+Missouri,St. Joseph,Rosecrans Memorial,STJ,2010,0,0,107,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,2010,5,0,38276,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2010,39654,1436,5644201,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2010,11432,285,356915,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2010,4,0,0,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2010,0,0,296,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2010,10,0,1373,38.66194444,-90.65
+Missouri,Jefferson City,Jefferson City Memorial,JEF,2010,1,0,0,38.59222222,-92.15638889
+Missouri,Washington,Washington Regional,MO2,2010,0,0,5,38.5875,-90.99388889
+Missouri,Knob Noster,Whiteman AFB,SZL,2010,251,0,330,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2010,29,0,980,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2011,0,0,45,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2011,45851,1364,4965781,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2011,0,0,99022,36.53194444,-93.20055556
+Missouri,St. Joseph,Rosecrans Memorial,STJ,2011,0,0,105,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,2011,13,0,40588,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2011,39655,1208,5879558,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2011,10968,221,347407,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2011,29,0,0,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2011,2,0,27044,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2011,0,0,1425,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,2011,0,0,251,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2011,73,0,1947,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2012,0,0,190,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2012,45919,1333,4844390,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2012,0,0,109919,36.53194444,-93.20055556
+Missouri,St. Joseph,Rosecrans Memorial,STJ,2012,0,0,167,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,2012,0,0,41254,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2012,37327,911,5905041,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2012,12622,379,352957,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2012,22,0,0,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2012,0,0,24471,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2012,0,0,654,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,2012,0,0,318,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2012,45,0,2076,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2013,0,0,642,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2013,51268,1421,4816917,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2013,0,0,131671,36.53194444,-93.20055556
+Missouri,St. Joseph,Rosecrans Memorial,STJ,2013,0,0,95,39.77583333,-94.91
+Missouri,Columbia,Columbia Regional,COU,2013,0,0,45428,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2013,35332,1122,5892539,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2013,12436,404,335786,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2013,7,0,0,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2013,7,0,23266,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2013,8,0,679,38.66194444,-90.65
+Missouri,Marshall,Marshall Memorial Municipal,MHL,2013,0,0,15,39.1,-93.2
+Missouri,Knob Noster,Whiteman AFB,SZL,2013,5,0,647,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2013,64,0,2270,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2014,1,0,1395,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2014,50012,857,4963346,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2014,21,0,54135,36.53194444,-93.20055556
+Missouri,Columbia,Columbia Regional,COU,2014,42,0,55324,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2014,36460,1459,5806534,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2014,12442,214,386630,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2014,6,0,0,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2014,0,0,26376,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2014,13,0,0,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,2014,200,0,354,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2014,62,0,2326,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2015,5,0,1443,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2015,48840,1786,5110434,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2015,0,0,3316,36.53194444,-93.20055556
+Missouri,Columbia,Columbia Regional,COU,2015,4,0,64551,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2015,37480,2033,5951596,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2015,12536,222,441691,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2015,12,0,0,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2015,0,0,28111,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2015,9,0,88,38.66194444,-90.65
+Missouri,Knob Noster,Whiteman AFB,SZL,2015,30,0,254,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2015,136,0,2690,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2016,30,0,3020,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2016,56537,1368,5352775,39.2975,-94.71388889
+Missouri,Columbia,Columbia Regional,COU,2016,0,0,64417,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2016,35988,1812,6560205,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2016,10034,73,453571,37.24,-93.385
+Missouri,Joplin,Joplin Municipal,JLN,2016,1,0,27911,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2016,23,0,27,38.66194444,-90.65
+Missouri,Jefferson City,Jefferson City Memorial,JEF,2016,0,0,1,38.59222222,-92.15638889
+Missouri,Knob Noster,Whiteman AFB,SZL,2016,204,0,307,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2016,125,0,2746,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2017,21,0,3391,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2017,55504,2225,5603256,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2017,0,0,117,36.53194444,-93.20055556
+Missouri,Columbia,Columbia Regional,COU,2017,14,1,88356,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2017,37644,2008,6942700,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2017,10925,167,455496,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2017,0,0,439,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2017,1,0,35498,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,2017,0,0,118,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,2017,20,0,5,38.66194444,-90.65
+Missouri,Jefferson City,Jefferson City Memorial,JEF,2017,0,0,14,38.59222222,-92.15638889
+Missouri,Knob Noster,Whiteman AFB,SZL,2017,62,0,592,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2017,111,0,3230,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2018,0,0,2216,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2018,54777,1686,5764678,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2018,0,0,10347,36.53194444,-93.20055556
+Missouri,Columbia,Columbia Regional,COU,2018,0,0,118743,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2018,37861,1585,7341554,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2018,8246,58,495362,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2018,0,0,9146,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2018,0,0,39966,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2018,17,0,24,38.66194444,-90.65
+Missouri,Kirksville,Clarence Cannon Memorial,IRK,2018,0,0,2,40.0925,-92.54388889
+Missouri,Knob Noster,Whiteman AFB,SZL,2018,353,0,557,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2018,94,0,2840,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2019,0,0,2916,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2019,52802,1471,5735559,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2019,0,0,25540,36.53194444,-93.20055556
+Missouri,Columbia,Columbia Regional,COU,2019,3,0,113854,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2019,41833,1613,7561581,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2019,7517,0,504107,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2019,0,0,11817,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2019,0,0,47986,37.14972222,-94.49777778
+Missouri,St. Louis,Spirit of St. Louis,SUS,2019,34,0,11,38.66194444,-90.65
+Missouri,Jefferson City,Jefferson City Memorial,JEF,2019,0,0,17,38.59222222,-92.15638889
+Missouri,Knob Noster,Whiteman AFB,SZL,2019,219,0,318,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2019,118,0,2861,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2020,10,0,979,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2020,53143,832,2166732,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2020,0,0,7066,36.53194444,-93.20055556
+Missouri,Columbia,Columbia Regional,COU,2020,9,0,47205,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2020,47231,1340,3000644,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2020,6643,0,279427,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2020,0,0,4572,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2020,0,0,24937,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,2020,0,0,6172,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,2020,18,0,14,38.66194444,-90.65
+Missouri,Jefferson City,Jefferson City Memorial,JEF,2020,5,0,0,38.59222222,-92.15638889
+Missouri,Knob Noster,Whiteman AFB,SZL,2020,331,0,625,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2020,60,0,2143,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2021,5,0,2995,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2021,65559,955,3791795,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2021,0,0,10284,36.53194444,-93.20055556
+Missouri,Columbia,Columbia Regional,COU,2021,0,0,79675,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2021,54779,1302,5044989,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2021,8238,0,480405,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2021,0,0,9199,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2021,0,0,26605,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,2021,0,0,4760,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,2021,14,0,61,38.66194444,-90.65
+Missouri,Jefferson City,Jefferson City Memorial,JEF,2021,1,0,0,38.59222222,-92.15638889
+Missouri,Knob Noster,Whiteman AFB,SZL,2021,151,0,206,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2021,111,0,3983,39.12333333,-94.59277778
+Missouri,St. Louis,Bi-State Parks,CPS,2022,3,0,2378,38.57138889,-90.15722222
+Missouri,Kansas City,Kansas City International,MCI,2022,49065,489,3513095,39.2975,-94.71388889
+Missouri,Branson,Branson Airport,BKG,2022,0,0,6174,36.53194444,-93.20055556
+Missouri,Columbia,Columbia Regional,COU,2022,0,0,58875,38.81361111,-92.21916667
+Missouri,St. Louis,Lambert-St. Louis International,STL,2022,36598,801,4931626,38.74722222,-90.36444444
+Missouri,Springfield,Springfield-Branson National,SGF,2022,5783,0,402564,37.24,-93.385
+Missouri,Cape Girardeau,Cape Girardeau Regional,CGI,2022,9,0,6929,37.22361111,-89.57166667
+Missouri,Joplin,Joplin Municipal,JLN,2022,0,0,15719,37.14972222,-94.49777778
+Missouri,Fort Leonard Wood,Forney AAF,TBN,2022,0,0,5545,37.74138889,-92.14055556
+Missouri,St. Louis,Spirit of St. Louis,SUS,2022,13,0,163,38.66194444,-90.65
+Missouri,Jefferson City,Jefferson City Memorial,JEF,2022,0,0,4,38.59222222,-92.15638889
+Missouri,Knob Noster,Whiteman AFB,SZL,2022,103,0,224,38.73027778,-93.54777778
+Missouri,Kansas City,Kansas City Downtown,MKC,2022,112,0,4033,39.12333333,-94.59277778

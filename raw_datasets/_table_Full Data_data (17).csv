@@ -1,0 +1,307 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Kentucky,Lexington,Blue Grass,LEX,1990,730440,2662650,290742,38.03972222,-84.60222222
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,1990,37030878,28591098,3926554,39.04777778,-84.66861111
+Kentucky,Louisville,Standiford Field,SDF,1990,5283584,11229283,934092,38.17972222,-85.73861111
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,1991,19721,14961,4336787,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,1991,353,1088,280784,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,1991,343,0,0,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,1991,262063,6510,902556,38.17972222,-85.73861111
+Kentucky,Paducah,Barkley Regional,PAH,1991,0,0,8082,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,1991,0,0,1601,36.67277778,-87.49166667
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,1991,235,0,0,37.08722222,-84.07694444
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,1992,70615,24040,4916046,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,1992,374,1135,315926,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,1992,535,0,200,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,1992,14896,6310,970882,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,1992,0,0,50,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,1992,0,0,9644,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,1992,100,0,4827,36.67277778,-87.49166667
+Kentucky,Somerset,Somerset/Pulaski Co/Wilson,SME,1992,3,0,0,37.05444444,-84.61444444
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,1992,206,0,0,37.08722222,-84.07694444
+Kentucky,Richmond,Madison,UXJ,1993,2,0,0,37.63138889,-84.3325
+Kentucky,Prestonsburg,Big Sandy Regional,UXN,1993,0,0,0,37.75111111,-82.63694444
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,1993,96928,24807,5128274,39.04777778,-84.66861111
+Kentucky,Frankfort,Capital City,FFT,1993,1,0,0,38.1825,-84.90472222
+Kentucky,Lexington,Blue Grass,LEX,1993,383,1159,303304,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,1993,462,0,368,36.96222222,-86.42222222
+Kentucky,Whitesburg,Whitesburg Municipal,BRG,1993,0,0,237,37.11666667,-82.81666667
+Kentucky,Louisville,Standiford Field,SDF,1993,17719,6638,1117049,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,1993,2,0,0,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,1993,1,0,10348,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,1993,25,0,8025,36.67277778,-87.49166667
+Kentucky,Somerset,Somerset/Pulaski Co/Wilson,SME,1993,1,0,0,37.05444444,-84.61444444
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,1993,138,0,0,37.08722222,-84.07694444
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,1994,111468,24994,5489544,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,1994,404,1238,312834,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,1994,486,0,162,36.96222222,-86.42222222
+Kentucky,Whitesburg,Whitesburg Municipal,BRG,1994,0,0,28,37.11666667,-82.81666667
+Kentucky,Louisville,Standiford Field,SDF,1994,18718,6983,1539037,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,1994,0,0,0,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,1994,16,0,10722,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,1994,67,0,4771,36.67277778,-87.49166667
+Kentucky,Somerset,Somerset/Pulaski Co/Wilson,SME,1994,0,0,74,37.05444444,-84.61444444
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,1995,133156,27189,5976903,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,1995,619,1182,343174,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,1995,523,0,30,36.96222222,-86.42222222
+Kentucky,Whitesburg,Whitesburg Municipal,BRG,1995,0,0,0,37.11666667,-82.81666667
+Kentucky,Louisville,Standiford Field,SDF,1995,24419,7476,1698572,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,1995,0,0,0,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,1995,1,0,10270,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,1995,48,0,2102,36.67277778,-87.49166667
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,1995,0,0,0,37.08722222,-84.07694444
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,1996,160656,30309,7301767,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,1996,473,810,368894,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,1996,572,0,0,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,1996,22100,7630,1713487,38.17972222,-85.73861111
+Kentucky,Paducah,Barkley Regional,PAH,1996,62,0,11392,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,1996,111,0,816,36.67277778,-87.49166667
+Kentucky,Somerset,Somerset/Pulaski Co/Wilson,SME,1996,0,0,25,37.05444444,-84.61444444
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,1996,0,0,58,37.08722222,-84.07694444
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,1997,169377,31088,7641140,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,1997,1424,70,427766,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,1997,653,0,141,36.96222222,-86.42222222
+Kentucky,Whitesburg,Whitesburg Municipal,BRG,1997,18,0,0,37.11666667,-82.81666667
+Kentucky,Louisville,Standiford Field,SDF,1997,734384,7718,1747531,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,1997,0,0,817,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,1997,0,2,10115,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,1997,113,0,5179,36.67277778,-87.49166667
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,1998,163990,29642,7782586,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,1998,357,2,437287,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,1998,525,0,116,36.96222222,-86.42222222
+Kentucky,Whitesburg,Whitesburg Municipal,BRG,1998,0,0,0,37.11666667,-82.81666667
+Kentucky,Louisville,Standiford Field,SDF,1998,750119,6345,1760784,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,1998,0,0,1216,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,1998,13,0,12185,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,1998,40,0,6250,36.67277778,-87.49166667
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,1998,2,0,0,37.08722222,-84.07694444
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,1999,209744,26351,7615588,39.04777778,-84.66861111
+Kentucky,Frankfort,Capital City,FFT,1999,0,0,0,38.1825,-84.90472222
+Kentucky,Lexington,Blue Grass,LEX,1999,1214,3,420676,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,1999,537,0,0,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,1999,816464,4126,1804285,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,1999,0,0,768,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,1999,9,0,13507,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,1999,287,0,3111,36.67277778,-87.49166667
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2000,249582,26263,9968723,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,2000,785,3,436239,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2000,694,0,147,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2000,839154,5093,1873961,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2000,2,0,122,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2000,65,0,11985,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2000,75,0,7294,36.67277778,-87.49166667
+Kentucky,Somerset,Somerset/Pulaski Co/Wilson,SME,2000,4,0,0,37.05444444,-84.61444444
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2001,217167,16942,8352434,39.04777778,-84.66861111
+Kentucky,Frankfort,Capital City,FFT,2001,0,0,0,38.1825,-84.90472222
+Kentucky,Lexington,Blue Grass Station AHP,LSD,2001,0,0,0,38.09111111,-84.31666667
+Kentucky,Scott,Georgetown Scott County - Marshall Field,FQI,2001,0,0,0,38.23444444,-84.43472222
+Kentucky,Lexington,Blue Grass,LEX,2001,810,0,359345,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2001,922,0,243,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2001,1297584,3639,1775074,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2001,1,0,0,37.74083333,-87.16583333
+Kentucky,Georgetown,Marshall Field,DQP,2001,0,0,0,38.23638889,-89.35861111
+Kentucky,Paducah,Barkley Regional,PAH,2001,25,0,7341,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2001,2,0,4057,36.67277778,-87.49166667
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,2001,2,0,0,37.08722222,-84.07694444
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2002,204954,9518,9947619,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,2002,1400,0,368944,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2002,473,0,452,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2002,810552,1521,1591812,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2002,4,0,0,37.74083333,-87.16583333
+Kentucky,Georgetown,Marshall Field,DQP,2002,3,0,0,38.23638889,-89.35861111
+Kentucky,Paducah,Barkley Regional,PAH,2002,24,0,2563,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2002,252,0,161,36.67277778,-87.49166667
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,2002,0,0,0,37.08722222,-84.07694444
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2003,243340,12960,10263938,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,2003,1692,3,490769,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2003,561,0,264,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2003,910658,1322,1421728,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2003,0,0,49,37.74083333,-87.16583333
+Kentucky,Georgetown,Marshall Field,DQP,2003,1,0,0,38.23638889,-89.35861111
+Kentucky,Paducah,Barkley Regional,PAH,2003,15,0,23234,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2003,693,0,16570,36.67277778,-87.49166667
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,2003,16,0,0,37.08722222,-84.07694444
+Kentucky,Danville,Stuart Powell Field,KY1,2003,2,0,0,37.56861111,-84.77222222
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2004,246258,11840,10605507,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,2004,2205,0,523219,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2004,457,0,506,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2004,983109,4588,1521879,38.17972222,-85.73861111
+Kentucky,Paducah,Barkley Regional,PAH,2004,15,0,25297,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2004,77,1,2484,36.67277778,-87.49166667
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,2004,1,0,0,37.08722222,-84.07694444
+Kentucky,Danville,Stuart Powell Field,KY1,2004,1,0,0,37.56861111,-84.77222222
+Kentucky,Bardstown,Samuels Field,BRY,2004,0,0,0,37.81444444,-85.49972222
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2005,120532,6079,11164751,39.04777778,-84.66861111
+Kentucky,Frankfort,Capital City,FFT,2005,5,0,0,38.1825,-84.90472222
+Kentucky,Mount Sterling,Mount Sterling - Montgomery County,KY3,2005,2,0,0,38.05805556,-83.97944444
+Kentucky,Lexington,Blue Grass,LEX,2005,1043,0,517195,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2005,404,0,572,36.96222222,-86.42222222
+Kentucky,Henderson,Henderson City - County,KY4,2005,1,0,0,37.80777778,-87.68555556
+Kentucky,Louisville,Standiford Field,SDF,2005,1032011,6326,1647984,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2005,0,0,0,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2005,13,0,25529,37.06111111,-88.7725
+Kentucky,Madisonville,Madisonville Municipal,KY5,2005,9,0,0,37.355,-87.39944444
+Kentucky,Hopkinsville,Campbell AAF,HOP,2005,1278,0,20598,36.67277778,-87.49166667
+Kentucky,Elizabethtown,Addington Field,EKX,2005,2,0,0,37.68694444,-85.92388889
+Kentucky,Glasgow,Glasgow Municipal,GLW,2005,10,0,0,37.03166667,-85.95361111
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2006,27602,923,7279732,39.04777778,-84.66861111
+Kentucky,Mount Sterling,Mount Sterling - Montgomery County,KY3,2006,1,0,0,38.05805556,-83.97944444
+Kentucky,Lexington,Blue Grass,LEX,2006,906,2,457508,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2006,318,0,260,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2006,1103397,6994,1588616,38.17972222,-85.73861111
+Kentucky,Georgetown,Marshall Field,DQP,2006,11,0,0,38.23638889,-89.35861111
+Kentucky,Paducah,Barkley Regional,PAH,2006,4,0,23863,37.06111111,-88.7725
+Kentucky,Madisonville,Madisonville Municipal,KY5,2006,0,0,0,37.355,-87.39944444
+Kentucky,Hopkinsville,Campbell AAF,HOP,2006,142,0,2102,36.67277778,-87.49166667
+Kentucky,Bardstown,Samuels Field,BRY,2006,1,0,0,37.81444444,-85.49972222
+Kentucky,Glasgow,Glasgow Municipal,GLW,2006,0,0,0,37.03166667,-85.95361111
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2007,25352,5,6625259,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,2007,1306,0,463193,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2007,15,0,362,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2007,1142096,18209,1674932,38.17972222,-85.73861111
+Kentucky,Paducah,Barkley Regional,PAH,2007,22,0,24245,37.06111111,-88.7725
+Kentucky,Madisonville,Madisonville Municipal,KY5,2007,3,0,0,37.355,-87.39944444
+Kentucky,Hopkinsville,Campbell AAF,HOP,2007,185,0,14214,36.67277778,-87.49166667
+Kentucky,Danville,Stuart Powell Field,KY1,2007,5,0,0,37.56861111,-84.77222222
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2008,25056,1,5491385,39.04777778,-84.66861111
+Kentucky,Frankfort,Capital City,FFT,2008,0,0,0,38.1825,-84.90472222
+Kentucky,Lexington,Blue Grass,LEX,2008,517,0,463858,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2008,15,0,474,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2008,1082715,39422,1651453,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2008,5,0,41,37.74083333,-87.16583333
+Kentucky,Georgetown,Marshall Field,DQP,2008,0,0,0,38.23638889,-89.35861111
+Kentucky,Paducah,Barkley Regional,PAH,2008,5,0,21532,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2008,412,0,18639,36.67277778,-87.49166667
+Kentucky,Elizabethtown,Addington Field,EKX,2008,0,0,1,37.68694444,-85.92388889
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2009,86127,1,3865468,39.04777778,-84.66861111
+Kentucky,Mount Sterling,Mount Sterling - Montgomery County,KY3,2009,0,0,4,38.05805556,-83.97944444
+Kentucky,Lexington,Blue Grass,LEX,2009,551,0,412146,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2009,0,0,729,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2009,1078534,38951,1419943,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2009,0,0,10033,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2009,6,0,18517,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2009,84,0,4267,36.67277778,-87.49166667
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2010,196026,3,3295719,39.04777778,-84.66861111
+Kentucky,Hopkinsville,Hopkinsville-Christian County,HVC,2010,7,0,0,36.85694444,-87.455
+Kentucky,Lexington,Blue Grass,LEX,2010,479,1,506492,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2010,27,0,403,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2010,1186648,44298,1410767,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2010,0,0,15544,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2010,0,0,19868,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2010,231,0,24803,36.67277778,-87.49166667
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,2010,1,0,0,37.08722222,-84.07694444
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2011,243155,779,3204259,39.04777778,-84.66861111
+Kentucky,Hopkinsville,Hopkinsville-Christian County,HVC,2011,17,0,0,36.85694444,-87.455
+Kentucky,Lexington,Blue Grass,LEX,2011,375,0,512513,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2011,277,0,702,36.96222222,-86.42222222
+Kentucky,Whitesburg,Whitesburg Municipal,BRG,2011,0,0,0,37.11666667,-82.81666667
+Kentucky,Louisville,Standiford Field,SDF,2011,1198541,43056,1413344,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2011,0,0,16852,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2011,2,0,17961,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2011,23,0,7309,36.67277778,-87.49166667
+Kentucky,Danville,Stuart Powell Field,KY1,2011,3,0,0,37.56861111,-84.77222222
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2012,260568,1177,2848012,39.04777778,-84.66861111
+Kentucky,Hopkinsville,Hopkinsville-Christian County,HVC,2012,80,0,0,36.85694444,-87.455
+Kentucky,Lexington,Blue Grass,LEX,2012,590,0,523139,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2012,283,0,692,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2012,1206950,39355,1541602,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2012,0,0,27158,37.74083333,-87.16583333
+Kentucky,Georgetown,Marshall Field,DQP,2012,1,0,0,38.23638889,-89.35861111
+Kentucky,Paducah,Barkley Regional,PAH,2012,0,0,20729,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2012,449,0,9960,36.67277778,-87.49166667
+Kentucky,Elizabethtown,Addington Field,EKX,2012,1,0,0,37.68694444,-85.92388889
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2013,284893,1416,2724663,39.04777778,-84.66861111
+Kentucky,Hopkinsville,Hopkinsville-Christian County,HVC,2013,234,0,0,36.85694444,-87.455
+Kentucky,Mount Sterling,Mount Sterling - Montgomery County,KY3,2013,0,0,2,38.05805556,-83.97944444
+Kentucky,Lexington,Blue Grass,LEX,2013,332,0,538367,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2013,610,0,845,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2013,1254327,36639,1667822,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2013,0,0,17872,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2013,0,0,20402,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2013,240,0,7495,36.67277778,-87.49166667
+Kentucky,Elizabethtown,Addington Field,EKX,2013,4,0,0,37.68694444,-85.92388889
+Kentucky,Danville,Stuart Powell Field,KY1,2013,0,0,0,37.56861111,-84.77222222
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2014,318853,7065,2809116,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,2014,834,0,594652,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2014,89,0,873,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2014,1308728,38221,1634626,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2014,0,0,18398,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2014,0,0,20854,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2014,387,0,5123,36.67277778,-87.49166667
+Kentucky,Elizabethtown,Addington Field,EKX,2014,122,0,0,37.68694444,-85.92388889
+Kentucky,Bardstown,Samuels Field,BRY,2014,0,0,0,37.81444444,-85.49972222
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2015,414694,5161,2977217,39.04777778,-84.66861111
+Kentucky,Hopkinsville,Hopkinsville-Christian County,HVC,2015,0,0,0,36.85694444,-87.455
+Kentucky,Mount Sterling,Mount Sterling - Montgomery County,KY3,2015,0,0,0,38.05805556,-83.97944444
+Kentucky,Lexington,Blue Grass,LEX,2015,460,1,606690,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2015,387,0,1122,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2015,1287174,44199,1568669,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2015,0,0,18095,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2015,0,0,21027,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2015,1285,0,3488,36.67277778,-87.49166667
+Kentucky,Elizabethtown,Addington Field,EKX,2015,5,0,0,37.68694444,-85.92388889
+Kentucky,Danville,Stuart Powell Field,KY1,2015,4,0,0,37.56861111,-84.77222222
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2016,490434,1555,3207832,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,2016,451,1,637705,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2016,903,0,1002,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2016,1339796,45785,1546463,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2016,0,0,19556,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2016,0,0,20230,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2016,1187,0,5124,36.67277778,-87.49166667
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2017,583780,1257,3730260,39.04777778,-84.66861111
+Kentucky,Frankfort,Capital City,FFT,2017,0,0,1,38.1825,-84.90472222
+Kentucky,Lexington,Blue Grass,LEX,2017,306,0,626040,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2017,11,0,979,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2017,1408956,59150,1613605,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2017,1,0,14773,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2017,1,0,20908,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2017,236,0,1740,36.67277778,-87.49166667
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,2017,0,0,0,37.08722222,-84.07694444
+Kentucky,Elizabethtown,Addington Field,EKX,2017,5,0,0,37.68694444,-85.92388889
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2018,681695,931,4209601,39.04777778,-84.66861111
+Kentucky,Frankfort,Capital City,FFT,2018,0,0,3,38.1825,-84.90472222
+Kentucky,Lexington,Blue Grass,LEX,2018,281,0,627175,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2018,0,0,1125,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2018,1407028,57666,1780544,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2018,0,0,14140,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2018,0,0,20899,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2018,570,0,5944,36.67277778,-87.49166667
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,2018,1,0,0,37.08722222,-84.07694444
+Kentucky,Elizabethtown,Addington Field,EKX,2018,1,0,0,37.68694444,-85.92388889
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2019,740974,1637,4339143,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,2019,355,0,645631,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2019,21,0,965,36.96222222,-86.42222222
+Kentucky,Whitesburg,Whitesburg Municipal,BRG,2019,0,0,2,37.11666667,-82.81666667
+Kentucky,Louisville,Standiford Field,SDF,2019,1522752,58009,1938764,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2019,0,0,13393,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2019,0,0,17966,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2019,852,0,5261,36.67277778,-87.49166667
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2020,780837,7420,1710349,39.04777778,-84.66861111
+Kentucky,Frankfort,Capital City,FFT,2020,0,0,2,38.1825,-84.90472222
+Kentucky,Lexington,Blue Grass,LEX,2020,300,0,257920,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2020,12,0,709,36.96222222,-86.42222222
+Kentucky,Whitesburg,Whitesburg Municipal,BRG,2020,0,0,0,37.11666667,-82.81666667
+Kentucky,Louisville,Standiford Field,SDF,2020,1604112,71365,764372,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2020,0,0,6981,37.74083333,-87.16583333
+Kentucky,Georgetown,Marshall Field,DQP,2020,0,0,0,38.23638889,-89.35861111
+Kentucky,Paducah,Barkley Regional,PAH,2020,0,0,6549,37.06111111,-88.7725
+Kentucky,Murray,Kyle Oakley Field Airport,CEY,2020,0,0,10,36.6646004,-88.3728027
+Kentucky,Hopkinsville,Campbell AAF,HOP,2020,462,0,6919,36.67277778,-87.49166667
+Kentucky,Elizabethtown,Addington Field,EKX,2020,0,0,0,37.68694444,-85.92388889
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2021,730437,3696,3040778,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,2021,138,0,464126,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2021,12,0,1735,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2021,1661423,98018,1529270,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2021,2,0,9426,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2021,0,0,13612,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2021,209,0,1483,36.67277778,-87.49166667
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,2021,0,0,15,37.08722222,-84.07694444
+Kentucky,Danville,Stuart Powell Field,KY1,2021,0,0,7,37.56861111,-84.77222222
+Kentucky,Cincinnati,Cincinnati/Northern Kentucky International,CVG,2022,538272,2006,2715019,39.04777778,-84.66861111
+Kentucky,Lexington,Blue Grass,LEX,2022,56,1,428748,38.03972222,-84.60222222
+Kentucky,Bowling Green,Bowling Green-Warren County Regional,BWG,2022,22,0,146,36.96222222,-86.42222222
+Kentucky,Louisville,Standiford Field,SDF,2022,1206840,87128,1406579,38.17972222,-85.73861111
+Kentucky,Owensboro,Owensboro Daviess County,OWB,2022,0,0,7892,37.74083333,-87.16583333
+Kentucky,Paducah,Barkley Regional,PAH,2022,0,0,11233,37.06111111,-88.7725
+Kentucky,Hopkinsville,Campbell AAF,HOP,2022,405,0,7002,36.67277778,-87.49166667
+Kentucky,Somerset,Somerset/Pulaski Co/Wilson,SME,2022,0,0,2,37.05444444,-84.61444444
+Kentucky,London/Corbin,Roscoe E. Magee Memorial,LOZ,2022,2,0,5,37.08722222,-84.07694444

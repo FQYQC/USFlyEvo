@@ -1,0 +1,305 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Kansas,Pittsburg,Atkinson Municipal,PTS,1990,0,0,200,37.44666667,-94.73055556
+Kansas,Wichita,Wichita Mid-Continent,ICT,1990,1751983,5856635,561432,37.65,-97.43277778
+Kansas,Wichita,Wichita Mid-Continent,ICT,1991,10740,2529,534469,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,1991,0,0,0,37.62305556,-97.26722222
+Kansas,Topeka,Forbes AFB,FOE,1991,7,0,10943,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,1991,58,0,0,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,1991,0,0,72,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,1991,0,0,1089,39.14222222,-96.66888889
+Kansas,Great Bend,Great Bend Municipal,GBD,1991,1,0,0,38.34722222,-98.86416667
+Kansas,Hutchinson,Hutchinson Municipal,HUT,1991,0,0,0,38.06805556,-97.86111111
+Kansas,Salina,Salina Municipal,SLN,1991,0,0,208,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,1992,12341,2920,572770,37.65,-97.43277778
+Kansas,Winfield,Strother Field,WLD,1992,0,0,0,37.16694444,-97.05027778
+Kansas,Wichita,McConnell AFB,IAB,1992,0,0,67,37.62305556,-97.26722222
+Kansas,Dodge City,Dodge City Regional,DDC,1992,3,0,0,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,1992,0,0,13058,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,1992,63,0,179,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,1992,0,0,554,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,1992,0,0,922,39.14222222,-96.66888889
+Kansas,Salina,Salina Municipal,SLN,1992,0,0,0,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,1993,11629,3071,565551,37.65,-97.43277778
+Kansas,Winfield,Strother Field,WLD,1993,0,0,0,37.16694444,-97.05027778
+Kansas,Wichita,McConnell AFB,IAB,1993,108,0,110,37.62305556,-97.26722222
+Kansas,Pittsburg,Atkinson Municipal,PTS,1993,143,0,0,37.44666667,-94.73055556
+Kansas,Dodge City,Dodge City Regional,DDC,1993,1,0,150,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,1993,0,0,10877,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,1993,83,0,481,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,1993,1,0,1025,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,1993,0,0,3201,39.14222222,-96.66888889
+Kansas,Salina,Salina Municipal,SLN,1993,1,0,1124,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,1994,10765,2950,504870,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,1994,69,0,187,37.62305556,-97.26722222
+Kansas,Topeka,Forbes AFB,FOE,1994,0,0,8016,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,1994,98,0,751,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,1994,0,0,1163,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,1994,0,0,1891,39.14222222,-96.66888889
+Kansas,Salina,Salina Municipal,SLN,1994,495,0,1295,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,1995,9432,2892,606239,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,1995,79,0,3410,37.62305556,-97.26722222
+Kansas,Goodland,Renner Field,GLD,1995,2,0,473,39.37027778,-101.6994444
+Kansas,Dodge City,Dodge City Regional,DDC,1995,0,0,1347,37.76166667,-99.965
+Kansas,McPherson,McPherson Airport,MPR,1995,0,0,185,38.35527778,-97.69138889
+Kansas,Topeka,Forbes AFB,FOE,1995,11,0,7760,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,1995,106,0,3934,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,1995,1,0,4121,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,1995,0,0,1869,39.14222222,-96.66888889
+Kansas,Great Bend,Great Bend Municipal,GBD,1995,0,0,224,38.34722222,-98.86416667
+Kansas,Hays,Hays Municipal,HYS,1995,2,0,1075,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,1995,0,0,2505,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,1996,10226,3290,678337,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,1996,164,0,92,37.62305556,-97.26722222
+Kansas,Goodland,Renner Field,GLD,1996,0,0,232,39.37027778,-101.6994444
+Kansas,Dodge City,Dodge City Regional,DDC,1996,2,0,0,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,1996,0,0,10581,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,1996,111,0,7552,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,1996,1,0,5854,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,1996,14,0,1541,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,1996,0,0,391,38.84611111,-99.27416667
+Kansas,Hutchinson,Hutchinson Municipal,HUT,1996,0,0,0,38.06805556,-97.86111111
+Kansas,Salina,Salina Municipal,SLN,1996,0,0,840,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,1997,16882,2569,616205,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,1997,235,0,101,37.62305556,-97.26722222
+Kansas,Goodland,Renner Field,GLD,1997,0,0,0,39.37027778,-101.6994444
+Kansas,Dodge City,Dodge City Regional,DDC,1997,0,0,0,37.76166667,-99.965
+Kansas,McPherson,McPherson Airport,MPR,1997,0,0,39,38.35527778,-97.69138889
+Kansas,Topeka,Forbes AFB,FOE,1997,0,0,7911,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,1997,170,0,3945,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,1997,2,0,2912,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,1997,0,0,2710,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,1997,0,0,50,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,1997,10,0,1707,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,1998,17997,2390,568864,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,1998,111,0,0,37.62305556,-97.26722222
+Kansas,Goodland,Renner Field,GLD,1998,0,0,0,39.37027778,-101.6994444
+Kansas,Dodge City,Dodge City Regional,DDC,1998,1,0,0,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,1998,10,0,4660,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,1998,205,0,120,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,1998,3,0,670,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,1998,0,0,2216,39.14222222,-96.66888889
+Kansas,Salina,Salina Municipal,SLN,1998,0,0,2225,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,1999,21085,2444,536680,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,1999,36,0,0,37.62305556,-97.26722222
+Kansas,Goodland,Renner Field,GLD,1999,17,0,0,39.37027778,-101.6994444
+Kansas,Dodge City,Dodge City Regional,DDC,1999,1,0,0,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,1999,0,0,8600,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,1999,228,0,583,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,1999,1,0,960,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,1999,0,0,2924,39.14222222,-96.66888889
+Kansas,Hutchinson,Hutchinson Municipal,HUT,1999,5,0,0,38.06805556,-97.86111111
+Kansas,Salina,Salina Municipal,SLN,1999,1,0,1992,38.79083333,-97.6525
+Kansas,Newton,Newton City County,EWK,2000,0,0,0,38.05527778,-97.27611111
+Kansas,Wichita,Wichita Mid-Continent,ICT,2000,26025,2614,535723,37.65,-97.43277778
+Kansas,Goodland,Renner Field,GLD,2000,58,0,0,39.37027778,-101.6994444
+Kansas,Dodge City,Dodge City Regional,DDC,2000,0,0,64,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,2000,0,0,6161,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2000,235,0,781,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2000,0,0,1067,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2000,1,0,2747,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2000,0,0,0,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,2000,78,0,7759,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2001,17283,1931,478331,37.65,-97.43277778
+Kansas,Independence,Independence Municipal,IDP,2001,6,0,0,37.15833333,-95.77833333
+Kansas,Goodland,Renner Field,GLD,2001,0,0,0,39.37027778,-101.6994444
+Kansas,Topeka,Forbes AFB,FOE,2001,0,0,7508,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2001,213,0,954,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2001,0,0,556,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2001,0,0,2222,39.14222222,-96.66888889
+Kansas,Hutchinson,Hutchinson Municipal,HUT,2001,1,0,0,38.06805556,-97.86111111
+Kansas,Salina,Salina Municipal,SLN,2001,57,15,4286,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2002,20267,559,443274,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2002,1,0,0,37.62305556,-97.26722222
+Kansas,Goodland,Renner Field,GLD,2002,196,0,0,39.37027778,-101.6994444
+Kansas,Dodge City,Dodge City Regional,DDC,2002,2,0,0,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,2002,0,0,6324,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2002,232,0,619,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2002,0,0,989,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2002,0,0,4748,39.14222222,-96.66888889
+Kansas,Salina,Salina Municipal,SLN,2002,26,0,1148,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2003,17304,73,557410,37.65,-97.43277778
+Kansas,Topeka,Forbes AFB,FOE,2003,61,1,10041,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2003,241,0,521,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2003,2,0,1093,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2003,0,0,6084,39.14222222,-96.66888889
+Kansas,Salina,Salina Municipal,SLN,2003,13,0,2862,38.79083333,-97.6525
+Kansas,Newton,Newton City County,EWK,2004,0,0,0,38.05527778,-97.27611111
+Kansas,Wichita,Wichita Mid-Continent,ICT,2004,17630,25,668056,37.65,-97.43277778
+Kansas,Topeka,Forbes AFB,FOE,2004,113,0,7006,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2004,232,0,652,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2004,0,0,815,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2004,0,0,4649,39.14222222,-96.66888889
+Kansas,Hutchinson,Hutchinson Municipal,HUT,2004,0,0,130,38.06805556,-97.86111111
+Kansas,Salina,Salina Municipal,SLN,2004,0,1,1988,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2005,17080,29,686847,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2005,17,0,107,37.62305556,-97.26722222
+Kansas,Topeka,Forbes AFB,FOE,2005,208,0,7291,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2005,239,0,696,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2005,0,0,968,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2005,0,0,4388,39.14222222,-96.66888889
+Kansas,Salina,Salina Municipal,SLN,2005,1,0,341,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2006,15470,0,679025,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2006,12,0,98,37.62305556,-97.26722222
+Kansas,Topeka,Forbes AFB,FOE,2006,82,0,17762,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2006,231,0,915,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2006,0,0,119,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2006,0,0,4023,39.14222222,-96.66888889
+Kansas,Burlington,Coffey County,KS2,2006,1,0,0,38.3025,-95.725
+Kansas,Salina,Salina Municipal,SLN,2006,19,0,354,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2007,14320,2,747548,37.65,-97.43277778
+Kansas,Independence,Independence Municipal,IDP,2007,0,0,57,37.15833333,-95.77833333
+Kansas,Wichita,McConnell AFB,IAB,2007,75,0,270,37.62305556,-97.26722222
+Kansas,Goodland,Renner Field,GLD,2007,22,0,0,39.37027778,-101.6994444
+Kansas,Topeka,Forbes AFB,FOE,2007,89,0,24291,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2007,219,0,1313,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2007,0,0,0,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2007,0,0,2681,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2007,23,0,0,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,2007,0,0,645,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2008,12037,1,755415,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2008,327,0,116,37.62305556,-97.26722222
+Kansas,Dodge City,Dodge City Regional,DDC,2008,1,0,0,37.76166667,-99.965
+Kansas,McPherson,McPherson Airport,MPR,2008,0,0,1224,38.35527778,-97.69138889
+Kansas,Topeka,Forbes AFB,FOE,2008,103,0,14768,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2008,203,0,773,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2008,0,0,447,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2008,0,0,4311,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2008,39,0,0,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,2008,15,4,979,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2009,10268,1,712769,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2009,500,0,127,37.62305556,-97.26722222
+Kansas,Olathe,Johnson County Industrial,JCI,2009,0,0,0,38.83083333,-94.89027778
+Kansas,Dodge City,Dodge City Regional,DDC,2009,0,0,0,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,2009,9,0,11959,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2009,209,0,974,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2009,0,0,303,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2009,0,0,15510,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2009,0,0,0,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,2009,30,0,165,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2010,10341,2,747033,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2010,621,0,138,37.62305556,-97.26722222
+Kansas,Dodge City,Dodge City Regional,DDC,2010,4,0,0,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,2010,51,0,15099,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2010,224,0,844,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2010,0,0,494,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2010,0,0,43223,39.14222222,-96.66888889
+Kansas,Salina,Salina Municipal,SLN,2010,11,0,1226,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2011,9929,2,738677,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2011,980,0,382,37.62305556,-97.26722222
+Kansas,Lawrence,Lawrence Municipal,LWC,2011,0,0,5,39.00916667,-95.2175
+Kansas,Hiawatha,Hiawatha Municipal,KS3,2011,0,0,7,39.87805556,-95.5225
+Kansas,McPherson,McPherson Airport,MPR,2011,0,0,0,38.35527778,-97.69138889
+Kansas,Topeka,Forbes AFB,FOE,2011,44,0,6992,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2011,206,0,866,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2011,0,0,222,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2011,7,0,58347,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2011,0,0,60,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,2011,0,0,154,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2012,9820,0,734098,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2012,1904,0,93,37.62305556,-97.26722222
+Kansas,Topeka,Forbes AFB,FOE,2012,319,0,8456,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2012,185,0,15331,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2012,1,0,205,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2012,6,0,68848,39.14222222,-96.66888889
+Kansas,Hutchinson,Hutchinson Municipal,HUT,2012,1,0,0,38.06805556,-97.86111111
+Kansas,Salina,Salina Municipal,SLN,2012,0,0,200,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2013,9913,0,735583,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2013,3999,0,43,37.62305556,-97.26722222
+Kansas,Goodland,Renner Field,GLD,2013,1,0,0,39.37027778,-101.6994444
+Kansas,Lawrence,Lawrence Municipal,LWC,2013,0,0,0,39.00916667,-95.2175
+Kansas,Dodge City,Dodge City Regional,DDC,2013,2,0,0,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,2013,275,0,9253,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2013,183,0,24378,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2013,0,0,115,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2013,4,0,65582,39.14222222,-96.66888889
+Kansas,Salina,Salina Municipal,SLN,2013,0,0,169,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2014,10382,0,721713,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2014,7106,0,0,37.62305556,-97.26722222
+Kansas,Topeka,Forbes AFB,FOE,2014,568,0,21701,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2014,200,0,26426,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2014,0,0,159,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2014,4,0,65548,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2014,0,0,4381,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,2014,0,0,329,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2015,10328,0,760524,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2015,3929,0,279,37.62305556,-97.26722222
+Kansas,Topeka,Forbes AFB,FOE,2015,169,0,4934,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2015,207,0,26716,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2015,2,0,43,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2015,7,0,66231,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2015,0,0,8151,38.84611111,-99.27416667
+Kansas,Hutchinson,Hutchinson Municipal,HUT,2015,0,0,0,38.06805556,-97.86111111
+Kansas,Salina,Salina Municipal,SLN,2015,921,0,8935,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2016,9325,17,765688,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2016,3704,0,0,37.62305556,-97.26722222
+Kansas,Dodge City,Dodge City Regional,DDC,2016,2,0,0,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,2016,629,0,6049,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2016,201,0,26753,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2016,3,0,0,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2016,14,0,63354,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2016,0,0,8265,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,2016,3,0,657,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2017,9463,3,773860,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2017,4026,0,216,37.62305556,-97.26722222
+Kansas,Wichita,Colonel James Jabara,VWS,2017,0,0,3,37.7475,-97.22111111
+Kansas,Olathe,Johnson County Industrial,JCI,2017,0,0,7,38.83083333,-94.89027778
+Kansas,Topeka,Forbes AFB,FOE,2017,9,0,4899,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2017,199,0,26687,37.92861111,-100.7297222
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2017,10,0,68679,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2017,0,0,9460,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,2017,545,0,4914,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2018,10297,1,785356,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2018,4405,0,0,37.62305556,-97.26722222
+Kansas,Dodge City,Dodge City Regional,DDC,2018,1,0,0,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,2018,2,0,3046,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2018,196,0,25084,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2018,1,0,5169,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2018,11,0,72696,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2018,0,0,11991,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,2018,194,0,14204,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2019,10543,0,839968,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2019,4924,0,0,37.62305556,-97.26722222
+Kansas,Dodge City,Dodge City Regional,DDC,2019,0,0,0,37.76166667,-99.965
+Kansas,Hiawatha,Hiawatha Municipal,KS3,2019,0,0,3,39.87805556,-95.5225
+Kansas,Topeka,Forbes AFB,FOE,2019,463,0,11437,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2019,160,0,25056,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2019,2,0,6902,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2019,14,0,81291,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2019,0,0,14758,38.84611111,-99.27416667
+Kansas,Hutchinson,Hutchinson Municipal,HUT,2019,2,0,8,38.06805556,-97.86111111
+Kansas,Salina,Salina Municipal,SLN,2019,75,0,15928,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2020,12282,2,378321,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2020,3633,0,93,37.62305556,-97.26722222
+Kansas,Dodge City,Dodge City Regional,DDC,2020,1,0,2269,37.76166667,-99.965
+Kansas,Topeka,Forbes AFB,FOE,2020,7,0,2797,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2020,160,0,16413,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2020,2,0,2926,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2020,37,0,36640,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2020,0,0,5388,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,2020,607,0,10561,38.79083333,-97.6525
+Kansas,Newton,Newton City County,EWK,2021,0,0,2,38.05527778,-97.27611111
+Kansas,Wichita,Wichita Mid-Continent,ICT,2021,13708,0,633474,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2021,1781,0,128,37.62305556,-97.26722222
+Kansas,Wichita,Colonel James Jabara,VWS,2021,0,0,25,37.7475,-97.22111111
+Kansas,Goodland,Renner Field,GLD,2021,2,0,0,39.37027778,-101.6994444
+Kansas,Olathe,Johnson County Industrial,JCI,2021,0,0,13,38.83083333,-94.89027778
+Kansas,Dodge City,Dodge City Regional,DDC,2021,0,0,8243,37.76166667,-99.965
+Kansas,Hiawatha,Hiawatha Municipal,KS3,2021,0,0,2,39.87805556,-95.5225
+Kansas,Topeka,Forbes AFB,FOE,2021,713,0,8369,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2021,171,0,28519,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2021,0,0,6653,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2021,11,0,60024,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2021,0,0,11081,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,2021,89,0,19407,38.79083333,-97.6525
+Kansas,Wichita,Wichita Mid-Continent,ICT,2022,10229,0,560006,37.65,-97.43277778
+Kansas,Wichita,McConnell AFB,IAB,2022,993,0,0,37.62305556,-97.26722222
+Kansas,Wichita,Colonel James Jabara,VWS,2022,0,0,1,37.7475,-97.22111111
+Kansas,Lawrence,Lawrence Municipal,LWC,2022,0,0,4,39.00916667,-95.2175
+Kansas,Dodge City,Dodge City Regional,DDC,2022,0,0,4948,37.76166667,-99.965
+Kansas,Hiawatha,Hiawatha Municipal,KS3,2022,0,0,2,39.87805556,-95.5225
+Kansas,Topeka,Forbes AFB,FOE,2022,81,0,5939,38.9525,-95.6625
+Kansas,Garden City,Garden City Municipal,GCK,2022,130,0,22242,37.92861111,-100.7297222
+Kansas,Liberal,Liberal Municipal,LBL,2022,0,0,6002,37.04444444,-100.9605556
+Kansas,Manhattan/Ft. Riley,Manhattan Regional,MHK,2022,22,0,56555,39.14222222,-96.66888889
+Kansas,Hays,Hays Municipal,HYS,2022,0,0,7814,38.84611111,-99.27416667
+Kansas,Salina,Salina Municipal,SLN,2022,0,0,16078,38.79083333,-97.6525

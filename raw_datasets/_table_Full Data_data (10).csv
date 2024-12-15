@@ -1,0 +1,620 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Georgia,Augusta,Bush Field,AGS,1990,293668,24266,150975,33.36916667,-81.96444444
+Georgia,Columbus,Columbus Metropolitan,CSG,1990,213559,14882,45403,32.51611111,-84.93888889
+Georgia,Brunswick,Glynco Jetport,BQK,1990,64550,0,0,31.25888889,-81.46638889
+Georgia,Macon,Middle Georgia Regional,MCN,1990,0,0,0,32.69583333,-83.64916667
+Georgia,Savannah,Savannah/Hilton Head International,SAV,1990,557731,1537858,520751,32.1275,-81.2025
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,1990,335089724,186038814,22981433,33.64083333,-84.42722222
+Georgia,Columbus,Columbus Metropolitan,CSG,1991,85,1,55394,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,1991,0,0,26,33.875,-84.30222222
+Georgia,Athens,Athens Municipal,AHN,1991,0,0,8,33.94833333,-83.32694444
+Georgia,Columbus,Lawson AAF,LSF,1991,44,0,10064,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,1991,1398,420,479970,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,1991,9,0,0,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,1991,2928,0,0,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,1991,0,0,145,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,1991,177,12,181312,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,1991,175742,88361,17737292,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,1991,0,0,99,30.78222222,-83.27694444
+Georgia,Savannah,Hunter AAF,SVN,1991,0,0,6126,32.01,-81.14583333
+Georgia,Valdosta,Moody AFB,VAD,1991,0,0,536,30.96833333,-83.19305556
+Georgia,Dublin,W H Bud Barron,DBN,1991,0,0,55,32.56416667,-82.98666667
+Georgia,Macon,Robins AFB,WRB,1991,1315,0,44,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,1991,0,0,293,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,1992,99,5,52179,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,1992,0,0,311,33.875,-84.30222222
+Georgia,Americus,Souther Field,VWT,1992,1,0,0,32.11166667,-84.18833333
+Georgia,Columbus,Lawson AAF,LSF,1992,101,0,7691,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,1992,1624,394,485988,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,1992,2,0,186,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,1992,312,0,80,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,1992,14,0,148,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,1992,165,15,194320,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,1992,163962,101405,19705107,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,1992,0,0,158,30.78222222,-83.27694444
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,1992,9,0,17,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,1992,0,0,5685,32.01,-81.14583333
+Georgia,Valdosta,Moody AFB,VAD,1992,0,0,289,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,1992,3244,0,4,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,1992,0,0,252,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,1993,148,1,75198,32.51611111,-84.93888889
+Georgia,Pine Mountain,Harris County,PIM,1993,0,0,0,32.84055556,-84.8825
+Georgia,Athens,Athens Municipal,AHN,1993,0,0,106,33.94833333,-83.32694444
+Georgia,Columbus,Lawson AAF,LSF,1993,0,0,5362,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,1993,1786,468,448337,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,1993,14,0,15451,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,1993,314,0,20216,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,1993,4,0,11117,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,1993,130,7,208315,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,1993,177417,113179,22295205,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,1993,2,0,9598,30.78222222,-83.27694444
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,1993,5,0,0,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,1993,81,0,15628,32.01,-81.14583333
+Georgia,Valdosta,Moody AFB,VAD,1993,0,0,164,30.96833333,-83.19305556
+Georgia,Dalton,Dalton Municipal,DNN,1993,0,0,0,34.72194444,-84.86916667
+Georgia,Brunswick,Malcolm McKinnon,SSI,1993,28,0,0,31.15055556,-81.38944444
+Georgia,Macon,Robins AFB,WRB,1993,30,0,0,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,1993,10,0,658,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,1994,758,2,90055,32.51611111,-84.93888889
+Georgia,Athens,Athens Municipal,AHN,1994,0,0,143,33.94833333,-83.32694444
+Georgia,Columbus,Lawson AAF,LSF,1994,7,0,4628,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,1994,1932,956,537221,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,1994,14,0,27659,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,1994,386,25,37222,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,1994,10,0,21445,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,1994,153,3,197223,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,1994,198483,118551,25694692,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,1994,9,0,19306,30.78222222,-83.27694444
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,1994,0,0,0,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,1994,0,0,5259,32.01,-81.14583333
+Georgia,Moultrie/Thomasville,Moultrie Thomasville,MGR,1994,0,0,148,31.06944444,-83.80277778
+Georgia,Valdosta,Moody AFB,VAD,1994,0,0,275,30.96833333,-83.19305556
+Georgia,Dalton,Dalton Municipal,DNN,1994,4,0,0,34.72194444,-84.86916667
+Georgia,Macon,Robins AFB,WRB,1994,56,0,0,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,1994,0,0,849,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,1995,841,0,77703,32.51611111,-84.93888889
+Georgia,Athens,Athens Municipal,AHN,1995,0,0,261,33.94833333,-83.32694444
+Georgia,Columbus,Lawson AAF,LSF,1995,0,0,4498,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,1995,1509,1251,555564,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,1995,19,0,27284,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,1995,498,0,36646,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,1995,7,0,21024,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,1995,96,1,161642,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,1995,206583,131210,27561073,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,1995,14,0,22560,30.78222222,-83.27694444
+Georgia,Rome,Richard B Russell,RMG,1995,0,0,101,34.35138889,-85.15861111
+Georgia,Savannah,Hunter AAF,SVN,1995,0,0,15615,32.01,-81.14583333
+Georgia,Valdosta,Moody AFB,VAD,1995,0,0,1072,30.96833333,-83.19305556
+Georgia,Dalton,Dalton Municipal,DNN,1995,5,0,0,34.72194444,-84.86916667
+Georgia,Macon,Robins AFB,WRB,1995,54,0,0,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,1995,0,0,944,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,1996,710,0,75715,32.51611111,-84.93888889
+Georgia,Athens,Athens Municipal,AHN,1996,0,0,559,33.94833333,-83.32694444
+Georgia,Columbus,Lawson AAF,LSF,1996,0,0,6906,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,1996,1593,990,594214,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,1996,16,0,32577,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,1996,347,0,38439,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,1996,5,0,18423,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,1996,86,1,155945,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,1996,229407,131566,30407111,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,1996,9,0,22482,30.78222222,-83.27694444
+Georgia,Thomasville,Thomasville Regional,TVI,1996,2,0,0,30.90138889,-83.88138889
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,1996,0,0,50,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,1996,0,0,8112,32.01,-81.14583333
+Georgia,Valdosta,Moody AFB,VAD,1996,0,0,466,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,1996,0,0,1095,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,1996,0,0,655,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,1997,545,0,71805,32.51611111,-84.93888889
+Georgia,Athens,Athens Municipal,AHN,1997,0,0,139,33.94833333,-83.32694444
+Georgia,LaGrange,Callaway,LGC,1997,1,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,1997,320,0,5585,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,1997,1622,853,604143,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,1997,10,0,26743,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,1997,10575,0,36011,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,1997,1,0,18725,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,1997,103,1,169449,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,1997,267881,138706,32693206,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,1997,21,0,25634,30.78222222,-83.27694444
+Georgia,Savannah,Hunter AAF,SVN,1997,0,0,10385,32.01,-81.14583333
+Georgia,Valdosta,Moody AFB,VAD,1997,0,0,418,30.96833333,-83.19305556
+Georgia,Dalton,Dalton Municipal,DNN,1997,0,0,0,34.72194444,-84.86916667
+Georgia,Macon,Robins AFB,WRB,1997,250,0,0,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,1997,0,0,614,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,1998,773,0,64974,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,1998,0,0,0,33.875,-84.30222222
+Georgia,Gainesville,Gainesville Municipal,GVL,1998,4,0,0,34.27305556,-83.82916667
+Georgia,Marietta,Dobbins ARB,NCQ,1998,0,0,181,33.91527778,-84.51638889
+Georgia,Athens,Athens Municipal,AHN,1998,0,0,230,33.94833333,-83.32694444
+Georgia,LaGrange,Callaway,LGC,1998,0,0,0,33.00861111,-85.07277778
+Georgia,Winder,Winder Barrow,WDR,1998,0,0,0,33.98305556,-83.6675
+Georgia,Columbus,Lawson AAF,LSF,1998,32,0,5793,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,1998,1730,588,671462,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,1998,7,0,24976,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,1998,14688,0,39674,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,1998,72,0,20993,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,1998,102,0,174811,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,1998,287368,127573,34950624,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,1998,15,0,29934,30.78222222,-83.27694444
+Georgia,Savannah,Hunter AAF,SVN,1998,91,0,9896,32.01,-81.14583333
+Georgia,Moultrie/Thomasville,Moultrie Thomasville,MGR,1998,0,0,0,31.06944444,-83.80277778
+Georgia,Valdosta,Moody AFB,VAD,1998,69,0,831,30.96833333,-83.19305556
+Georgia,Dalton,Dalton Municipal,DNN,1998,2,0,0,34.72194444,-84.86916667
+Georgia,Dublin,W H Bud Barron,DBN,1998,9,0,0,32.56416667,-82.98666667
+Georgia,Macon,Robins AFB,WRB,1998,0,0,59,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,1998,0,0,165,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,1999,602,0,67827,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,1999,1,0,0,33.875,-84.30222222
+Georgia,Gainesville,Gainesville Municipal,GVL,1999,2,0,0,34.27305556,-83.82916667
+Georgia,Columbus,Lawson AAF,LSF,1999,19,0,4074,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,1999,1940,591,664341,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,1999,12,0,30206,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,1999,15510,0,43830,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,1999,1,0,24486,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,1999,87,0,174477,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,1999,269057,124108,37232485,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,1999,17,0,32692,30.78222222,-83.27694444
+Georgia,Waycross,Waycross Ga,AYS,1999,8,0,0,31.24916667,-82.39555556
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,1999,0,0,0,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,1999,30,0,12072,32.01,-81.14583333
+Georgia,Valdosta,Moody AFB,VAD,1999,0,0,71,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,1999,0,0,0,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,1999,21,0,2048,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2000,552,0,63179,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2000,2,0,0,33.875,-84.30222222
+Georgia,Gainesville,Gainesville Municipal,GVL,2000,1,0,0,34.27305556,-83.82916667
+Georgia,LaGrange,Callaway,LGC,2000,3,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2000,0,0,3772,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2000,2458,523,770877,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2000,13,0,27785,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2000,16639,0,39399,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2000,2,0,20980,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2000,153,0,171210,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2000,252287,119652,38261889,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2000,10,0,33225,30.78222222,-83.27694444
+Georgia,Waycross,Waycross Ga,AYS,2000,1,0,0,31.24916667,-82.39555556
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2000,3,0,0,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2000,0,0,9768,32.01,-81.14583333
+Georgia,Valdosta,Moody AFB,VAD,2000,0,0,86,30.96833333,-83.19305556
+Georgia,Marietta,Dobbins AFB,MGE,2000,27,0,0,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2001,418,0,56369,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2001,2,0,0,33.875,-84.30222222
+Georgia,Pine Mountain,Harris County,PIM,2001,330,0,0,32.84055556,-84.8825
+Georgia,Athens,Athens Municipal,AHN,2001,0,0,320,33.94833333,-83.32694444
+Georgia,LaGrange,Callaway,LGC,2001,0,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2001,0,0,5905,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2001,1168,385,748639,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2001,3,0,25967,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2001,25542,0,34599,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2001,3,0,18652,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2001,37,0,133935,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2001,286907,82390,36384264,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2001,6,0,29932,30.78222222,-83.27694444
+Georgia,Bainbridge,Decatur County Industrial Air Park,BGE,2001,0,0,0,30.97166667,-84.6375
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2001,0,0,0,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2001,0,0,6691,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2001,0,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2001,0,0,0,30.96833333,-83.19305556
+Georgia,Brunswick,Malcolm McKinnon,SSI,2001,0,0,0,31.15055556,-81.38944444
+Georgia,Macon,Robins AFB,WRB,2001,0,0,156,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,2001,0,0,50,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2002,229,1,57998,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2002,5,0,0,33.875,-84.30222222
+Georgia,Gainesville,Gainesville Municipal,GVL,2002,0,0,0,34.27305556,-83.82916667
+Georgia,Athens,Athens Municipal,AHN,2002,0,0,707,33.94833333,-83.32694444
+Georgia,LaGrange,Callaway,LGC,2002,0,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2002,45,0,1475,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2002,1762,311,721021,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2002,2,0,30088,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2002,12181,0,35087,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2002,0,0,27045,31.25888889,-81.46638889
+Georgia,Cartersville,Cartersville Airport,VPC,2002,3,0,0,34.12305556,-84.84861111
+Georgia,Augusta,Bush Field,AGS,2002,22,0,125944,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2002,257616,52583,37096915,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2002,15,0,30668,30.78222222,-83.27694444
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2002,0,0,0,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2002,261,0,11843,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2002,0,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2002,0,0,205,30.96833333,-83.19305556
+Georgia,Dalton,Dalton Municipal,DNN,2002,0,0,0,34.72194444,-84.86916667
+Georgia,Macon,Robins AFB,WRB,2002,42,0,297,32.64,-83.59194444
+Georgia,Columbus,Columbus Metropolitan,CSG,2003,61,0,54874,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2003,2,0,0,33.875,-84.30222222
+Georgia,Gainesville,Gainesville Municipal,GVL,2003,0,0,0,34.27305556,-83.82916667
+Georgia,Marietta,Dobbins ARB,NCQ,2003,0,0,41,33.91527778,-84.51638889
+Georgia,Athens,Athens Municipal,AHN,2003,0,0,652,33.94833333,-83.32694444
+Georgia,Statesboro,Statesboro Municipal,TBR,2003,1,0,0,32.48333333,-81.73777778
+Georgia,LaGrange,Callaway,LGC,2003,3,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2003,0,0,297,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2003,2377,315,780718,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2003,0,0,29347,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2003,11955,0,33503,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2003,1,0,38530,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2003,63,0,141201,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2003,269668,66219,38178756,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2003,15,0,32814,30.78222222,-83.27694444
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2003,0,0,0,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2003,610,1,15391,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2003,0,0,0,33.97777778,-83.96222222
+Georgia,Macon,Robins AFB,WRB,2003,110,0,7825,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,2003,0,1,189,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2004,63,0,56852,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2004,2,0,0,33.875,-84.30222222
+Georgia,Gainesville,Gainesville Municipal,GVL,2004,0,0,0,34.27305556,-83.82916667
+Georgia,Athens,Athens Municipal,AHN,2004,0,0,780,33.94833333,-83.32694444
+Georgia,Tifton,Henry Tift Myers,TMA,2004,0,0,0,31.43333333,-83.48333333
+Georgia,LaGrange,Callaway,LGC,2004,0,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2004,79,0,6226,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2004,3014,283,944867,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2004,4,0,34445,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2004,12617,0,36045,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2004,0,1,40807,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2004,207,0,140853,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2004,316225,53890,40407300,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2004,11,0,47456,30.78222222,-83.27694444
+Georgia,Savannah,Hunter AAF,SVN,2004,100,3,18903,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2004,5,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2004,0,0,184,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2004,0,0,456,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,2004,23,1,605,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2005,109,0,50628,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2005,7,0,0,33.875,-84.30222222
+Georgia,Gainesville,Gainesville Municipal,GVL,2005,0,0,0,34.27305556,-83.82916667
+Georgia,Athens,Athens Municipal,AHN,2005,0,0,780,33.94833333,-83.32694444
+Georgia,Tifton,Henry Tift Myers,TMA,2005,3,0,0,31.43333333,-83.48333333
+Georgia,LaGrange,Callaway,LGC,2005,4,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2005,356,0,6789,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2005,2246,51,1017988,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2005,0,0,16949,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2005,13652,0,38461,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2005,0,0,37225,31.25888889,-81.46638889
+Georgia,Cartersville,Cartersville Airport,VPC,2005,0,0,0,34.12305556,-84.84861111
+Georgia,Augusta,Bush Field,AGS,2005,172,1,110678,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2005,298794,23701,41635440,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2005,1,0,42183,30.78222222,-83.27694444
+Georgia,Savannah,Hunter AAF,SVN,2005,1641,0,24959,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2005,1,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2005,78,0,515,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2005,235,0,917,32.64,-83.59194444
+Georgia,Peachtree City,Atlanta Regional Falcon Field,QQT,2005,1,0,0,33.35722222,-84.57194444
+Georgia,Marietta,Dobbins AFB,MGE,2005,14,0,524,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2006,93,0,44872,32.51611111,-84.93888889
+Georgia,Gainesville,Gainesville Municipal,GVL,2006,18,0,0,34.27305556,-83.82916667
+Georgia,Athens,Athens Municipal,AHN,2006,0,0,509,33.94833333,-83.32694444
+Georgia,Americus,Souther Field,VWT,2006,2,0,0,32.11166667,-84.18833333
+Georgia,Columbus,Lawson AAF,LSF,2006,67,0,1389,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2006,2271,1,937551,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2006,0,0,13301,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2006,14706,6,34709,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2006,0,0,26719,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2006,62,1,96035,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2006,296809,3733,40311249,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2006,1,0,39829,30.78222222,-83.27694444
+Georgia,Savannah,Hunter AAF,SVN,2006,99,0,3167,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2006,14,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2006,51,0,761,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2006,218,0,1658,32.64,-83.59194444
+Georgia,Peachtree City,Atlanta Regional Falcon Field,QQT,2006,0,0,0,33.35722222,-84.57194444
+Georgia,Marietta,Dobbins AFB,MGE,2006,0,0,29,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2007,144,0,47158,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2007,11,0,20,33.875,-84.30222222
+Georgia,Pine Mountain,Harris County,PIM,2007,0,0,233,32.84055556,-84.8825
+Georgia,Gainesville,Gainesville Municipal,GVL,2007,13,0,0,34.27305556,-83.82916667
+Georgia,Athens,Athens Municipal,AHN,2007,0,0,757,33.94833333,-83.32694444
+Georgia,Columbus,Lawson AAF,LSF,2007,767,0,15074,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2007,3381,0,975061,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2007,0,0,11452,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2007,14859,111,38706,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2007,0,0,24144,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2007,1,0,103327,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2007,266752,1195,42229355,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2007,0,0,35084,30.78222222,-83.27694444
+Georgia,Rome,Richard B Russell,RMG,2007,0,0,0,34.35138889,-85.15861111
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2007,0,0,4,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2007,229,0,22468,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2007,17,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2007,52,0,208,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2007,114,0,1557,32.64,-83.59194444
+Georgia,Peachtree City,Atlanta Regional Falcon Field,QQT,2007,1,0,0,33.35722222,-84.57194444
+Georgia,Marietta,Dobbins AFB,MGE,2007,0,0,342,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2008,123,1,51278,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2008,0,0,11,33.875,-84.30222222
+Georgia,Pine Mountain,Harris County,PIM,2008,0,0,116,32.84055556,-84.8825
+Georgia,Athens,Athens Municipal,AHN,2008,0,0,597,33.94833333,-83.32694444
+Georgia,Columbus,Lawson AAF,LSF,2008,89,0,13702,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2008,1287,5,941987,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2008,0,0,9075,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2008,13872,457,39128,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2008,0,0,29571,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2008,7,0,141318,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2008,235702,2327,43094929,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2008,0,0,38256,30.78222222,-83.27694444
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2008,0,0,2,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2008,174,0,10425,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2008,5,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2008,0,0,1160,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2008,82,0,2133,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,2008,0,0,186,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2009,133,0,48445,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2009,0,0,7,33.875,-84.30222222
+Georgia,Athens,Athens Municipal,AHN,2009,0,0,787,33.94833333,-83.32694444
+Georgia,Columbus,Lawson AAF,LSF,2009,78,0,20605,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2009,1849,0,759031,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2009,0,0,542,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2009,11901,55,33002,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2009,0,0,27897,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2009,1,0,163883,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2009,207658,3781,41768526,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2009,3,0,41516,30.78222222,-83.27694444
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2009,0,0,1,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2009,24,0,26225,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2009,2,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2009,0,0,932,30.96833333,-83.19305556
+Georgia,Brunswick,Malcolm McKinnon,SSI,2009,0,0,12,31.15055556,-81.38944444
+Georgia,Macon,Robins AFB,WRB,2009,134,0,2162,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,2009,0,0,143,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2010,130,0,65436,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2010,0,0,13,33.875,-84.30222222
+Georgia,Athens,Athens Municipal,AHN,2010,0,0,465,33.94833333,-83.32694444
+Georgia,LaGrange,Callaway,LGC,2010,3,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2010,5,0,13582,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2010,2396,0,753539,32.1275,-81.2025
+Georgia,Moultrie,Spence,MUL,2010,0,0,7,31.1375,-83.70416667
+Georgia,Macon,Middle Georgia Regional,MCN,2010,2,0,130,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2010,9621,3,35454,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2010,0,0,29926,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2010,2,1,217378,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2010,219141,6946,42594281,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2010,1,2,42535,30.78222222,-83.27694444
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2010,0,0,4,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2010,0,0,11409,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2010,1,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2010,0,0,648,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2010,17,0,1892,32.64,-83.59194444
+Georgia,Columbus,Columbus Metropolitan,CSG,2011,146,0,78702,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2011,0,0,43,33.875,-84.30222222
+Georgia,Athens,Athens Municipal,AHN,2011,0,0,476,33.94833333,-83.32694444
+Georgia,Columbus,Lawson AAF,LSF,2011,4,0,8999,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2011,2707,0,758525,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2011,0,0,92,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2011,9257,0,33625,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2011,0,0,31645,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2011,9,0,230875,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2011,209728,12481,43848876,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2011,2,0,38066,30.78222222,-83.27694444
+Georgia,Rome,Richard B Russell,RMG,2011,0,0,0,34.35138889,-85.15861111
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2011,0,0,1,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2011,34,0,2746,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2011,12,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2011,18,0,642,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2011,5,0,1088,32.64,-83.59194444
+Georgia,Peachtree City,Atlanta Regional Falcon Field,QQT,2011,0,0,4,33.35722222,-84.57194444
+Georgia,Marietta,Dobbins AFB,MGE,2011,0,0,0,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2012,110,0,74266,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2012,6,0,3,33.875,-84.30222222
+Georgia,Athens,Athens Municipal,AHN,2012,0,0,74,33.94833333,-83.32694444
+Georgia,LaGrange,Callaway,LGC,2012,0,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2012,1124,0,8527,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2012,2720,0,785125,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2012,0,0,226,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2012,9368,8,33441,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2012,0,0,31284,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2012,121,0,228250,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2012,198639,20715,45180700,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2012,0,0,37027,30.78222222,-83.27694444
+Georgia,Rome,Richard B Russell,RMG,2012,2,0,0,34.35138889,-85.15861111
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2012,0,0,2,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2012,1149,0,17085,32.01,-81.14583333
+Georgia,Valdosta,Moody AFB,VAD,2012,0,0,514,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2012,68,0,1049,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,2012,0,0,244,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2013,139,0,59574,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2013,0,0,5,33.875,-84.30222222
+Georgia,Athens,Athens Municipal,AHN,2013,0,0,76,33.94833333,-83.32694444
+Georgia,Kennesaw,Cobb County McCollum Field,QMA,2013,0,0,0,34.01333333,-84.6
+Georgia,LaGrange,Callaway,LGC,2013,2,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2013,187,0,3413,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2013,2935,1,797509,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2013,0,0,470,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2013,9135,10,30996,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2013,0,0,32365,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2013,18,0,234827,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2013,188946,27359,44645384,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2013,0,0,36785,30.78222222,-83.27694444
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2013,0,0,0,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2013,585,0,5857,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2013,4,0,1,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2013,45,0,941,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2013,102,0,1485,32.64,-83.59194444
+Georgia,Columbus,Columbus Metropolitan,CSG,2014,185,0,50879,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2014,0,0,0,33.875,-84.30222222
+Georgia,Athens,Athens Municipal,AHN,2014,0,0,77,33.94833333,-83.32694444
+Georgia,Columbus,Lawson AAF,LSF,2014,25,0,291,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2014,3146,0,932158,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2014,0,0,797,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2014,8769,0,31251,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2014,0,0,32577,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2014,25,1,218524,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2014,183683,24296,45948890,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2014,0,0,35630,30.78222222,-83.27694444
+Georgia,Savannah,Hunter AAF,SVN,2014,254,0,5321,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2014,10,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2014,0,0,306,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2014,108,0,1618,32.64,-83.59194444
+Georgia,Columbus,Columbus Metropolitan,CSG,2015,162,0,47810,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2015,0,0,21,33.875,-84.30222222
+Georgia,Gainesville,Gainesville Municipal,GVL,2015,0,0,0,34.27305556,-83.82916667
+Georgia,Athens,Athens Municipal,AHN,2015,0,0,432,33.94833333,-83.32694444
+Georgia,Kennesaw,Cobb County McCollum Field,QMA,2015,0,0,3,34.01333333,-84.6
+Georgia,Canton,Cherokee County,GA6,2015,0,0,5,34.31222222,-84.42222222
+Georgia,LaGrange,Callaway,LGC,2015,4,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2015,27,0,688,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2015,3165,2,960393,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2015,0,0,3,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2015,8600,0,33949,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2015,0,0,34549,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2015,16,0,200713,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2015,177909,27579,48521694,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2015,0,0,39544,30.78222222,-83.27694444
+Georgia,Savannah,Hunter AAF,SVN,2015,927,0,7711,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2015,0,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2015,149,0,637,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2015,140,0,700,32.64,-83.59194444
+Georgia,Columbus,Columbus Metropolitan,CSG,2016,145,0,44811,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2016,0,0,39,33.875,-84.30222222
+Georgia,Athens,Athens Municipal,AHN,2016,0,0,815,33.94833333,-83.32694444
+Georgia,Kennesaw,Cobb County McCollum Field,QMA,2016,10,0,0,34.01333333,-84.6
+Georgia,LaGrange,Callaway,LGC,2016,0,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2016,0,0,1727,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2016,3302,0,1036077,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2016,0,0,860,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2016,8770,2,34223,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2016,0,0,36007,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2016,33,0,251186,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2016,174539,19029,49563584,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2016,0,0,40275,30.78222222,-83.27694444
+Georgia,Waycross,Waycross Ga,AYS,2016,0,0,6,31.24916667,-82.39555556
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2016,4,0,3,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2016,667,0,6316,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2016,1,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2016,70,0,274,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2016,127,0,666,32.64,-83.59194444
+Georgia,Marietta,Dobbins AFB,MGE,2016,1,0,30,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2017,137,0,49768,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2017,0,0,61,33.875,-84.30222222
+Georgia,Athens,Athens Municipal,AHN,2017,0,0,880,33.94833333,-83.32694444
+Georgia,Kennesaw,Cobb County McCollum Field,QMA,2017,2,0,14,34.01333333,-84.6
+Georgia,LaGrange,Callaway,LGC,2017,0,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2017,3,0,701,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2017,3569,0,1148621,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2017,0,0,996,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2017,8375,21,37900,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2017,0,0,36382,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2017,10,0,224422,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2017,187326,23486,49284860,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2017,0,0,43734,30.78222222,-83.27694444
+Georgia,Rome,Richard B Russell,RMG,2017,1,0,0,34.35138889,-85.15861111
+Georgia,Waycross,Waycross Ga,AYS,2017,0,0,3,31.24916667,-82.39555556
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2017,0,0,6,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2017,518,0,10591,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2017,7,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2017,332,0,522,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2017,22,0,799,32.64,-83.59194444
+Georgia,Peachtree City,Atlanta Regional Falcon Field,QQT,2017,0,0,12,33.35722222,-84.57194444
+Georgia,Marietta,Dobbins AFB,MGE,2017,47,0,468,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2018,140,0,49345,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2018,0,0,60,33.875,-84.30222222
+Georgia,Athens,Athens Municipal,AHN,2018,0,0,1000,33.94833333,-83.32694444
+Georgia,Kennesaw,Cobb County McCollum Field,QMA,2018,22,0,12,34.01333333,-84.6
+Georgia,Columbus,Lawson AAF,LSF,2018,448,0,1275,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2018,3793,2,1319763,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2018,3,0,1314,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2018,10176,4,39388,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2018,0,0,40274,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2018,2,1,283489,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2018,186229,23685,50803840,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2018,0,0,44592,30.78222222,-83.27694444
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2018,3,0,10,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2018,702,0,5928,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2018,21,0,12,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2018,303,0,1072,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2018,191,0,623,32.64,-83.59194444
+Georgia,Thomson,Thomson McDuffie County,GA5,2018,0,0,0,33.52972222,-82.51694444
+Georgia,Peachtree City,Atlanta Regional Falcon Field,QQT,2018,0,0,1,33.35722222,-84.57194444
+Georgia,Marietta,Dobbins AFB,MGE,2018,85,0,304,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2019,124,0,52305,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2019,0,0,96,33.875,-84.30222222
+Georgia,Gainesville,Gainesville Municipal,GVL,2019,0,0,3,34.27305556,-83.82916667
+Georgia,Athens,Athens Municipal,AHN,2019,0,0,1099,33.94833333,-83.32694444
+Georgia,Kennesaw,Cobb County McCollum Field,QMA,2019,23,0,11,34.01333333,-84.6
+Georgia,Hinesville,Wright AAF,LIY,2019,0,0,26,31.89,-81.56111111
+Georgia,Columbus,Lawson AAF,LSF,2019,38,0,175,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2019,3802,0,1436492,32.1275,-81.2025
+Georgia,Macon,Middle Georgia Regional,MCN,2019,12,0,2096,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2019,12048,0,41226,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2019,0,0,40699,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2019,20,0,303878,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2019,203774,22594,52380306,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2019,0,0,44177,30.78222222,-83.27694444
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2019,0,0,28,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2019,893,0,6689,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2019,90,0,4,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2019,80,0,292,30.96833333,-83.19305556
+Georgia,Dalton,Dalton Municipal,DNN,2019,0,0,1,34.72194444,-84.86916667
+Georgia,Atlanta,Newnan Coweta County,GA3,2019,0,0,10,33.31166667,-84.76972222
+Georgia,Brunswick,Malcolm McKinnon,SSI,2019,0,0,4,31.15055556,-81.38944444
+Georgia,Macon,Robins AFB,WRB,2019,287,0,295,32.64,-83.59194444
+Georgia,Thomson,Thomson McDuffie County,GA5,2019,0,0,1,33.52972222,-82.51694444
+Georgia,Marietta,Dobbins AFB,MGE,2019,0,0,272,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2020,110,0,30603,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2020,0,0,82,33.875,-84.30222222
+Georgia,Athens,Athens Municipal,AHN,2020,19,0,1245,33.94833333,-83.32694444
+Georgia,Kennesaw,Cobb County McCollum Field,QMA,2020,259,0,0,34.01333333,-84.6
+Georgia,LaGrange,Callaway,LGC,2020,8,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2020,41,0,4837,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2020,3257,0,575550,32.1275,-81.2025
+Georgia,Vidalia,Vidalia Regional Airport,VDI,2020,0,0,1,32.1927222,-82.3711667
+Georgia,Macon,Middle Georgia Regional,MCN,2020,0,0,1426,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2020,11729,9,17211,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2020,0,0,19118,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2020,1,0,137787,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2020,194519,24047,20287580,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2020,1,0,21808,30.78222222,-83.27694444
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2020,0,0,15,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2020,1239,0,10946,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2020,4,0,0,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2020,279,0,1039,30.96833333,-83.19305556
+Georgia,Macon,Robins AFB,WRB,2020,203,0,808,32.64,-83.59194444
+Georgia,Peachtree City,Atlanta Regional Falcon Field,QQT,2020,0,0,9,33.35722222,-84.57194444
+Georgia,Marietta,Dobbins AFB,MGE,2020,26,0,1018,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2021,134,0,56518,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2021,0,0,359,33.875,-84.30222222
+Georgia,Gainesville,Gainesville Municipal,GVL,2021,0,0,0,34.27305556,-83.82916667
+Georgia,Athens,Athens Municipal,AHN,2021,0,0,1747,33.94833333,-83.32694444
+Georgia,Kennesaw,Cobb County McCollum Field,QMA,2021,1,0,21,34.01333333,-84.6
+Georgia,Tifton,Henry Tift Myers,TMA,2021,0,0,4,31.43333333,-83.48333333
+Georgia,LaGrange,Callaway,LGC,2021,7,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2021,30,0,1373,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2021,3334,1,1360137,32.1275,-81.2025
+Georgia,Vidalia,Vidalia Regional Airport,VDI,2021,0,0,36,32.1927222,-82.3711667
+Georgia,Macon,Middle Georgia Regional,MCN,2021,0,0,2784,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2021,13799,32,31794,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2021,0,0,35821,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2021,2,0,251891,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2021,243272,25835,36327195,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2021,0,0,38734,30.78222222,-83.27694444
+Georgia,Bainbridge,Decatur County Industrial Air Park,BGE,2021,0,0,9,30.97166667,-84.6375
+Georgia,Thomasville,Thomasville Regional,TVI,2021,0,0,11,30.90138889,-83.88138889
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2021,0,0,21,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2021,133,0,1936,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2021,10,0,66,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2021,42,0,235,30.96833333,-83.19305556
+Georgia,Brunswick,Malcolm McKinnon,SSI,2021,0,0,47,31.15055556,-81.38944444
+Georgia,Macon,Robins AFB,WRB,2021,289,0,1797,32.64,-83.59194444
+Georgia,Thomson,Thomson McDuffie County,GA5,2021,0,0,0,33.52972222,-82.51694444
+Georgia,Marietta,Dobbins AFB,MGE,2021,68,0,503,33.91472222,-84.52166667
+Georgia,Columbus,Columbus Metropolitan,CSG,2022,103,0,63082,32.51611111,-84.93888889
+Georgia,Atlanta,Dekalb Peachtree,PDK,2022,0,0,185,33.875,-84.30222222
+Georgia,Gainesville,Gainesville Municipal,GVL,2022,0,0,4,34.27305556,-83.82916667
+Georgia,Athens,Athens Municipal,AHN,2022,4,0,759,33.94833333,-83.32694444
+Georgia,Kennesaw,Cobb County McCollum Field,QMA,2022,0,0,19,34.01333333,-84.6
+Georgia,Tifton,Henry Tift Myers,TMA,2022,0,0,0,31.43333333,-83.48333333
+Georgia,Hinesville,Wright AAF,LIY,2022,0,0,1,31.89,-81.56111111
+Georgia,LaGrange,Callaway,LGC,2022,0,0,0,33.00861111,-85.07277778
+Georgia,Columbus,Lawson AAF,LSF,2022,0,0,809,32.33777778,-84.99222222
+Georgia,Savannah,Savannah/Hilton Head International,SAV,2022,2081,0,1293721,32.1275,-81.2025
+Georgia,Vidalia,Vidalia Regional Airport,VDI,2022,0,0,13,32.1927222,-82.3711667
+Georgia,Macon,Middle Georgia Regional,MCN,2022,0,0,1835,32.69583333,-83.64916667
+Georgia,Albany,Southwest Georgia Regional,ABY,2022,9435,46,26281,31.53222222,-84.19611111
+Georgia,Brunswick,Glynco Jetport,BQK,2022,0,0,27687,31.25888889,-81.46638889
+Georgia,Augusta,Bush Field,AGS,2022,0,0,204600,33.36916667,-81.96444444
+Georgia,Atlanta,William B. Hartsfield Atlanta International,ATL,2022,175209,17279,32860631,33.64083333,-84.42722222
+Georgia,Valdosta,Valdosta Regional,VLD,2022,0,0,28483,30.78222222,-83.27694444
+Georgia,Thomasville,Thomasville Regional,TVI,2022,0,0,1,30.90138889,-83.88138889
+Georgia,Atlanta,Fulton County Airport-Brown Field,FTY,2022,0,0,14,33.77916667,-84.52138889
+Georgia,Savannah,Hunter AAF,SVN,2022,282,0,3669,32.01,-81.14583333
+Georgia,Lawrenceville,Gwinnett County - Briscoe Field,LZU,2022,14,0,33,33.97777778,-83.96222222
+Georgia,Valdosta,Moody AFB,VAD,2022,199,0,1040,30.96833333,-83.19305556
+Georgia,Brunswick,Malcolm McKinnon,SSI,2022,0,0,35,31.15055556,-81.38944444
+Georgia,Macon,Robins AFB,WRB,2022,17,0,282,32.64,-83.59194444
+Georgia,Peachtree City,Atlanta Regional Falcon Field,QQT,2022,0,0,6,33.35722222,-84.57194444
+Georgia,Milledgeville,Baldwin County Regional Airport,MLJ,2022,0,0,7,33.1542261,-83.2414028

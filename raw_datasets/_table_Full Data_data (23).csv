@@ -1,0 +1,377 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Minnesota,Duluth,Duluth International,DLH,1990,110513,26621,111651,46.8425,-92.19027778
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,1990,79154463,85766740,8860837,44.88611111,-93.21777778
+Minnesota,Rochester,Rochester Municipal,RST,1990,105673,18648,142052,43.91027778,-92.49638889
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,1991,84886,42697,9206591,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,1991,14,0,167,48.56305556,-93.40416667
+Minnesota,Willmar,Willmar Municipal,ILL,1991,13,0,0,45.11638889,-95.09
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,1991,0,0,706,47.38861111,-92.83861111
+Minnesota,Duluth,Duluth International,DLH,1991,294,8,103791,46.8425,-92.19027778
+Minnesota,Stanton,Carleton,SYN,1991,0,0,188,44.47555556,-93.01611111
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,1991,0,0,12,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,1991,41,0,140812,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,1991,5,0,623,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,1991,68,0,150,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,1991,0,0,0,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,1992,89743,51727,10055330,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,1992,16,0,0,48.56305556,-93.40416667
+Minnesota,Willmar,Willmar Municipal,ILL,1992,0,0,0,45.11638889,-95.09
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,1992,1,0,817,47.38861111,-92.83861111
+Minnesota,Duluth,Duluth International,DLH,1992,468,4,117466,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,1992,10,0,0,47.37611111,-94.79805556
+Minnesota,Rochester,Rochester Municipal,RST,1992,62,2,150564,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,1992,0,0,172,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,1992,64,0,0,47.50972222,-94.93472222
+Minnesota,Mankato,Mankato Regional,MKT,1992,1,0,0,44.22361111,-93.91833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,1993,96852,55483,10377457,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,1993,18,0,0,48.56305556,-93.40416667
+Minnesota,Alexandria,Chandler Field,AXN,1993,0,0,0,45.86722222,-95.39416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,1993,0,0,177,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,1993,28,0,265,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,1993,365,5,106312,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,1993,83,0,0,47.37611111,-94.79805556
+Minnesota,Rochester,Rochester Municipal,RST,1993,69,3,150474,43.91027778,-92.49638889
+Minnesota,Bemidji,Bemidji Municipal,BJI,1993,0,0,97,47.50972222,-94.93472222
+Minnesota,Mankato,Mankato Regional,MKT,1993,17,0,0,44.22361111,-93.91833333
+Minnesota,Marshall,Marshall Muni/Ryan Field,MML,1994,0,0,0,44.44722222,-95.8175
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,1994,98302,64315,10892227,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,1994,14,0,0,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,1994,0,0,327,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,1994,21,0,6106,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,1994,394,7,102558,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,1994,91,0,0,47.37611111,-94.79805556
+Minnesota,Rochester,Rochester Municipal,RST,1994,38,4,147703,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,1994,7,0,202,46.39722222,-94.1375
+Minnesota,Mankato,Mankato Regional,MKT,1994,32,0,0,44.22361111,-93.91833333
+Minnesota,Winona,Winona Municipal/Max Conrad Field,ONA,1995,0,0,0,44.07666667,-91.70611111
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,1995,105756,71112,11849760,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,1995,23,0,0,48.56305556,-93.40416667
+Minnesota,Cloquet,Cloquet Carlton County,JZK,1995,1,0,0,46.70277778,-92.50444444
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,1995,12,0,180,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,1995,0,0,0,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,1995,451,4,95467,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,1995,112,0,0,47.37611111,-94.79805556
+Minnesota,Rochester,Rochester Municipal,RST,1995,36,0,150437,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,1995,0,0,350,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,1995,0,0,32,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,1995,0,0,34,45.54527778,-94.05833333
+Minnesota,Mankato,Mankato Regional,MKT,1995,23,0,0,44.22361111,-93.91833333
+Minnesota,Fergus Falls,Fergus Falls Municipal-Einar Mickelson Field,FFM,1996,13,0,0,46.28444444,-96.15666667
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,1996,101527,70559,12616095,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,1996,20,0,0,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,1996,9,0,218,47.38861111,-92.83861111
+Minnesota,Duluth,Duluth International,DLH,1996,784,5,92969,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,1996,144,0,0,47.37611111,-94.79805556
+Minnesota,Rochester,Rochester Municipal,RST,1996,3800,0,131452,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,1996,1,0,152,46.39722222,-94.1375
+Minnesota,Mankato,Mankato Regional,MKT,1996,1,0,0,44.22361111,-93.91833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,1997,142470,74215,13863912,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,1997,22,0,8818,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,1997,0,0,8264,47.38861111,-92.83861111
+Minnesota,Grand Rapids,Grand Rapids/Itasca County-Gordon Newstrom Field,GPZ,1997,0,0,6178,47.21444444,-93.51111111
+Minnesota,Ely,Ely Municipal,LYU,1997,0,0,827,47.82444444,-91.83083333
+Minnesota,Duluth,Duluth International,DLH,1997,694,6,103704,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,1997,159,0,0,47.37611111,-94.79805556
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,1997,6,5,2647,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,1997,3459,1,151167,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,1997,9,0,11434,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,1997,1,2,16818,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,1997,2,0,11745,45.54527778,-94.05833333
+Minnesota,Worthington,Worthington Municipal,OTG,1997,0,0,0,43.65222222,-95.58361111
+Minnesota,Winona,Winona Municipal/Max Conrad Field,ONA,1998,1,0,0,44.07666667,-91.70611111
+Minnesota,Fergus Falls,Fergus Falls Municipal-Einar Mickelson Field,FFM,1998,2,0,0,46.28444444,-96.15666667
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,1998,130375,74974,13908350,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,1998,29,1,17277,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,1998,0,0,14789,47.38861111,-92.83861111
+Minnesota,Grand Rapids,Grand Rapids/Itasca County-Gordon Newstrom Field,GPZ,1998,0,0,9385,47.21444444,-93.51111111
+Minnesota,Ely,Ely Municipal,LYU,1998,0,0,1108,47.82444444,-91.83083333
+Minnesota,Duluth,Duluth International,DLH,1998,716,7,117569,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,1998,167,0,0,47.37611111,-94.79805556
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,1998,0,1,5479,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,1998,4216,0,156835,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,1998,10,0,16529,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,1998,3,0,26047,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,1998,3,0,20240,45.54527778,-94.05833333
+Minnesota,Marshall,Marshall Muni/Ryan Field,MML,1999,2,0,0,44.44722222,-95.8175
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,1999,128311,70076,15390844,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,1999,29,0,22400,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,1999,0,0,15613,47.38861111,-92.83861111
+Minnesota,Grand Rapids,Grand Rapids/Itasca County-Gordon Newstrom Field,GPZ,1999,0,0,10037,47.21444444,-93.51111111
+Minnesota,Ely,Ely Municipal,LYU,1999,1,0,1671,47.82444444,-91.83083333
+Minnesota,Duluth,Duluth International,DLH,1999,681,18,140170,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,1999,186,0,0,47.37611111,-94.79805556
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,1999,0,0,8851,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,1999,5196,1,152336,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,1999,4,0,19116,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,1999,4,0,29412,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,1999,3,0,24956,45.54527778,-94.05833333
+Minnesota,Winona,Winona Municipal/Max Conrad Field,ONA,2000,2,0,0,44.07666667,-91.70611111
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2000,129710,68736,16874171,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2000,29,0,23170,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2000,0,0,12970,47.38861111,-92.83861111
+Minnesota,Grand Rapids,Grand Rapids/Itasca County-Gordon Newstrom Field,GPZ,2000,0,0,10246,47.21444444,-93.51111111
+Minnesota,Ely,Ely Municipal,LYU,2000,0,0,812,47.82444444,-91.83083333
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2000,0,0,0,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2000,749,3,141214,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,2000,205,0,0,47.37611111,-94.79805556
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2000,0,0,7103,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2000,6255,0,150424,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2000,16,0,20143,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2000,2,0,28421,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2000,3,0,22505,45.54527778,-94.05833333
+Minnesota,Mankato,Mankato Regional,MKT,2000,2,0,0,44.22361111,-93.91833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2001,139290,53519,15648295,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2001,20,11,19266,48.56305556,-93.40416667
+Minnesota,Austin/Albert Lea,Austin Municipal,AUM,2001,0,0,5,43.66444444,-92.93388889
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2001,0,0,9735,47.38861111,-92.83861111
+Minnesota,Grand Rapids,Grand Rapids/Itasca County-Gordon Newstrom Field,GPZ,2001,0,0,8619,47.21444444,-93.51111111
+Minnesota,Ely,Ely Municipal,LYU,2001,0,0,749,47.82444444,-91.83083333
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2001,0,0,0,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2001,333,0,132569,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,2001,186,0,0,47.37611111,-94.79805556
+Minnesota,Stanton,Carleton,SYN,2001,1,0,0,44.47555556,-93.01611111
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2001,0,0,5381,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2001,4187,0,134498,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2001,3,0,18759,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2001,1,1,27094,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2001,5,0,21764,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2002,122907,36551,15072519,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2002,17,0,19047,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2002,0,0,7300,47.38861111,-92.83861111
+Minnesota,Grand Rapids,Grand Rapids/Itasca County-Gordon Newstrom Field,GPZ,2002,0,0,7188,47.21444444,-93.51111111
+Minnesota,Ely,Ely Municipal,LYU,2002,0,0,684,47.82444444,-91.83083333
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2002,3,0,0,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2002,657,1,143391,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,2002,162,0,0,47.37611111,-94.79805556
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2002,41,0,4488,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2002,4823,0,140461,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2002,1,0,19482,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2002,0,0,27512,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2002,0,0,21622,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2003,137394,20256,15431696,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2003,16,0,19514,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2003,0,0,9320,47.38861111,-92.83861111
+Minnesota,Grand Rapids,Grand Rapids/Itasca County-Gordon Newstrom Field,GPZ,2003,0,0,6385,47.21444444,-93.51111111
+Minnesota,Duluth,Duluth International,DLH,2003,805,1,118111,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,2003,107,0,0,47.37611111,-94.79805556
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2003,71,0,4143,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2003,4242,0,132212,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2003,0,0,17811,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2003,0,0,27642,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2003,2,0,19993,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2004,143710,5866,17282793,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2004,15,0,21111,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2004,0,0,9461,47.38861111,-92.83861111
+Minnesota,Grand Rapids,Grand Rapids/Itasca County-Gordon Newstrom Field,GPZ,2004,0,0,797,47.21444444,-93.51111111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2004,1,0,0,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2004,820,0,150193,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,2004,94,0,0,47.37611111,-94.79805556
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2004,116,0,4570,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2004,7559,0,137927,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2004,0,0,19043,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2004,0,0,28676,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2004,0,0,21421,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2005,152925,5630,17835747,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2005,0,0,21819,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2005,0,0,10587,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2005,0,0,0,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2005,321,0,146322,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,2005,102,0,0,47.37611111,-94.79805556
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2005,118,0,4608,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2005,7034,0,140993,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2005,0,0,20527,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2005,0,0,29695,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2005,0,0,24546,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2006,143648,4702,17070322,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2006,1,0,18459,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2006,10,0,9091,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2006,2,0,0,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2006,97,0,139455,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,2006,104,0,0,47.37611111,-94.79805556
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2006,112,0,3392,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2006,5743,0,149467,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2006,5,0,19192,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2006,9,0,26048,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2006,1,0,25091,45.54527778,-94.05833333
+Minnesota,Mankato,Mankato Regional,MKT,2006,0,0,0,44.22361111,-93.91833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2007,139048,4699,16805931,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2007,0,0,17830,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2007,1,0,8510,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2007,0,0,8,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2007,60,0,158120,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,2007,119,0,0,47.37611111,-94.79805556
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2007,113,0,3370,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2007,5528,0,160182,43.91027778,-92.49638889
+Minnesota,Moose Lake,Moose Lake Carlton County,MN2,2007,0,0,56,46.41888889,-92.80472222
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2007,63,0,18569,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2007,4,0,22293,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2007,3,0,25584,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2008,115793,5655,16237350,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2008,0,0,16545,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2008,0,0,8578,47.38861111,-92.83861111
+Minnesota,Duluth,Duluth International,DLH,2008,69,0,147746,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,2008,117,0,0,47.37611111,-94.79805556
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2008,77,0,3088,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2008,4498,0,151002,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2008,96,0,16636,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2008,4,0,21985,47.50972222,-94.93472222
+Minnesota,Ortonville,Ortonville Municipal-Martinson Field,MN3,2008,0,0,142,45.30555556,-96.42444444
+Minnesota,St. Cloud,St. Cloud Regional,STC,2008,1,0,20119,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2009,105519,4295,15418182,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2009,0,0,15837,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2009,0,0,8763,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2009,0,0,9,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2009,165,1,125439,46.8425,-92.19027778
+Minnesota,Bemidji,Nary National Shefland Field,VWL,2009,22,0,0,47.37611111,-94.79805556
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2009,76,0,2719,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2009,3749,0,128373,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2009,1,0,15471,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2009,87,0,21934,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2009,1,0,14288,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2010,113259,6064,15397289,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2010,0,0,14045,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2010,1,1,11089,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2010,0,0,15,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2010,248,0,150501,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2010,78,0,2478,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2010,4023,0,117340,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2010,0,0,16371,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2010,115,0,21493,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2010,0,0,1184,45.54527778,-94.05833333
+Minnesota,Red Wing,Red Wing Regional,MN5,2011,0,0,2,44.58944444,-92.485
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2011,107999,8744,15799588,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2011,0,0,15145,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2011,0,0,12132,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2011,0,0,21,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2011,268,4,146475,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2011,147,0,2418,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2011,4239,0,84271,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2011,0,0,17570,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2011,113,0,23850,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2011,0,0,162,45.54527778,-94.05833333
+Minnesota,Minneapolis,Flying Cloud,FCM,2011,0,0,3,44.82722222,-93.45722222
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2012,101951,11194,15859979,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2012,0,0,15217,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2012,0,0,11768,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2012,0,0,16,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2012,255,0,158563,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2012,170,0,1100,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2012,4027,0,86103,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2012,0,0,15629,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2012,123,0,22374,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2012,0,0,959,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2013,103785,11961,16175180,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2013,0,0,15739,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2013,0,0,11181,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2013,0,0,25,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2013,265,0,155251,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2013,214,0,0,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2013,4278,0,109426,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2013,2,0,15479,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2013,147,0,22778,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2013,15,0,15787,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2014,102017,11897,16881973,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2014,0,0,16295,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2014,0,0,11559,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2014,0,0,21,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2014,254,0,153416,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2014,241,0,0,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2014,4922,0,119738,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2014,0,0,17141,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2014,176,0,23309,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2014,1,0,30909,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2015,102400,14622,17523249,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2015,0,0,14697,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2015,0,0,12346,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2015,0,0,15,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2015,260,0,131082,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2015,233,0,0,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2015,5261,0,114567,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2015,0,0,18200,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2015,157,0,24763,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2015,0,0,19171,45.54527778,-94.05833333
+Minnesota,Winona,Winona Municipal/Max Conrad Field,ONA,2016,1,0,0,44.07666667,-91.70611111
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2016,101650,11889,17997312,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2016,0,0,11508,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2016,0,0,12654,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2016,1,0,10,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2016,324,0,124157,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2016,281,0,0,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2016,5923,0,112709,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2016,0,0,18315,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2016,180,0,25510,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2016,1,0,15615,45.54527778,-94.05833333
+Minnesota,Minneapolis,Flying Cloud,FCM,2016,0,0,3,44.82722222,-93.45722222
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2017,104366,17349,18227216,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2017,0,0,15274,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2017,0,0,15242,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2017,1,0,7,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2017,321,0,120994,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2017,413,0,0,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2017,5539,0,143558,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2017,0,0,21376,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2017,177,0,29010,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2017,2,0,20862,45.54527778,-94.05833333
+Minnesota,Winona,Winona Municipal/Max Conrad Field,ONA,2018,1,0,0,44.07666667,-91.70611111
+Minnesota,Red Wing,Red Wing Regional,MN5,2018,0,0,2,44.58944444,-92.485
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2018,104906,16204,18163872,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2018,5,0,17023,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2018,0,0,16954,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2018,3,0,18,44.93444444,-93.06
+Minnesota,Warroad,Warroad International Memorial,RRT,2018,0,0,0,48.94138889,-95.34833333
+Minnesota,Duluth,Duluth International,DLH,2018,352,0,136722,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2018,866,0,0,48.06611111,-96.185
+Minnesota,Baudette,Baudette International,BDE,2018,0,0,0,48.72083333,-94.6
+Minnesota,Rochester,Rochester Municipal,RST,2018,5521,0,182229,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2018,0,0,22175,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2018,166,0,30042,47.50972222,-94.93472222
+Minnesota,Minneapolis,Anoka County Blaine,MN7,2018,0,0,15,45.145,-93.21027778
+Minnesota,St. Cloud,St. Cloud Regional,STC,2018,7,0,22529,45.54527778,-94.05833333
+Minnesota,Minneapolis,Flying Cloud,FCM,2018,0,0,13,44.82722222,-93.45722222
+Minnesota,Marshall,Marshall Muni/Ryan Field,MML,2019,0,0,16,44.44722222,-95.8175
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2019,102639,15409,18967529,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2019,0,0,17734,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2019,0,0,18292,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2019,0,0,24,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2019,306,0,155579,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2019,1248,0,0,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2019,5485,0,182968,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2019,0,0,22581,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2019,180,0,30274,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2019,0,0,21753,45.54527778,-94.05833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2020,90243,10708,7044718,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2020,0,0,5880,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2020,0,0,8432,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2020,0,0,0,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2020,308,0,64965,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2020,1860,0,0,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2020,5049,0,66068,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2020,0,0,12089,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2020,193,0,16461,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2020,0,0,15669,45.54527778,-94.05833333
+Minnesota,Minneapolis,Flying Cloud,FCM,2020,0,0,5,44.82722222,-93.45722222
+Minnesota,Winona,Winona Municipal/Max Conrad Field,ONA,2021,1,0,0,44.07666667,-91.70611111
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2021,101171,12142,12169999,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2021,0,0,8265,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2021,0,0,12672,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2021,0,0,8,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2021,328,0,108515,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2021,2065,0,0,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2021,5326,0,98905,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2021,0,0,18790,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2021,181,0,25678,47.50972222,-94.93472222
+Minnesota,Minneapolis,Anoka County Blaine,MN7,2021,0,0,4,45.145,-93.21027778
+Minnesota,St. Cloud,St. Cloud Regional,STC,2021,0,0,16631,45.54527778,-94.05833333
+Minnesota,Minneapolis,Flying Cloud,FCM,2021,0,0,1,44.82722222,-93.45722222
+Minnesota,Mankato,Mankato Regional,MKT,2021,0,0,0,44.22361111,-93.91833333
+Minnesota,Minneapolis,Minneapolis-St Paul International,MSP,2022,73522,9812,11354371,44.88611111,-93.21777778
+Minnesota,International Falls,Falls International,INL,2022,0,0,10599,48.56305556,-93.40416667
+Minnesota,Hibbing,Chisholm/Hibbing,HIB,2022,0,0,10187,47.38861111,-92.83861111
+Minnesota,Minneapolis/St. Paul,St. Paul Downtown,STP,2022,0,0,22,44.93444444,-93.06
+Minnesota,Duluth,Duluth International,DLH,2022,221,0,91386,46.8425,-92.19027778
+Minnesota,Thief River Falls,Thief River Falls Regional,TVF,2022,1660,0,0,48.06611111,-96.185
+Minnesota,Rochester,Rochester Municipal,RST,2022,3850,0,64156,43.91027778,-92.49638889
+Minnesota,Brainerd,Brainerd/Crow Wing County,BRD,2022,0,0,16423,46.39722222,-94.1375
+Minnesota,Bemidji,Bemidji Municipal,BJI,2022,119,0,21075,47.50972222,-94.93472222
+Minnesota,St. Cloud,St. Cloud Regional,STC,2022,1,0,13695,45.54527778,-94.05833333
+Minnesota,Minneapolis,Flying Cloud,FCM,2022,0,0,6,44.82722222,-93.45722222

@@ -1,0 +1,1324 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Florida,Cape Canaveral,Cape Canaveral AFS,XMR,1990,78680,0,0,28.46722222,-80.56666667
+Florida,Jacksonville,Cecil Field,NZC,1990,1309524,0,0,30.21861111,-81.87666667
+Florida,Daytona Beach,Daytona Beach Regional,DAB,1990,755547,178326,492948,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,1990,33801361,15684095,4176501,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,1990,2774,184968,166024,29.68972222,-82.27583333
+Florida,Jacksonville,Jacksonville International,JAX,1990,5199005,10822612,1265930,30.48472222,-81.68777778
+Florida,Jacksonville,Jacksonville NAS,NIP,1990,0,0,232,30.23416667,-81.67527778
+Florida,Key West,Key West International,EYW,1990,38471,15745,80203,24.55555556,-81.75972222
+Florida,Melbourne,Melbourne Regional,MLB,1990,275152,68305,360126,28.1025,-80.64305556
+Florida,Miami,Miami International,MIA,1990,776255655,67486485,11719539,25.7925,-80.28611111
+Florida,Valparaiso,Northwest Florida Regional,VPS,1990,52815,100,69462,30.48333333,-86.52527778
+Florida,Orlando,Orlando International,MCO,1990,41482656,24166004,8286439,28.43166667,-81.32472222
+Florida,Sanford,Orlando Sanford International,SFB,1990,0,0,77,28.77777778,-81.2375
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,1990,6259171,6848936,2629348,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,1990,1725927,2859063,394246,30.47333333,-87.1875
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,1990,1084158,142697,992148,27.39388889,-82.55416667
+Florida,Fort Myers,Southwest Florida International,RSW,1990,3155719,3398473,1725129,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,1990,4392,0,92410,27.90722222,-82.68555556
+Florida,Tallahassee,Tallahassee Regional,TLH,1990,1010765,1398778,380736,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,1990,44183715,34028670,5082674,27.97305556,-82.53527778
+Florida,Titusville,Space Center Executive,TIX,1991,0,0,0,28.51222222,-80.79944444
+Florida,Cape Canaveral,Cape Canaveral AFS,XMR,1991,0,0,55,28.46722222,-80.56666667
+Florida,Daytona Beach,Daytona Beach Regional,DAB,1991,430,11,391886,29.1825,-81.05277778
+Florida,Crestview,Bob Sikes,CEW,1991,1,0,0,30.77972222,-86.5225
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,1991,0,0,0,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,1991,44914,7443,3465381,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,1991,114,6,108530,29.68972222,-82.27583333
+Florida,Destin,Destin-Ft. Walton Beach,DSI,1991,431,0,0,30.4,-86.47138889
+Florida,Orlando,Herndon,ORL,1991,0,0,0,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,1991,38,0,53,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,1991,9075,6374,1149835,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,1991,330,0,93,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,1991,40004,11899,7754946,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,1991,310,0,0,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,1991,257539,22758,9350407,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,1991,599,0,3544,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,1991,0,0,1072,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,1991,161,1,305371,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,1991,378,7,88,27.84888889,-82.52166667
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,1991,5458,4067,2358193,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,1991,223,181,52343,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,1991,405,1179,377696,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,1991,91,1,15616,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,1991,2735,1999,1591960,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,1991,2265,0,25318,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,1991,484,6,884103,27.39388889,-82.55416667
+Florida,Tallahassee,Tallahassee Regional,TLH,1991,1368,437,320289,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,1991,22873,16961,4351579,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,1991,0,0,352,27.6525,-80.41361111
+Florida,Sanford,Orlando Sanford International,SFB,1991,58,0,557,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,1991,381,0,196,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,1991,17,0,152,30.21861111,-81.87666667
+Florida,Mayport,Mayport NS,NRB,1991,0,0,495,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,1991,67,0,80269,30.48333333,-86.52527778
+Florida,Miami,Opa-locka Executive,OPF,1991,1,0,0,25.90694444,-80.28027778
+Florida,Fort Myers,Page Field,FMY,1991,0,0,0,26.58694444,-81.86222222
+Florida,Cross City,Cross City Airport,CTY,1991,1,0,0,29.63416667,-83.10611111
+Florida,Fort Pierce,St. Lucie County International,FPR,1991,111,0,0,27.49305556,-80.36777778
+Florida,Miami,Dade-Collier,TNT,1991,0,0,0,25.86277778,-80.89722222
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,1991,95,0,0,30.35277778,-87.32027778
+Florida,Titusville,Space Center Executive,TIX,1992,102,0,0,28.51222222,-80.79944444
+Florida,Cape Canaveral,Cape Canaveral AFS,XMR,1992,119,0,0,28.46722222,-80.56666667
+Florida,Daytona Beach,Daytona Beach Regional,DAB,1992,423,9,414932,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,1992,1,0,0,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,1992,44296,8046,3498548,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,1992,223,5,141631,29.68972222,-82.27583333
+Florida,Destin,Destin-Ft. Walton Beach,DSI,1992,457,0,0,30.4,-86.47138889
+Florida,Ocala,Ocala Municipal,OCF,1992,0,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,1992,9127,7307,1183803,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,1992,768,0,1,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,1992,34674,13777,8764938,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,1992,762,0,10524,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,1992,313941,23562,9076473,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,1992,4392,0,7715,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,1992,0,0,609,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,1992,231,0,315443,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,1992,1047,0,0,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,1992,0,0,0,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,1992,3046,5134,2370750,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,1992,511,430,65451,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,1992,601,1133,390472,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,1992,106,0,0,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,1992,2347,2318,1594960,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,1992,44,0,74897,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,1992,543,6,840598,27.39388889,-82.55416667
+Florida,Tallahassee,Tallahassee Regional,TLH,1992,1523,652,339816,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,1992,26192,20051,4397533,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,1992,0,0,78,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,1992,1,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,1992,0,0,1080,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,1992,952,0,0,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,1992,27,0,360,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,1992,0,0,369,30.18055556,-82.57972222
+Florida,Mayport,Mayport NS,NRB,1992,0,0,292,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,1992,148,0,82330,30.48333333,-86.52527778
+Florida,Miami,Opa-locka Executive,OPF,1992,2,0,0,25.90694444,-80.28027778
+Florida,Jacksonville,Craig Municipal,CRG,1992,72,0,0,30.33638889,-81.51444444
+Florida,Fort Myers,Page Field,FMY,1992,11,0,0,26.58694444,-81.86222222
+Florida,Fort Pierce,St. Lucie County International,FPR,1992,124,0,0,27.49305556,-80.36777778
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,1992,2272,0,0,30.35277778,-87.32027778
+Florida,Titusville,Space Center Executive,TIX,1993,48,0,0,28.51222222,-80.79944444
+Florida,Cape Canaveral,Cape Canaveral AFS,XMR,1993,35,0,87,28.46722222,-80.56666667
+Florida,Daytona Beach,Daytona Beach Regional,DAB,1993,402,4,384516,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,1993,47842,7492,3879308,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,1993,239,2,142754,29.68972222,-82.27583333
+Florida,Destin,Destin-Ft. Walton Beach,DSI,1993,401,0,0,30.4,-86.47138889
+Florida,Orlando,Herndon,ORL,1993,0,0,0,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,1993,1,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,1993,6725,8750,1226313,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,1993,265,0,0,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,1993,48731,14864,8724950,28.43166667,-81.32472222
+Florida,Miami,Miami International,MIA,1993,330917,26425,10137504,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,1993,10860,0,3510,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,1993,0,0,831,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,1993,299,50,283008,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,1993,19,0,516,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,1993,0,0,96,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,1993,3296,5430,2380947,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,1993,716,638,90720,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,1993,1031,1082,338733,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,1993,136,0,0,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,1993,2703,2558,1703447,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,1993,93,0,196199,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,1993,568,10,809750,27.39388889,-82.55416667
+Florida,Tallahassee,Tallahassee Regional,TLH,1993,1782,809,320086,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,1993,25806,20762,4576551,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,1993,2,0,132,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,1993,24,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,1993,0,0,24495,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,1993,10,0,76,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,1993,0,0,4471,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,1993,0,0,0,30.18055556,-82.57972222
+Florida,Valparaiso,Northwest Florida Regional,VPS,1993,127,0,111943,30.48333333,-86.52527778
+Florida,Jupiter,William P Gwinn,XWN,1993,21,0,0,26.89805556,-80.3275
+Florida,Miami,Opa-locka Executive,OPF,1993,0,0,0,25.90694444,-80.28027778
+Florida,Jacksonville,Craig Municipal,CRG,1993,87,0,0,30.33638889,-81.51444444
+Florida,Fort Myers,Page Field,FMY,1993,13,0,0,26.58694444,-81.86222222
+Florida,Fort Pierce,St. Lucie County International,FPR,1993,100,0,0,27.49305556,-80.36777778
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,1993,9025,0,188,30.35277778,-87.32027778
+Florida,Titusville,Space Center Executive,TIX,1994,73,0,0,28.51222222,-80.79944444
+Florida,Cape Canaveral,Cape Canaveral AFS,XMR,1994,0,0,0,28.46722222,-80.56666667
+Florida,Daytona Beach,Daytona Beach Regional,DAB,1994,328,5,386600,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,1994,53457,7519,4685283,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,1994,253,4,134564,29.68972222,-82.27583333
+Florida,Destin,Destin-Ft. Walton Beach,DSI,1994,345,0,0,30.4,-86.47138889
+Florida,Orlando,Herndon,ORL,1994,0,0,0,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,1994,1,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,1994,6491,9903,1747599,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,1994,4710,0,231,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,1994,50873,14289,9183477,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,1994,0,0,189,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,1994,392068,28087,10847108,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,1994,5436,0,8578,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,1994,0,0,569,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,1994,326,70,283373,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,1994,0,0,302,27.84888889,-82.52166667
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,1994,3828,5765,2622236,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,1994,503,774,113946,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,1994,734,1051,422365,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,1994,162,1,8476,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,1994,3224,2927,1813647,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,1994,80,0,247355,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,1994,585,189,778661,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,1994,0,0,10968,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,1994,2067,872,387376,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,1994,27554,21018,5439667,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,1994,0,0,75,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,1994,83,0,282,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,1994,0,0,10351,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,1994,0,0,97,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,1994,0,0,203,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,1994,1,0,0,30.18055556,-82.57972222
+Florida,Mayport,Mayport NS,NRB,1994,39,0,1076,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,1994,126,0,149715,30.48333333,-86.52527778
+Florida,Crestview,Duke Field (Eglin Af Aux Nr 3),EGI,1994,0,0,51,30.65027778,-86.52694444
+Florida,Miami,Opa-locka Executive,OPF,1994,0,0,0,25.90694444,-80.28027778
+Florida,Jacksonville,Craig Municipal,CRG,1994,110,0,0,30.33638889,-81.51444444
+Florida,Fort Myers,Page Field,FMY,1994,22,0,0,26.58694444,-81.86222222
+Florida,Fort Pierce,St. Lucie County International,FPR,1994,158,0,0,27.49305556,-80.36777778
+Florida,Miami,Dade-Collier,TNT,1994,0,0,0,25.86277778,-80.89722222
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,1994,4601,0,0,30.35277778,-87.32027778
+Florida,Miami,Watson Island International,MPB,1994,0,0,0,25.77833333,-80.17027778
+Florida,Titusville,Space Center Executive,TIX,1995,0,0,0,28.51222222,-80.79944444
+Florida,Daytona Beach,Daytona Beach Regional,DAB,1995,303,1,346147,29.1825,-81.05277778
+Florida,Crestview,Bob Sikes,CEW,1995,2,0,0,30.77972222,-86.5225
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,1995,62220,9540,4189016,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,1995,282,3,143106,29.68972222,-82.27583333
+Florida,Destin,Destin-Ft. Walton Beach,DSI,1995,301,0,0,30.4,-86.47138889
+Florida,Orlando,Herndon,ORL,1995,0,0,0,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,1995,27,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,1995,6402,11244,1617162,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,1995,23,0,701,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,1995,48660,16492,9197128,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,1995,0,0,303,25.48805556,-80.38416667
+Florida,Brooksville,Hernando County,JZQ,1995,20,0,0,28.47361111,-82.45555556
+Florida,Miami,Miami International,MIA,1995,471590,32963,12036151,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,1995,0,0,2907,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,1995,0,0,480,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,1995,214,27,259000,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,1995,28,0,1212,27.84888889,-82.52166667
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,1995,2982,6617,2566992,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,1995,437,560,119420,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,1995,451,1554,442536,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,1995,208,5,78250,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,1995,2905,3282,1866053,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,1995,86,0,342152,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,1995,942,822,697574,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,1995,1,0,42750,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,1995,1902,841,390666,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,1995,27722,24275,4965053,27.97305556,-82.53527778
+Florida,Leesburg,Leesburg Municipal,LEE,1995,0,0,0,28.82277778,-81.80916667
+Florida,Vero Beach,Vero Beach Municipal,VRB,1995,0,0,1317,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,1995,68,2,18941,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,1995,0,0,4479,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,1995,1,0,321,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,1995,0,0,584,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,1995,0,0,0,30.18055556,-82.57972222
+Florida,Valparaiso,Northwest Florida Regional,VPS,1995,66,0,162321,30.48333333,-86.52527778
+Florida,Miami,Opa-locka Executive,OPF,1995,35,0,23,25.90694444,-80.28027778
+Florida,Jacksonville,Craig Municipal,CRG,1995,110,0,0,30.33638889,-81.51444444
+Florida,Fort Myers,Page Field,FMY,1995,25,0,0,26.58694444,-81.86222222
+Florida,Fort Pierce,St. Lucie County International,FPR,1995,184,0,0,27.49305556,-80.36777778
+Florida,Miami,Dade-Collier,TNT,1995,2,0,0,25.86277778,-80.89722222
+Florida,Titusville,Space Center Executive,TIX,1996,0,0,149,28.51222222,-80.79944444
+Florida,Cape Canaveral,Cape Canaveral AFS,XMR,1996,12,0,0,28.46722222,-80.56666667
+Florida,Daytona Beach,Daytona Beach Regional,DAB,1996,263,2,381945,29.1825,-81.05277778
+Florida,Crestview,Bob Sikes,CEW,1996,6,0,0,30.77972222,-86.5225
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,1996,68730,10490,4848058,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,1996,317,1,153305,29.68972222,-82.27583333
+Florida,Destin,Destin-Ft. Walton Beach,DSI,1996,266,0,0,30.4,-86.47138889
+Florida,Ocala,Ocala Municipal,OCF,1996,206,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,1996,8659,11540,1660738,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,1996,89,0,222,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,1996,49059,18399,10846685,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,1996,0,0,1,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,1996,544389,38328,11907895,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,1996,81,0,4846,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,1996,0,0,466,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,1996,251,1,303006,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,1996,0,0,0,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,1996,0,0,51,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,1996,2550,7496,2672222,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,1996,222,276,126669,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,1996,472,1908,484487,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,1996,220,1,68082,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,1996,3218,3471,1945044,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,1996,286,0,405956,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,1996,351,1527,726156,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,1996,0,0,28735,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,1996,3889,801,262106,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,1996,30872,25841,5720761,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,1996,52,0,1283,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,1996,94,1,28314,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,1996,37,0,19981,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,1996,0,0,0,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,1996,32,0,354,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,1996,199,3,0,30.18055556,-82.57972222
+Florida,Valparaiso,Northwest Florida Regional,VPS,1996,106,3,213108,30.48333333,-86.52527778
+Florida,Miami,Opa-locka Executive,OPF,1996,42,0,48,25.90694444,-80.28027778
+Florida,Jacksonville,Craig Municipal,CRG,1996,131,0,0,30.33638889,-81.51444444
+Florida,Fort Myers,Page Field,FMY,1996,28,0,0,26.58694444,-81.86222222
+Florida,Fort Pierce,St. Lucie County International,FPR,1996,223,0,0,27.49305556,-80.36777778
+Florida,Miami,Dade-Collier,TNT,1996,0,0,0,25.86277778,-80.89722222
+Florida,Cape Canaveral,Cape Canaveral AFS,XMR,1997,0,0,45,28.46722222,-80.56666667
+Florida,Daytona Beach,Daytona Beach Regional,DAB,1997,195,0,376324,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,1997,75288,9896,5371290,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,1997,289,3,152125,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,1997,0,0,619,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,1997,272,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,1997,21993,11089,1950199,30.48472222,-81.68777778
+Florida,Orlando,Orlando International,MCO,1997,80095,21945,11700772,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,1997,0,0,114,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,1997,637991,38254,12096973,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,1997,0,0,6019,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,1997,0,0,316,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,1997,188,1,289609,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,1997,0,0,584,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,1997,0,0,170,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,1997,12311,7768,2738628,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,1997,44,237,125068,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,1997,396,1807,483531,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,1997,223,0,19131,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,1997,4809,3260,2034642,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,1997,8814,0,321287,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,1997,425,1186,747563,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,1997,0,0,12613,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,1997,3664,780,218402,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,1997,36339,23326,5850638,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,1997,124,0,77,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,1997,97,0,9285,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,1997,250,0,32228,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,1997,4,0,0,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,1997,0,0,88,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,1997,0,0,0,30.18055556,-82.57972222
+Florida,Mayport,Mayport NS,NRB,1997,0,0,21,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,1997,46,8,253705,30.48333333,-86.52527778
+Florida,Miami,Opa-locka Executive,OPF,1997,96,0,20,25.90694444,-80.28027778
+Florida,Jacksonville,Craig Municipal,CRG,1997,146,0,0,30.33638889,-81.51444444
+Florida,Fort Myers,Page Field,FMY,1997,58,0,0,26.58694444,-81.86222222
+Florida,Fort Pierce,St. Lucie County International,FPR,1997,136,0,0,27.49305556,-80.36777778
+Florida,Miami,Dade-Collier,TNT,1997,0,0,54,25.86277778,-80.89722222
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,1997,0,0,0,30.35277778,-87.32027778
+Florida,Cape Canaveral,Cape Canaveral AFS,XMR,1998,0,0,312,28.46722222,-80.56666667
+Florida,Daytona Beach,Daytona Beach Regional,DAB,1998,183,92,303065,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,1998,79863,8580,5479331,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,1998,92,0,98089,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,1998,0,0,23,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,1998,66,0,1841,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,1998,22726,9946,2176659,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,1998,254,0,866,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,1998,123408,20414,11931179,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,1998,0,0,234,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,1998,674635,36399,13265230,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,1998,0,0,5014,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,1998,0,0,886,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,1998,182,0,259426,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,1998,0,0,132,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,1998,0,0,37,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,1998,13417,4196,2788466,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,1998,34,43,117515,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,1998,410,1112,460637,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,1998,220,1,88054,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,1998,4787,1675,2148063,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,1998,0,0,0,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,1998,9093,0,343341,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,1998,449,0,740944,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,1998,2,1,36602,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,1998,3470,481,206770,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,1998,40365,17733,6276284,27.97305556,-82.53527778
+Florida,Stuart,Witham Field,SUA,1998,10,0,0,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,1998,136,0,75,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,1998,90,0,20009,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,1998,54,0,40092,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,1998,31,0,0,24.57527778,-81.68916667
+Florida,Lake City,Lake City Municipal,XXW,1998,0,0,0,30.18055556,-82.57972222
+Florida,Mayport,Mayport NS,NRB,1998,1,0,36,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,1998,97,1,262921,30.48333333,-86.52527778
+Florida,Crestview,Duke Field (Eglin Af Aux Nr 3),EGI,1998,0,0,119,30.65027778,-86.52694444
+Florida,St. Augustine,St. Augustine Airport,UST,1998,1,0,0,29.95861111,-81.33888889
+Florida,Miami,Opa-locka Executive,OPF,1998,379,0,122,25.90694444,-80.28027778
+Florida,Jacksonville,Craig Municipal,CRG,1998,142,0,0,30.33638889,-81.51444444
+Florida,Fort Myers,Page Field,FMY,1998,78,0,177,26.58694444,-81.86222222
+Florida,Fort Pierce,St. Lucie County International,FPR,1998,110,0,0,27.49305556,-80.36777778
+Florida,Miami,Dade-Collier,TNT,1998,0,0,8,25.86277778,-80.89722222
+Florida,Cape Canaveral,Cape Canaveral AFS,XMR,1999,77,0,355,28.46722222,-80.56666667
+Florida,Daytona Beach,Daytona Beach Regional,DAB,1999,156,102,271668,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,1999,109391,9515,6223985,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,1999,105,2,113410,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,1999,528,0,0,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,1999,47,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,1999,23323,8571,2318788,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,1999,317,0,891,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,1999,89069,25635,12563805,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,1999,0,0,0,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,1999,432454,37422,12763958,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,1999,166,0,4144,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,1999,0,0,887,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,1999,190,0,273813,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,1999,191,0,2603,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,1999,0,4,0,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,1999,15050,3823,2705096,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,1999,26,0,127327,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,1999,367,1157,441071,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,1999,230,0,96593,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,1999,4928,1374,2258029,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,1999,9005,0,258300,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,1999,456,3,717887,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,1999,7,2,34756,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,1999,4312,656,208051,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,1999,38765,15388,6912306,27.97305556,-82.53527778
+Florida,Stuart,Witham Field,SUA,1999,200,0,0,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,1999,135,0,100,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,1999,95,1,20155,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,1999,0,0,22587,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,1999,0,0,0,24.57527778,-81.68916667
+Florida,Lake City,Lake City Municipal,XXW,1999,0,0,0,30.18055556,-82.57972222
+Florida,Valparaiso,Northwest Florida Regional,VPS,1999,21,0,337333,30.48333333,-86.52527778
+Florida,Miami,Opa-locka Executive,OPF,1999,677,0,0,25.90694444,-80.28027778
+Florida,Jacksonville,Craig Municipal,CRG,1999,147,0,0,30.33638889,-81.51444444
+Florida,Fort Myers,Page Field,FMY,1999,89,0,0,26.58694444,-81.86222222
+Florida,Fort Pierce,St. Lucie County International,FPR,1999,61,0,0,27.49305556,-80.36777778
+Florida,Miami,Dade-Collier,TNT,1999,0,0,0,25.86277778,-80.89722222
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,1999,0,0,0,30.35277778,-87.32027778
+Florida,Cape Canaveral,Cape Canaveral AFS,XMR,2000,0,0,239,28.46722222,-80.56666667
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2000,171,0,260180,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2000,102846,12649,7141813,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2000,151,2,116996,29.68972222,-82.27583333
+Florida,Ocala,Ocala Municipal,OCF,2000,3,0,33,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2000,24508,7822,2498702,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2000,476,0,959,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,2000,99527,24153,13519913,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,2000,0,0,0,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2000,540702,36879,12668592,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2000,128,0,6070,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2000,0,0,857,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2000,220,12,261771,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2000,0,0,112,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2000,15,0,638,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2000,0,0,0,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2000,15200,3456,2787460,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,2000,30,0,131894,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,2000,550,1030,435498,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2000,478,0,124924,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2000,4174,1403,2456595,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2000,9406,0,235396,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2000,575,1,720889,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2000,0,0,36171,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2000,5522,636,266269,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2000,37955,12034,7436271,27.97305556,-82.53527778
+Florida,Stuart,Witham Field,SUA,2000,218,0,0,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2000,57,0,149,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2000,96,0,9650,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2000,0,0,75127,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2000,0,0,67,24.57527778,-81.68916667
+Florida,Lake City,Lake City Municipal,XXW,2000,0,0,0,30.18055556,-82.57972222
+Florida,Mayport,Mayport NS,NRB,2000,0,0,369,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,2000,59,2,382824,30.48333333,-86.52527778
+Florida,Miami,Opa-locka Executive,OPF,2000,47,0,281,25.90694444,-80.28027778
+Florida,Jacksonville,Craig Municipal,CRG,2000,135,0,0,30.33638889,-81.51444444
+Florida,Fort Myers,Page Field,FMY,2000,61,0,0,26.58694444,-81.86222222
+Florida,Fort Pierce,St. Lucie County International,FPR,2000,119,0,0,27.49305556,-80.36777778
+Florida,Miami,Watson Island International,MPB,2000,0,0,0,25.77833333,-80.17027778
+Florida,Titusville,Space Center Executive,TIX,2001,0,0,92,28.51222222,-80.79944444
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2001,133,2,246743,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2001,76345,11182,7372417,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2001,244,0,94817,29.68972222,-82.27583333
+Florida,Ocala,Ocala Municipal,OCF,2001,111,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2001,32225,7443,2392727,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2001,268,155,1056,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,2001,109421,18509,12619918,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,2001,0,0,104,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2001,833799,35499,11505040,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2001,0,0,11920,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2001,0,0,506,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2001,195,59,261128,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,2001,0,0,0,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2001,0,0,157,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2001,22331,3222,2857471,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,2001,40,0,124802,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,2001,493,924,430434,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2001,457,0,109871,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2001,5398,1180,2503843,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2001,16687,1,194122,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2001,562,0,574619,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2001,0,0,10536,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2001,2771,311,261346,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2001,29505,8866,7458091,27.97305556,-82.53527778
+Florida,Stuart,Witham Field,SUA,2001,235,0,0,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2001,45,0,0,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2001,108,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2001,0,0,181655,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2001,0,0,0,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2001,0,0,96,30.21861111,-81.87666667
+Florida,Mayport,Mayport NS,NRB,2001,0,0,90,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,2001,27,0,365060,30.48333333,-86.52527778
+Florida,Miami,Opa-locka Executive,OPF,2001,79,0,41,25.90694444,-80.28027778
+Florida,Jacksonville,Craig Municipal,CRG,2001,206,0,0,30.33638889,-81.51444444
+Florida,Fort Myers,Page Field,FMY,2001,51,0,0,26.58694444,-81.86222222
+Florida,Fort Pierce,St. Lucie County International,FPR,2001,122,0,0,27.49305556,-80.36777778
+Florida,Miami,Dade-Collier,TNT,2001,0,0,0,25.86277778,-80.89722222
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2002,93,0,224389,29.1825,-81.05277778
+Florida,Crestview,Bob Sikes,CEW,2002,2,0,0,30.77972222,-86.5225
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2002,77582,10667,7671254,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2002,130,0,100121,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2002,2,0,0,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2002,1,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2002,26286,4926,2273939,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2002,640,0,858,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,2002,87989,4989,12150299,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,2002,0,0,88,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2002,460847,19664,11132166,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2002,67,0,10384,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2002,0,0,909,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2002,156,0,196529,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,2002,299,0,753,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2002,0,0,70,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2002,13104,3183,2645857,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,2002,52,0,149037,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,2002,660,515,537802,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2002,530,1,119002,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2002,6039,1133,2474316,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2002,8337,0,246568,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2002,821,0,552584,27.39388889,-82.55416667
+Florida,Tallahassee,Tallahassee Regional,TLH,2002,4097,255,414563,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2002,30684,7686,7276087,27.97305556,-82.53527778
+Florida,Stuart,Witham Field,SUA,2002,208,0,0,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2002,25,0,0,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2002,126,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2002,0,0,230155,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2002,0,0,254,24.57527778,-81.68916667
+Florida,Lake City,Lake City Municipal,XXW,2002,10,0,0,30.18055556,-82.57972222
+Florida,Valparaiso,Northwest Florida Regional,VPS,2002,68,0,317178,30.48333333,-86.52527778
+Florida,Miami,Opa-locka Executive,OPF,2002,23,0,66,25.90694444,-80.28027778
+Florida,Fort Pierce,St. Lucie County International,FPR,2002,82,0,0,27.49305556,-80.36777778
+Florida,Miami,Dade-Collier,TNT,2002,0,0,0,25.86277778,-80.89722222
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2002,0,0,188,30.35277778,-87.32027778
+Florida,Titusville,Space Center Executive,TIX,2003,0,0,28,28.51222222,-80.79944444
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2003,225,0,272773,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2003,81082,10057,8060250,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2003,159,0,97812,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2003,0,0,36,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2003,458,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2003,26360,4286,2333747,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2003,641,0,722,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,2003,78565,4524,12054650,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,2003,0,0,96,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2003,426940,21609,11124194,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2003,7,0,6727,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2003,0,1,993,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2003,480,0,192672,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,2003,447,0,1862,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2003,0,0,0,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2003,11670,3277,2900688,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,2003,35,0,150099,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,2003,277,624,582042,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2003,262,0,149714,24.55555556,-81.75972222
+Florida,Merritt Island,NASA Shuttle Landing Facility,NSL,2003,0,0,146,28.61472222,-80.69472222
+Florida,Fort Myers,Southwest Florida International,RSW,2003,5252,1253,2770868,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2003,8744,112,436466,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2003,1065,0,527598,27.39388889,-82.55416667
+Florida,Tallahassee,Tallahassee Regional,TLH,2003,4176,312,436784,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2003,29980,9954,7331404,27.97305556,-82.53527778
+Florida,Stuart,Witham Field,SUA,2003,98,0,0,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2003,26,0,0,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2003,123,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2003,0,0,223565,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2003,0,0,89,24.57527778,-81.68916667
+Florida,Lake City,Lake City Municipal,XXW,2003,0,0,0,30.18055556,-82.57972222
+Florida,Mayport,Mayport NS,NRB,2003,0,0,51,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,2003,152,1,337921,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2003,0,0,356,30.42888889,-86.68888889
+Florida,Apalachicola,Apalachicola Regional,AAF,2003,5,0,0,29.7275,-85.0275
+Florida,Miami,Opa-locka Executive,OPF,2003,222,0,4545,25.90694444,-80.28027778
+Florida,Fort Pierce,St. Lucie County International,FPR,2003,89,0,0,27.49305556,-80.36777778
+Florida,Sebastian,Sebastian Municipal,DQC,2003,1,0,0,27.81277778,-80.49555556
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2003,0,0,254,30.35277778,-87.32027778
+Florida,Titusville,Space Center Executive,TIX,2004,0,0,131,28.51222222,-80.79944444
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2004,277,0,300460,29.1825,-81.05277778
+Florida,Crestview,Bob Sikes,CEW,2004,1,0,0,30.77972222,-86.5225
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2004,80462,10512,9273151,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2004,209,0,126026,29.68972222,-82.27583333
+Florida,Ocala,Ocala Municipal,OCF,2004,637,0,90,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2004,28072,4305,2600840,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2004,620,0,816,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,2004,79018,4465,13752710,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,2004,0,0,91,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2004,504889,22330,11520979,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2004,61,0,8436,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2004,0,1,980,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2004,699,0,198102,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,2004,0,0,167,27.84888889,-82.52166667
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2004,10089,3118,3159631,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,2004,12,0,180022,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,2004,163,542,636056,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2004,240,0,148541,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2004,5184,1495,3193392,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2004,9115,83,609127,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2004,1002,0,545114,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2004,0,0,4145,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2004,4424,241,460049,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2004,30479,9227,8066412,27.97305556,-82.53527778
+Florida,Stuart,Witham Field,SUA,2004,36,0,0,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2004,21,0,0,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2004,126,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2004,0,0,405135,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2004,0,0,202,24.57527778,-81.68916667
+Florida,Mayport,Mayport NS,NRB,2004,0,0,163,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,2004,122,0,369833,30.48333333,-86.52527778
+Florida,Miami,Opa-locka Executive,OPF,2004,352,0,2761,25.90694444,-80.28027778
+Florida,Fort Pierce,St. Lucie County International,FPR,2004,30,0,0,27.49305556,-80.36777778
+Florida,Miami,Dade-Collier,TNT,2004,0,0,0,25.86277778,-80.89722222
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2004,0,0,94,30.35277778,-87.32027778
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2005,109,0,290277,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,2005,0,0,0,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2005,85455,8485,9710789,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2005,131,0,160592,29.68972222,-82.27583333
+Florida,Ocala,Ocala Municipal,OCF,2005,389,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2005,33966,3698,2854925,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2005,723,0,991,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,2005,86882,3457,14869778,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,2005,15,0,0,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2005,501966,17414,12146563,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2005,61,0,9295,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2005,0,0,437,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2005,111,0,223723,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,2005,46,0,220,27.84888889,-82.52166667
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2005,10008,2997,3406804,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,2005,7,0,179307,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,2005,1042,133,736789,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2005,219,1,176883,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2005,5254,1152,3610708,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,2005,1,0,0,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2005,14431,1,267442,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2005,171,0,646493,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2005,0,0,27903,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2005,5050,43,408359,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2005,34371,7015,8811483,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,2005,97,0,0,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2005,121,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2005,128,0,310511,28.77777778,-81.2375
+Florida,Jacksonville,Cecil Field,NZC,2005,0,0,1,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,2005,24,0,0,30.18055556,-82.57972222
+Florida,Valparaiso,Northwest Florida Regional,VPS,2005,183,0,379129,30.48333333,-86.52527778
+Florida,St. Augustine,St. Augustine Airport,UST,2005,0,0,410,29.95861111,-81.33888889
+Florida,Miami,Opa-locka Executive,OPF,2005,341,0,60,25.90694444,-80.28027778
+Florida,Sebastian,Sebastian Municipal,DQC,2005,0,0,0,27.81277778,-80.49555556
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2005,0,0,174,30.35277778,-87.32027778
+Florida,Miami,Watson Island International,MPB,2005,4,0,0,25.77833333,-80.17027778
+Florida,Titusville,Space Center Executive,TIX,2006,0,0,112,28.51222222,-80.79944444
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2006,92,0,254774,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,2006,0,0,4,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2006,80696,7257,9335019,26.07416667,-80.15166667
+Florida,Chipley,Vosikas,FL3,2006,1413,0,0,30.78,-85.59805556
+Florida,Gainesville,Gainesville Regional,GNV,2006,88,0,142966,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2006,0,0,28,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2006,275,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2006,39680,2409,2944192,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2006,860,0,1160,28.23916667,-80.60777778
+Florida,Boca Raton,Boca Raton Public,BCT,2006,0,0,15,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2006,77964,2281,15121135,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,2006,0,0,96,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2006,549435,18077,12779676,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2006,113,0,10308,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2006,38,0,540,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2006,185,0,159351,28.1025,-80.64305556
+Florida,Tampa,Macdill AFB,MCF,2006,34,0,423,27.84888889,-82.52166667
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2006,9829,2291,3327905,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,2006,6,0,156640,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,2006,970,19,712650,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2006,229,0,178556,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2006,3309,710,3625853,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,2006,0,0,0,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2006,15052,3,176731,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2006,196,2,694018,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2006,0,0,22804,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2006,5147,0,344710,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2006,43068,5535,8745516,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,2006,52,0,0,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2006,113,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2006,0,0,341554,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2006,0,0,137,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2006,0,0,0,30.21861111,-81.87666667
+Florida,Mayport,Mayport NS,NRB,2006,0,0,121,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,2006,157,0,340283,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2006,58,0,1569,30.42888889,-86.68888889
+Florida,Miami,Opa-locka Executive,OPF,2006,840,0,2,25.90694444,-80.28027778
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2006,0,0,208,30.35277778,-87.32027778
+Florida,Titusville,Space Center Executive,TIX,2007,0,0,82,28.51222222,-80.79944444
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2007,100,0,334044,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,2007,0,0,24,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2007,77545,5730,10170090,26.07416667,-80.15166667
+Florida,Chipley,Vosikas,FL3,2007,202,0,0,30.78,-85.59805556
+Florida,Gainesville,Gainesville Regional,GNV,2007,26,0,132206,29.68972222,-82.27583333
+Florida,Ocala,Ocala Municipal,OCF,2007,461,0,195,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2007,44313,895,3106787,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2007,663,0,929,28.23916667,-80.60777778
+Florida,Boca Raton,Boca Raton Public,BCT,2007,0,0,21,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2007,79547,1570,15989704,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,2007,0,0,331,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2007,617031,20378,13314034,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2007,36,0,9554,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2007,0,0,525,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2007,169,0,134370,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2007,4,0,6969,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2007,0,0,596,27.84888889,-82.52166667
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2007,9132,1139,3356584,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,2007,1,0,145697,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,2007,1020,0,707865,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2007,220,0,170228,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2007,3177,483,3864770,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,2007,0,0,9,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2007,14526,135,367078,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2007,144,1,760682,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2007,0,0,13366,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2007,5046,7,321926,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2007,43120,2807,8928735,27.97305556,-82.53527778
+Florida,Leesburg,Leesburg Municipal,LEE,2007,0,0,8,28.82277778,-81.80916667
+Florida,Stuart,Witham Field,SUA,2007,0,0,2,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2007,85,0,44,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2007,121,0,2911,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2007,0,0,415855,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2007,0,0,321,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2007,1,0,0,30.21861111,-81.87666667
+Florida,Valparaiso,Northwest Florida Regional,VPS,2007,2,0,355830,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2007,0,0,2148,30.42888889,-86.68888889
+Florida,St. Augustine,St. Augustine Airport,UST,2007,1,0,21177,29.95861111,-81.33888889
+Florida,Miami,Opa-locka Executive,OPF,2007,421,0,11,25.90694444,-80.28027778
+Florida,Fort Myers,Page Field,FMY,2007,0,0,5,26.58694444,-81.86222222
+Florida,Miami,Tamiami,TMB,2007,0,0,10,25.64583333,-80.43194444
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2007,0,0,162,30.35277778,-87.32027778
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2008,92,0,280987,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,2008,0,0,11,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2008,61507,6381,10192895,26.07416667,-80.15166667
+Florida,Chipley,Vosikas,FL3,2008,98,0,0,30.78,-85.59805556
+Florida,Gainesville,Gainesville Regional,GNV,2008,38,1,132691,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2008,0,0,9,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2008,117,0,199,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2008,40548,1096,2901243,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2008,15,0,32,28.23916667,-80.60777778
+Florida,Boca Raton,Boca Raton Public,BCT,2008,0,0,12,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2008,66637,2521,15908669,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,2008,0,0,57,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2008,591901,22445,13423628,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2008,53,0,11284,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2008,187,0,758,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2008,784,0,143953,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2008,0,0,32648,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2008,0,0,621,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2008,0,0,88,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2008,8483,1436,3145463,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,2008,0,0,158359,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,2008,856,0,683275,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2008,184,0,154424,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2008,2586,144,3648580,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2008,11648,237,354445,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2008,136,0,732243,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2008,0,0,2,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2008,4735,1,333853,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2008,40750,2494,8574164,27.97305556,-82.53527778
+Florida,Stuart,Witham Field,SUA,2008,0,0,32,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2008,54,0,0,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2008,113,0,41,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2008,24,0,530180,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2008,0,0,0,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2008,4,0,0,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,2008,0,0,0,30.18055556,-82.57972222
+Florida,Mayport,Mayport NS,NRB,2008,0,0,113,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,2008,21,2,342682,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2008,0,0,2195,30.42888889,-86.68888889
+Florida,St. Augustine,St. Augustine Airport,UST,2008,0,0,19447,29.95861111,-81.33888889
+Florida,Miami,Opa-locka Executive,OPF,2008,62,0,50,25.90694444,-80.28027778
+Florida,Fort Pierce,St. Lucie County International,FPR,2008,0,0,0,27.49305556,-80.36777778
+Florida,Miami,Tamiami,TMB,2008,0,0,13,25.64583333,-80.43194444
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2009,61,0,201986,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2009,45486,4327,9483139,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2009,14,0,130087,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2009,0,0,0,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2009,315,0,172,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2009,38720,694,2731304,30.48472222,-81.68777778
+Florida,Orlando,Orlando International,MCO,2009,59613,1754,15061932,28.43166667,-81.32472222
+Florida,Homestead,Homestead AFB,HST,2009,71,0,496,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2009,484087,17218,13351916,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2009,22,0,10361,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2009,0,0,851,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2009,740,0,110483,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2009,0,0,52539,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2009,0,0,695,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2009,0,0,0,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2009,7499,882,2955573,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,2009,0,0,150381,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,2009,130,0,669066,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2009,188,0,190315,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2009,4945,2,3568831,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2009,10538,229,378091,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2009,118,0,665426,27.39388889,-82.55416667
+Florida,Tallahassee,Tallahassee Regional,TLH,2009,4697,0,337701,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2009,37233,2391,8022573,27.97305556,-82.53527778
+Florida,Stuart,Witham Field,SUA,2009,0,0,9,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2009,50,0,4,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2009,118,0,39,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2009,0,0,600225,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2009,0,0,101,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2009,3,0,0,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,2009,0,0,0,30.18055556,-82.57972222
+Florida,Mayport,Mayport NS,NRB,2009,0,0,166,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,2009,3,0,368546,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2009,0,0,2054,30.42888889,-86.68888889
+Florida,Miami,Opa-locka Executive,OPF,2009,72,0,57,25.90694444,-80.28027778
+Florida,Fort Pierce,St. Lucie County International,FPR,2009,0,0,0,27.49305556,-80.36777778
+Florida,Miami,Tamiami,TMB,2009,0,0,0,25.64583333,-80.43194444
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2009,0,0,0,30.35277778,-87.32027778
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2010,64,0,246578,29.1825,-81.05277778
+Florida,Crestview,Bob Sikes,CEW,2010,2,0,0,30.77972222,-86.5225
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2010,47342,1579,9959273,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2010,7,0,159476,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2010,0,0,9,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2010,253,0,173,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2010,38296,780,2733161,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2010,434,0,553,28.23916667,-80.60777778
+Florida,Boca Raton,Boca Raton Public,BCT,2010,0,0,19,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2010,63294,969,15699466,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2010,1,1,253715,30.35777778,-85.79888889
+Florida,Homestead,Homestead AFB,HST,2010,0,0,261,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2010,505526,15024,13974884,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2010,731,0,11757,30.23416667,-81.67527778
+Florida,Fernandina Beach,Fernandina Beach Municipal,FHB,2010,0,0,8,30.61194444,-81.46111111
+Florida,Panama City,Tyndall AFB,PAM,2010,52,0,1253,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2010,379,0,180286,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2010,0,0,92396,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2010,0,0,1089,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2010,0,0,102,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2010,11506,2,2908154,26.68222222,-80.09416667
+Florida,Panama City,Bay County,PFN,2010,0,0,58387,30.2125,-85.68194444
+Florida,Pensacola,Pensacola Regional,PNS,2010,101,10,707279,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2010,184,0,244046,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2010,4487,2,3600858,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2010,8451,47,382279,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2010,116,1,659474,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2010,0,0,3,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2010,4753,0,301523,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2010,37805,1948,7891731,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,2010,1,0,0,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2010,123,0,2,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2010,0,0,367685,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2010,0,0,509,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2010,7,0,0,30.21861111,-81.87666667
+Florida,Mayport,Mayport NS,NRB,2010,2,0,124,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,2010,0,0,348979,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2010,0,0,2802,30.42888889,-86.68888889
+Florida,Miami,Opa-locka Executive,OPF,2010,119,0,178,25.90694444,-80.28027778
+Florida,Fort Pierce,St. Lucie County International,FPR,2010,153,0,0,27.49305556,-80.36777778
+Florida,Miami,Tamiami,TMB,2010,0,0,0,25.64583333,-80.43194444
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2010,0,0,209,30.35277778,-87.32027778
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2011,65,0,274136,29.1825,-81.05277778
+Florida,Crestview,Bob Sikes,CEW,2011,4,0,0,30.77972222,-86.5225
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2011,46570,2229,10431719,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2011,8,0,177062,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2011,0,0,2,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2011,247,0,347,29.17555556,-82.22694444
+Florida,Cape Canaveral,Cape Canaveral AFS,DQY,2011,0,0,42,28.46722222,-80.56666667
+Florida,Jacksonville,Jacksonville International,JAX,2011,37626,657,2692079,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2011,668,0,889,28.23916667,-80.60777778
+Florida,Boca Raton,Boca Raton Public,BCT,2011,0,0,11,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2011,59468,1293,15838194,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2011,5,0,417881,30.35777778,-85.79888889
+Florida,Homestead,Homestead AFB,HST,2011,0,0,0,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2011,529460,16740,14903642,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2011,156,0,13403,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2011,56,0,293,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2011,214,0,207818,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2011,0,0,147691,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2011,5,0,873,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2011,0,0,20258,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2011,12066,0,2833678,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,2011,467,0,729552,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2011,163,0,298066,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2011,4725,0,3622744,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,2011,1,0,0,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2011,8231,2,409878,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2011,116,0,643207,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2011,0,0,2,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2011,4813,0,289173,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2011,37787,1690,7931876,27.97305556,-82.53527778
+Florida,Marathon,The Florida Keys Marathon,MTH,2011,132,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2011,19,0,559180,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2011,5,0,553,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2011,2,0,0,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,2011,0,0,0,30.18055556,-82.57972222
+Florida,Mayport,Mayport NS,NRB,2011,2,0,161,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,2011,1,0,434455,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2011,0,0,2659,30.42888889,-86.68888889
+Florida,Miami,Opa-locka Executive,OPF,2011,48,0,30,25.90694444,-80.28027778
+Florida,Miami,Tamiami,TMB,2011,0,0,0,25.64583333,-80.43194444
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2011,0,0,182,30.35277778,-87.32027778
+Florida,Titusville,Space Center Executive,TIX,2012,0,0,0,28.51222222,-80.79944444
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2012,63,0,290076,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,2012,0,0,0,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2012,48701,2457,10547941,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2012,3,0,182510,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2012,0,0,2,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2012,201,0,206,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2012,37852,1034,2568043,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2012,628,0,753,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,2012,60295,1086,15577962,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2012,27,0,422668,30.35777778,-85.79888889
+Florida,Miami,Miami International,MIA,2012,552698,17080,15315965,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2012,246,0,12106,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2012,55,0,614,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2012,69,0,215264,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2012,0,0,99827,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2012,1,0,670,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2012,0,0,15095,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2012,11579,4,2753286,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,2012,2134,0,713378,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2012,159,0,302759,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2012,4680,0,3493635,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2012,8000,20,426148,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2012,106,6,623271,27.39388889,-82.55416667
+Florida,Tallahassee,Tallahassee Regional,TLH,2012,4599,0,308015,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2012,37371,1919,7931420,27.97305556,-82.53527778
+Florida,Marathon,The Florida Keys Marathon,MTH,2012,113,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2012,36,0,666014,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2012,3,0,593,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2012,0,0,0,30.21861111,-81.87666667
+Florida,Mayport,Mayport NS,NRB,2012,0,0,46,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,2012,60,0,373542,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2012,34,0,1777,30.42888889,-86.68888889
+Florida,Crestview,Duke Field (Eglin Af Aux Nr 3),EGI,2012,0,0,69,30.65027778,-86.52694444
+Florida,St. Augustine,St. Augustine Airport,UST,2012,0,0,58,29.95861111,-81.33888889
+Florida,Miami,Opa-locka Executive,OPF,2012,44,0,46,25.90694444,-80.28027778
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2012,0,0,163,30.35277778,-87.32027778
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2013,59,0,293605,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2013,47294,2853,10575617,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2013,0,0,187040,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2013,2,0,5,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2013,159,0,166,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2013,36632,1955,2529023,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2013,641,0,808,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,2013,63565,1107,15226553,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2013,65,0,391282,30.35777778,-85.79888889
+Florida,Miami,Miami International,MIA,2013,506218,18314,15442379,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2013,140,0,14238,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2013,0,0,312,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2013,88,0,211592,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2013,0,0,170908,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2013,0,0,490,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2013,0,0,506,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2013,10254,497,2758330,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,2013,2082,0,709718,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2013,142,0,329889,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2013,4637,0,3619737,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,2013,8,0,0,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2013,7876,0,504372,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2013,110,0,576738,27.39388889,-82.55416667
+Florida,Tallahassee,Tallahassee Regional,TLH,2013,4415,0,316450,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2013,40239,1901,7916780,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,2013,0,0,44,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2013,110,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2013,0,0,797935,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2013,0,0,203,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2013,8,0,107,30.21861111,-81.87666667
+Florida,Valparaiso,Northwest Florida Regional,VPS,2013,112,0,353953,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2013,22,0,645,30.42888889,-86.68888889
+Florida,Miami,Opa-locka Executive,OPF,2013,44,0,28,25.90694444,-80.28027778
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2014,65,0,306523,29.1825,-81.05277778
+Florida,Crestview,Bob Sikes,CEW,2014,2,0,0,30.77972222,-86.5225
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,2014,0,0,3,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2014,47228,3176,10991087,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2014,2,0,196888,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2014,0,0,22,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2014,282,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2014,37796,2440,2567948,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2014,654,0,943,28.23916667,-80.60777778
+Florida,Boca Raton,Boca Raton Public,BCT,2014,0,0,10,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2014,66426,1364,15399856,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2014,18,0,394491,30.35777778,-85.79888889
+Florida,Homestead,Homestead AFB,HST,2014,0,0,255,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2014,515546,13822,15476726,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2014,80,0,11783,30.23416667,-81.67527778
+Florida,Fernandina Beach,Fernandina Beach Municipal,FHB,2014,0,0,2,30.61194444,-81.46111111
+Florida,Panama City,Tyndall AFB,PAM,2014,185,0,938,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2014,88,0,214688,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2014,0,0,336805,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2014,3,0,468,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2014,3,0,350,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2014,11248,1479,2854972,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,2014,2170,0,726562,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2014,141,0,301354,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2014,5173,0,3781721,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,2014,0,0,14,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2014,8556,0,655675,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2014,132,4,581510,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2014,0,0,0,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2014,4496,18,320156,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2014,42584,2242,8188952,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,2014,0,0,5,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2014,101,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2014,58,0,919356,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2014,6,0,567,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2014,10,0,372,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,2014,0,0,0,30.18055556,-82.57972222
+Florida,Mayport,Mayport NS,NRB,2014,0,0,294,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,2014,6,0,360542,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2014,0,0,906,30.42888889,-86.68888889
+Florida,St. Augustine,St. Augustine Airport,UST,2014,0,0,19605,29.95861111,-81.33888889
+Florida,Miami,Opa-locka Executive,OPF,2014,3,0,96,25.90694444,-80.28027778
+Florida,Fort Pierce,St. Lucie County International,FPR,2014,0,0,3,27.49305556,-80.36777778
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2014,3,0,393,30.35277778,-87.32027778
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2015,60,0,306034,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2015,47976,896,11856443,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2015,5,2,207901,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2015,0,0,3,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2015,212,0,0,29.17555556,-82.22694444
+Florida,Cape Canaveral,Cape Canaveral AFS,DQY,2015,0,0,49,28.46722222,-80.56666667
+Florida,Jacksonville,Jacksonville International,JAX,2015,38116,2289,2644807,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2015,647,0,603,28.23916667,-80.60777778
+Florida,Boca Raton,Boca Raton Public,BCT,2015,0,0,0,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2015,74544,5562,16577421,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2015,15,0,417478,30.35777778,-85.79888889
+Florida,Miami,Miami International,MIA,2015,527899,16525,16665993,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2015,34,0,6980,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2015,147,0,327,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2015,113,0,220346,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2015,0,0,421157,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2015,0,0,410,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2015,0,0,286,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2015,9948,999,3044866,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,2015,2127,1,754057,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2015,135,0,277293,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2015,5360,41,3979303,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2015,9956,450,810013,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2015,128,0,586061,27.39388889,-82.55416667
+Florida,Tallahassee,Tallahassee Regional,TLH,2015,4231,0,308079,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2015,47608,2785,8774273,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,2015,0,0,40,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2015,89,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2015,4,0,1093803,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2015,6,0,1305,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2015,129,0,8356,30.21861111,-81.87666667
+Florida,Valparaiso,Northwest Florida Regional,VPS,2015,1,0,373072,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2015,84,0,1584,30.42888889,-86.68888889
+Florida,St. Augustine,St. Augustine Airport,UST,2015,0,0,20153,29.95861111,-81.33888889
+Florida,Miami,Opa-locka Executive,OPF,2015,90,0,7,25.90694444,-80.28027778
+Florida,Fort Myers,Page Field,FMY,2015,0,0,3,26.58694444,-81.86222222
+Florida,Miami,Dade-Collier,TNT,2015,2,0,0,25.86277778,-80.89722222
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2015,0,0,51,30.35277778,-87.32027778
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2016,62,0,342386,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2016,44071,307,13023301,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2016,3,1,206066,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2016,0,0,3,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2016,210,0,60,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2016,37729,2031,2698520,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2016,449,0,458,28.23916667,-80.60777778
+Florida,Orlando,Orlando International,MCO,2016,80428,5425,17956366,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2016,4,0,428144,30.35777778,-85.79888889
+Florida,Homestead,Homestead AFB,HST,2016,126,0,327,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2016,533401,16735,16398477,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2016,253,0,6598,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2016,156,0,623,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2016,74,4,219569,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2016,0,0,558468,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2016,3,0,305,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2016,0,0,213,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2016,9025,871,3019130,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,2016,2239,1,764654,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2016,129,0,303186,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2016,5493,138,4039643,26.53611111,-81.755
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2016,10687,1078,908042,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2016,137,0,559395,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2016,0,0,1087,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2016,4290,0,326246,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2016,59100,2256,8743712,27.97305556,-82.53527778
+Florida,Vero Beach,Vero Beach Municipal,VRB,2016,0,0,4525,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2016,89,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2016,0,0,1206770,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2016,0,0,813,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2016,96,0,6183,30.21861111,-81.87666667
+Florida,Mayport,Mayport NS,NRB,2016,0,0,165,30.39166667,-81.42388889
+Florida,Valparaiso,Northwest Florida Regional,VPS,2016,162,0,438154,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2016,368,0,2161,30.42888889,-86.68888889
+Florida,St. Augustine,St. Augustine Airport,UST,2016,0,0,27134,29.95861111,-81.33888889
+Florida,Apalachicola,Apalachicola Regional,AAF,2016,1,0,0,29.7275,-85.0275
+Florida,Miami,Opa-locka Executive,OPF,2016,21,0,31,25.90694444,-80.28027778
+Florida,Miami,Tamiami,TMB,2016,0,0,0,25.64583333,-80.43194444
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2016,0,0,632,30.35277778,-87.32027778
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2017,61,0,346320,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,2017,0,0,18,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2017,42656,256,14412583,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2017,7,1,218486,29.68972222,-82.27583333
+Florida,Destin,Destin-Ft. Walton Beach,DSI,2017,0,0,6,30.4,-86.47138889
+Florida,Orlando,Herndon,ORL,2017,0,0,50,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2017,186,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2017,39098,2711,2650266,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2017,453,0,476,28.23916667,-80.60777778
+Florida,Boca Raton,Boca Raton Public,BCT,2017,0,0,54,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2017,83132,4917,19165877,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2017,4,0,454693,30.35777778,-85.79888889
+Florida,Homestead,Homestead AFB,HST,2017,107,0,103,25.48805556,-80.38416667
+Florida,Brooksville,Hernando County,JZQ,2017,0,0,10,28.47361111,-82.45555556
+Florida,Miami,Miami International,MIA,2017,556526,17470,16359327,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2017,337,0,14305,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2017,125,0,968,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2017,54,4,220973,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2017,0,0,643541,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2017,57,0,268,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2017,0,0,233,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2017,10594,813,3020724,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,2017,3977,1,807779,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2017,114,0,291379,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2017,5506,51,4170374,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,2017,0,0,3,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2017,7584,1212,1014589,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2017,133,1,562171,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2017,0,0,250,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2017,4147,0,325936,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2017,72653,2295,9079733,27.97305556,-82.53527778
+Florida,New Smyrna Beach,New Smyrna Beach Municipal,DQN,2017,0,0,7,29.05444444,-80.94805556
+Florida,Stuart,Witham Field,SUA,2017,0,0,5,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2017,0,0,9089,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2017,80,0,3,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2017,0,0,1281693,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2017,0,0,662,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,NZC,2017,6,0,0,30.21861111,-81.87666667
+Florida,Jacksonville,Cecil Field,VQQ,2017,3,0,0,30.21861111,-81.87666667
+Florida,Valparaiso,Northwest Florida Regional,VPS,2017,127,0,566659,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2017,426,0,1886,30.42888889,-86.68888889
+Florida,St. Augustine,St. Augustine Airport,UST,2017,0,0,8559,29.95861111,-81.33888889
+Florida,Apalachicola,Apalachicola Regional,AAF,2017,1,0,0,29.7275,-85.0275
+Florida,Miami,Opa-locka Executive,OPF,2017,10,0,164,25.90694444,-80.28027778
+Florida,Sebring,Sebring Regional,SEF,2017,0,0,0,27.45222222,-81.34333333
+Florida,Fort Pierce,St. Lucie County International,FPR,2017,17,0,0,27.49305556,-80.36777778
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2017,0,0,132,30.35277778,-87.32027778
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2018,62,2,366582,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,2018,0,0,3,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2018,44716,391,16062390,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2018,4,0,233831,29.68972222,-82.27583333
+Florida,Destin,Destin-Ft. Walton Beach,DSI,2018,0,0,1,30.4,-86.47138889
+Florida,Orlando,Herndon,ORL,2018,0,0,45,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2018,281,0,2,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2018,40815,2492,3059437,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2018,398,0,554,28.23916667,-80.60777778
+Florida,Boca Raton,Boca Raton Public,BCT,2018,0,0,77,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2018,85450,5246,20568741,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2018,4,0,512130,30.35777778,-85.79888889
+Florida,Homestead,Homestead AFB,HST,2018,55,0,0,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2018,585351,17554,16847539,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2018,253,0,11958,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2018,144,0,196,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2018,47,0,233291,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2018,0,0,786911,26.91916667,-81.99138889
+Florida,Marco Island,Marco Island Airport,MRK,2018,0,0,0,25.99472222,-81.67277778
+Florida,Deland,Deland Municipal Sidney H Taylor Field,FL8,2018,0,0,3,29.06694444,-81.28361111
+Florida,Tampa,Macdill AFB,MCF,2018,0,0,41,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2018,0,0,318,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2018,9778,612,3181342,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,2018,3379,0,940553,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2018,117,0,343573,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2018,5915,0,4413766,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,2018,0,0,27,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2018,71,0,1106769,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2018,127,0,663314,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2018,0,0,33,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2018,4730,1,354980,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2018,99581,4162,9868234,27.97305556,-82.53527778
+Florida,Leesburg,Leesburg Municipal,LEE,2018,0,0,2,28.82277778,-81.80916667
+Florida,Stuart,Witham Field,SUA,2018,0,0,28,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2018,0,0,9241,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2018,71,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2018,0,0,1387971,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2018,0,0,609,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,VQQ,2018,23,0,4,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,2018,0,0,0,30.18055556,-82.57972222
+Florida,Valparaiso,Northwest Florida Regional,VPS,2018,192,0,683757,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2018,216,0,2537,30.42888889,-86.68888889
+Florida,St. Augustine,St. Augustine Airport,UST,2018,0,0,8,29.95861111,-81.33888889
+Florida,Miami,Opa-locka Executive,OPF,2018,31,0,227,25.90694444,-80.28027778
+Florida,Miami,Tamiami,TMB,2018,0,0,4,25.64583333,-80.43194444
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2019,35,1,336311,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,2019,0,0,0,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2019,46192,372,16523870,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2019,4,0,273183,29.68972222,-82.27583333
+Florida,Orlando,Herndon,ORL,2019,0,0,39,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2019,203,0,0,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2019,44197,2028,3414674,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2019,458,0,616,28.23916667,-80.60777778
+Florida,Boca Raton,Boca Raton Public,BCT,2019,0,0,80,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2019,94070,10112,21814203,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2019,3,0,620932,30.35777778,-85.79888889
+Florida,Homestead,Homestead AFB,HST,2019,69,0,323,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2019,552168,15095,16960723,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2019,364,0,14240,30.23416667,-81.67527778
+Florida,Fernandina Beach,Fernandina Beach Municipal,FHB,2019,0,0,2,30.61194444,-81.46111111
+Florida,Panama City,Tyndall AFB,PAM,2019,291,0,585,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2019,33,2,240034,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2019,0,0,821528,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2019,0,0,229,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2019,0,0,184,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2019,9890,84,3395467,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,2019,3556,1,1063055,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2019,124,0,415575,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2019,6304,16,4858079,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,2019,0,0,27,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2019,70,0,1136372,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2019,143,0,954517,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2019,0,0,52,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2019,5233,0,395013,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2019,105955,4076,10417095,27.97305556,-82.53527778
+Florida,Stuart,Witham Field,SUA,2019,0,0,11,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2019,0,0,7325,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2019,89,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2019,0,0,1497908,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2019,0,0,795,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,VQQ,2019,45,0,161,30.21861111,-81.87666667
+Florida,Lake City,Lake City Municipal,XXW,2019,0,0,0,30.18055556,-82.57972222
+Florida,Valparaiso,Northwest Florida Regional,VPS,2019,111,0,810911,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2019,272,0,2109,30.42888889,-86.68888889
+Florida,St. Augustine,St. Augustine Airport,UST,2019,0,0,3,29.95861111,-81.33888889
+Florida,Miami,Opa-locka Executive,OPF,2019,38,0,281,25.90694444,-80.28027778
+Florida,Fort Myers,Page Field,FMY,2019,0,0,5,26.58694444,-81.86222222
+Florida,Miami,Tamiami,TMB,2019,0,0,1,25.64583333,-80.43194444
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2019,0,0,6,30.35277778,-87.32027778
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2020,0,0,161979,29.1825,-81.05277778
+Florida,Crestview,Bob Sikes,CEW,2020,0,0,0,30.77972222,-86.5225
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,2020,0,0,24,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2020,43160,1047,7645766,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2020,2,0,127080,29.68972222,-82.27583333
+Florida,Destin,Destin-Ft. Walton Beach,DSI,2020,0,0,26,30.4,-86.47138889
+Florida,Orlando,Herndon,ORL,2020,0,0,7,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2020,226,0,7,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2020,45814,2836,1360471,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2020,412,0,282,28.23916667,-80.60777778
+Florida,Boca Raton,Boca Raton Public,BCT,2020,0,0,40,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2020,93198,14189,9872773,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2020,2,0,402434,30.35777778,-85.79888889
+Florida,Homestead,Homestead AFB,HST,2020,0,0,251,25.48805556,-80.38416667
+Florida,Miami,Miami International,MIA,2020,585242,11084,7544000,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2020,248,0,5393,30.23416667,-81.67527778
+Florida,Panama City,Tyndall AFB,PAM,2020,0,0,1322,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2020,1,0,110719,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2020,0,0,596854,26.91916667,-81.99138889
+Florida,Tampa,Macdill AFB,MCF,2020,0,0,203,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2020,17031,0,0,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2020,11700,3,1487458,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,2020,4488,0,581124,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2020,134,0,322756,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2020,6443,6,2872925,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,2020,0,0,7,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2020,0,0,694985,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2020,44,0,603045,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2020,0,0,29,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2020,4711,1,186424,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2020,117664,5381,4859423,27.97305556,-82.53527778
+Florida,Stuart,Witham Field,SUA,2020,0,0,17,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2020,0,0,2300,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2020,112,0,0,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2020,0,0,755913,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2020,0,0,213,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,VQQ,2020,32,0,0,30.21861111,-81.87666667
+Florida,Valparaiso,Northwest Florida Regional,VPS,2020,219,0,460027,30.48333333,-86.52527778
+Florida,Mary Esther,Hurlburt Field,RQZ,2020,210,0,2077,30.42888889,-86.68888889
+Florida,Bartow,Bartow Executive Airport,BOW,2020,0,0,1,27.9433611,-81.7834167
+Florida,St. Augustine,St. Augustine Airport,UST,2020,0,0,1,29.95861111,-81.33888889
+Florida,Miami,Opa-locka Executive,OPF,2020,1426,0,274,25.90694444,-80.28027778
+Florida,Miami,Tamiami,TMB,2020,0,0,1,25.64583333,-80.43194444
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2020,10,0,1548,30.35277778,-87.32027778
+Florida,Titusville,Space Center Executive,TIX,2021,0,0,0,28.51222222,-80.79944444
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2021,1,0,275118,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,2021,0,0,90,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2021,52225,1351,13362586,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2021,13,0,200386,29.68972222,-82.27583333
+Florida,Destin,Destin-Ft. Walton Beach,DSI,2021,0,0,6,30.4,-86.47138889
+Florida,Orlando,Herndon,ORL,2021,0,0,93,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2021,136,0,1,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2021,43686,5350,2425387,30.48472222,-81.68777778
+Florida,Cocoa Beach,Patrick AFB,COF,2021,142,0,86,28.23916667,-80.60777778
+Florida,Boca Raton,Boca Raton Public,BCT,2021,0,0,323,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2021,95922,13729,19163082,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2021,1,0,794455,30.35777778,-85.79888889
+Florida,Homestead,Homestead AFB,HST,2021,95,0,67,25.48805556,-80.38416667
+Florida,Brooksville,Hernando County,JZQ,2021,0,0,19,28.47361111,-82.45555556
+Florida,Miami,Miami International,MIA,2021,684935,14271,15828689,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2021,433,0,6032,30.23416667,-81.67527778
+Florida,Fernandina Beach,Fernandina Beach Municipal,FHB,2021,0,0,5,30.61194444,-81.46111111
+Florida,Panama City,Tyndall AFB,PAM,2021,68,0,1244,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2021,46,0,176757,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2021,0,0,783387,26.91916667,-81.99138889
+Florida,Marco Island,Marco Island Airport,MRK,2021,0,0,18,25.99472222,-81.67277778
+Florida,Tampa,Macdill AFB,MCF,2021,44,0,81,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2021,64639,0,230,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2021,12779,0,2563926,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,2021,4303,2,1166080,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2021,170,0,723110,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2021,7489,3,5054077,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,2021,0,0,28,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2021,62,0,1019396,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2021,16,0,1573868,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2021,0,0,240,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2021,4578,0,319868,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2021,106120,7131,8800575,27.97305556,-82.53527778
+Florida,Leesburg,Leesburg Municipal,LEE,2021,0,0,6,28.82277778,-81.80916667
+Florida,Stuart,Witham Field,SUA,2021,0,0,47,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2021,0,0,4082,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2021,111,0,34,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2021,2,0,1171625,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2021,2,0,479,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,VQQ,2021,4,0,0,30.21861111,-81.87666667
+Florida,Valparaiso,Northwest Florida Regional,VPS,2021,40,0,973477,30.48333333,-86.52527778
+Florida,Zephyrhills,,FL1,2021,0,0,21,,
+Florida,Mary Esther,Hurlburt Field,RQZ,2021,149,0,1579,30.42888889,-86.68888889
+Florida,Key Largo,Ocean Reef Club Airport,OCA,2021,0,0,0,25.3243171,-80.275729
+Florida,St. Augustine,St. Augustine Airport,UST,2021,0,0,367,29.95861111,-81.33888889
+Florida,Miami,Opa-locka Executive,OPF,2021,2236,0,2201,25.90694444,-80.28027778
+Florida,Fort Myers,Page Field,FMY,2021,0,0,30,26.58694444,-81.86222222
+Florida,Venice,Venice Municipal Airport,VNC,2021,0,0,10,27.0712678,-82.4400325
+Florida,Miami,Tamiami,TMB,2021,0,0,22,25.64583333,-80.43194444
+Florida,Pensacola,Pensacola NAS Forrest Sherman Field,NPA,2021,0,0,1708,30.35277778,-87.32027778
+Florida,Daytona Beach,Daytona Beach Regional,DAB,2022,4,0,214119,29.1825,-81.05277778
+Florida,Fort Lauderdale,Fort Lauderdale Executive,FXE,2022,0,0,29,26.19694444,-80.17083333
+Florida,Fort Lauderdale,Fort Lauderdale-Hollywood International,FLL,2022,36716,517,10974784,26.07416667,-80.15166667
+Florida,Gainesville,Gainesville Regional,GNV,2022,13,0,198267,29.68972222,-82.27583333
+Florida,Destin,Destin-Ft. Walton Beach,DSI,2022,0,0,5,30.4,-86.47138889
+Florida,Orlando,Herndon,ORL,2022,0,0,89,28.54416667,-81.33555556
+Florida,Ocala,Ocala Municipal,OCF,2022,0,0,44,29.17555556,-82.22694444
+Florida,Jacksonville,Jacksonville International,JAX,2022,29897,3442,2327273,30.48472222,-81.68777778
+Florida,Boca Raton,Boca Raton Public,BCT,2022,0,0,137,26.37083333,-80.10833333
+Florida,Orlando,Orlando International,MCO,2022,60412,10423,16803199,28.43166667,-81.32472222
+Florida,Panama City,Northwest Florida Beaches International,ECP,2022,0,0,589498,30.35777778,-85.79888889
+Florida,Brooksville,Hernando County,JZQ,2022,0,0,3,28.47361111,-82.45555556
+Florida,Miami,Miami International,MIA,2022,467184,9945,15570183,25.7925,-80.28611111
+Florida,Jacksonville,Jacksonville NAS,NIP,2022,454,0,5872,30.23416667,-81.67527778
+Florida,Fernandina Beach,Fernandina Beach Municipal,FHB,2022,0,0,19,30.61194444,-81.46111111
+Florida,Panama City,Tyndall AFB,PAM,2022,58,0,751,30.06972222,-85.57611111
+Florida,Melbourne,Melbourne Regional,MLB,2022,2,0,166566,28.1025,-80.64305556
+Florida,Punta Gorda,Charlotte County,PGD,2022,0,0,728725,26.91916667,-81.99138889
+Florida,Marco Island,Marco Island Airport,MRK,2022,0,0,19,25.99472222,-81.67277778
+Florida,Tampa,Macdill AFB,MCF,2022,0,0,32,27.84888889,-82.52166667
+Florida,Lakeland,Lakeland Municipal,LAL,2022,51671,0,187,27.98888889,-82.01472222
+Florida,West Palm Beach/Palm Beach,Palm Beach International,PBI,2022,8752,8,2406046,26.68222222,-80.09416667
+Florida,Pensacola,Pensacola Regional,PNS,2022,3205,0,919714,30.47333333,-87.1875
+Florida,Key West,Key West International,EYW,2022,113,0,540609,24.55555556,-81.75972222
+Florida,Fort Myers,Southwest Florida International,RSW,2022,5957,8,4043460,26.53611111,-81.755
+Florida,Orlando,Kissimmee Gateway,ISM,2022,0,0,16,28.29027778,-81.43722222
+Florida,St. Petersburg,St. Petersburg-Clearwater International,PIE,2022,64,0,938386,27.90722222,-82.68555556
+Florida,Sarasota/Bradenton,Sarasota/Bradenton Airport,SRQ,2022,38,0,1409808,27.39388889,-82.55416667
+Florida,Naples,Naples Municipal,APF,2022,0,0,130,26.15277778,-81.77527778
+Florida,Tallahassee,Tallahassee Regional,TLH,2022,3167,0,293697,30.39972222,-84.35194444
+Florida,Tampa,Tampa International,TPA,2022,82161,5200,7690488,27.97305556,-82.53527778
+Florida,Stuart,Witham Field,SUA,2022,0,0,10,27.18055556,-80.22138889
+Florida,Vero Beach,Vero Beach Municipal,VRB,2022,0,0,1024,27.6525,-80.41361111
+Florida,Marathon,The Florida Keys Marathon,MTH,2022,70,0,25,24.72611111,-81.05138889
+Florida,Sanford,Orlando Sanford International,SFB,2022,28,0,1014854,28.77777778,-81.2375
+Florida,Key West,Key West NAS,NQX,2022,0,0,224,24.57527778,-81.68916667
+Florida,Jacksonville,Cecil Field,VQQ,2022,31,0,369,30.21861111,-81.87666667
+Florida,Bunnell,,FL4,2022,0,0,2,,
+Florida,Valparaiso,Northwest Florida Regional,VPS,2022,0,0,792172,30.48333333,-86.52527778
+Florida,Zephyrhills,,FL1,2022,0,0,7,,
+Florida,Mary Esther,Hurlburt Field,RQZ,2022,73,0,578,30.42888889,-86.68888889
+Florida,St. Augustine,St. Augustine Airport,UST,2022,0,0,1037,29.95861111,-81.33888889
+Florida,Miami,Opa-locka Executive,OPF,2022,1136,0,866,25.90694444,-80.28027778
+Florida,Fort Myers,Page Field,FMY,2022,0,0,17,26.58694444,-81.86222222
+Florida,Fort Pierce,St. Lucie County International,FPR,2022,0,0,22,27.49305556,-80.36777778
+Florida,Venice,Venice Municipal Airport,VNC,2022,0,0,6,27.0712678,-82.4400325
+Florida,Miami,Tamiami,TMB,2022,0,0,22,25.64583333,-80.43194444

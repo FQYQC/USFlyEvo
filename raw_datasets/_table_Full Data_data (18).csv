@@ -1,0 +1,373 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,1990,1050460,3250234,422031,30.53166667,-91.15055556
+Louisiana,Lafayette,Lafayette Regional,LFT,1990,438773,7500,49126,30.20472222,-91.9875
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,1990,24243675,12278136,3394881,29.99111111,-90.25138889
+Louisiana,Monroe,Monroe Regional,MLU,1990,236132,210931,72692,32.51111111,-92.03888889
+Louisiana,Shreveport,Shreveport Regional,SHV,1990,1386486,3237451,256932,32.44694444,-93.82555556
+Louisiana,Monroe,Monroe Regional,MLU,1991,127,101,78137,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,1991,15770,5221,3162920,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,1991,7,0,754,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,1991,0,0,4593,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,1991,6586,1419,208795,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,1991,216,5,47713,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,1991,478,1789,406918,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,1991,15,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,WQM,1991,0,0,148,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,1991,0,0,297,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,1991,0,0,285,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,1992,0,0,389,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,1992,158,121,88120,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,1992,16011,6613,3252133,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,1992,12,0,2673,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,1992,0,0,3576,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,1992,7057,1603,225874,32.44694444,-93.82555556
+Louisiana,Alexandria,Esler Regional,ESF,1992,2,0,492,31.39527778,-92.29722222
+Louisiana,Lafayette,Lafayette Regional,LFT,1992,274,4,39987,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,1992,436,1983,424049,30.53166667,-91.15055556
+Louisiana,Lake Charles,Lake Charles Regional,LCH,1992,14,0,1371,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,1992,0,0,83,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,1993,0,0,66,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,1993,173,111,102378,32.51111111,-92.03888889
+Louisiana,Houma,Houma Terrebonne,HUM,1993,1,0,0,29.56694444,-90.66083333
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,1993,20558,7138,3281874,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,1993,21,0,1557,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,1993,0,0,9891,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,1993,7802,1556,230630,32.44694444,-93.82555556
+Louisiana,Alexandria,Esler Regional,ESF,1993,8,0,23898,31.39527778,-92.29722222
+Louisiana,Lafayette,Lafayette Regional,LFT,1993,126,11,77047,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,1993,503,2177,354648,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,1993,0,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Lake Charles Regional,LCH,1993,30,4,31702,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,1993,0,0,140,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,1994,0,0,530,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,1994,173,79,87173,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,1994,21592,6927,3916193,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,1994,0,0,428,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,1994,0,0,14596,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,1994,8575,1473,234680,32.44694444,-93.82555556
+Louisiana,Alexandria,Esler Regional,ESF,1994,8,0,40108,31.39527778,-92.29722222
+Louisiana,Lafayette,Lafayette Regional,LFT,1994,232,8,68103,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,1994,370,2234,299800,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,1994,0,0,0,30.03777778,-91.88388889
+Louisiana,Fort Polk,Polk AAF,POE,1994,0,0,47,31.04583333,-93.19222222
+Louisiana,Lake Charles,Lake Charles Regional,LCH,1994,16,1,8322,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,1994,0,0,96,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,1995,0,0,2469,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,1995,288,57,98373,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,1995,18262,8595,3984904,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,1995,64,0,493,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,1995,0,0,17302,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,1995,9331,1616,283708,32.44694444,-93.82555556
+Louisiana,Alexandria,Esler Regional,ESF,1995,42,0,31113,31.39527778,-92.29722222
+Louisiana,Lafayette,Lafayette Regional,LFT,1995,473,0,73655,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,1995,363,2126,370432,30.53166667,-91.15055556
+Louisiana,Lake Charles,Lake Charles Regional,LCH,1995,28,0,28210,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,1995,0,0,334,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,1996,3,0,2019,30.03944444,-90.02666667
+Louisiana,Lake Providence,Byerley,FVI,1996,1,0,0,32.82583333,-91.18777778
+Louisiana,Monroe,Monroe Regional,MLU,1996,217,61,103326,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,1996,17938,11182,4180306,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,1996,61,0,548,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,1996,6,0,34864,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,1996,10114,1608,274289,32.44694444,-93.82555556
+Louisiana,Alexandria,Esler Regional,ESF,1996,31,0,21495,31.39527778,-92.29722222
+Louisiana,Lafayette,Lafayette Regional,LFT,1996,410,0,91391,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,1996,354,1291,383108,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,1996,0,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Lake Charles Regional,LCH,1996,19,0,32637,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,1996,0,0,159,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,1997,0,0,403,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,1997,161,64,102916,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,1997,23390,10740,4112173,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,1997,0,0,513,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,1997,56,0,65205,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,1997,12766,1544,281300,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,1997,3294,0,121017,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,1997,325,907,410552,30.53166667,-91.15055556
+Louisiana,Lake Charles,Lake Charles Regional,LCH,1997,23,10,41443,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,1997,0,0,0,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,1998,0,0,44,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,1998,196,46,102491,32.51111111,-92.03888889
+Louisiana,Houma,Houma Terrebonne,HUM,1998,1,0,0,29.56694444,-90.66083333
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,1998,22855,9811,4355876,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,1998,6,0,184,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,1998,28,3,91853,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,1998,10477,1140,380881,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,1998,3682,4,186741,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,1998,269,712,445456,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,1998,0,0,170,30.03777778,-91.88388889
+Louisiana,Lake Charles,Lake Charles Regional,LCH,1998,20,2,82991,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,1998,0,0,525,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,1999,0,0,167,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,1999,203,55,99309,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,1999,26100,10416,4571895,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,1999,0,0,374,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,1999,179,1,95823,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,1999,15878,1373,335073,32.44694444,-93.82555556
+Louisiana,Alexandria,Esler Regional,ESF,1999,0,0,0,31.39527778,-92.29722222
+Louisiana,Lafayette,Lafayette Regional,LFT,1999,3791,3,167223,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,1999,235,643,409169,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,1999,0,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Lake Charles Regional,LCH,1999,19,2,76132,30.13111111,-93.22555556
+Louisiana,New Orleans,Lakefront,NEW,2000,0,0,15,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2000,138,42,92022,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2000,28651,11276,4826470,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2000,0,0,547,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2000,14,2,99561,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2000,18965,1326,305011,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2000,3885,0,155965,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2000,165,651,414393,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2000,47,0,0,30.03777778,-91.88388889
+Louisiana,Delhi,Delhi Municipal,DQO,2000,0,0,0,32.41083333,-91.49861111
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2000,21,0,66089,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2000,0,0,0,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2001,0,0,35,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2001,106,16,74833,32.51111111,-92.03888889
+Louisiana,Houma,Houma Terrebonne,HUM,2001,0,0,0,29.56694444,-90.66083333
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2001,35150,7861,4682763,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2001,0,0,357,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2001,17,0,94767,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2001,15835,1256,232367,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2001,7637,0,147291,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2001,200,213,331508,30.53166667,-91.15055556
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2001,13,0,46288,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2001,0,0,450,29.825,-90.035
+Louisiana,Monroe,Monroe Regional,MLU,2002,91,1,80597,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2002,36405,3259,4553478,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2002,0,0,729,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2002,144,0,99763,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2002,15728,554,219621,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2002,4980,0,144508,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2002,139,40,323916,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2002,0,0,18,30.03777778,-91.88388889
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2002,4,0,44448,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2002,0,0,0,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2003,0,0,198,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2003,98,0,102698,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2003,34661,2750,4546995,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2003,178,0,1350,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2003,229,4,113384,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2003,9374,226,219735,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2003,4306,0,140334,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2003,132,3,305203,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2003,3,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2003,4,1,40911,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2003,0,0,79,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2004,0,0,505,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2004,86,0,115414,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2004,32369,3156,4735032,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2004,0,1,1074,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2004,1537,4,153122,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2004,8233,102,302502,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2004,2436,2,157627,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2004,137,1,368300,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2004,8,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2004,7,0,44106,30.13111111,-93.22555556
+Louisiana,New Orleans,Lakefront,NEW,2005,0,0,72,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2005,56,0,95830,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2005,26444,1469,3809743,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2005,0,0,1124,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2005,366,0,134200,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2005,10941,15,314357,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2005,3418,0,176416,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2005,2200,1,511839,30.53166667,-91.15055556
+Louisiana,Lake Charles,Chennault Industrial Airpark,WQM,2005,0,0,67,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2005,497,0,39903,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2005,0,0,2515,29.825,-90.035
+Louisiana,Monroe,Monroe Regional,MLU,2006,33,0,89609,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2006,18592,23,3051012,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2006,0,0,1020,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2006,219,0,132221,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2006,10159,7,294216,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2006,5798,5,207029,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2006,9114,2,498591,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2006,0,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2006,5,2,45014,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2006,0,0,256,29.825,-90.035
+Louisiana,Monroe,Monroe Regional,MLU,2007,2,0,91130,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2007,20543,12,3696499,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2007,4,0,1041,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2007,28,0,116104,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2007,11621,2,285903,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2007,5419,0,213701,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2007,7530,0,432588,30.53166667,-91.15055556
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2007,20,0,35761,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2007,0,0,32,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2008,0,0,39,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2008,6,0,84719,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2008,17262,8,3876657,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2008,0,0,1093,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2008,12,0,121727,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2008,11657,1,276187,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2008,5307,0,203727,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2008,4309,0,363430,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2008,6,0,128,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,WQM,2008,0,0,0,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2008,0,0,42147,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2008,90,0,1530,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2009,0,0,23,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2009,14,0,85255,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2009,25947,1,3837233,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2009,168,0,1480,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2009,8,0,148324,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2009,12194,0,242267,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2009,5029,0,205038,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2009,8,1,321579,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2009,0,0,151,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,WQM,2009,0,0,0,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2009,6,0,55106,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2009,0,0,597,29.825,-90.035
+Louisiana,Monroe,Monroe Regional,MLU,2010,0,0,100414,32.51111111,-92.03888889
+Louisiana,Houma,Houma Terrebonne,HUM,2010,0,0,0,29.56694444,-90.66083333
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2010,25516,0,4066968,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2010,62,0,1434,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2010,203,0,180770,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2010,13862,2,237418,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2010,5508,1,220076,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2010,8,0,365730,30.53166667,-91.15055556
+Louisiana,Lake Charles,Chennault Industrial Airpark,CWF,2010,9,0,0,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2010,8,0,65323,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2010,44,0,179,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2011,0,0,19,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2011,9,0,107239,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2011,23065,1,4207627,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2011,0,0,1213,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2011,441,0,188286,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2011,14971,0,264333,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2011,5363,3,222229,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2011,23,0,381032,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2011,14,0,67,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,CWF,2011,5,0,265,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2011,0,0,61325,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2011,0,0,55,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2012,0,0,9,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2012,2,0,101014,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2012,20882,6,4267311,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2012,0,0,1452,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2012,1538,0,189396,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2012,13466,2,276257,32.44694444,-93.82555556
+Louisiana,Hammond,Hammond Northshore Regional,LA2,2012,0,0,3,30.52166667,-90.41833333
+Louisiana,Lafayette,Lafayette Regional,LFT,2012,5159,0,225466,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2012,21,0,405722,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2012,7,0,813,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,CWF,2012,20,0,279,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2012,37,0,56730,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2012,0,0,206,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2013,0,0,25,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2013,4,0,115427,32.51111111,-92.03888889
+Louisiana,Houma,Houma Terrebonne,HUM,2013,0,0,0,29.56694444,-90.66083333
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2013,21085,169,4554142,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2013,42,0,1122,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2013,401,0,183827,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2013,12852,0,279371,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2013,5614,0,232209,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2013,16,1,399580,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2013,4,0,3060,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,CWF,2013,0,0,281,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2013,0,0,65015,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2013,42,0,141,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2014,0,0,16,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2014,3,0,120589,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2014,21184,287,4846835,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2014,35,0,521,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2014,548,0,175522,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2014,10644,0,307435,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2014,5611,0,246828,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2014,10,0,380023,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2014,3,0,2929,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,CWF,2014,0,0,148,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2014,0,0,69110,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2014,0,0,121,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2015,13,0,29,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2015,0,0,114056,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2015,20707,366,5301132,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2015,62,0,1567,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2015,1042,0,150973,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2015,10352,0,293049,32.44694444,-93.82555556
+Louisiana,Hammond,Hammond Northshore Regional,LA2,2015,4,0,0,30.52166667,-90.41833333
+Louisiana,Lafayette,Lafayette Regional,LFT,2015,5292,0,233611,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2015,18,0,365951,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2015,6,0,860,30.03777778,-91.88388889
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2015,1,0,67116,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2015,0,0,0,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2016,2,0,16,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2016,0,0,102340,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2016,20485,304,5513091,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2016,275,0,1503,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2016,281,0,129774,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2016,10707,0,260789,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2016,4946,1,200238,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2016,19,0,364049,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2016,6,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,CWF,2016,1,0,238,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2016,0,0,49593,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2016,0,0,198,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2017,0,0,7,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2017,1,0,103461,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2017,21025,418,5935186,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2017,81,0,1448,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2017,693,0,156144,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2017,11094,0,264536,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2017,4935,0,202592,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2017,21,0,377511,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2017,1,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,CWF,2017,0,0,94,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2017,0,0,50719,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2017,58,0,0,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2018,0,0,21,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2018,0,0,106998,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2018,22776,500,6487187,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2018,129,0,713,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2018,922,0,145576,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2018,11198,11,291073,32.44694444,-93.82555556
+Louisiana,Hammond,Hammond Northshore Regional,LA2,2018,0,0,3,30.52166667,-90.41833333
+Louisiana,Lafayette,Lafayette Regional,LFT,2018,4209,0,223456,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2018,28,0,388926,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2018,1,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,CWF,2018,0,0,324,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2018,0,0,58008,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2018,0,0,85,29.825,-90.035
+Louisiana,New Orleans,Lakefront,NEW,2019,0,0,4,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2019,2,0,115524,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2019,23891,457,6775897,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2019,335,0,863,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2019,297,0,144164,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2019,10494,0,325143,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2019,4112,1,265512,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2019,20,0,398645,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2019,6,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,CWF,2019,0,0,217,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2019,0,0,62032,30.13111111,-93.22555556
+Louisiana,New Orleans,New Orleans NAS,NBG,2019,82,0,281,29.825,-90.035
+Louisiana,Monroe,Monroe Regional,MLU,2020,0,0,56066,32.51111111,-92.03888889
+Louisiana,Houma,Houma Terrebonne,HUM,2020,1,0,7,29.56694444,-90.66083333
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2020,25736,873,2612606,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2020,51,0,533,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2020,270,0,114779,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2020,12141,0,154131,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2020,4726,0,122438,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2020,0,0,178471,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2020,16,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2020,0,0,32058,30.13111111,-93.22555556
+Louisiana,New Orleans,Lakefront,NEW,2021,0,0,11,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2021,4,0,84666,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2021,27539,2706,4014756,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2021,346,0,1162,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2021,269,0,143753,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2021,12080,1,246764,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2021,6095,29,208047,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2021,4,0,279087,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2021,15,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,CWF,2021,0,0,0,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2021,0,0,52724,30.13111111,-93.22555556
+Louisiana,New Orleans,Lakefront,NEW,2022,0,0,36,30.03944444,-90.02666667
+Louisiana,Monroe,Monroe Regional,MLU,2022,4,0,65077,32.51111111,-92.03888889
+Louisiana,New Orleans,Louis Armstrong New Orleans International,MSY,2022,21908,2317,4292852,29.99111111,-90.25138889
+Louisiana,Shreveport,Barksdale AFB,BAD,2022,114,0,289,32.50166667,-93.6625
+Louisiana,Alexandria,England AFB,AEX,2022,73,0,112469,31.32416667,-92.54694444
+Louisiana,Shreveport,Shreveport Regional,SHV,2022,8453,0,202826,32.44694444,-93.82555556
+Louisiana,Lafayette,Lafayette Regional,LFT,2022,5220,7,166889,30.20472222,-91.9875
+Louisiana,Baton Rouge,Baton Rouge Metropolitan/Ryan Field,BTR,2022,0,0,241092,30.53166667,-91.15055556
+Louisiana,New Iberia,Acadiana Reg,ARA,2022,10,0,0,30.03777778,-91.88388889
+Louisiana,Lake Charles,Chennault Industrial Airpark,CWF,2022,0,0,135,30.2125,-93.14333333
+Louisiana,Lake Charles,Lake Charles Regional,LCH,2022,0,0,45028,30.13111111,-93.22555556

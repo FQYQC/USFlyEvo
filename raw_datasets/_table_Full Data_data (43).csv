@@ -1,0 +1,423 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Tennessee,Chattanooga,Lovell Field,CHA,1990,614803,394643,240057,35.03638889,-85.20361111
+Tennessee,Knoxville,McGhee Tyson,TYS,1990,1937665,3283081,476796,35.81222222,-83.9925
+Tennessee,Memphis,Memphis International,MEM,1990,28193014,25832401,3898234,35.04972222,-89.97861111
+Tennessee,Nashville,Nashville International,BNA,1990,12724668,15645794,3404216,36.12666667,-86.68194444
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,1990,173246,1090084,119566,36.47611111,-82.40638889
+Tennessee,Memphis,Memphis International,MEM,1991,694502,15136,3502039,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,1991,0,0,0,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,1991,0,0,0,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,1991,176,448,137599,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,1991,2,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,1991,10431,1271,497174,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,1991,8219,8521,3903918,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,1991,1039,65,201933,35.03638889,-85.20361111
+Tennessee,Memphis,Memphis International,MEM,1992,783968,15439,3338772,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,1992,4,0,0,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,1992,0,0,650,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,1992,212,494,134396,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,1992,0,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,1992,11391,1506,537430,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,1992,11204,12243,4469736,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,1992,1572,26,213917,35.03638889,-85.20361111
+Tennessee,Morristown,Moore-Murrell,MOR,1992,1,0,0,36.17944444,-83.37583333
+Tennessee,Tullahoma,Arnold AFB,TUH,1993,2,0,0,35.3925,-86.08583333
+Tennessee,Cookeville,Putnam County,UXW,1993,1,0,0,36.19333333,-85.48694444
+Tennessee,Greeneville,Municipal,GCY,1993,0,0,0,36.19138889,-82.81666667
+Tennessee,Memphis,Memphis International,MEM,1993,806283,16592,3238706,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,1993,0,0,0,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,1993,0,0,118,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,1993,313,562,152138,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,1993,0,0,103,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,1993,12586,1470,561443,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,1993,10199,11506,3815882,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,1993,1595,23,234834,35.03638889,-85.20361111
+Tennessee,Clarksville,Outlaw Field,CKV,1993,1,0,0,36.62083333,-87.41444444
+Tennessee,Greeneville,Municipal,GCY,1994,0,0,0,36.19138889,-82.81666667
+Tennessee,Memphis,Memphis International,MEM,1994,923977,18458,3459729,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,1994,57,0,0,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,1994,107,0,106,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,1994,881,652,156311,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,1994,6,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,1994,11964,1266,541215,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,1994,14876,10513,3583328,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,1994,1744,20,211308,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,1994,0,0,0,35.55444444,-87.18027778
+Tennessee,Memphis,Memphis International,MEM,1995,951029,21714,3763270,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,1995,16,0,0,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,1995,0,0,165,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,1995,997,803,166445,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,1995,6,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,1995,8745,1104,577903,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,1995,10883,8808,3153796,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,1995,1553,16,207114,35.03638889,-85.20361111
+Tennessee,Memphis,Memphis International,MEM,1996,1010293,24051,3944376,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,1996,4,0,97,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,1996,39,0,515,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,1996,819,630,156537,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,1996,22,0,374,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,1996,9088,1307,601472,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,1996,0,0,0,35.95111111,-85.08472222
+Tennessee,Nashville,Nashville International,BNA,1996,10536,8381,3254956,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,1996,1241,8,177262,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,1996,7,0,0,35.55444444,-87.18027778
+Tennessee,Portland,Portland Municipal,JZI,1997,1,0,0,36.59277778,-86.47666667
+Tennessee,Memphis,Memphis International,MEM,1997,1215086,30459,4157306,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,1997,0,0,0,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,1997,0,0,0,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,1997,408,541,153626,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,1997,12,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,1997,15648,1468,599948,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,1997,10344,8419,3526054,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,1997,1223,6,205422,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,1997,3,0,0,35.55444444,-87.18027778
+Tennessee,Morristown,Moore-Murrell,MOR,1997,2,0,0,36.17944444,-83.37583333
+Tennessee,Greeneville,Municipal,GCY,1998,0,0,0,36.19138889,-82.81666667
+Tennessee,Paris,Henry County,PHT,1998,0,0,0,36.33361111,-88.38333333
+Tennessee,Shelbyville/Tullahoma,Bomar Field-Shelbyville Municipal,SYI,1998,1,0,0,35.56083333,-86.4425
+Tennessee,Memphis,Memphis International,MEM,1998,1260776,22352,4075300,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,1998,3,0,0,36.00888889,-86.52
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,1998,301,313,161716,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,1998,1,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,1998,16997,4223,655276,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,1998,1,0,0,35.95111111,-85.08472222
+Tennessee,Nashville,Nashville International,BNA,1998,10133,7713,3776545,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,1998,1238,3,190027,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,1998,2,0,0,35.55444444,-87.18027778
+Tennessee,Morristown,Moore-Murrell,MOR,1998,2,0,0,36.17944444,-83.37583333
+Tennessee,Greeneville,Municipal,GCY,1999,0,0,0,36.19138889,-82.81666667
+Tennessee,Shelbyville/Tullahoma,Bomar Field-Shelbyville Municipal,SYI,1999,19,0,0,35.56083333,-86.4425
+Tennessee,Memphis,Memphis International,MEM,1999,1307418,19075,4533738,35.04972222,-89.97861111
+Tennessee,Union City,Everett-Stewart Regional,UCY,1999,4,0,0,36.38027778,-88.98555556
+Tennessee,Smyrna,Smyrna Airport,MQY,1999,47,0,519,36.00888889,-86.52
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,1999,406,230,163127,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,1999,12,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,1999,16665,7636,713820,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,1999,8,0,0,35.95111111,-85.08472222
+Tennessee,Springfield,Springfield Robertson County,DQG,1999,2,0,0,36.53722222,-86.92055556
+Tennessee,Nashville,Nashville International,BNA,1999,14198,8507,4064137,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,1999,1341,0,196359,35.03638889,-85.20361111
+Tennessee,Athens,McMinn County,MMI,1999,57,0,0,35.39666667,-84.56277778
+Tennessee,Columbia,Maury County,MRC,1999,8,0,0,35.55444444,-87.18027778
+Tennessee,Clarksville,Outlaw Field,CKV,1999,5,0,0,36.62083333,-87.41444444
+Tennessee,Morristown,Moore-Murrell,MOR,1999,16,0,0,36.17944444,-83.37583333
+Tennessee,Greeneville,Municipal,GCY,2000,0,0,0,36.19138889,-82.81666667
+Tennessee,Paris,Henry County,PHT,2000,2,0,0,36.33361111,-88.38333333
+Tennessee,Shelbyville/Tullahoma,Bomar Field-Shelbyville Municipal,SYI,2000,4,0,0,35.56083333,-86.4425
+Tennessee,Memphis,Memphis International,MEM,2000,1356003,20977,4993371,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,2000,52,0,0,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2000,0,0,141,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2000,394,268,176188,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2000,10,0,42,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2000,17629,7608,740855,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,2000,6,0,0,35.95111111,-85.08472222
+Tennessee,Nashville,Nashville International,BNA,2000,18206,9018,4365803,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2000,1575,1,231348,35.03638889,-85.20361111
+Tennessee,Athens,McMinn County,MMI,2000,13,0,0,35.39666667,-84.56277778
+Tennessee,Columbia,Maury County,MRC,2000,2,0,0,35.55444444,-87.18027778
+Tennessee,Clarksville,Outlaw Field,CKV,2000,7,0,0,36.62083333,-87.41444444
+Tennessee,Morristown,Moore-Murrell,MOR,2000,3,0,0,36.17944444,-83.37583333
+Tennessee,Shelbyville/Tullahoma,Bomar Field-Shelbyville Municipal,SYI,2001,1,0,0,35.56083333,-86.4425
+Tennessee,Memphis,Memphis International,MEM,2001,1520293,19980,4786581,35.04972222,-89.97861111
+Tennessee,Union City,Everett-Stewart Regional,UCY,2001,0,0,0,36.38027778,-88.98555556
+Tennessee,Smyrna,Smyrna Airport,MQY,2001,442,0,109,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2001,69,0,77,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2001,566,149,134278,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2001,10,0,38,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2001,20825,4623,532182,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,2001,5,0,0,35.95111111,-85.08472222
+Tennessee,Springfield,Springfield Robertson County,DQG,2001,1,0,0,36.53722222,-86.92055556
+Tennessee,Nashville,Nashville International,BNA,2001,70000,11260,4080530,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2001,2562,1,189581,35.03638889,-85.20361111
+Tennessee,Athens,McMinn County,MMI,2001,0,0,0,35.39666667,-84.56277778
+Tennessee,Columbia,Maury County,MRC,2001,0,0,0,35.55444444,-87.18027778
+Tennessee,Tullahoma,Northern,THA,2001,0,0,0,35.37888889,-86.24555556
+Tennessee,Clarksville,Outlaw Field,CKV,2001,1,0,0,36.62083333,-87.41444444
+Tennessee,Morristown,Moore-Murrell,MOR,2001,3,0,0,36.17944444,-83.37583333
+Tennessee,Greeneville,Municipal,GCY,2002,0,0,0,36.19138889,-82.81666667
+Tennessee,Paris,Henry County,PHT,2002,1,0,0,36.33361111,-88.38333333
+Tennessee,Memphis,Memphis International,MEM,2002,1979618,12111,4537826,35.04972222,-89.97861111
+Tennessee,Union City,Everett-Stewart Regional,UCY,2002,1,0,0,36.38027778,-88.98555556
+Tennessee,Smyrna,Smyrna Airport,MQY,2002,20,0,161,36.00888889,-86.52
+Tennessee,Lawrenceburg,Lawrenceburg-Lawrence County,LWF,2002,0,0,0,35.23416667,-87.25805556
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2002,188,31,114973,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2002,13,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2002,19142,573,447144,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,2002,0,0,0,35.95111111,-85.08472222
+Tennessee,Nashville,Nashville International,BNA,2002,23103,2563,3756897,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2002,1817,0,164654,35.03638889,-85.20361111
+Tennessee,Athens,McMinn County,MMI,2002,3,0,0,35.39666667,-84.56277778
+Tennessee,Columbia,Maury County,MRC,2002,2,0,0,35.55444444,-87.18027778
+Tennessee,Morristown,Moore-Murrell,MOR,2002,0,0,0,36.17944444,-83.37583333
+Tennessee,Greeneville,Municipal,GCY,2003,0,0,0,36.19138889,-82.81666667
+Tennessee,Covington,Covington Municipal,RQG,2003,0,0,0,35.58333333,-89.58722222
+Tennessee,Lebanon,Lebanon Municipal,TN1,2003,1,0,0,36.19055556,-86.31583333
+Tennessee,Memphis,Memphis International,MEM,2003,1949829,8406,4506351,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,2003,17,0,110,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2003,0,0,52,35.35666667,-89.87027778
+Tennessee,Lawrenceburg,Lawrenceburg-Lawrence County,LWF,2003,2,0,0,35.23416667,-87.25805556
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2003,254,35,128669,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2003,14,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2003,18342,504,504501,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,2003,3,0,0,35.95111111,-85.08472222
+Tennessee,Nashville,Nashville International,BNA,2003,30826,1174,3771592,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2003,1668,1,158554,35.03638889,-85.20361111
+Tennessee,Athens,McMinn County,MMI,2003,5,0,0,35.39666667,-84.56277778
+Tennessee,Columbia,Maury County,MRC,2003,1,0,0,35.55444444,-87.18027778
+Tennessee,Greeneville,Municipal,GCY,2004,1,0,0,36.19138889,-82.81666667
+Tennessee,Pulaski,Abernathy Field,TN4,2004,2,0,0,35.15361111,-87.05666667
+Tennessee,Paris,Henry County,PHT,2004,0,0,0,36.33361111,-88.38333333
+Tennessee,Shelbyville/Tullahoma,Bomar Field-Shelbyville Municipal,SYI,2004,2,0,0,35.56083333,-86.4425
+Tennessee,Lebanon,Lebanon Municipal,TN1,2004,1,0,0,36.19055556,-86.31583333
+Tennessee,Memphis,Memphis International,MEM,2004,2020077,3816,5285272,35.04972222,-89.97861111
+Tennessee,Union City,Everett-Stewart Regional,UCY,2004,1,0,0,36.38027778,-88.98555556
+Tennessee,Smyrna,Smyrna Airport,MQY,2004,10,0,262,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2004,0,0,175,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2004,296,6,166614,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2004,28,0,0,35.60138889,-88.91527778
+Tennessee,Lewisburg,Ellington,TN3,2004,0,0,0,35.50694444,-86.80361111
+Tennessee,Knoxville,McGhee Tyson,TYS,2004,19166,546,695427,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,2004,3,0,0,35.95111111,-85.08472222
+Tennessee,Springfield,Springfield Robertson County,DQG,2004,0,0,0,36.53722222,-86.92055556
+Tennessee,Lexington,Franklin Wilkins,TN5,2004,1,0,0,35.65138889,-88.37888889
+Tennessee,Nashville,Nashville International,BNA,2004,26180,1646,4176673,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2004,1555,0,195293,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,2004,28,0,0,35.55444444,-87.18027778
+Tennessee,Tullahoma,Northern,THA,2004,0,0,0,35.37888889,-86.24555556
+Tennessee,Sparta,Upper Cumberland Regional,TN2,2004,7,0,0,36.05583333,-85.53083333
+Tennessee,Morristown,Moore-Murrell,MOR,2004,0,0,0,36.17944444,-83.37583333
+Tennessee,Paris,Henry County,PHT,2005,0,0,0,36.33361111,-88.38333333
+Tennessee,Memphis,Memphis International,MEM,2005,2047820,4631,5630097,35.04972222,-89.97861111
+Tennessee,Dyersburg,Dyersburg Regional,TN6,2005,0,0,0,35.99861111,-89.40611111
+Tennessee,Smyrna,Smyrna Airport,MQY,2005,14,0,301,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2005,0,0,346,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2005,963,0,195266,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2005,50,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2005,21257,131,849427,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,2005,4,0,0,35.95111111,-85.08472222
+Tennessee,Lexington,Franklin Wilkins,TN5,2005,0,0,0,35.65138889,-88.37888889
+Tennessee,Nashville,Nashville International,BNA,2005,25682,2037,4460334,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2005,2111,0,229847,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,2005,2,0,0,35.55444444,-87.18027778
+Tennessee,Tullahoma,Northern,THA,2005,0,0,0,35.37888889,-86.24555556
+Tennessee,Sparta,Upper Cumberland Regional,TN2,2005,9,0,0,36.05583333,-85.53083333
+Tennessee,Clarksville,Outlaw Field,CKV,2005,1,0,0,36.62083333,-87.41444444
+Tennessee,Morristown,Moore-Murrell,MOR,2005,13,0,0,36.17944444,-83.37583333
+Tennessee,Shelbyville/Tullahoma,Bomar Field-Shelbyville Municipal,SYI,2006,1,0,0,35.56083333,-86.4425
+Tennessee,Memphis,Memphis International,MEM,2006,2086470,6839,5508108,35.04972222,-89.97861111
+Tennessee,Dyersburg,Dyersburg Regional,TN6,2006,5,0,0,35.99861111,-89.40611111
+Tennessee,Smyrna,Smyrna Airport,MQY,2006,23,0,1202,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2006,0,0,291,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2006,734,0,118385,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2006,13,0,0,35.60138889,-88.91527778
+Tennessee,Lewisburg,Ellington,TN3,2006,5,0,0,35.50694444,-86.80361111
+Tennessee,Knoxville,McGhee Tyson,TYS,2006,22375,1,739481,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,2006,1,0,0,35.95111111,-85.08472222
+Tennessee,Lexington,Franklin Wilkins,TN5,2006,2,0,0,35.65138889,-88.37888889
+Tennessee,Nashville,Nashville International,BNA,2006,26661,918,4664569,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2006,2473,1,224557,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,2006,11,0,0,35.55444444,-87.18027778
+Tennessee,Sparta,Upper Cumberland Regional,TN2,2006,22,0,0,36.05583333,-85.53083333
+Tennessee,Clarksville,Outlaw Field,CKV,2006,2,0,0,36.62083333,-87.41444444
+Tennessee,Morristown,Moore-Murrell,MOR,2006,3,0,0,36.17944444,-83.37583333
+Tennessee,Greeneville,Municipal,GCY,2007,4,0,0,36.19138889,-82.81666667
+Tennessee,Memphis,Memphis International,MEM,2007,2147434,3150,5534522,35.04972222,-89.97861111
+Tennessee,Dyersburg,Dyersburg Regional,TN6,2007,3,0,0,35.99861111,-89.40611111
+Tennessee,Smyrna,Smyrna Airport,MQY,2007,4,0,741,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2007,0,0,398,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2007,1038,0,104631,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2007,7,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2007,23672,2,839148,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,2007,31625,24,4753513,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2007,2500,0,254487,35.03638889,-85.20361111
+Tennessee,Athens,McMinn County,MMI,2007,2,0,0,35.39666667,-84.56277778
+Tennessee,Columbia,Maury County,MRC,2007,7,0,0,35.55444444,-87.18027778
+Tennessee,Sparta,Upper Cumberland Regional,TN2,2007,2,0,0,36.05583333,-85.53083333
+Tennessee,Nashville,John C Tune,TN8,2007,0,0,2,36.1825,-86.88666667
+Tennessee,Morristown,Moore-Murrell,MOR,2007,5,0,0,36.17944444,-83.37583333
+Tennessee,Memphis,Memphis International,MEM,2008,1897945,3102,5367390,35.04972222,-89.97861111
+Tennessee,Dyersburg,Dyersburg Regional,TN6,2008,0,0,0,35.99861111,-89.40611111
+Tennessee,Smyrna,Smyrna Airport,MQY,2008,1,0,456,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2008,0,0,277,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2008,859,0,145162,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2008,0,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2008,20372,2,755971,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,2008,24483,1,4474875,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2008,2056,0,259853,35.03638889,-85.20361111
+Tennessee,Athens,McMinn County,MMI,2008,1,0,0,35.39666667,-84.56277778
+Tennessee,Columbia,Maury County,MRC,2008,26,0,0,35.55444444,-87.18027778
+Tennessee,Sparta,Upper Cumberland Regional,TN2,2008,0,0,0,36.05583333,-85.53083333
+Tennessee,Clarksville,Outlaw Field,CKV,2008,1,0,0,36.62083333,-87.41444444
+Tennessee,Memphis,Memphis International,MEM,2009,2042356,3203,5013432,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,2009,10,0,989,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2009,0,0,260,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2009,8,0,164744,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2009,12,0,278,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2009,21628,8,760953,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,2009,1,0,0,35.95111111,-85.08472222
+Tennessee,Nashville,Nashville International,BNA,2009,23441,24,4266156,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2009,1040,0,277339,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,2009,5,0,0,35.55444444,-87.18027778
+Tennessee,Memphis,Memphis International,MEM,2010,2131338,2615,4833755,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,2010,146,0,1187,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2010,5,0,116,35.35666667,-89.87027778
+Tennessee,Lawrenceburg,Lawrenceburg-Lawrence County,LWF,2010,0,0,0,35.23416667,-87.25805556
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2010,132,3,173665,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2010,11,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2010,25591,1,771286,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,2010,25472,2,4343983,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2010,1126,2,274053,35.03638889,-85.20361111
+Tennessee,Winchester,Winchester Municipal,TN7,2010,0,0,0,35.1775,-86.09944444
+Tennessee,Columbia,Maury County,MRC,2010,47,0,0,35.55444444,-87.18027778
+Tennessee,Sparta,Upper Cumberland Regional,TN2,2010,0,0,1,36.05583333,-85.53083333
+Tennessee,Morristown,Moore-Murrell,MOR,2010,0,0,0,36.17944444,-83.37583333
+Tennessee,Memphis,Memphis International,MEM,2011,2135923,5421,4255417,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,2011,336,0,1546,36.00888889,-86.52
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2011,12,1,193792,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2011,11,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2011,25390,2,821832,35.81222222,-83.9925
+Tennessee,Sevierville,Gatlinburg-Pigeon Forge,TN9,2011,3,0,0,35.85777778,-83.52861111
+Tennessee,Nashville,Nashville International,BNA,2011,24201,27,4604202,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2011,1737,0,285053,35.03638889,-85.20361111
+Tennessee,Athens,McMinn County,MMI,2011,2,0,0,35.39666667,-84.56277778
+Tennessee,Columbia,Maury County,MRC,2011,8,0,0,35.55444444,-87.18027778
+Tennessee,Clarksville,Outlaw Field,CKV,2011,7,0,0,36.62083333,-87.41444444
+Tennessee,Morristown,Moore-Murrell,MOR,2011,5,0,0,36.17944444,-83.37583333
+Tennessee,Memphis,Memphis International,MEM,2012,2209572,3123,3307835,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,2012,218,0,705,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2012,0,0,109,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2012,38,0,181071,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2012,12,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2012,25344,19,843185,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,2012,8,0,0,35.95111111,-85.08472222
+Tennessee,Nashville,Nashville International,BNA,2012,22493,0,4727334,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2012,4082,0,300577,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,2012,4,0,0,35.55444444,-87.18027778
+Tennessee,Sparta,Upper Cumberland Regional,TN2,2012,0,0,0,36.05583333,-85.53083333
+Tennessee,Clarksville,Outlaw Field,CKV,2012,11,0,0,36.62083333,-87.41444444
+Tennessee,Greeneville,Municipal,GCY,2013,0,0,0,36.19138889,-82.81666667
+Tennessee,Pulaski,Abernathy Field,TN4,2013,3,0,0,35.15361111,-87.05666667
+Tennessee,Memphis,Memphis International,MEM,2013,2282740,5296,2235783,35.04972222,-89.97861111
+Tennessee,Dyersburg,Dyersburg Regional,TN6,2013,1,0,0,35.99861111,-89.40611111
+Tennessee,Smyrna,Smyrna Airport,MQY,2013,189,0,1195,36.00888889,-86.52
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2013,70,0,154792,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2013,2,0,248,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2013,22604,10,829486,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,2013,25714,0,5016913,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2013,5687,0,294405,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,2013,10,0,0,35.55444444,-87.18027778
+Tennessee,Pulaski,Abernathy Field,TN4,2014,2,0,0,35.15361111,-87.05666667
+Tennessee,Memphis,Memphis International,MEM,2014,2355766,6543,1736335,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,2014,376,0,1244,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2014,0,0,0,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2014,30,0,174030,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2014,8,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2014,18824,7,845172,35.81222222,-83.9925
+Tennessee,Springfield,Springfield Robertson County,DQG,2014,1,0,0,36.53722222,-86.92055556
+Tennessee,Nashville,Nashville International,BNA,2014,24363,115,5364346,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2014,6332,0,348935,35.03638889,-85.20361111
+Tennessee,Athens,McMinn County,MMI,2014,4,0,0,35.39666667,-84.56277778
+Tennessee,Columbia,Maury County,MRC,2014,10,0,0,35.55444444,-87.18027778
+Tennessee,Tullahoma,Northern,THA,2014,1,0,0,35.37888889,-86.24555556
+Tennessee,Clarksville,Outlaw Field,CKV,2014,0,0,0,36.62083333,-87.41444444
+Tennessee,Pulaski,Abernathy Field,TN4,2015,3,0,0,35.15361111,-87.05666667
+Tennessee,Lebanon,Lebanon Municipal,TN1,2015,0,0,0,36.19055556,-86.31583333
+Tennessee,Memphis,Memphis International,MEM,2015,2336329,7090,1859484,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,2015,718,0,865,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2015,66,0,0,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2015,17,0,164910,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2015,14,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2015,19320,2,810591,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,2015,26068,382,5622949,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2015,5456,1,393520,35.03638889,-85.20361111
+Tennessee,Athens,McMinn County,MMI,2015,8,0,0,35.39666667,-84.56277778
+Tennessee,Columbia,Maury County,MRC,2015,5,0,0,35.55444444,-87.18027778
+Tennessee,Clarksville,Outlaw Field,CKV,2015,0,0,0,36.62083333,-87.41444444
+Tennessee,Greeneville,Municipal,GCY,2016,0,0,0,36.19138889,-82.81666667
+Tennessee,Pulaski,Abernathy Field,TN4,2016,5,0,0,35.15361111,-87.05666667
+Tennessee,Portland,Portland Municipal,JZI,2016,0,0,12,36.59277778,-86.47666667
+Tennessee,Memphis,Memphis International,MEM,2016,2382494,5230,2006292,35.04972222,-89.97861111
+Tennessee,Dyersburg,Dyersburg Regional,TN6,2016,7,0,0,35.99861111,-89.40611111
+Tennessee,Smyrna,Smyrna Airport,MQY,2016,239,0,1123,36.00888889,-86.52
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2016,5,0,142920,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2016,3,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2016,20232,8,844275,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,2016,24450,183,6207553,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2016,5896,0,422132,35.03638889,-85.20361111
+Tennessee,Athens,McMinn County,MMI,2016,2,0,0,35.39666667,-84.56277778
+Tennessee,Columbia,Maury County,MRC,2016,1,0,0,35.55444444,-87.18027778
+Tennessee,Portland,Portland Municipal,JZI,2017,0,0,16,36.59277778,-86.47666667
+Tennessee,Memphis,Memphis International,MEM,2017,2391363,6782,2059427,35.04972222,-89.97861111
+Tennessee,Dyersburg,Dyersburg Regional,TN6,2017,0,0,6,35.99861111,-89.40611111
+Tennessee,Smyrna,Smyrna Airport,MQY,2017,276,0,2193,36.00888889,-86.52
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2017,10,0,142200,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2017,0,0,2,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2017,19962,29,928242,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,2017,0,0,0,35.95111111,-85.08472222
+Tennessee,Nashville,Nashville International,BNA,2017,28546,313,6786790,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2017,5506,0,482033,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,2017,0,0,0,35.55444444,-87.18027778
+Tennessee,Sparta,Upper Cumberland Regional,TN2,2017,1,0,0,36.05583333,-85.53083333
+Tennessee,Nashville,John C Tune,TN8,2017,0,0,5,36.1825,-86.88666667
+Tennessee,Clarksville,Outlaw Field,CKV,2017,0,0,4,36.62083333,-87.41444444
+Tennessee,Pulaski,Abernathy Field,TN4,2018,1,0,0,35.15361111,-87.05666667
+Tennessee,Portland,Portland Municipal,JZI,2018,0,0,1,36.59277778,-86.47666667
+Tennessee,Memphis,Memphis International,MEM,2018,2444360,5356,2162130,35.04972222,-89.97861111
+Tennessee,Union City,Everett-Stewart Regional,UCY,2018,0,0,0,36.38027778,-88.98555556
+Tennessee,Smyrna,Smyrna Airport,MQY,2018,276,0,3299,36.00888889,-86.52
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2018,20,0,165086,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2018,6,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2018,18276,38,1028655,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,2018,28760,157,7664117,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2018,5113,0,497091,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,2018,1,0,0,35.55444444,-87.18027778
+Tennessee,Sparta,Upper Cumberland Regional,TN2,2018,2,0,0,36.05583333,-85.53083333
+Tennessee,Nashville,John C Tune,TN8,2018,0,0,9,36.1825,-86.88666667
+Tennessee,Portland,Portland Municipal,JZI,2019,0,0,6,36.59277778,-86.47666667
+Tennessee,Memphis,Memphis International,MEM,2019,2357240,4862,2263890,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,2019,244,0,1489,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2019,8,0,0,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2019,6,0,168561,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2019,10,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2019,17757,0,1161695,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,2019,29152,129,8760814,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2019,4684,0,540653,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,2019,12,0,0,35.55444444,-87.18027778
+Tennessee,Nashville,John C Tune,TN8,2019,0,0,10,36.1825,-86.88666667
+Tennessee,McMinnville,Warren County Memorial Airport,RNC,2020,0,0,2,35.6987,-85.8438034
+Tennessee,Portland,Portland Municipal,JZI,2020,0,0,8,36.59277778,-86.47666667
+Tennessee,Memphis,Memphis International,MEM,2020,2528859,592,1007993,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,2020,40,0,783,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2020,25,0,0,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2020,1,0,72771,36.47611111,-82.40638889
+Tennessee,Jackson,McKellar Field,MKL,2020,3,0,0,35.60138889,-88.91527778
+Tennessee,Knoxville,McGhee Tyson,TYS,2020,18424,0,533042,35.81222222,-83.9925
+Tennessee,Nashville,Nashville International,BNA,2020,28217,65,3976284,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2020,5166,0,208250,35.03638889,-85.20361111
+Tennessee,Sparta,Upper Cumberland Regional,TN2,2020,0,0,4,36.05583333,-85.53083333
+Tennessee,Nashville,John C Tune,TN8,2020,0,0,16,36.1825,-86.88666667
+Tennessee,Greeneville,Municipal,GCY,2021,1,0,0,36.19138889,-82.81666667
+Tennessee,Portland,Portland Municipal,JZI,2021,0,0,22,36.59277778,-86.47666667
+Tennessee,Memphis,Memphis International,MEM,2021,2468554,4227,1789829,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,2021,37,0,1391,36.00888889,-86.52
+Tennessee,Millington,Millington Regional Jetport,NQA,2021,0,0,0,35.35666667,-89.87027778
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2021,0,0,157200,36.47611111,-82.40638889
+Tennessee,Knoxville,McGhee Tyson,TYS,2021,18721,0,976434,35.81222222,-83.9925
+Tennessee,Sevierville,Gatlinburg-Pigeon Forge,TN9,2021,0,0,4,35.85777778,-83.52861111
+Tennessee,Nashville,Nashville International,BNA,2021,36491,229,7559260,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2021,5447,0,377708,35.03638889,-85.20361111
+Tennessee,Sparta,Upper Cumberland Regional,TN2,2021,0,0,1,36.05583333,-85.53083333
+Tennessee,Nashville,John C Tune,TN8,2021,0,0,6,36.1825,-86.88666667
+Tennessee,Greeneville,Municipal,GCY,2022,0,0,0,36.19138889,-82.81666667
+Tennessee,Portland,Portland Municipal,JZI,2022,0,0,30,36.59277778,-86.47666667
+Tennessee,Memphis,Memphis International,MEM,2022,1647746,136,1585187,35.04972222,-89.97861111
+Tennessee,Smyrna,Smyrna Airport,MQY,2022,79,0,622,36.00888889,-86.52
+Tennessee,Bristol/Johnson City/Kingsport,Tri-Cities Regional TN/VA,TRI,2022,1,0,141047,36.47611111,-82.40638889
+Tennessee,Knoxville,McGhee Tyson,TYS,2022,12989,30,895494,35.81222222,-83.9925
+Tennessee,Crossville,Crossville Memorial-Whitson Field,CSV,2022,0,0,0,35.95111111,-85.08472222
+Tennessee,Springfield,Springfield Robertson County,DQG,2022,0,0,2,36.53722222,-86.92055556
+Tennessee,Sevierville,Gatlinburg-Pigeon Forge,TN9,2022,0,0,8,35.85777778,-83.52861111
+Tennessee,Nashville,Nashville International,BNA,2022,31459,156,7018926,36.12666667,-86.68194444
+Tennessee,Chattanooga,Lovell Field,CHA,2022,4293,0,323441,35.03638889,-85.20361111
+Tennessee,Columbia,Maury County,MRC,2022,5,0,0,35.55444444,-87.18027778
+Tennessee,Nashville,John C Tune,TN8,2022,0,0,23,36.1825,-86.88666667

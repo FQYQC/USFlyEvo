@@ -1,0 +1,432 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Wisconsin,Green Bay,Austin Straubel International,GRB,1990,275039,303756,186560,44.48805556,-88.13055556
+Wisconsin,Mosinee,Central Wisconsin,CWA,1990,35340,2384,34841,44.78222222,-89.65916667
+Wisconsin,Milwaukee,General Mitchell International,MKE,1990,8757476,16630428,1913443,42.95027778,-87.89722222
+Wisconsin,La Crosse,La Crosse Municipal,LSE,1990,117774,6192,73100,43.87722222,-91.25638889
+Wisconsin,Appleton,Outagamie County Regional,ATW,1990,286697,38194,129306,44.25777778,-88.52
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,1990,1669,0,677,45.63138889,-89.4575
+Wisconsin,Madison,Truax Field,MSN,1990,669393,1739415,425111,43.14194444,-89.33694444
+Wisconsin,Oshkosh,Wittman Regional,OSH,1990,6100,26692,12499,43.98388889,-88.55694444
+Wisconsin,Appleton,Outagamie County Regional,ATW,1991,2175,25,122859,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,1991,6,1,13894,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,1991,31153,7245,1818429,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,1991,0,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,1991,0,0,324,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,1991,393,3,44569,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,1991,0,0,933,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,1991,117,72,205155,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,1991,475,5,73733,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,1991,2840,779,393624,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,1991,0,0,2520,43.93833333,-90.26833333
+Wisconsin,Appleton,Outagamie County Regional,ATW,1992,2471,19,132859,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,1992,6,0,13772,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,1992,23505,7197,2025578,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,1992,0,0,0,42.61861111,-89.03777778
+Wisconsin,Hayward,Hayward Municipal,HYR,1992,0,0,0,46.02444444,-91.44444444
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,1992,0,0,153,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,1992,465,5,70469,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,1992,0,0,743,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,1992,126,47,256865,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,1992,562,21,97546,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,1992,3263,812,527524,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,1992,89,0,7308,43.93833333,-90.26833333
+Wisconsin,Appleton,Outagamie County Regional,ATW,1993,2149,0,26445,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,1993,0,0,2004,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,1993,20702,8722,2008713,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,1993,0,0,60,42.61861111,-89.03777778
+Wisconsin,Mosinee,Central Wisconsin,CWA,1993,437,6,40401,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,1993,0,0,797,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,1993,147,46,205330,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,1993,611,7,91286,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,1993,2799,1235,449834,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,1993,0,0,2444,43.93833333,-90.26833333
+Wisconsin,Wausau,Wausau Downtown,AUW,1993,15,0,0,44.92333333,-89.62305556
+Wisconsin,Marshfield,Marshfield Municipal,MFI,1993,0,0,0,44.63388889,-90.18666667
+Wisconsin,Appleton,Outagamie County Regional,ATW,1994,2850,9,121271,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,1994,2,0,8451,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,1994,22968,9814,2313342,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,1994,29,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,1994,0,0,0,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,1994,477,6,70710,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,1994,0,0,952,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,1994,116,65,240034,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,1994,848,6,82226,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,1994,2794,2763,475429,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,1994,0,0,1048,43.93833333,-90.26833333
+Wisconsin,Wausau,Wausau Downtown,AUW,1994,17,0,0,44.92333333,-89.62305556
+Wisconsin,Stevens Point,Stevens Point Municipal,STE,1994,0,0,0,44.54527778,-89.53083333
+Wisconsin,Appleton,Outagamie County Regional,ATW,1995,2987,0,125806,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,1995,7,0,955,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,1995,26496,13481,2322854,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,1995,14,0,0,42.61861111,-89.03777778
+Wisconsin,Mosinee,Central Wisconsin,CWA,1995,506,9,65232,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,1995,0,0,1219,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,1995,111,130,267939,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,1995,895,3,83068,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,1995,2928,424,492952,43.14194444,-89.33694444
+Wisconsin,Wausau,Wausau Downtown,AUW,1995,13,0,0,44.92333333,-89.62305556
+Wisconsin,Appleton,Outagamie County Regional,ATW,1996,3559,0,130472,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,1996,2,0,804,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,1996,30968,15089,2499900,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,1996,37,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,1996,57,0,0,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,1996,564,8,63423,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,1996,0,0,1633,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,1996,75,85,285585,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,1996,260,4,65629,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,1996,3433,390,518551,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,1996,0,0,223,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,1996,0,0,0,42.59583333,-87.92777778
+Wisconsin,Appleton,Outagamie County Regional,ATW,1997,4076,0,163474,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,1997,0,0,456,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,1997,5,0,0,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,1997,46295,14900,2559560,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,1997,74,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,1997,120,0,14949,45.63138889,-89.4575
+Wisconsin,Eagle River,Eagle River Union,EGV,1997,0,0,0,45.93166667,-89.26888889
+Wisconsin,Mosinee,Central Wisconsin,CWA,1997,633,15,104515,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,1997,8,0,11322,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,1997,127,105,317229,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,1997,243,12,91379,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,1997,3176,973,569671,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,1997,0,0,245,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,1997,4,0,0,42.59583333,-87.92777778
+Wisconsin,Appleton,Outagamie County Regional,ATW,1998,4089,0,200807,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,1998,13,0,509,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,1998,3,0,0,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,1998,48055,13404,2599939,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,1998,29,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,1998,275,0,27630,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,1998,605,10,152390,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,1998,11,0,20341,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,1998,153,60,330716,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,1998,242,11,117565,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,1998,3492,645,643261,43.14194444,-89.33694444
+Wisconsin,Kenosha,Kenosha Regional,ENW,1998,0,0,0,42.59583333,-87.92777778
+Wisconsin,Ashland,John F Kennedy Memorial,ASX,1998,0,0,133,46.54861111,-90.91861111
+Wisconsin,Appleton,Outagamie County Regional,ATW,1999,3909,18,203600,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,1999,2,0,371,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,1999,2,0,0,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,1999,47591,11800,2724913,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,1999,71,1,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,1999,619,0,28145,45.63138889,-89.4575
+Wisconsin,Eagle River,Eagle River Union,EGV,1999,0,0,0,45.93166667,-89.26888889
+Wisconsin,Minocqua/Woodruff,Lakeland/Noble F. Lee Memorial Field,ARV,1999,5,0,0,45.92805556,-89.73083333
+Wisconsin,Mosinee,Central Wisconsin,CWA,1999,662,0,130779,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,1999,13,0,20297,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,1999,95,94,304750,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,1999,274,5,105991,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,1999,4005,408,630305,43.14194444,-89.33694444
+Wisconsin,Appleton,Outagamie County Regional,ATW,2000,4317,0,236189,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2000,9,0,889,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2000,13,0,0,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2000,39021,11502,2836170,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,2000,193,0,49,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2000,650,0,25978,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2000,666,0,117159,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2000,10,0,21315,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2000,394,461,332245,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2000,299,1,104256,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2000,4122,675,648587,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2000,0,0,408,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,2000,6,0,0,42.59583333,-87.92777778
+Wisconsin,Appleton,Outagamie County Regional,ATW,2001,3229,1,209019,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2001,0,0,172,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2001,2,0,0,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2001,44104,9420,2513683,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,2001,256,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2001,672,0,27341,45.63138889,-89.4575
+Wisconsin,Minocqua/Woodruff,Lakeland/Noble F. Lee Memorial Field,ARV,2001,1,0,0,45.92805556,-89.73083333
+Wisconsin,Mosinee,Central Wisconsin,CWA,2001,820,1,114207,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2001,9,1,21340,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2001,349,316,316394,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2001,343,1,101673,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2001,2195,318,635882,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2001,0,0,242,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,2001,1,0,0,42.59583333,-87.92777778
+Wisconsin,Appleton,Outagamie County Regional,ATW,2002,4121,0,188809,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2002,0,0,172,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2002,0,0,0,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2002,52019,4472,2396572,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,2002,17,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2002,613,0,23421,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2002,749,0,96448,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2002,4,0,20834,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2002,472,87,331223,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2002,12,0,99606,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2002,3201,10,666651,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2002,0,0,632,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,2002,0,0,0,42.59583333,-87.92777778
+Wisconsin,Marshfield,Marshfield Municipal,MFI,2002,0,0,0,44.63388889,-90.18666667
+Wisconsin,Appleton,Outagamie County Regional,ATW,2003,3792,0,172348,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2003,13,0,341,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2003,2,0,0,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2003,43152,3387,2583301,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,2003,30,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2003,573,0,25535,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2003,764,0,89796,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2003,1,0,21484,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2003,663,14,332931,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2003,12,1,91517,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2003,3959,1,726210,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2003,17,0,6440,43.93833333,-90.26833333
+Wisconsin,Fond Du Lac,Fond Du Lac County,FLD,2003,4,0,0,43.77166667,-88.48444444
+Wisconsin,Appleton,Outagamie County Regional,ATW,2004,4199,0,260939,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2004,10,0,125,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,2004,40612,4424,2801424,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,2004,154,0,1,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2004,522,0,29390,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2004,800,0,152170,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2004,6,164,25842,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2004,387,0,385391,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2004,21,0,116947,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2004,4301,0,783434,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2004,198,0,5941,43.93833333,-90.26833333
+Wisconsin,Appleton,Outagamie County Regional,ATW,2005,4453,0,267281,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2005,14,0,150,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2005,2,0,0,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2005,41512,4230,3122755,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,2005,59,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2005,510,0,29090,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2005,815,0,148971,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2005,1,269,25662,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2005,28,0,399271,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2005,20,0,114513,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2005,5874,0,766596,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2005,172,0,5280,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,2005,19,0,0,42.59583333,-87.92777778
+Wisconsin,Wisconsin Rapids,Wisconsin Rapids Airport,ISW,2005,1,0,0,44.36111111,-89.83833333
+Wisconsin,Appleton,Outagamie County Regional,ATW,2006,4526,0,251804,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2006,14,0,0,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,2006,42881,3940,3142974,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,2006,11,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2006,533,0,27381,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2006,787,0,147866,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2006,4,0,22795,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2006,73,0,423181,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2006,14,0,118597,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2006,5814,0,768320,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2006,185,0,7067,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,2006,3,0,0,42.59583333,-87.92777778
+Wisconsin,Appleton,Outagamie County Regional,ATW,2007,4435,0,250681,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2007,6,0,0,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2007,2,0,0,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2007,41601,3571,3280061,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,2007,341,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2007,508,0,26494,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2007,597,0,143088,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2007,4,0,22015,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2007,25,0,414273,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2007,14,0,121182,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2007,5686,1,738766,43.14194444,-89.33694444
+Wisconsin,Phillips,Price County,WI2,2007,1,0,0,45.70888889,-90.4025
+Wisconsin,Camp Douglas,Volk Field,VOK,2007,36,0,7416,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,2007,0,0,0,42.59583333,-87.92777778
+Wisconsin,Appleton,Outagamie County Regional,ATW,2008,4231,0,247750,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2008,3,0,0,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,2008,35861,3804,3657608,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,2008,11,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2008,383,0,23184,45.63138889,-89.4575
+Wisconsin,Waukesha,Waukesha County,UES,2008,0,0,6,43.03833333,-88.23
+Wisconsin,Mosinee,Central Wisconsin,CWA,2008,433,0,149291,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2008,3,0,18387,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2008,38,0,393242,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2008,5,0,111391,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2008,4756,0,662830,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2008,280,0,10645,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,2008,1,0,0,42.59583333,-87.92777778
+Wisconsin,Appleton,Outagamie County Regional,ATW,2009,1235,0,265340,44.25777778,-88.52
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2009,2,0,0,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2009,33882,966,3662080,42.95027778,-87.89722222
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2009,453,0,25151,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2009,351,0,144942,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2009,0,0,13179,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2009,8,0,334313,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2009,7,0,104530,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2009,4243,0,689207,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2009,66,0,16834,43.93833333,-90.26833333
+Wisconsin,Appleton,Outagamie County Regional,ATW,2010,5396,0,243597,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2010,0,0,158,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,2010,44696,318,4199087,42.95027778,-87.89722222
+Wisconsin,Medford,Taylor County,MDF,2010,3,0,0,45.10111111,-90.30333333
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2010,366,0,23552,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2010,101,0,135592,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2010,7,0,18024,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2010,24,0,319779,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2010,0,0,102783,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2010,6362,0,626661,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2010,23,0,10888,43.93833333,-90.26833333
+Wisconsin,Appleton,Outagamie County Regional,ATW,2011,5409,0,226987,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2011,2,0,146,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,2011,43536,1017,4154340,42.95027778,-87.89722222
+Wisconsin,Racine,John H. Batten,RAC,2011,1,0,0,42.76111111,-87.81388889
+Wisconsin,Beloit/Janesville,Rock County,JVL,2011,8,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2011,308,0,16587,45.63138889,-89.4575
+Wisconsin,Waukesha,Waukesha County,UES,2011,0,0,2,43.03833333,-88.23
+Wisconsin,Mosinee,Central Wisconsin,CWA,2011,97,0,129774,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2011,0,0,19066,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2011,93,0,320048,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2011,25,0,67276,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2011,6814,0,648527,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2011,136,0,5978,43.93833333,-90.26833333
+Wisconsin,Appleton,Outagamie County Regional,ATW,2012,5419,0,229231,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2012,0,0,165,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2012,1,0,0,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2012,39471,1134,3622345,42.95027778,-87.89722222
+Wisconsin,Racine,John H. Batten,RAC,2012,5,0,0,42.76111111,-87.81388889
+Wisconsin,Beloit/Janesville,Rock County,JVL,2012,16,0,281,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2012,324,0,5740,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2012,102,0,120449,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2012,0,0,22387,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2012,23,0,276345,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2012,11,0,77619,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2012,7034,0,780320,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2012,0,0,268,43.93833333,-90.26833333
+Wisconsin,Appleton,Outagamie County Regional,ATW,2013,4650,0,246029,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2013,0,0,146,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,2013,39788,1292,3203223,42.95027778,-87.89722222
+Wisconsin,Racine,John H. Batten,RAC,2013,0,0,2,42.76111111,-87.81388889
+Wisconsin,Beloit/Janesville,Rock County,JVL,2013,5,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2013,240,0,18761,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2013,116,0,123736,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2013,0,0,21660,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2013,10,0,293222,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2013,8,0,90214,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2013,12145,0,824872,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2013,9,0,102,43.93833333,-90.26833333
+Wisconsin,Marshfield,Marshfield Municipal,MFI,2013,0,0,2,44.63388889,-90.18666667
+Wisconsin,Appleton,Outagamie County Regional,ATW,2014,4640,0,249585,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2014,0,0,188,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2014,5,0,2,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2014,39126,931,3212392,42.95027778,-87.89722222
+Wisconsin,Racine,John H. Batten,RAC,2014,3,0,0,42.76111111,-87.81388889
+Wisconsin,Beloit/Janesville,Rock County,JVL,2014,1,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2014,258,0,20751,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2014,105,0,125282,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2014,0,0,20408,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2014,18,0,302129,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2014,14,0,98828,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2014,12955,0,832948,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2014,6,0,191,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,2014,0,0,0,42.59583333,-87.92777778
+Wisconsin,Appleton,Outagamie County Regional,ATW,2015,4605,0,258288,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2015,1,0,146,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2015,0,0,1,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2015,43353,891,3199579,42.95027778,-87.89722222
+Wisconsin,Racine,John H. Batten,RAC,2015,7,0,3,42.76111111,-87.81388889
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2015,333,0,20653,45.63138889,-89.4575
+Wisconsin,Eagle River,Eagle River Union,EGV,2015,0,0,2,45.93166667,-89.26888889
+Wisconsin,Mosinee,Central Wisconsin,CWA,2015,58,0,125918,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2015,0,0,19245,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2015,27,0,294807,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2015,18,0,94782,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2015,12863,0,826050,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2015,4,0,391,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,2015,0,0,8,42.59583333,-87.92777778
+Wisconsin,Appleton,Outagamie County Regional,ATW,2016,4945,0,270633,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2016,3,0,387,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2016,0,0,2,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2016,41508,573,3295091,42.95027778,-87.89722222
+Wisconsin,Racine,John H. Batten,RAC,2016,1,0,0,42.76111111,-87.81388889
+Wisconsin,Beloit/Janesville,Rock County,JVL,2016,1,0,27,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2016,286,0,20366,45.63138889,-89.4575
+Wisconsin,Eagle River,Eagle River Union,EGV,2016,0,0,27,45.93166667,-89.26888889
+Wisconsin,Mosinee,Central Wisconsin,CWA,2016,53,0,119199,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2016,0,0,21296,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2016,33,0,292658,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2016,34,0,94021,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2016,13326,13,902324,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2016,0,0,64,43.93833333,-90.26833333
+Wisconsin,Appleton,Outagamie County Regional,ATW,2017,5170,0,261606,44.25777778,-88.52
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2017,0,0,3,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2017,40682,529,3332545,42.95027778,-87.89722222
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2017,224,0,23014,45.63138889,-89.4575
+Wisconsin,Mosinee,Central Wisconsin,CWA,2017,51,0,116404,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2017,0,0,22798,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2017,25,0,283634,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2017,0,0,92093,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2017,12940,0,933265,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2017,0,0,278,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,2017,0,0,31,42.59583333,-87.92777778
+Wisconsin,Appleton,Outagamie County Regional,ATW,2018,5614,0,347019,44.25777778,-88.52
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2018,2,0,17,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2018,41871,693,3381807,42.95027778,-87.89722222
+Wisconsin,Racine,John H. Batten,RAC,2018,5,0,0,42.76111111,-87.81388889
+Wisconsin,Beloit/Janesville,Rock County,JVL,2018,11,0,0,42.61861111,-89.03777778
+Wisconsin,Hayward,Hayward Municipal,HYR,2018,0,0,2,46.02444444,-91.44444444
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2018,240,0,24295,45.63138889,-89.4575
+Wisconsin,Eagle River,Eagle River Union,EGV,2018,0,0,25,45.93166667,-89.26888889
+Wisconsin,Waukesha,Waukesha County,UES,2018,0,0,3,43.03833333,-88.23
+Wisconsin,Mosinee,Central Wisconsin,CWA,2018,62,0,124631,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2018,0,0,23631,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2018,48,0,314680,44.48805556,-88.13055556
+Wisconsin,Osceola,L O Simenstad Municipal,OEO,2018,0,0,0,45.30944444,-92.69
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2018,1,0,99648,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2018,12985,6,1037779,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2018,47,0,559,43.93833333,-90.26833333
+Wisconsin,Stevens Point,Stevens Point Municipal,STE,2018,0,0,1,44.54527778,-89.53083333
+Wisconsin,Kenosha,Kenosha Regional,ENW,2018,0,0,14,42.59583333,-87.92777778
+Wisconsin,Wisconsin Rapids,Wisconsin Rapids Airport,ISW,2018,0,0,8,44.36111111,-89.83833333
+Wisconsin,Appleton,Outagamie County Regional,ATW,2019,5055,0,386552,44.25777778,-88.52
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2019,0,0,4,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2019,40201,683,3282331,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,2019,4,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2019,203,0,27196,45.63138889,-89.4575
+Wisconsin,Eagle River,Eagle River Union,EGV,2019,0,0,19,45.93166667,-89.26888889
+Wisconsin,Mosinee,Central Wisconsin,CWA,2019,44,0,141121,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2019,0,0,24556,44.86444444,-91.48722222
+Wisconsin,Waupaca,Waupaca Municipal,WI6,2019,1,0,0,44.33333333,-89.01972222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2019,20,0,343254,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2019,3,0,97072,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2019,12811,0,1135402,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2019,19,0,333,43.93833333,-90.26833333
+Wisconsin,Kenosha,Kenosha Regional,ENW,2019,0,0,1,42.59583333,-87.92777778
+Wisconsin,Appleton,Outagamie County Regional,ATW,2020,4336,0,184128,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2020,0,0,0,43.98388889,-88.55694444
+Wisconsin,Milwaukee,General Mitchell International,MKE,2020,39055,552,1245637,42.95027778,-87.89722222
+Wisconsin,Racine,John H. Batten,RAC,2020,0,0,5,42.76111111,-87.81388889
+Wisconsin,Beloit/Janesville,Rock County,JVL,2020,2,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2020,180,0,13654,45.63138889,-89.4575
+Wisconsin,Eagle River,Eagle River Union,EGV,2020,0,0,12,45.93166667,-89.26888889
+Wisconsin,Manitowoc,Manitowoc County Airport,MTW,2020,0,0,0,44.1287994,-87.680603
+Wisconsin,Mosinee,Central Wisconsin,CWA,2020,55,0,57163,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2020,0,0,10118,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2020,63,0,141284,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2020,8,0,44041,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2020,11867,0,411423,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2020,42,0,402,43.93833333,-90.26833333
+Wisconsin,Wisconsin Rapids,Wisconsin Rapids Airport,ISW,2020,0,0,4,44.36111111,-89.83833333
+Wisconsin,Appleton,Outagamie County Regional,ATW,2021,4600,0,351975,44.25777778,-88.52
+Wisconsin,Oshkosh,Wittman Regional,OSH,2021,18,0,0,43.98388889,-88.55694444
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2021,0,0,14,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2021,38060,547,2229353,42.95027778,-87.89722222
+Wisconsin,Beloit/Janesville,Rock County,JVL,2021,7,0,17,42.61861111,-89.03777778
+Wisconsin,Hayward,Hayward Municipal,HYR,2021,0,0,8,46.02444444,-91.44444444
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2021,314,0,26237,45.63138889,-89.4575
+Wisconsin,Eagle River,Eagle River Union,EGV,2021,0,0,34,45.93166667,-89.26888889
+Wisconsin,Minocqua/Woodruff,Lakeland/Noble F. Lee Memorial Field,ARV,2021,0,0,7,45.92805556,-89.73083333
+Wisconsin,West Bend,West Bend Municipal Airport,ETB,2021,1,0,0,43.4221667,-88.1279167
+Wisconsin,Waukesha,Waukesha County,UES,2021,0,0,11,43.03833333,-88.23
+Wisconsin,Mosinee,Central Wisconsin,CWA,2021,45,0,98083,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2021,0,0,19845,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2021,31,0,264713,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2021,19,0,82663,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2021,13145,0,698981,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2021,134,0,1714,43.93833333,-90.26833333
+Wisconsin,New Richmond,New Richmond Regional Airport,RNH,2021,0,0,0,45.1477778,-92.5391667
+Wisconsin,Kenosha,Kenosha Regional,ENW,2021,0,0,1,42.59583333,-87.92777778
+Wisconsin,Fond Du Lac,Fond Du Lac County,FLD,2021,0,0,0,43.77166667,-88.48444444
+Wisconsin,Wisconsin Rapids,Wisconsin Rapids Airport,ISW,2021,0,0,20,44.36111111,-89.83833333
+Wisconsin,Appleton,Outagamie County Regional,ATW,2022,3113,0,313638,44.25777778,-88.52
+Wisconsin,Sheboygan,Sheboygan County Memorial,SBM,2022,0,0,14,43.77166667,-87.85222222
+Wisconsin,Milwaukee,General Mitchell International,MKE,2022,25964,388,1996230,42.95027778,-87.89722222
+Wisconsin,Racine,John H. Batten,RAC,2022,0,0,2,42.76111111,-87.81388889
+Wisconsin,Beloit/Janesville,Rock County,JVL,2022,21,0,0,42.61861111,-89.03777778
+Wisconsin,Rhinelander,Rhinelander/Oneida County,RHI,2022,223,0,16982,45.63138889,-89.4575
+Wisconsin,Eagle River,Eagle River Union,EGV,2022,0,0,6,45.93166667,-89.26888889
+Wisconsin,Mosinee,Central Wisconsin,CWA,2022,24,0,59334,44.78222222,-89.65916667
+Wisconsin,Eau Claire,Eau Claire Municipal,EAU,2022,0,0,13905,44.86444444,-91.48722222
+Wisconsin,Green Bay,Austin Straubel International,GRB,2022,24,0,225382,44.48805556,-88.13055556
+Wisconsin,La Crosse,La Crosse Municipal,LSE,2022,45,0,53017,43.87722222,-91.25638889
+Wisconsin,Madison,Truax Field,MSN,2022,9339,0,670536,43.14194444,-89.33694444
+Wisconsin,Camp Douglas,Volk Field,VOK,2022,0,0,104,43.93833333,-90.26833333

@@ -1,0 +1,643 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,1990,50514,5820,52296,34.83027778,-77.61166667
+North Carolina,Asheville,Asheville Regional,AVL,1990,748457,28304,139634,35.435,-82.54111111
+North Carolina,Charlotte,Charlotte Douglas International,CLT,1990,45076617,30248911,7084643,35.21388889,-80.94305556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,1990,0,0,1741,35.07361111,-77.0425
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,1990,210046,61351,135294,34.99138889,-78.88027778
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,1990,20988,0,19014,35.32666667,-77.61666667
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,1990,4132504,7673315,894005,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,1990,0,0,1174,35.63333333,-77.38527778
+North Carolina,Fayetteville,Pope AFB,POB,1990,0,0,150,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,1990,20263281,16857004,4358478,35.87527778,-78.78194444
+North Carolina,Wilmington,Wilmington International,ILM,1990,467139,7053,131760,34.26694444,-77.90388889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,1991,59002,18342,7679036,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,1991,11232,4088,813112,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,1991,0,0,3428,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,1991,0,0,0,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,1991,263,0,5507,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,1991,0,0,6768,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,1991,24375,8940,4316304,35.87527778,-78.78194444
+North Carolina,Asheville,Asheville Regional,AVL,1991,382,18,168041,35.435,-82.54111111
+North Carolina,Maxton,Laurinburg-Maxton,MXE,1991,0,0,0,34.79166667,-79.36611111
+North Carolina,Hoffman,Mackall AAF,HFF,1991,0,0,0,35.03638889,-79.49777778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,1991,81,25,147083,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,1991,536,0,123089,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,1991,35,0,68737,34.83027778,-77.61166667
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,1991,11,0,22954,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,1991,379,0,17866,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,1992,53163,23216,8239025,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,1992,13942,3339,857093,36.09194444,-79.94277778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,1992,22,0,243,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,1992,308,0,0,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,1992,0,0,7083,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,1992,22164,9695,4386144,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,1992,0,0,175,36.13527778,-80.22555556
+North Carolina,Elizabeth City,Elizabeth,ECG,1992,0,0,49,36.25916667,-76.17305556
+North Carolina,Asheville,Asheville Regional,AVL,1992,396,35,164762,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,1992,0,0,35,35.74055556,-81.39
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,1992,106,28,133839,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,1992,622,0,124358,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,1992,43,0,53245,34.83027778,-77.61166667
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,1992,11,0,9039,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,1992,0,0,18532,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,1993,47007,24487,7805221,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,1993,22499,3341,942395,36.09194444,-79.94277778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,1993,0,0,105,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,1993,317,0,0,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,1993,21,0,10152,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,1993,18250,10872,4203390,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,1993,0,0,279,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,1993,801,13,185300,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,1993,14,0,0,35.74055556,-81.39
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,1993,80,18,151579,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,1993,698,0,140280,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,1993,51,0,48618,34.83027778,-77.61166667
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,1993,12,0,1835,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,1993,69,0,17060,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,1994,41560,23568,9388066,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,1994,19688,3094,1820064,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,1994,1,0,0,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,1994,0,0,294,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,1994,425,0,0,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,1994,198,0,11210,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,1994,19076,12409,3765259,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,1994,1,0,430,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,1994,430,5,259175,35.435,-82.54111111
+North Carolina,Hoffman,Mackall AAF,HFF,1994,0,0,126,35.03638889,-79.49777778
+North Carolina,Hickory,Hickory Regional,HKY,1994,7,0,0,35.74055556,-81.39
+North Carolina,Statesville,Statesville Municipal,SVH,1994,0,0,0,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,1994,80,11,170736,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,1994,738,0,175988,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,1994,46,0,59455,34.83027778,-77.61166667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,1994,3,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,1994,30,0,2439,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,1994,56,0,16426,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,1995,44637,25648,9589321,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,1995,17524,6127,1616121,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,1995,0,0,1010,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,1995,0,0,196,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,1995,535,0,0,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,1995,29,0,9754,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,1995,19933,11296,2791552,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,1995,0,0,112,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,1995,361,0,226226,35.435,-82.54111111
+North Carolina,Pinehurst/Southern Pines,Moore County,SOP,1995,0,0,64,35.2375,-79.38888889
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,1995,68,5,155827,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,1995,783,0,174046,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,1995,10,0,31403,34.83027778,-77.61166667
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,1995,528,0,958,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,1995,69,0,14465,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,1996,48581,29584,10007911,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,1996,17735,7130,1200587,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,1996,2,0,743,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,1996,84,0,122,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,1996,550,0,25,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,1996,130,0,13511,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,1996,25380,10888,2879935,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,1996,0,0,240,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,1996,397,0,199441,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,1996,0,0,173,35.74055556,-81.39
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,1996,58,1,162537,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,1996,842,0,183258,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,1996,6,0,21002,34.83027778,-77.61166667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,1996,0,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,1996,35,0,639,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,1996,19,0,17738,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,1997,61832,31963,10357765,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,1997,27365,6874,1033528,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,1997,0,0,641,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,1997,0,0,303,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,1997,496,0,0,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,1997,45,0,6819,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,1997,36553,11115,3043704,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,1997,3,0,108,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,1997,291,0,209329,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,1997,0,0,223,35.74055556,-81.39
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,1997,46,2,156700,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,1997,780,0,195220,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,1997,6,0,24575,34.83027778,-77.61166667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,1997,200,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,1997,29,0,885,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,1997,24,0,13485,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,1998,54399,28544,10242126,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,1998,35206,5835,1213691,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,1998,0,0,757,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,1998,0,0,104,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,1998,352,0,0,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,1998,70,0,8910,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,1998,37766,9680,3289286,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,1998,0,0,554,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,1998,264,0,212733,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,1998,2,0,340,35.74055556,-81.39
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,1998,54,1,143048,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,1998,785,0,197413,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,1998,2,0,23680,34.83027778,-77.61166667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,1998,76,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,1998,31,0,1185,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,1998,112,0,15660,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,1999,78778,525208,9442282,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,1999,34048,5813,1235163,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,1999,4,0,195,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,1999,76,0,900,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,1999,369,0,7,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,1999,318,0,10405,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,1999,41275,9581,4026007,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,1999,0,0,277,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,1999,144,3,183078,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,1999,0,0,150,35.74055556,-81.39
+North Carolina,Pinehurst/Southern Pines,Moore County,SOP,1999,0,0,169,35.2375,-79.38888889
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,1999,40,2,127777,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,1999,803,2,185065,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,1999,3,0,18149,34.83027778,-77.61166667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,1999,6,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,1999,41,0,2568,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,1999,79,0,15280,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2000,102598,24605,10377923,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2000,27186,5578,1217844,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2000,5,0,1615,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2000,0,0,560,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2000,412,0,0,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2000,50,0,7160,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2000,44096,9513,4839624,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2000,133,0,163,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,2000,422,0,225588,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,2000,13,0,437,35.74055556,-81.39
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2000,38,0,123420,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2000,796,1,208461,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2000,0,0,764,34.83027778,-77.61166667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2000,4,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2000,39,0,2666,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,2000,124,0,12452,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2001,126170,30946,10226010,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2001,27848,3806,1110383,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2001,7,0,574,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2001,0,0,421,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2001,531,0,0,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2001,32,0,5837,35.17083333,-79.01472222
+North Carolina,Concord,Concord Regional,JQF,2001,2,0,0,35.38527778,-80.70972222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2001,53799,6343,4483332,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2001,0,0,215,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,2001,412,1,216509,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,2001,0,0,0,35.74055556,-81.39
+North Carolina,Statesville,Statesville Municipal,SVH,2001,0,0,0,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2001,18,0,70260,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2001,787,0,193327,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2001,0,0,324,34.83027778,-77.61166667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2001,16,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2001,37,0,1458,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,2001,0,0,11685,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2002,89603,9453,10155059,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2002,34108,1663,1014239,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2002,6,0,1163,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2002,0,0,313,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2002,712,0,422,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2002,321,0,11596,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2002,48489,2188,3760230,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2002,2,0,1033,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,2002,594,0,183716,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,2002,0,0,0,35.74055556,-81.39
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2002,2,0,58213,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2002,668,0,191297,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2002,0,0,99,34.83027778,-77.61166667
+North Carolina,Roxboro,Person County,TDF,2002,2,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2002,21,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2002,1,0,933,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,2002,398,0,9216,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2003,73058,9956,9567606,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2003,40629,1413,1072572,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2003,13,0,1324,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2003,979,1,781,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2003,740,0,22,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2003,309,1,17589,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2003,43447,2377,3722690,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2003,1,0,1309,36.13527778,-80.22555556
+North Carolina,Morganton,Morganton Lenoir,MRN,2003,1,0,0,35.83333333,-81.61666667
+North Carolina,Asheville,Asheville Regional,AVL,2003,556,0,145771,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,2003,1,0,268,35.74055556,-81.39
+North Carolina,Pinehurst/Southern Pines,Moore County,SOP,2003,0,0,0,35.2375,-79.38888889
+North Carolina,Statesville,Statesville Municipal,SVH,2003,1,0,0,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2003,8,0,61608,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2003,614,0,156810,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2003,0,0,119,34.83027778,-77.61166667
+North Carolina,Roxboro,Person County,TDF,2003,8,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2003,9,0,575,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2003,0,0,1831,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,2003,325,0,13668,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2004,76794,7410,11308106,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2004,39894,806,1121744,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2004,11,0,1006,35.63333333,-77.38527778
+North Carolina,Smithfield,Johnston County,NC2,2004,3,0,0,35.54083333,-78.39027778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2004,0,0,491,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2004,758,0,85,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2004,1296,2,18365,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2004,49744,1610,4150418,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2004,1,0,3217,36.13527778,-80.22555556
+North Carolina,Morganton,Morganton Lenoir,MRN,2004,1,0,0,35.83333333,-81.61666667
+North Carolina,Shelby,Shelby Municipal,NC3,2004,0,0,0,35.25555556,-81.60083333
+North Carolina,Asheville,Asheville Regional,AVL,2004,450,0,172219,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,2004,5,0,51,35.74055556,-81.39
+North Carolina,Pinehurst/Southern Pines,Moore County,SOP,2004,0,0,0,35.2375,-79.38888889
+North Carolina,Statesville,Statesville Municipal,SVH,2004,2,0,0,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2004,2,0,69058,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2004,653,0,230244,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2004,23,0,473,34.83027778,-77.61166667
+North Carolina,Roxboro,Person County,TDF,2004,79,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2004,981,0,36,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2004,4,0,2885,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,2004,1106,2,19782,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2005,79373,4426,13196943,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2005,42781,395,1044166,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2005,24,0,678,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2005,53,0,98,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2005,788,0,15061,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2005,449,0,14204,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2005,47483,960,4437892,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2005,0,0,1078,36.13527778,-80.22555556
+North Carolina,Morganton,Morganton Lenoir,MRN,2005,14,0,0,35.83333333,-81.61666667
+North Carolina,Asheville,Asheville Regional,AVL,2005,68,0,267250,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,2005,3,0,11514,35.74055556,-81.39
+North Carolina,Statesville,Statesville Municipal,SVH,2005,1,0,0,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2005,17,1,119391,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2005,657,0,298110,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2005,0,12,69804,34.83027778,-77.61166667
+North Carolina,Wilkesboro,Wilkes County,IKB,2005,0,0,0,36.22277778,-81.09833333
+North Carolina,Roxboro,Person County,TDF,2005,26,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2005,73,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2005,10,0,24726,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,2005,1677,0,37574,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2006,68094,7809,14002995,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2006,43832,247,940501,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2006,12,0,5799,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2006,120,0,704,35.33972222,-77.96
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2006,944,1,33285,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2006,768,0,21689,35.17083333,-79.01472222
+North Carolina,Concord,Concord Regional,JQF,2006,0,0,117,35.38527778,-80.70972222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2006,47326,934,4428145,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2006,0,0,716,36.13527778,-80.22555556
+North Carolina,Elizabeth City,Elizabeth,ECG,2006,0,0,75,36.25916667,-76.17305556
+North Carolina,Morganton,Morganton Lenoir,MRN,2006,8,0,0,35.83333333,-81.61666667
+North Carolina,Shelby,Shelby Municipal,NC3,2006,1,0,0,35.25555556,-81.60083333
+North Carolina,Asheville,Asheville Regional,AVL,2006,56,0,219481,35.435,-82.54111111
+North Carolina,Maxton,Laurinburg-Maxton,MXE,2006,3,0,0,34.79166667,-79.36611111
+North Carolina,Hickory,Hickory Regional,HKY,2006,0,0,241,35.74055556,-81.39
+North Carolina,Pinehurst/Southern Pines,Moore County,SOP,2006,0,0,2791,35.2375,-79.38888889
+North Carolina,Statesville,Statesville Municipal,SVH,2006,1,0,0,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2006,18,1,138977,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2006,616,0,281226,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2006,1,2,64929,34.83027778,-77.61166667
+North Carolina,Roxboro,Person County,TDF,2006,23,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2006,424,0,76,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2006,0,0,23345,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,2006,587,0,21506,34.9025,-76.88138889
+North Carolina,Kenansville,Duplin County,NC5,2006,0,0,0,35,-77.98166667
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2007,59867,5140,15820961,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2007,41696,118,961115,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2007,25,0,20588,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2007,0,0,594,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2007,6,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2007,985,0,63120,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2007,1694,0,26514,35.17083333,-79.01472222
+North Carolina,Concord,Concord Regional,JQF,2007,0,0,2255,35.38527778,-80.70972222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2007,48562,588,4754183,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2007,0,0,921,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,2007,111,0,200552,35.435,-82.54111111
+North Carolina,Maxton,Laurinburg-Maxton,MXE,2007,6,0,0,34.79166667,-79.36611111
+North Carolina,Hickory,Hickory Regional,HKY,2007,0,0,47,35.74055556,-81.39
+North Carolina,Pinehurst/Southern Pines,Moore County,SOP,2007,0,0,4298,35.2375,-79.38888889
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2007,23,0,173388,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2007,647,0,366462,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2007,0,0,99193,34.83027778,-77.61166667
+North Carolina,Roxboro,Person County,TDF,2007,6,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2007,887,0,284,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2007,0,0,15104,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,2007,60,0,35241,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2008,50030,7845,16438701,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2008,42136,248,926049,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2008,6,0,25056,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2008,0,0,895,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2008,36,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2008,897,0,72043,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2008,126,0,25692,35.17083333,-79.01472222
+North Carolina,Concord,Concord Regional,JQF,2008,0,0,5754,35.38527778,-80.70972222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2008,43883,1004,4551466,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2008,0,0,1881,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,2008,7,0,208387,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,2008,0,0,0,35.74055556,-81.39
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2008,76,0,201996,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2008,567,0,384961,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2008,1,0,105577,34.83027778,-77.61166667
+North Carolina,Albemarle,Stanly County,VUJ,2008,0,0,6,35.41666667,-80.15083333
+North Carolina,Roxboro,Person County,TDF,2008,8,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2008,47,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2008,6,0,8990,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,2008,569,0,34710,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2009,45792,9394,16398144,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2009,39062,175,744715,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2009,7,0,31801,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2009,115,0,1259,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2009,36,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2009,943,0,75334,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2009,228,0,33381,35.17083333,-79.01472222
+North Carolina,Concord,Concord Regional,JQF,2009,0,0,7171,35.38527778,-80.70972222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2009,39440,1105,4253684,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2009,0,0,2515,36.13527778,-80.22555556
+North Carolina,Morganton,Morganton Lenoir,MRN,2009,9,0,0,35.83333333,-81.61666667
+North Carolina,Asheville,Asheville Regional,AVL,2009,25,0,261818,35.435,-82.54111111
+North Carolina,Maxton,Laurinburg-Maxton,MXE,2009,8,0,0,34.79166667,-79.36611111
+North Carolina,Hickory,Hickory Regional,HKY,2009,15,0,78,35.74055556,-81.39
+North Carolina,Pinehurst/Southern Pines,Moore County,SOP,2009,0,0,37,35.2375,-79.38888889
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2009,18,0,230862,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2009,555,0,380118,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2009,1,1,108748,34.83027778,-77.61166667
+North Carolina,Roxboro,Person County,TDF,2009,5,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2009,67,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2009,5,0,5513,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,2009,223,0,42159,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2010,52985,9893,17980592,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2010,38779,186,778709,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2010,14,0,51180,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2010,190,0,692,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2010,30,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2010,1081,3,82767,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2010,37,0,12744,35.17083333,-79.01472222
+North Carolina,Concord,Concord Regional,JQF,2010,1,0,9338,35.38527778,-80.70972222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2010,41596,672,4298650,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2010,1,0,1528,36.13527778,-80.22555556
+North Carolina,Morganton,Morganton Lenoir,MRN,2010,26,0,0,35.83333333,-81.61666667
+North Carolina,Asheville,Asheville Regional,AVL,2010,17,0,342459,35.435,-82.54111111
+North Carolina,Hickory,Hickory Regional,HKY,2010,214,0,297,35.74055556,-81.39
+North Carolina,Statesville,Statesville Municipal,SVH,2010,2,0,0,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2010,8,1,258986,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2010,690,3,372358,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2010,3,0,150852,34.83027778,-77.61166667
+North Carolina,Roxboro,Person County,TDF,2010,1,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2010,15,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2010,0,0,5222,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,2010,62,0,31478,34.9025,-76.88138889
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2011,54275,10247,18213482,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2011,35650,117,784801,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2011,17,0,53049,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2011,18,0,1144,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2011,38,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2011,1071,1,65805,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2011,560,0,18747,35.17083333,-79.01472222
+North Carolina,Concord,Concord Regional,JQF,2011,0,0,10786,35.38527778,-80.70972222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2011,37202,544,4301994,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2011,3,0,405,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,2011,38,0,306693,35.435,-82.54111111
+North Carolina,Beaufort,Michael J. Smith Field,NC7,2011,2,0,0,34.73361111,-76.66055556
+North Carolina,Cherry Point,Cherry Point MCAS,N1C,2011,586,0,13642,34.9025,-76.88138889
+North Carolina,Hickory,Hickory Regional,HKY,2011,7,0,0,35.74055556,-81.39
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2011,32,0,259195,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2011,672,1,352342,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2011,11,0,159885,34.83027778,-77.61166667
+North Carolina,Roxboro,Person County,TDF,2011,3,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2011,22,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2011,2,0,5715,35.32666667,-77.61666667
+North Carolina,Cherry Point,Cherry Point MCAS,NKT,2011,196,0,22415,34.9025,-76.88138889
+North Carolina,Kenansville,Duplin County,NC5,2011,0,0,0,35,-77.98166667
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2012,49296,10841,19264460,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2012,37985,219,842420,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2012,8,0,39917,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2012,0,0,563,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2012,29,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2012,1049,1,74182,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2012,788,0,14277,35.17083333,-79.01472222
+North Carolina,Concord,Concord Regional,JQF,2012,0,0,10615,35.38527778,-80.70972222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2012,33688,677,4384640,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2012,0,0,425,36.13527778,-80.22555556
+North Carolina,Elizabeth City,Elizabeth,ECG,2012,1,0,0,36.25916667,-76.17305556
+North Carolina,Asheville,Asheville Regional,AVL,2012,163,0,266005,35.435,-82.54111111
+North Carolina,Cherry Point,Cherry Point MCAS,N1C,2012,1169,0,18444,34.9025,-76.88138889
+North Carolina,Hickory,Hickory Regional,HKY,2012,1,0,0,35.74055556,-81.39
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2012,38,0,233111,34.99138889,-78.88027778
+North Carolina,Clinton,Clinton Sampson County,CTZ,2012,2,0,0,34.975,-78.36555556
+North Carolina,Wilmington,Wilmington International,ILM,2012,703,0,369277,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2012,1,0,151468,34.83027778,-77.61166667
+North Carolina,Roxboro,Person County,TDF,2012,57,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2012,19,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2012,1,0,5250,35.32666667,-77.61666667
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2013,49308,11258,20514341,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2013,41370,679,853661,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2013,3,0,24988,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2013,36,0,232,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2013,32,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2013,989,1,73775,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2013,665,0,9497,35.17083333,-79.01472222
+North Carolina,Concord,Concord Regional,JQF,2013,0,0,11260,35.38527778,-80.70972222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2013,36541,717,4416205,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2013,0,0,183,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,2013,12,0,296240,35.435,-82.54111111
+North Carolina,Cherry Point,Cherry Point MCAS,N1C,2013,1757,0,29120,34.9025,-76.88138889
+North Carolina,Hickory,Hickory Regional,HKY,2013,12,0,0,35.74055556,-81.39
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2013,11,0,189095,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2013,589,1,395354,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2013,2,2,142168,34.83027778,-77.61166667
+North Carolina,Roxboro,Person County,TDF,2013,10,0,2,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2013,167,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2013,0,0,3235,35.32666667,-77.61666667
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2014,51720,11416,20715949,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2014,41425,687,827145,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2014,11,1,29303,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2014,115,0,599,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2014,27,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2014,944,1,60545,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2014,388,0,8655,35.17083333,-79.01472222
+North Carolina,Concord,Concord Regional,JQF,2014,0,0,23610,35.38527778,-80.70972222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2014,37377,790,4607105,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2014,0,0,454,36.13527778,-80.22555556
+North Carolina,Morganton,Morganton Lenoir,MRN,2014,1,0,0,35.83333333,-81.61666667
+North Carolina,Asheville,Asheville Regional,AVL,2014,22,0,347543,35.435,-82.54111111
+North Carolina,Cherry Point,Cherry Point MCAS,N1C,2014,929,0,21342,34.9025,-76.88138889
+North Carolina,Hickory,Hickory Regional,HKY,2014,0,0,569,35.74055556,-81.39
+North Carolina,Pinehurst/Southern Pines,Moore County,SOP,2014,0,0,106,35.2375,-79.38888889
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2014,53,0,172052,34.99138889,-78.88027778
+North Carolina,Clinton,Clinton Sampson County,CTZ,2014,3,0,0,34.975,-78.36555556
+North Carolina,Wilmington,Wilmington International,ILM,2014,703,0,368556,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2014,4,1,137595,34.83027778,-77.61166667
+North Carolina,Roxboro,Person County,TDF,2014,23,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2014,33,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2014,0,0,3177,35.32666667,-77.61666667
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2015,51743,11898,21028807,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2015,40232,739,809573,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2015,6,0,43385,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2015,86,0,163,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2015,13,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2015,949,0,40585,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2015,444,0,6231,35.17083333,-79.01472222
+North Carolina,Concord,Concord Regional,JQF,2015,0,0,73610,35.38527778,-80.70972222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2015,36437,963,4833151,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2015,2,0,302,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,2015,39,0,370973,35.435,-82.54111111
+North Carolina,Cherry Point,Cherry Point MCAS,N1C,2015,283,4,11059,34.9025,-76.88138889
+North Carolina,Hickory,Hickory Regional,HKY,2015,88,0,582,35.74055556,-81.39
+North Carolina,Statesville,Statesville Municipal,SVH,2015,234,0,0,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2015,9,0,152139,34.99138889,-78.88027778
+North Carolina,Clinton,Clinton Sampson County,CTZ,2015,1,0,0,34.975,-78.36555556
+North Carolina,Wilmington,Wilmington International,ILM,2015,769,0,380382,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2015,2,0,117360,34.83027778,-77.61166667
+North Carolina,Gastonia,Gastonia Municipal,NC1,2015,433,0,11495,35.20277778,-81.14972222
+North Carolina,Roxboro,Person County,TDF,2015,101,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2015,9,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2015,0,0,1889,35.32666667,-77.61666667
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2016,58442,10432,20849513,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2016,42120,490,760328,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2016,7,0,38777,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2016,337,0,551,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2016,44,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2016,893,1,55042,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2016,560,0,5583,35.17083333,-79.01472222
+North Carolina,Concord,Concord Regional,JQF,2016,0,0,90210,35.38527778,-80.70972222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2016,36921,343,5261491,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2016,0,0,699,36.13527778,-80.22555556
+North Carolina,Elizabeth City,Elizabeth,ECG,2016,2,0,0,36.25916667,-76.17305556
+North Carolina,Asheville,Asheville Regional,AVL,2016,62,0,388180,35.435,-82.54111111
+North Carolina,Sanford,Raleigh Exec Jetport at Sanford Lee County,N4C,2016,0,0,5,35.5825,-79.10138889
+North Carolina,Cherry Point,Cherry Point MCAS,N1C,2016,0,0,602,34.9025,-76.88138889
+North Carolina,Hickory,Hickory Regional,HKY,2016,0,0,863,35.74055556,-81.39
+North Carolina,Pinehurst/Southern Pines,Moore County,SOP,2016,0,0,3,35.2375,-79.38888889
+North Carolina,Statesville,Statesville Municipal,SVH,2016,1,0,0,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2016,0,0,183242,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2016,615,0,407386,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2016,0,1,139316,34.83027778,-77.61166667
+North Carolina,Gastonia,Gastonia Municipal,NC1,2016,1448,0,17122,35.20277778,-81.14972222
+North Carolina,Roxboro,Person County,TDF,2016,98,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2016,20,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2016,4,0,598,35.32666667,-77.61666667
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2017,78301,13318,21396212,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2017,48624,645,806394,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2017,6,0,19728,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2017,213,0,588,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2017,49,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2017,918,1,102453,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2017,870,0,8418,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2017,41130,314,5550889,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2017,0,0,516,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,2017,14,0,445236,35.435,-82.54111111
+North Carolina,Sanford,Raleigh Exec Jetport at Sanford Lee County,N4C,2017,2,0,0,35.5825,-79.10138889
+North Carolina,Cherry Point,Cherry Point MCAS,N1C,2017,0,0,2005,34.9025,-76.88138889
+North Carolina,Hickory,Hickory Regional,HKY,2017,42,0,611,35.74055556,-81.39
+North Carolina,Statesville,Statesville Municipal,SVH,2017,33,0,2,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2017,0,0,204253,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2017,690,0,399767,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2017,0,1,150583,34.83027778,-77.61166667
+North Carolina,Monroe,Charlotte Monroe Executive,N2C,2017,0,0,31,35.0175,-80.62194444
+North Carolina,Gastonia,Gastonia Municipal,NC1,2017,885,0,12920,35.20277778,-81.14972222
+North Carolina,Concord,Concord Regional,USA,2017,0,0,126634,35.38527778,-80.70972222
+North Carolina,Roxboro,Person County,TDF,2017,47,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2017,103,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2017,0,0,0,35.32666667,-77.61666667
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2018,76513,12649,21730020,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2018,59615,594,869268,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2018,1,0,32201,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2018,7,0,0,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2018,40,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2018,765,1,95384,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2018,511,0,6556,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2018,40566,281,6154341,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2018,0,0,249,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,2018,11,0,567362,35.435,-82.54111111
+North Carolina,Cherry Point,Cherry Point MCAS,N1C,2018,0,0,1612,34.9025,-76.88138889
+North Carolina,Hickory,Hickory Regional,HKY,2018,25,0,912,35.74055556,-81.39
+North Carolina,Statesville,Statesville Municipal,SVH,2018,30,0,0,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2018,0,0,228121,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2018,640,0,445678,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2018,3,0,145851,34.83027778,-77.61166667
+North Carolina,Gastonia,Gastonia Municipal,NC1,2018,1648,0,16916,35.20277778,-81.14972222
+North Carolina,Concord,Concord Regional,USA,2018,0,0,146048,35.38527778,-80.70972222
+North Carolina,Roxboro,Person County,TDF,2018,34,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2018,60,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2018,4,0,0,35.32666667,-77.61666667
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2019,73118,10685,23267031,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2019,65383,567,1013595,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2019,0,0,4354,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2019,439,0,934,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2019,36,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2019,617,2,107096,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2019,1569,0,13273,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2019,41556,252,6874417,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2019,0,0,199,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,2019,6,0,776847,35.435,-82.54111111
+North Carolina,Cherry Point,Cherry Point MCAS,N1C,2019,0,0,2007,34.9025,-76.88138889
+North Carolina,Hickory,Hickory Regional,HKY,2019,7,0,618,35.74055556,-81.39
+North Carolina,Pinehurst/Southern Pines,Moore County,SOP,2019,0,0,15,35.2375,-79.38888889
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2019,0,0,204210,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2019,593,0,492440,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2019,0,0,139971,34.83027778,-77.61166667
+North Carolina,Gastonia,Gastonia Municipal,NC1,2019,1198,0,17485,35.20277778,-81.14972222
+North Carolina,Concord,Concord Regional,USA,2019,0,0,179882,35.38527778,-80.70972222
+North Carolina,Roxboro,Person County,TDF,2019,4,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2019,0,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2019,0,0,9,35.32666667,-77.61666667
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2020,74146,13032,12604700,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2020,53621,1385,359753,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2020,0,0,2026,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2020,0,0,500,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2020,41,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2020,664,1,56082,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2020,1076,0,6900,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2020,44809,114,2341502,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2020,2,0,112,36.13527778,-80.22555556
+North Carolina,Asheville,Asheville Regional,AVL,2020,6,0,355325,35.435,-82.54111111
+North Carolina,Sanford,Raleigh Exec Jetport at Sanford Lee County,N4C,2020,4,0,0,35.5825,-79.10138889
+North Carolina,Cherry Point,Cherry Point MCAS,N1C,2020,644,0,18488,34.9025,-76.88138889
+North Carolina,Hickory,Hickory Regional,HKY,2020,30,0,526,35.74055556,-81.39
+North Carolina,Statesville,Statesville Municipal,SVH,2020,0,0,0,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2020,0,0,121518,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2020,688,0,224914,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2020,0,0,101132,34.83027778,-77.61166667
+North Carolina,Gastonia,Gastonia Municipal,NC1,2020,0,0,826,35.20277778,-81.14972222
+North Carolina,Concord,Concord Regional,USA,2020,0,0,86797,35.38527778,-80.70972222
+North Carolina,Roxboro,Person County,TDF,2020,37,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2020,19,0,0,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2020,18,0,0,35.32666667,-77.61666667
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2021,74307,15771,20867798,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2021,85097,1504,626937,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2021,1,0,34731,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2021,341,0,1787,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2021,43,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2021,675,0,76228,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2021,277,0,3176,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2021,45544,235,4307590,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2021,0,0,195,36.13527778,-80.22555556
+North Carolina,Elizabeth City,Elizabeth,ECG,2021,0,0,0,36.25916667,-76.17305556
+North Carolina,Asheboro,,2NC,2021,0,0,76,,
+North Carolina,Oak Island,,N8C,2021,0,0,6,,
+North Carolina,Asheville,Asheville Regional,AVL,2021,6,0,722770,35.435,-82.54111111
+North Carolina,Maxton,Laurinburg-Maxton,MXE,2021,0,0,29,34.79166667,-79.36611111
+North Carolina,Franklin,,N3C,2021,0,0,4,,
+North Carolina,Cherry Point,Cherry Point MCAS,N1C,2021,437,0,16266,34.9025,-76.88138889
+North Carolina,Hickory,Hickory Regional,HKY,2021,19,0,857,35.74055556,-81.39
+North Carolina,Pinehurst/Southern Pines,Moore County,SOP,2021,0,0,1,35.2375,-79.38888889
+North Carolina,Statesville,Statesville Municipal,SVH,2021,4,0,9,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2021,0,0,188451,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2021,856,0,462475,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2021,0,0,162567,34.83027778,-77.61166667
+North Carolina,Wilkesboro,Wilkes County,IKB,2021,0,0,2,36.22277778,-81.09833333
+North Carolina,Gastonia,Gastonia Municipal,NC1,2021,13,0,21,35.20277778,-81.14972222
+North Carolina,Concord,Concord Regional,USA,2021,0,0,139117,35.38527778,-80.70972222
+North Carolina,Roxboro,Person County,TDF,2021,62,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2021,116,0,48,35.85444444,-77.89055556
+North Carolina,Charlotte,Charlotte Douglas International,CLT,2022,62240,8124,16840958,35.21388889,-80.94305556
+North Carolina,Greensboro/High Point,Piedmont Triad International,GSO,2022,59087,203,581276,36.09194444,-79.94277778
+North Carolina,Greenville,Pitt Greenville,PGV,2022,0,0,23479,35.63333333,-77.38527778
+North Carolina,Goldsboro,Seymour Johnson AFB,GSB,2022,67,0,737,35.33972222,-77.96
+North Carolina,Manteo,Dare County Regional,MEO,2022,28,0,0,35.91888889,-75.69555556
+North Carolina,New Bern/Morehead/Beaufort,Craven County Regional,EWN,2022,553,0,50988,35.07361111,-77.0425
+North Carolina,Fayetteville,Pope AFB,POB,2022,416,0,7096,35.17083333,-79.01472222
+North Carolina,Raleigh/Durham,Raleigh-Durham International,RDU,2022,34923,132,4207290,35.87527778,-78.78194444
+North Carolina,Winston-Salem,Smith Reynolds,INT,2022,0,0,700,36.13527778,-80.22555556
+North Carolina,Asheboro,,2NC,2022,0,0,22,,
+North Carolina,Asheville,Asheville Regional,AVL,2022,0,0,671356,35.435,-82.54111111
+North Carolina,Maxton,Laurinburg-Maxton,MXE,2022,0,0,17,34.79166667,-79.36611111
+North Carolina,Cherry Point,Cherry Point MCAS,N1C,2022,533,0,10757,34.9025,-76.88138889
+North Carolina,Hickory,Hickory Regional,HKY,2022,2,0,70,35.74055556,-81.39
+North Carolina,Statesville,Statesville Municipal,SVH,2022,0,0,7,35.76305556,-80.95527778
+North Carolina,Fayetteville,Fayetteville Regional/Grannis Field,FAY,2022,0,0,126470,34.99138889,-78.88027778
+North Carolina,Wilmington,Wilmington International,ILM,2022,569,0,393735,34.26694444,-77.90388889
+North Carolina,Jacksonville/Camp Lejeune,Albert J Ellis,OAJ,2022,0,0,108438,34.83027778,-77.61166667
+North Carolina,Monroe,Charlotte Monroe Executive,N2C,2022,0,0,8,35.0175,-80.62194444
+North Carolina,Concord,Concord Regional,USA,2022,0,0,91875,35.38527778,-80.70972222
+North Carolina,Roxboro,Person County,TDF,2022,1,0,0,36.285,-78.98416667
+North Carolina,Rocky Mount,Rocky Mount-Wilson Regional,RWI,2022,19,0,36,35.85444444,-77.89055556
+North Carolina,Kinston,Kinston Regional Jetport at Stallings Field,ISO,2022,7,0,3,35.32666667,-77.61666667

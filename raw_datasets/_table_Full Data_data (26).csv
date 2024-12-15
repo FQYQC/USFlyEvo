@@ -1,0 +1,375 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Montana,Butte,Bert Mooney,BTM,1990,103001,623259,30474,45.95111111,-112.4938889
+Montana,Billings,Billings Logan International,BIL,1990,502753,3488153,240032,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,1990,189596,48185,124424,45.78027778,-111.1594444
+Montana,Kalispell,Glacier Park International,FCA,1990,162247,161836,63849,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,1990,174697,645681,116147,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,1990,125040,285641,44884,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,1990,329246,1165694,125787,46.91555556,-114.0875
+Montana,Kalispell,Glacier Park International,FCA,1991,168,91,77750,48.31277778,-114.2511111
+Montana,Polson,Polson Airport,XXT,1991,0,0,0,47.69555556,-114.1841667
+Montana,Great Falls,Great Falls International,GTF,1991,6115,292,123566,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,1991,808,140,51038,46.60666667,-111.9819444
+Montana,Great Falls,Malmstrom AFB Heliport,GFA,1991,3,0,0,47.505,-111.1872222
+Montana,Missoula,Missoula International,MSO,1991,292,630,140617,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,1991,4,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,1991,1637,1603,254985,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,1991,204,18,138103,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,1991,0,0,177,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,1991,72,361,31529,45.95111111,-112.4938889
+Montana,Kalispell,Glacier Park International,FCA,1992,178,109,86743,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,1992,7550,332,131923,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,1992,310,163,55331,46.60666667,-111.9819444
+Montana,Great Falls,Malmstrom AFB Heliport,GFA,1992,11,0,0,47.505,-111.1872222
+Montana,Missoula,Missoula International,MSO,1992,314,698,154391,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,1992,8,0,40,48.09472222,-105.5663889
+Montana,Townsend,Townsend Airport,WQK,1992,0,0,0,46.33333333,-111.475
+Montana,Billings,Billings Logan International,BIL,1992,661,1832,288074,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,1992,257,19,150755,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,1992,0,0,96,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,1992,93,396,33338,45.95111111,-112.4938889
+Montana,Stevensville,Stevensville Airport,QQJ,1992,0,0,0,46.52222222,-114.0569444
+Montana,Harlowton,Wheatland County at Harlowton,RQC,1993,1,0,0,46.45416667,-109.855
+Montana,Kalispell,Glacier Park International,FCA,1993,206,128,90357,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,1993,9002,312,124814,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,1993,325,174,53965,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,1993,318,646,166382,46.91555556,-114.0875
+Montana,Hamilton,Ravalli County,WQC,1993,0,0,0,46.25333333,-114.1202778
+Montana,Wolf Point,Wolf Point International,OLF,1993,14,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,1993,722,2346,285139,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,1993,307,36,173680,45.78027778,-111.1594444
+Montana,Butte,Bert Mooney,BTM,1993,104,436,33781,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,1993,0,0,0,48.21277778,-106.6155556
+Montana,Sidney,Sidney/Richland Municipal,SDY,1993,0,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,1994,219,107,106190,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,1994,10479,302,124566,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,1994,233,160,59376,46.60666667,-111.9819444
+Montana,Great Falls,Malmstrom AFB Heliport,GFA,1994,0,0,533,47.505,-111.1872222
+Montana,Missoula,Missoula International,MSO,1994,366,547,169526,46.91555556,-114.0875
+Montana,Glendive,Dawson Community,GDV,1994,0,0,0,47.13888889,-104.8069444
+Montana,Wolf Point,Wolf Point International,OLF,1994,15,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,1994,1285,3027,290311,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,1994,411,156,167100,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,1994,0,0,39,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,1994,77,106,15974,45.95111111,-112.4938889
+Montana,Cut Bank,Cut Bank Municipal,CTB,1994,0,0,0,48.60833333,-112.3761111
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,1994,0,0,40,48.21277778,-106.6155556
+Montana,Poplar,Poplar Airport,WQS,1994,0,0,0,48.11666667,-105.1875
+Montana,Lewistown,Lewistown Municipal,LWT,1994,1,0,0,47.05111111,-109.4711111
+Montana,Kalispell,Glacier Park International,FCA,1995,262,166,114484,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,1995,10567,312,124965,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,1995,221,146,59973,46.60666667,-111.9819444
+Montana,Great Falls,Malmstrom AFB Heliport,GFA,1995,0,0,149,47.505,-111.1872222
+Montana,Missoula,Missoula International,MSO,1995,345,568,173794,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,1995,17,0,0,48.09472222,-105.5663889
+Montana,Roundup,Roundup Airport,RPX,1995,1,0,0,46.47666667,-108.5541667
+Montana,Billings,Billings Logan International,BIL,1995,801,3526,304051,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,1995,445,189,183596,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,1995,0,0,23,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,1995,75,16,11895,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,1995,1,0,0,48.21277778,-106.6155556
+Montana,Kalispell,Glacier Park International,FCA,1996,331,90,122193,48.31277778,-114.2511111
+Montana,Polson,Polson Airport,XXT,1996,1,0,0,47.69555556,-114.1841667
+Montana,Great Falls,Great Falls International,GTF,1996,11837,292,119209,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,1996,265,135,63203,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,1996,400,510,176852,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,1996,16,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,1996,836,3688,284961,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,1996,481,93,191670,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,1996,0,0,1,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,1996,85,19,10509,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,1996,0,0,0,48.21277778,-106.6155556
+Montana,Havre,Havre City-County,HVR,1996,0,0,0,48.54444444,-109.7611111
+Montana,Sidney,Sidney/Richland Municipal,SDY,1996,0,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,1997,400,190,132522,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,1997,12675,365,120557,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,1997,275,166,66094,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,1997,470,640,183094,46.91555556,-114.0875
+Montana,Miles City,Frank Wiley Field,MLS,1997,12,0,0,46.43055556,-105.8805556
+Montana,Wolf Point,Wolf Point International,OLF,1997,22,0,0,48.09472222,-105.5663889
+Montana,Three Forks,Three Forks Airport,FVR,1997,1,0,0,45.87861111,-111.5691667
+Montana,Billings,Billings Logan International,BIL,1997,6347,3603,268105,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,1997,655,22,196614,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,1997,0,0,91,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,1997,113,24,8520,45.95111111,-112.4938889
+Montana,Stevensville,Stevensville Airport,QQJ,1997,3,0,0,46.52222222,-114.0569444
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,1997,3,0,0,48.21277778,-106.6155556
+Montana,Kalispell,Glacier Park International,FCA,1998,407,167,133318,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,1998,12158,403,123236,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,1998,311,223,66415,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,1998,464,370,189313,46.91555556,-114.0875
+Montana,Glendive,Dawson Community,GDV,1998,0,0,0,47.13888889,-104.8069444
+Montana,Miles City,Frank Wiley Field,MLS,1998,18,0,0,46.43055556,-105.8805556
+Montana,Wolf Point,Wolf Point International,OLF,1998,22,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,1998,7193,2404,268496,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,1998,683,3,205251,45.78027778,-111.1594444
+Montana,Circle,Circle Town County,UXY,1998,1,0,0,47.41666667,-105.5505556
+Montana,Butte,Bert Mooney,BTM,1998,115,2,10294,45.95111111,-112.4938889
+Montana,Cut Bank,Cut Bank Municipal,CTB,1998,134,0,0,48.60833333,-112.3761111
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,1998,1,0,0,48.21277778,-106.6155556
+Montana,Sidney,Sidney/Richland Municipal,SDY,1998,0,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,1999,373,200,141024,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,1999,13557,336,132043,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,1999,286,167,67288,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,1999,493,361,208436,46.91555556,-114.0875
+Montana,Miles City,Frank Wiley Field,MLS,1999,22,0,0,46.43055556,-105.8805556
+Montana,Wolf Point,Wolf Point International,OLF,1999,34,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,1999,6560,3342,283532,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,1999,638,7,211080,45.78027778,-111.1594444
+Montana,Butte,Bert Mooney,BTM,1999,106,5,12481,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,1999,1,0,0,48.21277778,-106.6155556
+Montana,Kalispell,Glacier Park International,FCA,2000,422,245,150881,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2000,13474,333,136578,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2000,293,137,59184,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2000,526,343,202412,46.91555556,-114.0875
+Montana,Glendive,Dawson Community,GDV,2000,0,0,0,47.13888889,-104.8069444
+Montana,Miles City,Frank Wiley Field,MLS,2000,29,0,0,46.43055556,-105.8805556
+Montana,Wolf Point,Wolf Point International,OLF,2000,30,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2000,8374,4231,285533,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2000,920,32,214704,45.78027778,-111.1594444
+Montana,Butte,Bert Mooney,BTM,2000,116,6,13362,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2000,0,0,0,48.21277778,-106.6155556
+Montana,Kalispell,Glacier Park International,FCA,2001,360,185,150354,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2001,12673,219,127234,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2001,279,102,65877,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2001,557,197,199702,46.91555556,-114.0875
+Montana,Libby,Libby Airport,FQU,2001,0,0,0,48.28388889,-115.4902778
+Montana,Hamilton,Ravalli County,WQC,2001,2,0,0,46.25333333,-114.1202778
+Montana,Glendive,Dawson Community,GDV,2001,0,0,0,47.13888889,-104.8069444
+Montana,Miles City,Frank Wiley Field,MLS,2001,13,0,0,46.43055556,-105.8805556
+Montana,Wolf Point,Wolf Point International,OLF,2001,22,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2001,12763,4719,277548,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2001,610,0,209269,45.78027778,-111.1594444
+Montana,Butte,Bert Mooney,BTM,2001,110,2,11643,45.95111111,-112.4938889
+Montana,Stevensville,Stevensville Airport,QQJ,2001,1,0,0,46.52222222,-114.0569444
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2001,0,0,0,48.21277778,-106.6155556
+Montana,Havre,Havre City-County,HVR,2001,0,0,0,48.54444444,-109.7611111
+Montana,Sidney,Sidney/Richland Municipal,SDY,2001,0,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,2002,347,104,151272,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2002,11858,155,121718,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2002,154,66,64557,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2002,351,127,188831,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2002,21,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2002,8195,1061,290213,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2002,478,1,249425,45.78027778,-111.1594444
+Montana,Butte,Bert Mooney,BTM,2002,117,0,10740,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2002,1,0,0,48.21277778,-106.6155556
+Montana,Sidney,Sidney/Richland Municipal,SDY,2002,0,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,2003,302,35,163912,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2003,7068,47,122123,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2003,181,25,72377,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2003,366,71,246359,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2003,18,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2003,10663,440,293101,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2003,430,0,281422,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2003,0,0,3250,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2003,90,0,38512,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2003,0,0,0,48.21277778,-106.6155556
+Montana,Poplar,Poplar Airport,WQS,2003,0,0,0,48.11666667,-105.1875
+Montana,Kalispell,Glacier Park International,FCA,2004,319,0,172658,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2004,4821,0,128705,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2004,470,1,80230,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2004,425,7,258542,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2004,26,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2004,15491,142,367108,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2004,475,0,308892,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2004,0,0,2275,44.68666667,-111.1047222
+Montana,Circle,Circle Town County,UXY,2004,0,0,0,47.41666667,-105.5505556
+Montana,Butte,Bert Mooney,BTM,2004,2,0,40633,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2004,1,0,0,48.21277778,-106.6155556
+Montana,Kalispell,Glacier Park International,FCA,2005,327,0,187096,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2005,6299,1,151718,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2005,34,0,89200,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2005,394,1,263629,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2005,26,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2005,14847,97,373103,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2005,504,0,334305,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2005,0,0,4366,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2005,3,0,42663,45.95111111,-112.4938889
+Montana,Kalispell,Glacier Park International,FCA,2006,324,0,172815,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2006,7695,0,138028,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2006,16,0,84693,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2006,466,0,266580,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2006,24,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2006,14252,91,377026,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2006,461,0,313968,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2006,0,0,4020,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2006,4,0,37541,45.95111111,-112.4938889
+Montana,Kalispell,Glacier Park International,FCA,2007,339,3,187716,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2007,7136,0,145393,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2007,14,0,80091,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2007,426,1,273121,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2007,30,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2007,13616,307,407108,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2007,446,0,330939,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2007,0,0,3829,44.68666667,-111.1047222
+Montana,Malta,Malta Airport,MLK,2007,0,0,0,48.36694444,-107.9194444
+Montana,Butte,Bert Mooney,BTM,2007,5,2,36834,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2007,0,0,0,48.21277778,-106.6155556
+Montana,Kalispell,Glacier Park International,FCA,2008,326,2,186137,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2008,6764,5,143526,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2008,11,2,85151,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2008,422,3,286931,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2008,25,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2008,12703,342,419031,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2008,421,0,349016,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2008,0,0,4180,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2008,4,0,30340,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2008,0,0,0,48.21277778,-106.6155556
+Montana,Kalispell,Glacier Park International,FCA,2009,237,0,160079,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2009,7895,49,146348,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2009,14,0,88236,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2009,438,2,281077,46.91555556,-114.0875
+Montana,Glendive,Dawson Community,GDV,2009,0,0,0,47.13888889,-104.8069444
+Montana,Wolf Point,Wolf Point International,OLF,2009,28,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2009,12850,240,393640,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2009,394,0,343606,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2009,0,0,4318,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2009,0,1,25118,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2009,1,0,0,48.21277778,-106.6155556
+Montana,Sidney,Sidney/Richland Municipal,SDY,2009,0,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Kalispell City,S27,2009,3,0,0,48.17833333,-114.3036111
+Montana,Kalispell,Glacier Park International,FCA,2010,232,1,175135,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2010,8305,53,155116,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2010,13,0,98156,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2010,495,2,289468,46.91555556,-114.0875
+Montana,Glendive,Dawson Community,GDV,2010,0,0,0,47.13888889,-104.8069444
+Montana,Wolf Point,Wolf Point International,OLF,2010,16,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2010,14546,155,379314,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2010,412,0,364442,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2010,0,0,4433,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2010,0,0,25410,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2010,1,0,0,48.21277778,-106.6155556
+Montana,Sidney,Sidney/Richland Municipal,SDY,2010,10,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,2011,282,0,179029,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2011,8227,33,168055,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2011,1,0,100684,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2011,467,0,292262,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2011,24,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2011,13973,119,394685,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2011,417,0,397833,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2011,0,0,5334,44.68666667,-111.1047222
+Montana,Circle,Circle Town County,UXY,2011,0,0,0,47.41666667,-105.5505556
+Montana,Butte,Bert Mooney,BTM,2011,1,0,24788,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2011,1,0,0,48.21277778,-106.6155556
+Montana,Sidney,Sidney/Richland Municipal,SDY,2011,1,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,2012,184,0,192368,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2012,8081,48,186722,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2012,0,0,94635,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2012,432,0,303647,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2012,26,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2012,13107,200,421450,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2012,389,0,433933,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2012,0,0,4957,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2012,0,0,20895,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2012,1,0,0,48.21277778,-106.6155556
+Montana,Sidney,Sidney/Richland Municipal,SDY,2012,2,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,2013,199,0,199292,48.31277778,-114.2511111
+Montana,Polson,Polson Airport,XXT,2013,2,0,0,47.69555556,-114.1841667
+Montana,Great Falls,Great Falls International,GTF,2013,9437,43,182248,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2013,1,0,97250,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2013,381,0,297604,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2013,27,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2013,13128,83,372170,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2013,394,0,441454,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2013,0,0,5290,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2013,0,0,29391,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2013,1,0,0,48.21277778,-106.6155556
+Montana,Sidney,Sidney/Richland Municipal,SDY,2013,1,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,2014,212,0,224725,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2014,9694,10,190267,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2014,0,0,96852,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2014,364,0,334734,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2014,27,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2014,13967,110,397034,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2014,384,0,482548,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2014,0,0,5628,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2014,0,0,29738,45.95111111,-112.4938889
+Montana,Kalispell,Glacier Park International,FCA,2015,203,0,237470,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2015,8604,25,180653,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2015,1,0,99430,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2015,393,0,349953,46.91555556,-114.0875
+Montana,Three Forks,Three Forks Airport,MT2,2015,2,0,0,45.87805556,-111.5694444
+Montana,Wolf Point,Wolf Point International,OLF,2015,28,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2015,13351,108,397035,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2015,388,0,511976,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2015,0,0,7796,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2015,0,0,27361,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2015,1,0,0,48.21277778,-106.6155556
+Montana,Sidney,Sidney/Richland Municipal,SDY,2015,0,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,2016,208,0,247851,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2016,8921,2,157873,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2016,29,0,103237,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2016,326,0,381494,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2016,21,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2016,14062,205,398708,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2016,476,0,553237,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2016,0,0,8525,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2016,0,0,25922,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2016,0,0,1,48.21277778,-106.6155556
+Montana,Sidney,Sidney/Richland Municipal,SDY,2016,1,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,2017,214,0,269158,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2017,8837,0,143100,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2017,2,0,103771,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2017,343,0,379695,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2017,22,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2017,13691,321,394731,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2017,606,0,598482,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2017,0,0,8437,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2017,0,0,27697,45.95111111,-112.4938889
+Montana,Kalispell,Glacier Park International,FCA,2018,206,0,287956,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2018,9470,0,143359,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2018,0,0,114386,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2018,347,0,408271,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2018,13,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2018,16995,658,410279,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2018,525,0,670052,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2018,0,0,8161,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2018,0,0,25711,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2018,0,0,0,48.21277778,-106.6155556
+Montana,Sidney,Sidney/Richland Municipal,SDY,2018,4,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,2019,203,0,340318,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2019,9288,0,143292,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2019,0,0,90523,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2019,332,0,438652,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2019,8,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2019,17643,191,431195,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2019,439,0,785224,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2019,0,0,8972,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2019,0,0,25926,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2019,7,0,0,48.21277778,-106.6155556
+Montana,Kalispell,Glacier Park International,FCA,2020,391,0,214387,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2020,10879,0,77901,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2020,0,0,40491,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2020,457,0,207754,46.91555556,-114.0875
+Montana,Wolf Point,Wolf Point International,OLF,2020,1,0,0,48.09472222,-105.5663889
+Montana,Billings,Billings Logan International,BIL,2020,20826,14,221988,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2020,447,0,445322,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2020,0,0,4586,44.68666667,-111.1047222
+Montana,Butte,Bert Mooney,BTM,2020,0,0,12460,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2020,11,0,0,48.21277778,-106.6155556
+Montana,Sidney,Sidney/Richland Municipal,SDY,2020,1,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,2021,327,0,418037,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2021,11104,0,132259,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2021,2,0,71305,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2021,484,0,384883,46.91555556,-114.0875
+Montana,Deer Lodge,,VWW,2021,0,0,347,,
+Montana,Billings,Billings Logan International,BIL,2021,21778,88,359425,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2021,514,0,973623,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2021,0,0,13149,44.68666667,-111.1047222
+Montana,Ennis,Knox Ridge Airport,MT3,2021,0,0,7,47.6166667,-108.8480556
+Montana,Butte,Bert Mooney,BTM,2021,0,0,16697,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2021,12,0,0,48.21277778,-106.6155556
+Montana,Lewistown,Lewistown Municipal,LWT,2021,0,0,2,47.05111111,-109.4711111
+Montana,Sidney,Sidney/Richland Municipal,SDY,2021,0,0,0,47.70694444,-104.1919444
+Montana,Kalispell,Glacier Park International,FCA,2022,280,0,346773,48.31277778,-114.2511111
+Montana,Great Falls,Great Falls International,GTF,2022,7448,0,101844,47.48555556,-111.3669444
+Montana,Helena,Helena Regional,HLN,2022,2,0,62204,46.60666667,-111.9819444
+Montana,Missoula,Missoula International,MSO,2022,325,0,324772,46.91555556,-114.0875
+Montana,Deer Lodge,,VWW,2022,0,0,182,,
+Montana,Billings,Billings Logan International,BIL,2022,13490,0,272661,45.80694444,-108.5427778
+Montana,Bozeman,Gallatin Field,BZN,2022,365,0,897190,45.78027778,-111.1594444
+Montana,West Yellowstone,Yellowstone,WYS,2022,0,0,6893,44.68666667,-111.1047222
+Montana,Ennis,Knox Ridge Airport,MT3,2022,0,0,22,47.6166667,-108.8480556
+Montana,Butte,Bert Mooney,BTM,2022,0,0,13753,45.95111111,-112.4938889
+Montana,Glasgow,Wokal Field/Glasgow International,GGW,2022,5,0,0,48.21277778,-106.6155556

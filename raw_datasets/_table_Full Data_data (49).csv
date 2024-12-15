@@ -1,0 +1,63 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Vermont,Burlington,Burlington International,BTV,1990,513107,2282008,306489,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,1991,111,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,1991,1794,842,281388,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,1992,142,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,1992,2078,1112,279861,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,1993,183,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,1993,2346,451,273819,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,1994,240,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,1994,2583,231,266594,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,1995,283,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,1995,2298,215,319581,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,1996,275,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,1996,2430,230,282854,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,1997,269,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,1997,2573,354,274978,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,1998,315,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,1998,2593,262,272626,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,1999,373,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,1999,2556,120,259532,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,2000,393,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2000,2883,121,280674,44.47277778,-73.15305556
+Vermont,Lyndonville,Caledonia County,LLX,2001,0,0,0,44.56916667,-72.01805556
+Vermont,Rutland,Rutland State,RUT,2001,272,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2001,1481,5,367341,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,2002,168,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2002,2943,4,389448,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,2003,115,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2003,3272,0,386372,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,2004,128,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2004,3667,0,562798,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,2005,123,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2005,3954,0,642075,44.47277778,-73.15305556
+Vermont,Montpelier/Barre,Edward F Knapp State,MPV,2006,0,0,4,44.20333333,-72.56666667
+Vermont,Rutland,Rutland State,RUT,2006,106,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2006,4029,1,613366,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,2007,102,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2007,3969,0,621956,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,2008,44,0,1,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2008,2972,1,631591,44.47277778,-73.15305556
+Vermont,Montpelier/Barre,Edward F Knapp State,MPV,2009,0,0,1,44.20333333,-72.56666667
+Vermont,Rutland,Rutland State,RUT,2009,1,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2009,1850,0,613916,44.47277778,-73.15305556
+Vermont,Burlington,Burlington International,BTV,2010,2039,2,583258,44.47277778,-73.15305556
+Vermont,Burlington,Burlington International,BTV,2011,2046,0,574379,44.47277778,-73.15305556
+Vermont,Burlington,Burlington International,BTV,2012,1899,0,591489,44.47277778,-73.15305556
+Vermont,Burlington,Burlington International,BTV,2013,2193,0,590750,44.47277778,-73.15305556
+Vermont,Burlington,Burlington International,BTV,2014,2184,0,595558,44.47277778,-73.15305556
+Vermont,Burlington,Burlington International,BTV,2015,2544,1,546905,44.47277778,-73.15305556
+Vermont,Burlington,Burlington International,BTV,2016,2164,0,573970,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,2017,0,0,6,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2017,1909,0,520403,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,2018,0,0,5,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2018,1764,0,588837,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,2019,0,0,0,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2019,1836,0,606929,44.47277778,-73.15305556
+Vermont,Burlington,Burlington International,BTV,2020,1820,0,189888,44.47277778,-73.15305556
+Vermont,Springfield,Hartness State Airport,VSF,2021,0,0,4,43.3437222,-72.5172778
+Vermont,Rutland,Rutland State,RUT,2021,0,0,17,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2021,1981,0,381728,44.47277778,-73.15305556
+Vermont,Rutland,Rutland State,RUT,2022,0,0,8,43.52944444,-72.94833333
+Vermont,Burlington,Burlington International,BTV,2022,1580,0,449380,44.47277778,-73.15305556
+Vermont,Newport,Northeast Kingdom International Airport,EFK,2022,0,0,4,44.8881756,-72.2286353

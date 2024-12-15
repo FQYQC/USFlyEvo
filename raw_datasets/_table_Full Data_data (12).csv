@@ -1,0 +1,286 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Idaho,Boise,Boise Air Terminal,BOI,1990,2771042,3891537,536494,43.56527778,-116.225
+Idaho,Idaho Falls,Fanning Field,IDA,1990,398695,309697,111430,43.51611111,-112.0647222
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,1990,48495,56337,35655,43.50416667,-114.3083333
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,1990,37237,430,9251,42.48194444,-114.4866667
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,1990,57087,14968,26774,46.37472222,-117.0144444
+Idaho,Pocatello,Pocatello Regional,PIH,1990,50841,64672,12608,42.91333333,-112.5944444
+Idaho,Bonners Ferry,Boundary County,QQL,1991,2,0,0,48.72638889,-116.2944444
+Idaho,Idaho Falls,Fanning Field,IDA,1991,337,13,109944,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,1991,4,0,146,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,1991,321,2,11483,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,1991,181,36,12889,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,1991,4388,1861,548781,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,1991,84,16,24495,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,1991,114,5,32765,46.37472222,-117.0144444
+Idaho,Jerome,Jerome County,XWF,1991,0,0,0,42.72555556,-114.4547222
+Idaho,Idaho Falls,Fanning Field,IDA,1992,355,12,110857,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,1992,11,0,0,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,1992,235,1,13714,42.48194444,-114.4866667
+Idaho,Payette,Payette Municipal,VZJ,1992,0,0,0,44.09166667,-116.9
+Idaho,Pocatello,Pocatello Regional,PIH,1992,164,60,13108,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,1992,3951,2297,610346,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,1992,104,15,27041,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,1992,140,11,39317,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,1992,0,0,0,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,1993,392,81,109725,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,1993,146,0,352,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,1993,216,4,18723,42.48194444,-114.4866667
+Idaho,Driggs,Teton Peaks,XWW,1993,1,0,0,43.7375,-111.1041667
+Idaho,Pocatello,Pocatello Regional,PIH,1993,163,50,13186,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,1993,4979,2427,752046,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,1993,140,11,28813,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,1993,1570,15,44902,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,1993,8,0,8628,47.775,-116.8177778
+Idaho,Bernard,Bernard Usfs,VWP,1993,0,0,0,44.97972222,-114.7347222
+Idaho,Idaho Falls,Fanning Field,IDA,1994,425,97,98196,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,1994,0,0,0,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,1994,271,4,15266,42.48194444,-114.4866667
+Idaho,McCall,McCall Municipal,MYL,1994,0,0,0,44.88888889,-116.1016667
+Idaho,Pocatello,Pocatello Regional,PIH,1994,215,62,15394,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,1994,10264,2260,901638,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,1994,130,6,30148,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,1994,274,12,48296,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,1994,9,0,4465,47.775,-116.8177778
+Idaho,Bonners Ferry,Boundary County,QQL,1995,1,0,0,48.72638889,-116.2944444
+Idaho,Idaho Falls,Fanning Field,IDA,1995,416,108,95948,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,1995,181,0,188,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,1995,268,0,15699,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,1995,738,58,16286,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,1995,12562,2358,1041205,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,1995,134,2,31323,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,1995,250,11,48697,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,1995,1,0,0,47.775,-116.8177778
+Idaho,Blackfoot,McCarley Field,XWL,1996,2,0,0,43.2125,-112.3458333
+Idaho,Idaho Falls,Fanning Field,IDA,1996,386,75,87530,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,1996,2,0,97,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,1996,284,0,13906,42.48194444,-114.4866667
+Idaho,McCall,McCall Municipal,MYL,1996,0,0,902,44.88888889,-116.1016667
+Idaho,Driggs,Teton Peaks,XWW,1996,1,0,0,43.7375,-111.1041667
+Idaho,Pocatello,Pocatello Regional,PIH,1996,292,56,15745,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,1996,10599,2528,1213118,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,1996,142,1,27464,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,1996,263,6,50953,46.37472222,-117.0144444
+Idaho,Grangeville,Idaho County,JZY,1996,0,0,0,45.9425,-116.1241667
+Idaho,Blackfoot,McCarley Field,XWL,1997,0,0,0,43.2125,-112.3458333
+Idaho,Idaho Falls,Fanning Field,IDA,1997,392,118,83548,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,1997,0,0,461,43.04361111,-115.8716667
+Idaho,Burley/Rupert,Burley Municipal,BYI,1997,1,0,0,42.54138889,-113.7741667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,1997,287,0,4146,42.48194444,-114.4866667
+Idaho,McCall,McCall Municipal,MYL,1997,0,0,0,44.88888889,-116.1016667
+Idaho,Driggs,Teton Peaks,XWW,1997,3,0,0,43.7375,-111.1041667
+Idaho,Pocatello,Pocatello Regional,PIH,1997,225,42,13575,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,1997,12769,3118,1176250,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,1997,179,0,19063,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,1997,306,3,49148,46.37472222,-117.0144444
+Idaho,Blackfoot,McCarley Field,XWL,1998,1,0,0,43.2125,-112.3458333
+Idaho,Idaho Falls,Fanning Field,IDA,1998,395,65,74160,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,1998,224,0,954,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,1998,299,0,4853,42.48194444,-114.4866667
+Idaho,Driggs,Teton Peaks,XWW,1998,0,0,0,43.7375,-111.1041667
+Idaho,Pocatello,Pocatello Regional,PIH,1998,203,40,16062,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,1998,13755,3116,1236471,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,1998,235,0,19328,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,1998,269,1,57797,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,1998,1,0,89,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,1999,393,0,33600,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,1999,0,0,662,43.04361111,-115.8716667
+Idaho,Burley/Rupert,Burley Municipal,BYI,1999,1,0,0,42.54138889,-113.7741667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,1999,286,0,2847,42.48194444,-114.4866667
+Idaho,Driggs,Teton Peaks,XWW,1999,2,0,0,43.7375,-111.1041667
+Idaho,Pocatello,Pocatello Regional,PIH,1999,184,62,20763,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,1999,13251,3560,1332837,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,1999,253,0,21221,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,1999,204,2,66902,46.37472222,-117.0144444
+Idaho,Idaho Falls,Fanning Field,IDA,2000,383,0,38392,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2000,0,0,232,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2000,239,1,2952,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2000,157,62,21624,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2000,14872,4306,1426122,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2000,226,0,24931,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2000,416,3,69417,46.37472222,-117.0144444
+Idaho,Idaho Falls,Fanning Field,IDA,2001,366,0,32790,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2001,0,0,597,43.04361111,-115.8716667
+Idaho,Burley/Rupert,Burley Municipal,BYI,2001,0,0,0,42.54138889,-113.7741667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2001,142,0,1189,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2001,138,38,19676,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2001,18062,2617,1329492,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2001,105,0,15008,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2001,414,2,62364,46.37472222,-117.0144444
+Idaho,Idaho Falls,Fanning Field,IDA,2002,368,0,29020,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2002,0,0,262,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2002,124,0,1716,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2002,153,14,16134,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2002,18779,445,1215536,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2002,87,0,16821,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2002,385,0,60621,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2002,0,0,84,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2003,354,2,116064,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2003,0,0,553,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2003,129,3,34204,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2003,150,8,43571,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2003,22371,148,1332006,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2003,75,0,74476,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2003,377,1,54993,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2003,1,0,0,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2004,351,0,117569,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2004,81,0,0,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2004,127,0,41829,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2004,153,0,44417,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2004,23619,100,1445649,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2004,75,0,70609,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2004,368,1,43396,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2004,0,0,28,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2005,344,0,135046,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2005,52,0,634,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2005,120,0,44352,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2005,148,0,38384,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2005,22459,165,1570436,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2005,71,0,69579,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2005,327,0,66343,46.37472222,-117.0144444
+Idaho,Idaho Falls,Fanning Field,IDA,2006,349,0,152102,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2006,0,0,792,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2006,117,0,39106,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2006,132,0,28892,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2006,22624,182,1632160,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2006,63,0,69467,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2006,356,0,66233,46.37472222,-117.0144444
+Idaho,Jerome,Jerome County,XWF,2006,0,0,0,42.72555556,-114.4547222
+Idaho,Idaho Falls,Fanning Field,IDA,2007,334,0,166437,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2007,0,0,925,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2007,122,0,33479,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2007,132,0,28379,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2007,22437,148,1675910,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2007,55,0,67143,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2007,325,1,69680,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2007,0,0,80,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2008,294,1,148437,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2008,370,0,1086,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2008,111,0,29556,42.48194444,-114.4866667
+Idaho,McCall,McCall Municipal,MYL,2008,0,0,7,44.88888889,-116.1016667
+Idaho,Pocatello,Pocatello Regional,PIH,2008,119,0,25510,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2008,20539,430,1573175,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2008,52,0,63613,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2008,269,1,64335,46.37472222,-117.0144444
+Idaho,Idaho Falls,Fanning Field,IDA,2009,327,0,138928,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2009,350,0,934,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2009,114,0,26957,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2009,118,0,21027,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2009,18755,112,1397387,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2009,49,0,49228,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2009,198,0,62180,46.37472222,-117.0144444
+Idaho,Jerome,Jerome County,XWF,2009,0,0,4,42.72555556,-114.4547222
+Idaho,Idaho Falls,Fanning Field,IDA,2010,306,0,144319,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2010,0,0,524,43.04361111,-115.8716667
+Idaho,Driggs,Driggs-Reed Memorial,ID1,2010,0,0,25,43.74194444,-111.0977778
+Idaho,Aberdeen,Aberdeen Municipal,U36,2010,0,0,1,42.92111111,-112.8811111
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2010,143,0,35514,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2010,126,0,20809,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2010,19641,4,1406570,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2010,47,0,52484,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2010,204,0,61688,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2010,0,0,1,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2011,260,0,147730,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2011,205,0,1043,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2011,134,0,38528,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2011,133,0,21551,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2011,19806,2,1393993,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2011,48,0,50799,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2011,185,0,62829,46.37472222,-117.0144444
+Idaho,Idaho Falls,Fanning Field,IDA,2012,255,0,160420,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2012,191,0,819,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2012,149,0,26023,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2012,141,0,22204,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2012,19921,20,1307278,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2012,51,0,47474,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2012,189,0,62167,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2012,0,0,0,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2013,272,0,146968,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2013,182,0,453,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2013,144,0,28302,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2013,150,0,23759,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2013,19905,58,1313315,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2013,57,0,50577,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2013,175,0,62174,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2013,0,0,4,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2014,299,0,166863,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2014,0,0,800,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2014,135,0,28637,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2014,142,0,24950,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2014,19052,98,1378328,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2014,53,0,65591,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2014,168,0,62474,46.37472222,-117.0144444
+Idaho,Idaho Falls,Fanning Field,IDA,2015,337,0,147907,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2015,163,0,620,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2015,158,0,33785,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2015,153,0,24744,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2015,19476,68,1487742,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2015,49,0,67928,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2015,158,0,66572,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2015,0,0,4,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2016,343,0,146154,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2016,204,0,682,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2016,172,0,38800,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2016,170,0,34462,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2016,17401,64,1633377,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2016,49,0,77699,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2016,193,0,72724,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2016,0,0,27,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2017,355,0,147715,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2017,41,0,376,43.04361111,-115.8716667
+Idaho,Driggs,Driggs-Reed Memorial,ID1,2017,0,0,8,43.74194444,-111.0977778
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2017,186,0,45736,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2017,127,0,40188,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2017,18698,45,1777458,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2017,50,0,86585,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2017,164,0,76727,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2017,0,0,18,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2018,309,0,137828,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2018,263,0,1165,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2018,213,0,46929,42.48194444,-114.4866667
+Idaho,Pocatello,Pocatello Regional,PIH,2018,119,0,46293,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2018,18406,159,1942604,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2018,58,0,92556,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2018,131,0,57993,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2018,0,0,51,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2019,530,0,143605,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2019,284,0,584,43.04361111,-115.8716667
+Idaho,Driggs,Driggs-Reed Memorial,ID1,2019,0,0,8,43.74194444,-111.0977778
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2019,232,0,51346,42.48194444,-114.4866667
+Idaho,McCall,McCall Municipal,MYL,2019,0,0,4,44.88888889,-116.1016667
+Idaho,Driggs,Teton Peaks,XWW,2019,0,0,7,43.7375,-111.1041667
+Idaho,Pocatello,Pocatello Regional,PIH,2019,138,0,43626,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2019,21233,188,2057482,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2019,65,0,88960,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2019,168,0,40389,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2019,0,0,14,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2020,647,0,94994,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2020,305,0,888,43.04361111,-115.8716667
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2020,308,0,23513,42.48194444,-114.4866667
+Idaho,Driggs,Teton Peaks,XWW,2020,0,0,19,43.7375,-111.1041667
+Idaho,Pocatello,Pocatello Regional,PIH,2020,133,0,19395,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2020,22295,35,991041,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2020,58,0,46377,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2020,174,0,15630,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2020,0,0,40,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2021,677,0,217859,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2021,166,0,249,43.04361111,-115.8716667
+Idaho,Caldwell,,ID4,2021,0,0,2,,
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2021,293,0,34948,42.48194444,-114.4866667
+Idaho,Sandpoint,,ID3,2021,0,0,11,,
+Idaho,Pocatello,Pocatello Regional,PIH,2021,147,0,23818,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2021,29062,51,1808630,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2021,66,0,94088,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2021,184,0,30888,46.37472222,-117.0144444
+Idaho,Jerome,Jerome County,XWF,2021,1,0,0,42.72555556,-114.4547222
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2021,0,0,142,47.775,-116.8177778
+Idaho,Idaho Falls,Fanning Field,IDA,2022,515,0,240781,43.51611111,-112.0647222
+Idaho,Mountain Home,Mountain Home AFB,MUO,2022,180,0,422,43.04361111,-115.8716667
+Idaho,Driggs,Driggs-Reed Memorial,ID1,2022,0,0,26,43.74194444,-111.0977778
+Idaho,Twin Falls,Joslin Field - Magic Valley Regional,TWF,2022,176,0,11531,42.48194444,-114.4866667
+Idaho,Driggs,Teton Peaks,XWW,2022,0,0,2,43.7375,-111.1041667
+Idaho,Pocatello,Pocatello Regional,PIH,2022,133,0,8347,42.91333333,-112.5944444
+Idaho,Boise,Boise Air Terminal,BOI,2022,18548,23,1631883,43.56527778,-116.225
+Idaho,Sun Valley/Hailey/Ketchum,Friedman Memorial,SUN,2022,49,0,80990,43.50416667,-114.3083333
+Idaho,Lewiston,Lewiston Nez Perce County,LWS,2022,137,0,32636,46.37472222,-117.0144444
+Idaho,Coeur dAlene,Coeur d'Alene - Pappy Boyington Field,COE,2022,0,0,227,47.775,-116.8177778

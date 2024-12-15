@@ -1,0 +1,286 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,1990,269353,3247598,338912,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,1990,1158336,18065903,658441,41.53388889,-93.65666667
+Iowa,Sioux City,Sioux City Gateway,SUX,1990,208520,9180,80386,42.40194444,-96.38416667
+Iowa,Burlington,Burlington Municipal,BRL,1991,0,0,10378,40.78611111,-91.12333333
+Iowa,Waterloo,Waterloo Regional,ALO,1991,35,1,17088,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,1991,10322,2658,348835,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,1991,18666,9326,690755,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,1991,53,0,7527,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,1991,50,18,55289,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,1991,0,0,189,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,1991,259,0,236,43.15694444,-93.32944444
+Iowa,Burlington,Burlington Municipal,BRL,1992,0,0,23025,40.78611111,-91.12333333
+Iowa,Ottumwa,Ottumwa Industrial,OTM,1992,0,0,0,41.10638889,-92.44916667
+Iowa,Waterloo,Waterloo Regional,ALO,1992,2,1,41353,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,1992,9819,3349,387026,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,1992,5998,10743,685036,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,1992,16,1,33152,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,1992,62,25,61056,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,1992,0,0,221,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,1992,232,0,196,43.15694444,-93.32944444
+Iowa,Forest City,Forest City Municipal,FXY,1993,1,0,0,43.23472222,-93.62416667
+Iowa,Clinton,Clinton Municipal,CWI,1993,0,0,170,41.82944444,-90.33194444
+Iowa,Burlington,Burlington Municipal,BRL,1993,0,2,22667,40.78611111,-91.12333333
+Iowa,Ottumwa,Ottumwa Industrial,OTM,1993,0,0,173,41.10638889,-92.44916667
+Iowa,Waterloo,Waterloo Regional,ALO,1993,8,2,36407,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,1993,12924,3919,310840,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,1993,7254,11775,623097,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,1993,3,3,33000,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,1993,26,1,38368,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,1993,0,0,508,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,1993,177,0,0,43.15694444,-93.32944444
+Iowa,Burlington,Burlington Municipal,BRL,1994,0,0,21320,40.78611111,-91.12333333
+Iowa,Ottumwa,Ottumwa Industrial,OTM,1994,0,0,80,41.10638889,-92.44916667
+Iowa,Waterloo,Waterloo Regional,ALO,1994,5,2,34005,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,1994,13252,4379,341720,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,1994,9519,11948,608703,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,1994,0,5,31097,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,1994,7,147,29550,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,1994,0,0,655,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,1994,190,0,271,43.15694444,-93.32944444
+Iowa,Hampton,Hampton Municipal,HPT,1994,1,0,0,42.72638889,-93.22638889
+Iowa,Burlington,Burlington Municipal,BRL,1995,15,0,13891,40.78611111,-91.12333333
+Iowa,Ottumwa,Ottumwa Industrial,OTM,1995,0,0,0,41.10638889,-92.44916667
+Iowa,Waterloo,Waterloo Regional,ALO,1995,4,3,29593,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,1995,10735,4826,328282,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,1995,12571,11203,710783,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,1995,0,4,21544,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,1995,14,284,48540,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,1995,0,0,991,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,1995,227,0,0,43.15694444,-93.32944444
+Iowa,Spencer,Spencer Municipal,SPW,1996,1,0,0,43.16388889,-95.20083333
+Iowa,Keokuk,Keokuk Municipal,EOK,1996,0,0,0,40.45833333,-91.43
+Iowa,Burlington,Burlington Municipal,BRL,1996,0,0,12382,40.78611111,-91.12333333
+Iowa,Waterloo,Waterloo Regional,ALO,1996,7,179,34108,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,1996,11846,4938,335247,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,1996,11830,10209,800348,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,1996,0,1,16285,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,1996,25,382,43371,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,1996,0,0,643,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,1996,266,0,0,43.15694444,-93.32944444
+Iowa,Council Bluffs,Council Bluffs Municipal,CBF,1996,0,0,0,41.25888889,-95.75972222
+Iowa,Burlington,Burlington Municipal,BRL,1997,0,0,11487,40.78611111,-91.12333333
+Iowa,Waterloo,Waterloo Regional,ALO,1997,3,0,37760,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,1997,26273,4587,383772,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,1997,61487,8798,704935,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,1997,2,0,25719,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,1997,31,449,73521,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,1997,0,0,3660,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,1997,293,0,6864,43.15694444,-93.32944444
+Iowa,Keokuk,Keokuk Municipal,EOK,1998,0,0,0,40.45833333,-91.43
+Iowa,Burlington,Burlington Municipal,BRL,1998,0,0,11862,40.78611111,-91.12333333
+Iowa,Waterloo,Waterloo Regional,ALO,1998,3,0,45124,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,1998,21828,3926,424898,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,1998,64682,9063,711071,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,1998,5,3,38804,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,1998,30,404,87215,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,1998,0,0,8558,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,1998,270,0,13201,43.15694444,-93.32944444
+Iowa,Burlington,Burlington Municipal,BRL,1999,0,0,10819,40.78611111,-91.12333333
+Iowa,Charles City,Charles City Municipal,CCY,1999,1,0,0,43.0725,-92.61083333
+Iowa,Waterloo,Waterloo Regional,ALO,1999,3,0,42328,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,1999,20552,3140,414926,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,1999,59912,9126,704349,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,1999,8,1,40443,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,1999,29,265,89467,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,1999,0,0,11766,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,1999,326,0,13437,43.15694444,-93.32944444
+Iowa,Keokuk,Keokuk Municipal,EOK,2000,0,0,0,40.45833333,-91.43
+Iowa,Burlington,Burlington Municipal,BRL,2000,2,0,3633,40.78611111,-91.12333333
+Iowa,Ottumwa,Ottumwa Industrial,OTM,2000,2,0,0,41.10638889,-92.44916667
+Iowa,Waterloo,Waterloo Regional,ALO,2000,31,0,29740,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2000,16129,2495,467288,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2000,53283,8870,741723,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2000,5,0,41445,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2000,30,149,71176,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2000,0,0,11676,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2000,24,0,12595,43.15694444,-93.32944444
+Iowa,Clinton,Clinton Municipal,CWI,2001,3,0,0,41.82944444,-90.33194444
+Iowa,Keokuk,Keokuk Municipal,EOK,2001,2,0,0,40.45833333,-91.43
+Iowa,Burlington,Burlington Municipal,BRL,2001,2,0,0,40.78611111,-91.12333333
+Iowa,Waterloo,Waterloo Regional,ALO,2001,2,0,22152,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2001,15394,1407,426447,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2001,85686,4647,675736,41.53388889,-93.65666667
+Iowa,Iowa City,Iowa City Municipal,IOW,2001,0,0,0,41.64027778,-91.54722222
+Iowa,Dubuque,Dubuque Regional,DBQ,2001,0,0,46406,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2001,21,85,62341,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2001,0,0,9662,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2001,0,0,14071,43.15694444,-93.32944444
+Iowa,Spencer,Spencer Municipal,SPW,2002,0,0,0,43.16388889,-95.20083333
+Iowa,Burlington,Burlington Municipal,BRL,2002,0,0,95,40.78611111,-91.12333333
+Iowa,Waterloo,Waterloo Regional,ALO,2002,3,0,24224,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2002,12503,1033,350985,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2002,54584,1803,697033,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2002,6,0,51206,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2002,1,0,48915,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2002,0,0,7655,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2002,0,0,13865,43.15694444,-93.32944444
+Iowa,Keokuk,Keokuk Municipal,EOK,2003,0,0,0,40.45833333,-91.43
+Iowa,Waterloo,Waterloo Regional,ALO,2003,13,1,25669,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2003,10088,271,377293,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2003,52794,577,759051,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2003,1,1,38572,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2003,0,0,28971,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2003,0,0,7548,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2003,0,0,14353,43.15694444,-93.32944444
+Iowa,Burlington,Burlington Municipal,BRL,2004,0,0,3,40.78611111,-91.12333333
+Iowa,Waterloo,Waterloo Regional,ALO,2004,0,1,42218,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2004,10216,47,462271,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2004,55170,283,919262,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2004,0,0,38951,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2004,0,0,41817,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2004,0,0,8532,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2004,0,0,15679,43.15694444,-93.32944444
+Iowa,Keokuk,Keokuk Municipal,EOK,2005,5,0,0,40.45833333,-91.43
+Iowa,Waterloo,Waterloo Regional,ALO,2005,5,0,40129,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2005,11885,6,501278,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2005,59263,219,882034,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2005,0,0,40764,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2005,1,0,41642,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2005,0,0,8046,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2005,0,0,13111,43.15694444,-93.32944444
+Iowa,Shenandoah,Shenandoah Municipal,IA1,2005,2,0,0,40.75166667,-95.41361111
+Iowa,Davenport,Davenport Municipal,DVN,2006,0,0,0,41.61138889,-90.58916667
+Iowa,Waterloo,Waterloo Regional,ALO,2006,7,0,33151,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2006,12222,1,515832,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2006,60710,317,925470,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2006,2,0,46884,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2006,10,0,33014,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2006,0,0,6855,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2006,3,0,12107,43.15694444,-93.32944444
+Iowa,Shenandoah,Shenandoah Municipal,IA1,2006,7,0,0,40.75166667,-95.41361111
+Iowa,Keokuk,Keokuk Municipal,EOK,2007,1,0,0,40.45833333,-91.43
+Iowa,Waterloo,Waterloo Regional,ALO,2007,1,0,28796,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2007,12043,10,529979,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2007,57966,263,923241,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2007,6,0,45828,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2007,8,0,43348,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2007,0,0,7017,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2007,2,0,11570,43.15694444,-93.32944444
+Iowa,Davenport,Davenport Municipal,DVN,2008,5,0,0,41.61138889,-90.58916667
+Iowa,Keokuk,Keokuk Municipal,EOK,2008,0,0,7,40.45833333,-91.43
+Iowa,Burlington,Burlington Municipal,BRL,2008,2,0,0,40.78611111,-91.12333333
+Iowa,Waterloo,Waterloo Regional,ALO,2008,2,0,26801,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2008,12469,33,475727,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2008,50390,1495,882697,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2008,0,0,42853,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2008,8,0,49805,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2008,0,0,6044,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2008,3,0,11653,43.15694444,-93.32944444
+Iowa,Waterloo,Waterloo Regional,ALO,2009,1,0,22234,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2009,17052,331,439167,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2009,40873,2573,817563,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2009,0,0,39348,42.41,-90.71083333
+Iowa,Ankeny,Ankeny Regional,IKV,2009,0,0,200,41.69111111,-93.56638889
+Iowa,Sioux City,Sioux City Gateway,SUX,2009,4,0,33055,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2009,1,0,5360,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2009,1,0,11070,43.15694444,-93.32944444
+Iowa,Spencer,Spencer Municipal,SPW,2010,0,0,1,43.16388889,-95.20083333
+Iowa,Waterloo,Waterloo Regional,ALO,2010,0,0,23188,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2010,14844,100,397274,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2010,40486,2968,859144,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2010,0,0,31346,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2010,0,0,24685,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2010,0,0,8202,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2010,1,1,13841,43.15694444,-93.32944444
+Iowa,Davenport,Davenport Municipal,DVN,2011,0,0,5,41.61138889,-90.58916667
+Iowa,Red Oak,Red Oak Municipal,IA3,2011,0,0,6,41.01055556,-95.26
+Iowa,Keokuk,Keokuk Municipal,EOK,2011,1,0,0,40.45833333,-91.43
+Iowa,Burlington,Burlington Municipal,BRL,2011,0,0,0,40.78611111,-91.12333333
+Iowa,Waterloo,Waterloo Regional,ALO,2011,11,0,21964,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2011,15438,327,387993,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2011,38401,4136,903183,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2011,0,0,13159,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2011,0,0,28057,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2011,12,0,10864,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2011,0,0,11589,43.15694444,-93.32944444
+Iowa,Shenandoah,Shenandoah Municipal,IA1,2011,1,0,0,40.75166667,-95.41361111
+Iowa,Davenport,Davenport Municipal,DVN,2012,0,0,0,41.61138889,-90.58916667
+Iowa,Spencer,Spencer Municipal,SPW,2012,1,0,0,43.16388889,-95.20083333
+Iowa,Waterloo,Waterloo Regional,ALO,2012,0,0,19236,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2012,18212,1037,471400,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2012,37964,4661,1017597,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2012,0,0,20624,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2012,1,0,27149,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2012,6,0,3074,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2012,0,0,2631,43.15694444,-93.32944444
+Iowa,Davenport,Davenport Municipal,DVN,2013,1,0,0,41.61138889,-90.58916667
+Iowa,Keokuk,Keokuk Municipal,EOK,2013,2,0,0,40.45833333,-91.43
+Iowa,Waterloo,Waterloo Regional,ALO,2013,5,0,20867,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2013,15667,268,513712,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2013,38735,3642,1078103,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2013,0,0,33399,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2013,0,0,25029,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2013,9,0,322,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2013,0,0,19,43.15694444,-93.32944444
+Iowa,Davenport,Davenport Municipal,DVN,2014,0,0,2,41.61138889,-90.58916667
+Iowa,Keokuk,Keokuk Municipal,EOK,2014,0,0,0,40.45833333,-91.43
+Iowa,Waterloo,Waterloo Regional,ALO,2014,37,0,23824,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2014,20791,732,546422,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2014,38702,2435,1116274,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2014,0,0,35939,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2014,0,0,31645,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2014,7,0,323,42.5525,-94.18972222
+Iowa,Clinton,Clinton Municipal,CWI,2015,0,0,10,41.82944444,-90.33194444
+Iowa,Waterloo,Waterloo Regional,ALO,2015,0,0,26821,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2015,19771,646,553620,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2015,35718,2918,1154942,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2015,0,0,38240,42.41,-90.71083333
+Iowa,Ames,Ames Municipal,AMW,2015,0,0,2,41.99416667,-93.61833333
+Iowa,Ankeny,Ankeny Regional,IKV,2015,0,0,168,41.69111111,-93.56638889
+Iowa,Sioux City,Sioux City Gateway,SUX,2015,0,0,26084,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2015,23,0,324,42.5525,-94.18972222
+Iowa,Waterloo,Waterloo Regional,ALO,2016,0,0,26903,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2016,19280,296,533051,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2016,35926,1484,1209329,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2016,0,0,37930,42.41,-90.71083333
+Iowa,Ankeny,Ankeny Regional,IKV,2016,0,0,0,41.69111111,-93.56638889
+Iowa,Sioux City,Sioux City Gateway,SUX,2016,2,0,36360,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2016,8,0,360,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2016,1,0,36,43.15694444,-93.32944444
+Iowa,Waterloo,Waterloo Regional,ALO,2017,3,0,27261,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2017,21324,119,552322,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2017,24221,623,1246750,41.53388889,-93.65666667
+Iowa,Iowa City,Iowa City Municipal,IOW,2017,0,0,7,41.64027778,-91.54722222
+Iowa,Dubuque,Dubuque Regional,DBQ,2017,0,0,40258,42.41,-90.71083333
+Iowa,Ankeny,Ankeny Regional,IKV,2017,0,0,105,41.69111111,-93.56638889
+Iowa,Sioux City,Sioux City Gateway,SUX,2017,1,0,41720,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2017,1,0,321,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2017,0,0,28,43.15694444,-93.32944444
+Iowa,Waterloo,Waterloo Regional,ALO,2018,5,0,23909,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2018,25196,87,594110,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2018,15102,87,1320700,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2018,0,0,38800,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2018,4,0,44683,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2018,0,0,324,42.5525,-94.18972222
+Iowa,Estherville,Estherville Municipal,EST,2018,24,0,0,43.4075,-94.74638889
+Iowa,Waterloo,Waterloo Regional,ALO,2019,4,0,23364,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2019,26221,9,659874,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2019,16479,0,1396335,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2019,0,0,37926,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2019,3,0,47066,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2019,0,0,328,42.5525,-94.18972222
+Iowa,Waterloo,Waterloo Regional,ALO,2020,0,0,6970,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2020,26892,16,308246,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2020,17463,0,633070,41.53388889,-93.65666667
+Iowa,Dubuque,Dubuque Regional,DBQ,2020,0,0,11503,42.41,-90.71083333
+Iowa,Sioux City,Sioux City Gateway,SUX,2020,2,0,17074,42.40194444,-96.38416667
+Iowa,Waterloo,Waterloo Regional,ALO,2021,1,0,14295,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2021,26298,15,530998,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2021,17640,0,1066725,41.53388889,-93.65666667
+Iowa,Iowa City,Iowa City Municipal,IOW,2021,0,0,2,41.64027778,-91.54722222
+Iowa,Dubuque,Dubuque Regional,DBQ,2021,1,0,18811,42.41,-90.71083333
+Iowa,Ankeny,Ankeny Regional,IKV,2021,0,0,526,41.69111111,-93.56638889
+Iowa,Sioux City,Sioux City Gateway,SUX,2021,0,0,31081,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2021,0,0,6833,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2021,0,0,7344,43.15694444,-93.32944444
+Iowa,Waterloo,Waterloo Regional,ALO,2022,2,0,12229,42.55611111,-92.39972222
+Iowa,Cedar Rapids/Iowa City,Cedar Rapids Municipal,CID,2022,16382,13,448226,41.88444444,-91.70611111
+Iowa,Des Moines,Des Moines International,DSM,2022,13539,0,1019264,41.53388889,-93.65666667
+Iowa,Iowa City,Iowa City Municipal,IOW,2022,0,0,2,41.64027778,-91.54722222
+Iowa,Dubuque,Dubuque Regional,DBQ,2022,2,0,15485,42.41,-90.71083333
+Iowa,Ames,Ames Municipal,AMW,2022,0,0,3,41.99416667,-93.61833333
+Iowa,Sioux City,Sioux City Gateway,SUX,2022,0,0,19068,42.40194444,-96.38416667
+Iowa,Fort Dodge,Fort Dodge Regional,FOD,2022,0,0,4571,42.5525,-94.18972222
+Iowa,Mason City,Mason City Municipal,MCW,2022,0,0,5235,43.15694444,-93.32944444

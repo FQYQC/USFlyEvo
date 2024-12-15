@@ -1,0 +1,544 @@
+﻿State,City,Airport,Code,Year,Freight tons,Mail tons,Passengers,Latitude,Longitude
+Pennsylvania,Erie,Erie International,ERI,1990,92222,6477,98173,42.08,-80.17861111
+Pennsylvania,Harrisburg,Harrisburg International,MDT,1990,858838,3159789,434988,40.19305556,-76.76222222
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,1990,680580,700585,349455,40.65472222,-75.43833333
+Pennsylvania,Philadelphia,Philadelphia International,PHL,1990,81170385,84040464,7162857,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,1990,29652807,48550279,7922031,40.49666667,-80.23583333
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,1990,40,0,513,40.37861111,-75.96388889
+Pennsylvania,State College,State College Air Depot,SCE,1990,7594,442,12226,40.77083333,-77.88138889
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,1990,131240,22009,178900,41.33916667,-75.72583333
+Pennsylvania,Pittsburgh,Allegheny County,AGC,1991,1,0,0,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,1991,59,0,2740,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,1991,143,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,1991,12395,1427,454776,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,1991,95504,41869,6552740,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,1991,31377,23824,7727986,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,1991,205,0,0,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,1991,126,0,0,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,1991,1732,441,340289,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,1991,893,11,145754,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,1991,580,0,13755,40.77083333,-77.88138889
+Pennsylvania,Willow Grove,Willow Grove NAS,NXX,1991,0,0,291,40.20027778,-75.14833333
+Pennsylvania,Erie,Erie International,ERI,1991,644,1,102954,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,1991,0,0,558,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,1991,0,0,0,41.80222222,-78.63944444
+Pennsylvania,Philadelphia,North Philadelphia,PNE,1992,0,0,263,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,1992,0,0,0,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,1992,0,0,2737,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,1992,216,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,1992,8740,2520,517724,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,1992,62730,49719,6968466,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,1992,30085,30778,8582058,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,1992,237,0,266,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,1992,151,0,39,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,1992,2572,661,350573,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,1992,925,25,136794,41.33916667,-75.72583333
+Pennsylvania,St. Marys,St. Marys Municipal,STQ,1992,1,0,0,41.4125,-78.5025
+Pennsylvania,State College,State College Air Depot,SCE,1992,660,0,15833,40.77083333,-77.88138889
+Pennsylvania,Erie,Erie International,ERI,1992,712,0,100141,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,1992,0,0,1443,40.27638889,-79.40277778
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,1992,3,0,0,41.17833333,-78.89888889
+Pennsylvania,Pittsburgh,Allegheny County,AGC,1993,2,0,0,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,1993,0,0,1995,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,1993,252,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,1993,8855,3176,513458,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,1993,56680,52488,7294135,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,1993,30986,27720,8383674,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,1993,241,0,160,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,1993,168,0,0,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,1993,5097,2063,325261,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,1993,1133,192,161631,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,1993,668,0,0,40.77083333,-77.88138889
+Pennsylvania,Erie,Erie International,ERI,1993,719,0,94535,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,1993,0,0,2060,40.27638889,-79.40277778
+Pennsylvania,Pittsburgh,Allegheny County,AGC,1994,0,0,105,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,1994,0,0,2250,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,1994,301,0,150,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,1994,12441,3403,521015,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,1994,73998,43959,7613203,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,1994,31177,27584,9000006,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,1994,255,0,0,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,1994,214,0,0,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,1994,6136,2221,347887,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,1994,1132,737,172556,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,1994,665,0,111,40.77083333,-77.88138889
+Pennsylvania,Reedsville,Mifflin County,RED,1994,1,0,0,40.6775,-77.62694444
+Pennsylvania,Erie,Erie International,ERI,1994,746,0,89428,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,1994,0,0,2519,40.27638889,-79.40277778
+Pennsylvania,Lancaster,Lancaster Airport,LNS,1994,1,0,0,40.12111111,-76.29972222
+Pennsylvania,Pittsburgh,Allegheny County,AGC,1995,5,0,39,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,1995,0,0,12197,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,1995,312,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,1995,12625,2921,493743,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,1995,89381,43590,8022685,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,1995,28969,28698,9210306,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,1995,287,0,6689,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,1995,266,0,0,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,1995,7799,1857,390431,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,1995,336,695,182011,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,1995,650,0,241,40.77083333,-77.88138889
+Pennsylvania,Willow Grove,Willow Grove NAS,NXX,1995,0,0,81,40.20027778,-75.14833333
+Pennsylvania,Reedsville,Mifflin County,RED,1995,2,0,0,40.6775,-77.62694444
+Pennsylvania,Erie,Erie International,ERI,1995,741,0,91017,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,1995,1,0,11872,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,1995,0,0,7225,41.80222222,-78.63944444
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,1995,1,0,10230,41.17833333,-78.89888889
+Pennsylvania,Franklin/Oil City,Venango Regional,FKL,1995,0,0,3894,41.37777778,-79.86027778
+Pennsylvania,Lancaster,Lancaster Airport,LNS,1995,1,0,5118,40.12111111,-76.29972222
+Pennsylvania,Pittsburgh,Allegheny County,AGC,1996,0,0,65,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,1996,0,0,22873,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,1996,347,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,1996,14681,2685,457839,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,1996,97969,35620,8571888,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,1996,32060,29193,9348286,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,1996,316,0,13141,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,1996,240,0,0,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,1996,4513,2117,382375,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,1996,294,539,197592,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,1996,761,0,222,40.77083333,-77.88138889
+Pennsylvania,Willow Grove,Willow Grove NAS,NXX,1996,0,0,0,40.20027778,-75.14833333
+Pennsylvania,Erie,Erie International,ERI,1996,628,0,90769,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,1996,3,0,24471,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,1996,1,0,12543,41.80222222,-78.63944444
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,1996,0,0,17801,41.17833333,-78.89888889
+Pennsylvania,Franklin/Oil City,Venango Regional,FKL,1996,0,0,5963,41.37777778,-79.86027778
+Pennsylvania,Lancaster,Lancaster Airport,LNS,1996,0,0,8615,40.12111111,-76.29972222
+Pennsylvania,Pittsburgh,Allegheny County,AGC,1997,0,0,70,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,1997,5,0,13564,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,1997,351,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,1997,23459,2983,572625,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,1997,251673,42652,9716289,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,1997,54079,30511,9230914,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,1997,411,0,8805,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,1997,342,0,0,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,1997,4397,2321,390891,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,1997,271,249,158491,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,1997,776,0,10935,40.77083333,-77.88138889
+Pennsylvania,Erie,Erie International,ERI,1997,543,1,122913,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,1997,0,0,18599,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,1997,0,0,6796,41.80222222,-78.63944444
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,1997,0,0,9525,41.17833333,-78.89888889
+Pennsylvania,Franklin/Oil City,Venango Regional,FKL,1997,0,0,4277,41.37777778,-79.86027778
+Pennsylvania,Lancaster,Lancaster Airport,LNS,1997,0,0,5289,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,1998,0,0,0,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,1998,0,0,201,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,1998,1,0,2027,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,1998,13,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,1998,22631,1589,557356,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,1998,286664,40403,10286164,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,1998,43140,26987,8968613,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,1998,437,0,620,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,1998,309,0,0,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,1998,5109,2038,369600,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,1998,255,278,139192,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,1998,781,0,17305,40.77083333,-77.88138889
+Pennsylvania,Erie,Erie International,ERI,1998,248,0,147335,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,1998,0,0,5367,40.27638889,-79.40277778
+Pennsylvania,Philadelphia,North Philadelphia,PNE,1999,2,0,0,40.08027778,-75.0125
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,1999,5,0,1814,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,1999,12,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,1999,25667,848,516662,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,1999,276880,36914,10346557,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,1999,44099,21068,8021249,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,1999,324,0,117,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,1999,277,0,345,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,1999,7410,1274,355226,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,1999,215,172,113609,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,1999,866,0,21706,40.77083333,-77.88138889
+Pennsylvania,Willow Grove,Willow Grove NAS,NXX,1999,0,0,160,40.20027778,-75.14833333
+Pennsylvania,Erie,Erie International,ERI,1999,229,1,148019,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,1999,1,0,5149,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,1999,0,0,36,41.80222222,-78.63944444
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,1999,2,0,0,41.17833333,-78.89888889
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2000,0,0,127,40.08027778,-75.0125
+Pennsylvania,Philipsburg,Mid State,PSB,2000,0,0,140,40.88444444,-78.08722222
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2000,0,0,161,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2000,6,0,2453,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2000,11,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2000,26675,881,489547,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2000,309298,32995,10976843,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2000,46434,19791,8653821,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2000,296,0,33,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2000,275,0,639,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2000,9903,586,409150,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2000,574,168,127758,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2000,777,1,21658,40.77083333,-77.88138889
+Pennsylvania,Erie,Erie International,ERI,2000,260,2,135248,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2000,0,0,7300,40.27638889,-79.40277778
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,2000,1,0,0,41.17833333,-78.89888889
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2001,0,0,41,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2001,0,0,2250,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2001,2,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2001,26519,1937,442892,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2001,385136,18363,10386872,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2001,73655,13225,8710821,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2001,243,0,120,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2001,285,0,584,40.31666667,-78.83444444
+Pennsylvania,Indiana,Indiana County/Jimmy Stewart Field,IDI,2001,0,0,0,40.63166667,-79.10277778
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2001,10201,429,407103,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2001,495,173,116236,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2001,404,0,20037,40.77083333,-77.88138889
+Pennsylvania,Erie,Erie International,ERI,2001,132,1,120619,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2001,1,0,6332,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2001,0,0,35,41.80222222,-78.63944444
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,2001,4,0,0,41.17833333,-78.89888889
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2001,0,0,0,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2002,10,0,0,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2002,0,0,87,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2002,2,0,3455,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2002,2,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2002,34547,349,497389,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2002,287692,12765,10328917,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2002,51452,5925,7528583,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2002,216,0,0,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2002,220,0,243,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2002,10735,297,271389,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2002,861,153,126737,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2002,370,0,24062,40.77083333,-77.88138889
+Pennsylvania,Erie,Erie International,ERI,2002,13,0,29597,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2002,0,0,6235,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2002,1,0,0,41.80222222,-78.63944444
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,2002,1,0,0,41.17833333,-78.89888889
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2002,0,0,0,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2003,1,0,0,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2003,0,0,15,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2003,2,3,3664,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2003,4,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2003,24563,339,523692,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Penns Landing Seaplane Base,WKV,2003,0,0,0,39.96527778,-75.1375
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2003,293778,12577,10189204,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2003,45089,4244,5854102,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2003,217,0,108,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2003,244,0,113,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2003,8326,59,396411,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2003,1168,4,117097,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2003,600,0,65814,40.77083333,-77.88138889
+Pennsylvania,Willow Grove,Willow Grove NAS,NXX,2003,0,0,66,40.20027778,-75.14833333
+Pennsylvania,Erie,Erie International,ERI,2003,332,0,38540,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2003,0,0,6117,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2003,0,0,25,41.80222222,-78.63944444
+Pennsylvania,Franklin/Oil City,Venango Regional,FKL,2003,0,0,0,41.37777778,-79.86027778
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2004,0,0,0,40.08027778,-75.0125
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2004,36,1,2303,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2004,1,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2004,24190,24,564704,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2004,313759,12761,12565449,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2004,43452,2698,5792713,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2004,242,0,2925,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2004,294,0,317,40.31666667,-78.83444444
+Pennsylvania,Meadville,Port Meadville,MEJ,2004,0,0,0,41.62666667,-80.21472222
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2004,7987,0,426667,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2004,1195,1,152511,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2004,769,0,72449,40.77083333,-77.88138889
+Pennsylvania,Willow Grove,Willow Grove NAS,NXX,2004,0,0,232,40.20027778,-75.14833333
+Pennsylvania,Erie,Erie International,ERI,2004,143,0,124963,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2004,0,0,7377,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2004,2,0,0,41.80222222,-78.63944444
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,2004,3,0,0,41.17833333,-78.89888889
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2004,0,0,102,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2005,4,0,0,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2005,0,0,0,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2005,0,0,2435,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2005,3,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2005,24944,0,492582,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2005,318445,11781,14157925,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2005,40284,1351,4651032,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2005,238,0,0,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2005,272,0,340,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2005,13836,0,349065,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2005,133,0,168847,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2005,826,0,88052,40.77083333,-77.88138889
+Pennsylvania,Willow Grove,Willow Grove NAS,NXX,2005,0,0,43,40.20027778,-75.14833333
+Pennsylvania,Erie,Erie International,ERI,2005,19,0,155731,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2005,0,0,16284,40.27638889,-79.40277778
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2006,4,0,2227,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2006,0,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2006,26518,0,470658,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2006,310492,12124,14213456,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2006,40480,1349,4504866,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2006,236,0,121,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2006,234,0,334,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2006,10909,0,315286,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2006,172,0,162370,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2006,876,0,76706,40.77083333,-77.88138889
+Pennsylvania,Willow Grove,Willow Grove NAS,NXX,2006,0,0,118,40.20027778,-75.14833333
+Pennsylvania,Erie,Erie International,ERI,2006,48,0,124520,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2006,0,0,18072,40.27638889,-79.40277778
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2006,0,0,136,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2007,0,0,25,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2007,1,0,21,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2007,0,0,2116,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2007,0,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2007,27704,3,527083,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2007,308930,9536,14506003,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2007,39415,603,4555020,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2007,225,0,0,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2007,209,0,119,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2007,10787,1,343780,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2007,123,1,177849,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2007,806,0,54303,40.77083333,-77.88138889
+Pennsylvania,Willow Grove,Willow Grove NAS,NXX,2007,0,0,140,40.20027778,-75.14833333
+Pennsylvania,Coatesville,Chester County G. O. Carlson,CTH,2007,0,0,8,39.97888889,-75.86583333
+Pennsylvania,Erie,Erie International,ERI,2007,6,0,113105,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2007,2,0,17511,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2007,0,0,34,41.80222222,-78.63944444
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2007,0,0,866,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2008,0,0,22,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2008,0,0,5,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2008,0,0,2125,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2008,0,0,7993,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2008,25685,3,482526,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2008,278513,15211,14386890,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2008,37923,935,3973039,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2008,221,0,201,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2008,207,0,5629,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2008,10054,0,324582,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2008,104,0,168688,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2008,700,0,86101,40.77083333,-77.88138889
+Pennsylvania,Willow Grove,Willow Grove NAS,NXX,2008,0,0,381,40.20027778,-75.14833333
+Pennsylvania,Erie,Erie International,ERI,2008,2,0,88226,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2008,0,0,18898,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2008,0,0,3210,41.80222222,-78.63944444
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2008,0,0,1441,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2009,0,0,2,40.08027778,-75.0125
+Pennsylvania,Philipsburg,Mid State,PSB,2009,1,0,0,40.88444444,-78.08722222
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2009,1,0,0,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2009,0,0,1561,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2009,1,0,6427,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2009,24982,0,447119,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2009,243670,10308,13803523,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2009,33978,656,3749643,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2009,253,0,74,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2009,97,0,7956,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2009,6854,0,325191,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2009,127,0,157909,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2009,637,0,106540,40.77083333,-77.88138889
+Pennsylvania,Willow Grove,Willow Grove NAS,NXX,2009,0,0,518,40.20027778,-75.14833333
+Pennsylvania,Erie,Erie International,ERI,2009,0,0,70188,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2009,1,0,10532,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2009,0,0,56,41.80222222,-78.63944444
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2009,0,0,623,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2010,6,0,24,40.08027778,-75.0125
+Pennsylvania,Philipsburg,Mid State,PSB,2010,1,0,0,40.88444444,-78.08722222
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2010,1,0,1671,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2010,0,0,4295,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2010,29634,2,418551,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2010,232227,14495,13671434,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2010,36135,753,3803651,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2010,259,0,0,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2010,0,0,8451,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2010,7196,0,375672,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2010,135,0,164720,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2010,552,0,112664,40.77083333,-77.88138889
+Pennsylvania,Willow Grove,Willow Grove NAS,NXX,2010,0,0,327,40.20027778,-75.14833333
+Pennsylvania,Erie,Erie International,ERI,2010,0,0,59267,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2010,0,0,3508,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2010,0,0,56,41.80222222,-78.63944444
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,2010,5,0,0,41.17833333,-78.89888889
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2010,0,0,538,40.12111111,-76.29972222
+Pennsylvania,Harrisburg,Capital City,HAR,2011,0,0,0,40.21611111,-76.85222222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2011,1,0,0,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2011,8,0,0,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2011,10,0,1487,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2011,1,0,4104,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2011,30800,2,452966,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2011,226996,15940,13704452,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2011,36439,627,3833694,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2011,251,0,31,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2011,0,0,7956,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2011,9553,0,397902,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2011,144,0,185389,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2011,725,0,123851,40.77083333,-77.88138889
+Pennsylvania,Erie,Erie International,ERI,2011,1,0,51329,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2011,0,0,35094,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2011,0,0,101,41.80222222,-78.63944444
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,2011,8,0,0,41.17833333,-78.89888889
+Pennsylvania,West Chester,Brandywine,PA5,2011,0,0,4,39.99,-75.58194444
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2011,0,0,733,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2012,1,0,0,40.08027778,-75.0125
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2012,0,0,1525,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2012,1,0,1722,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2012,28552,0,455611,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2012,205312,17725,13369205,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2012,36220,600,3708467,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2012,248,0,0,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2012,0,0,3908,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2012,8554,0,315378,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2012,112,0,154927,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2012,616,0,91130,40.77083333,-77.88138889
+Pennsylvania,Erie,Erie International,ERI,2012,0,0,45228,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2012,0,0,77564,40.27638889,-79.40277778
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2012,0,0,545,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2013,0,0,5,40.08027778,-75.0125
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2013,0,0,1336,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2013,1,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2013,28002,1,456299,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2013,208155,16064,13657814,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2013,37097,490,3672580,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2013,228,0,77,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2013,0,0,193,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2013,8602,0,251304,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2013,109,0,154145,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2013,673,0,66280,40.77083333,-77.88138889
+Pennsylvania,Erie,Erie International,ERI,2013,1,0,44925,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2013,0,0,125086,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2013,7,0,67,41.80222222,-78.63944444
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,2013,4,0,0,41.17833333,-78.89888889
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2013,0,0,415,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2014,5,0,2,40.08027778,-75.0125
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2014,0,0,1432,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2014,1,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2014,26902,0,490958,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2014,219416,15292,13703167,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2014,38074,601,3707102,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2014,269,0,0,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2014,0,0,205,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2014,8273,4,250519,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2014,142,0,173369,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2014,643,0,88397,40.77083333,-77.88138889
+Pennsylvania,Coatesville,Chester County G. O. Carlson,CTH,2014,0,0,0,39.97888889,-75.86583333
+Pennsylvania,Erie,Erie International,ERI,2014,1,0,56588,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2014,8,0,125905,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2014,0,0,31,41.80222222,-78.63944444
+Pennsylvania,Franklin/Oil City,Venango Regional,FKL,2014,0,0,2,41.37777778,-79.86027778
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2014,0,0,471,40.12111111,-76.29972222
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2015,1,0,2,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2015,3,0,1591,40.37861111,-75.96388889
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2015,30462,0,459427,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2015,216944,12141,14078382,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2015,38368,1111,3762662,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2015,222,0,0,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2015,0,0,51,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2015,12679,0,293071,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2015,88,0,167678,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2015,645,0,93956,40.77083333,-77.88138889
+Pennsylvania,Erie,Erie International,ERI,2015,0,1,67866,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2015,5,0,180699,40.27638889,-79.40277778
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2016,0,0,13,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2016,0,0,1468,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2016,2,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2016,30901,1,461596,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2016,221324,12915,13433589,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2016,40500,980,3882922,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2016,187,0,0,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2016,0,0,121,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2016,31639,1,291017,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2016,95,0,176057,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2016,595,0,86993,40.77083333,-77.88138889
+Pennsylvania,Coatesville,Chester County G. O. Carlson,CTH,2016,0,0,1,39.97888889,-75.86583333
+Pennsylvania,Erie,Erie International,ERI,2016,0,0,70002,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2016,1,0,145582,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2016,0,0,29,41.80222222,-78.63944444
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,2016,1,0,0,41.17833333,-78.89888889
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2016,0,0,353,40.12111111,-76.29972222
+Pennsylvania,Harrisburg,Capital City,HAR,2017,0,0,6,40.21611111,-76.85222222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2017,0,0,12,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2017,1,0,32,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2017,0,0,1378,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2017,3,0,2,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2017,29907,6,478921,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2017,228905,12540,12950300,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2017,39352,1235,4178516,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2017,64,0,121,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2017,1,0,0,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2017,48885,0,308008,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2017,86,0,211612,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2017,604,0,89741,40.77083333,-77.88138889
+Pennsylvania,Coatesville,Chester County G. O. Carlson,CTH,2017,0,0,9,39.97888889,-75.86583333
+Pennsylvania,Erie,Erie International,ERI,2017,9,0,68019,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2017,1,0,150632,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2017,0,0,25,41.80222222,-78.63944444
+Pennsylvania,DuBois,DuBois Jefferson County,DUJ,2017,2,0,0,41.17833333,-78.89888889
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2017,0,0,168,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2018,1,0,6,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2018,2,0,9,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2018,0,0,1582,40.37861111,-75.96388889
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2018,32302,16,519541,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Penns Landing Seaplane Base,WKV,2018,0,0,60,39.96527778,-75.1375
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2018,257291,10631,13477168,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2018,40979,1377,4505570,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2018,82,0,112,41.24222222,-76.92055556
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2018,52775,0,344981,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2018,112,0,205812,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2018,615,0,108502,40.77083333,-77.88138889
+Pennsylvania,Selinsgrove,Penn Valley,SEG,2018,0,0,2,40.82055556,-76.86388889
+Pennsylvania,Coatesville,Chester County G. O. Carlson,CTH,2018,0,0,12,39.97888889,-75.86583333
+Pennsylvania,Erie,Erie International,ERI,2018,0,0,69288,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2018,0,0,150999,40.27638889,-79.40277778
+Pennsylvania,West Chester,Brandywine,PA5,2018,0,0,0,39.99,-75.58194444
+Pennsylvania,Philadelphia,Penns Landing Heliport,P2A,2018,0,0,69,39.93722222,-75.14138889
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2018,0,0,262,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2019,0,0,6,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2019,0,0,13,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2019,0,0,1461,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2019,1,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2019,32173,6,599318,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Penns Landing Seaplane Base,WKV,2019,0,0,52,39.96527778,-75.1375
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2019,287035,8556,13987338,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2019,39836,1295,4601106,40.49666667,-80.23583333
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2019,76,0,145,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2019,0,0,87,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2019,48667,0,395096,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2019,57,0,237543,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2019,626,0,126638,40.77083333,-77.88138889
+Pennsylvania,Coatesville,Chester County G. O. Carlson,CTH,2019,0,0,6,39.97888889,-75.86583333
+Pennsylvania,Erie,Erie International,ERI,2019,0,0,69649,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2019,0,0,156316,40.27638889,-79.40277778
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2019,0,0,122,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2020,0,0,7,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2020,0,0,19,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2020,0,0,138,40.37861111,-75.96388889
+Pennsylvania,Altoona,Altoona-Blair County,AOO,2020,1,0,0,40.29722222,-78.32
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2020,32859,0,252656,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Penns Landing Seaplane Base,WKV,2020,0,0,2,39.96527778,-75.1375
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2020,286372,10300,5278917,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2020,39699,1122,1729744,40.49666667,-80.23583333
+Pennsylvania,Collegeville,,PA8,2020,0,0,2,,
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2020,46,0,1487,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2020,0,0,281,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2020,50885,0,183363,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2020,1,0,102313,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2020,571,0,49097,40.77083333,-77.88138889
+Pennsylvania,York,York Airport,THV,2020,0,0,6,39.9169444,-76.8730556
+Pennsylvania,Erie,Erie International,ERI,2020,0,0,28548,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2020,0,0,62466,40.27638889,-79.40277778
+Pennsylvania,West Chester,Brandywine,PA5,2020,0,0,0,39.99,-75.58194444
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2021,0,0,70,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2021,15,0,4,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2021,1,0,502,40.37861111,-75.96388889
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2021,36570,5,512177,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Penns Landing Seaplane Base,WKV,2021,0,0,34,39.96527778,-75.1375
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2021,296955,9252,9727291,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2021,46611,4720,3048545,40.49666667,-80.23583333
+Pennsylvania,Collegeville,,PA8,2021,0,0,11,,
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2021,48,0,4181,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2021,0,0,8519,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2021,57454,0,355825,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2021,0,0,157467,41.33916667,-75.72583333
+Pennsylvania,State College,State College Air Depot,SCE,2021,600,0,122380,40.77083333,-77.88138889
+Pennsylvania,Butler,Butler Regional Airport,BTP,2021,0,0,10,40.7765833,-79.9510833
+Pennsylvania,Coatesville,Chester County G. O. Carlson,CTH,2021,0,0,9,39.97888889,-75.86583333
+Pennsylvania,Erie,Erie International,ERI,2021,3,0,69158,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2021,4,0,124497,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2021,0,0,54,41.80222222,-78.63944444
+Pennsylvania,Franklin/Oil City,Venango Regional,FKL,2021,0,0,4,41.37777778,-79.86027778
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2021,0,0,21,40.12111111,-76.29972222
+Pennsylvania,Philadelphia,North Philadelphia,PNE,2022,0,0,11,40.08027778,-75.0125
+Pennsylvania,Pittsburgh,Allegheny County,AGC,2022,0,0,11,40.35472222,-79.93
+Pennsylvania,Reading,Reading Regional/Carl A Spaatz Field,RDG,2022,2,0,608,40.37861111,-75.96388889
+Pennsylvania,Harrisburg,Harrisburg International,MDT,2022,23399,4,464378,40.19305556,-76.76222222
+Pennsylvania,Philadelphia,Penns Landing Seaplane Base,WKV,2022,0,0,8,39.96527778,-75.1375
+Pennsylvania,Philadelphia,Philadelphia International,PHL,2022,211372,6067,9002652,39.86805556,-75.24861111
+Pennsylvania,Pittsburgh,Pittsburgh International,PIT,2022,32489,3008,2853482,40.49666667,-80.23583333
+Pennsylvania,Collegeville,,PA8,2022,0,0,4,,
+Pennsylvania,Williamsport,Williamsport Regional,IPT,2022,18,0,174,41.24222222,-76.92055556
+Pennsylvania,Johnstown,Johnstown Cambria County,JST,2022,0,0,5641,40.31666667,-78.83444444
+Pennsylvania,Allentown/Bethlehem/Easton,Lehigh Valley International,ABE,2022,38084,0,322455,40.65472222,-75.43833333
+Pennsylvania,Scranton/Wilkes-Barre,Wilkes Barre Scranton International,AVP,2022,0,0,141387,41.33916667,-75.72583333
+Pennsylvania,Washington,Washington County Airport,WSG,2022,0,0,0,40.1364722,-80.2901944
+Pennsylvania,State College,State College Air Depot,SCE,2022,441,0,79617,40.77083333,-77.88138889
+Pennsylvania,Coatesville,Chester County G. O. Carlson,CTH,2022,0,0,8,39.97888889,-75.86583333
+Pennsylvania,Erie,Erie International,ERI,2022,0,0,45821,42.08,-80.17861111
+Pennsylvania,Latrobe,Latrobe Airport,LBE,2022,0,0,101551,40.27638889,-79.40277778
+Pennsylvania,Bradford,Bradford Regional,BFD,2022,0,0,79,41.80222222,-78.63944444
+Pennsylvania,Lancaster,Lancaster Airport,LNS,2022,3,0,0,40.12111111,-76.29972222
