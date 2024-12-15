@@ -82,6 +82,12 @@ class Visualizer:
         )
         return fig
 
+    def save_fig(
+        self, fig: go.Figure, path: str, width=1000, height=600, scale=3, **kwargs
+    ):
+        # Save the figure to png
+        fig.write_image(path, width=width, height=height, scale=scale, format="png", **kwargs)
+
 
 if __name__ == "__main__":
     from dataset.dataset import DataConfig, Dataset
@@ -93,7 +99,17 @@ if __name__ == "__main__":
     dataset = Dataset(dataconfig)
 
     visualizer = Visualizer(dataset)
-    fig = visualizer.visualize_state(
-        filters={"Year": 2000}, item="Mail tons"
-    )  # filters={"Code": ["LAX", "JFK", "SJC", "SFO", "SEA"]})
-    fig.show()
+    for item in ["Passengers", "Freight tons", "Mail tons"]:
+        # fig = visualizer.visualize_airport(item=item)
+        # visualizer.save_fig(
+        #     fig, f"plots/airport_{item}.png", width=2000, height=1200, scale=3
+        # )
+
+        fig = visualizer.visualize_state(item=item)
+        visualizer.save_fig(
+            fig, f"plots/state_{item}.png", width=2000, height=1200, scale=3
+        )
+
+
+        # filters={"Code": ["LAX", "JFK", "SJC", "SFO", "SEA"]})
+    # fig.show()

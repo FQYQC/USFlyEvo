@@ -9,6 +9,7 @@ class Regression:
     def fit(self, x, y):
         result = minimize(self.model.objective, self.model.params, args=(x, y))
         self.model.params = result.x
+        return self.model.params
 
 
         
